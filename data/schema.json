@@ -22276,7 +22276,18 @@
                     "answer": "a",
                     "index": 6,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-05-16 11:01:39",
+                            "name": "JORGE ESTRADA ",
+                            "email": "digeorge.estrada@gmail.com",
+                            "year": 2023,
+                            "index": 6,
+                            "explication": "TASA DE MORTALIDAD INFANTIL = Numero de muertes entre nacimiento y 1 a\u00f1o de edad por 1000 (numerador) / Numero de nacidos vivos",
+                            "bibliography": "FIRST AID USMLE STEP 2 CK (EPIDEMIOLOGY) 10TH EDITION PAG 569",
+                            "id": "59d07fba-71c1-402b-9e98-534689f02d29"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Indicadores: Cualquier indicador/tasa que se te ocurra (tasa de mortalidad, natalidad, a\u00f1os de vida potencialmente perdidos, a\u00f1os de vida ajustados por discapacidad, etc) como tambien definiciones (tasa, indicador, indice, razon, porcentaje, prevalencia, incidencia etc.)",
