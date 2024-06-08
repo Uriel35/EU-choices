@@ -212,6 +212,7 @@
     width: 100%;
     justify-content: space-between;
     height: min-content;
+    gap: 2rem;
 }
 
 .pdf-and-origin-ctn a {
@@ -227,6 +228,7 @@
 #origin-text {
     font-weight: 600;
     font-size: calc(var(--font-size) * 1.2);
+    text-align: end;
 }
 
 .discussions-ctn {
