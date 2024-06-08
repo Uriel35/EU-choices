@@ -32,6 +32,9 @@ defineModal(document.getElementById('show-circle-modal-button'), document.getEle
 defineModal(document.getElementById('report-question-button'), document.getElementById('report-question-modal'), document.getElementById('report-question-modal-ctn'), document.getElementById('close-report-question-modal'))
 
 
+
+
+//  *************** DATA ANALYTICS EVENTS *****************
 function addAnaltyticEvent(tgt, name) {
   tgt.addEventListener("click", () => {
     console.log("Enviado a Data Analytics")
@@ -41,26 +44,28 @@ function addAnaltyticEvent(tgt, name) {
         });
   })
 }
-
 let eu_stats_link = document.getElementById("eu-stats")
 let applicants_link = document.getElementById("applicants-stats")
+let hsmlpInstagramButton = document.getElementById("hsmlp-instagram-button")
+let openHsmlpModalButton = document.getElementById("hsmlp-button")
 addAnaltyticEvent(eu_stats_link, "EU stats")
 addAnaltyticEvent(applicants_link, "Applicants stats")
+addAnaltyticEvent(hsmlpInstagramButton, "HSMLP Instagram")
+addAnaltyticEvent(openHsmlpModalButton, "HSMLP modal")
 
-let openHsmlpModalButton = document.getElementById("hsmlp-button")
-openHsmlpModalButton.addEventListener("click", () => {
-  gtag('event', 'HSMLP modal', {
-        'event_category': 'HSMLP modal',
-        'event_label': 'HSMLP modal'
-      });
-})
-let hsmlpInstagramButton = document.getElementById("hsmlp-instagram-button")
-hsmlpInstagramButton.addEventListener("click", () => {
-  gtag('event', 'HSMLP Instagram', {
-        'event_category': 'HSMLP Instagram',
-        'event_label': 'HSMLP Instagram'
-      });
-})
+// openHsmlpModalButton.addEventListener("click", () => {
+//   gtag('event', 'HSMLP modal', {
+//         'event_category': 'HSMLP modal',
+//         'event_label': 'HSMLP modal'
+//       });
+// })
+
+// hsmlpInstagramButton.addEventListener("click", () => {
+//   gtag('event', 'HSMLP Instagram', {
+//         'event_category': 'HSMLP Instagram',
+//         'event_label': 'HSMLP Instagram'
+//       });
+// })
 
 const hsmlpCtn = document.getElementById("hsmlp-button")
 function vibrate(element){
