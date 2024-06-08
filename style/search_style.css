@@ -1,22 +1,65 @@
 @import './general_style.css';
 
+
+/* ------------- HSMLP ---------------- */
+.hsmlp-ctn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #ccc;
+  width: 20%;
+  height: var(--header-heigth);
+  padding: 1rem;
+  border-radius: 10px;
+  gap: .7rem;
+  font-size: calc(var(--font-size) * 0.8);
+  cursor: pointer;
+  z-index: 100;
+  background-color: var(--button-background);
+  border: 2px solid #ddd;
+  color: #ddd;
+}
+
+.hsmlp-ctn:hover {
+  box-shadow: 0 0 8px 1px #ddd;
+}
+
+.hsmlp_logo {
+  border-radius: 7px;
+  padding: .2rem;
+  flex-basis: 40%;
+}
+
+.hsmlp-ctn div img {
+  max-width: 100%;
+}
+
+.hsmlp-ctn h3 span {
+  color: var(--icon-button-fg);
+}
+
+
 /* ------------- HEADER ---------------- */
 header {
-  background-color: #ddd;
-  color: black;
   width: max-content;
   height: var(--header-heigth);
   position: absolute;
   left: 50%;
   transform: translate(-50%);
   display: flex;
-  padding-inline: 1rem;
   z-index: 100;
-  border-radius: 10px;
+  width: 100%;
 }
 
 .header-container {
-  width: 100%;
+  padding-inline: 1rem;
+  border-radius: 10px;
+  background-color: #ddd;
+  color: black;
+  width: max-content;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -36,21 +79,15 @@ header button {
   box-shadow: none;
   background-color: inherit;
   transition: 0.5s;
-  color: transparent; 
+  color: transparent;
 }
 
 header button i {
-  transition: .5s;
   background-color: #222;
-  /* color: var(--nav-button-bg); */
   color: var(--icon-button-fg);
   padding: 1rem;
   border-radius: 50%;
-  font-size: calc(var(--font-size) * 2);
-}
-
-header button i:hover {
-  transform: scale(1.2);
+  font-size: calc(var(--font-size) * 2) !important;
 }
 
 header button i span {
@@ -69,7 +106,6 @@ header button i:hover .tooltip {
   width: max-content;
   padding: 4px;
   border-radius: 4px;
-  font-size: .7rem;
   transform: none;
 }
 
@@ -439,6 +475,28 @@ input:checked + .slider::before {
   .footer-buttons-ctn {
     flex-direction: row;
     gap: 1rem;
+  }
+
+  .hsmlp-ctn {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    border: none;
+    width: 20%;
+    height: max-content;
+    overflow: hidden;
+    margin: auto;
+  }
+  .hsmlp-ctn .hsmlp_logo {
+    padding: 0;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .hsmlp-ctn .hsmlp_logo img {
+  }
+  .hsmlp-ctn h3 {
+    display: none;
   }
 
 }

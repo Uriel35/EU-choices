@@ -9,7 +9,6 @@
     <link rel="stylesheet" type="text/css" href="style/exam_style.css">
     <link rel="stylesheet" type="text/css" href="style/modal_style.css">
     <link rel="stylesheet" type="text/css" href="style/footer_style.css">
-
     <link rel="icon" href="logo/eu-choice_logo_sin_letra_fondo_blanco.png" type="image/png">
     <script src="https://kit.fontawesome.com/c7ec15ff2e.js" crossorigin="anonymous"></script>
 
@@ -27,15 +26,21 @@
     <main>
         <header>
             <div class="header-container">
-                <button id="readme-button"><i class="fa fa-file-alt">
+                <button id="readme-button"><i class="fa fa-file-alt icon-button">
                         <span class="tooltip">Leeme</span>
                 </i></button>
                 <img src="logo/eu-choice_logo.png" alt="">
                 <button id="statistics-button">
-                    <i class="fa fa-chart-line">
+                    <i class="fa fa-chart-line icon-button">
                         <span class="tooltip">Estadisticas</span>
                     </i>
                 </button>
+            </div>
+            <div class="hsmlp-ctn" id="hsmlp-button">
+                <div class="hsmlp_logo">
+                    <img src="logo/hsmlp_cm.png" alt="">
+                </div>
+                <h3>Hace clinica medica en <br><span>Hospital San Martin de La Plata </span> </h3>
             </div>
         </header>
         <div class="form-ctn">
@@ -197,6 +202,44 @@
                 </div>
             </div>
         </div>
+
+        <div id="hsmlp-modal" class="modal">
+            <div class="modal-ctn" id="hsmlp-ctn">
+                <h2 class="modal-title">Conoce nuestro servicio</h2>
+                <div class="hsmlp-pages-ctn">
+                    <div class="page img" id="hsmlp-logo-modal-ctn">
+                        <img src="logo/hsmlp_cm.png" alt="">
+                    </div>
+                    <div class="page checks">
+                        <ul>
+                            <li><i class="fa fa-check"></i><p>Hospital referente de provincia de Buenos Aires</p></li>
+                            <li><i class="fa fa-check"></i><p>Contamos con curso superior de clinica medica de la UBA</p></li>
+                            <li><i class="fa fa-check"></i><p>Mas de 60 residentes en el servicio de clinica medica</p></li>
+                            <li><i class="fa fa-check"></i><p>Excelente ambiente laboral</p></li>
+                            <li><i class="fa fa-check"></i><p>Todo tipo de imagenes (Resonancia, tomografia, ecografias)</p></li>
+                            <li><i class="fa fa-check"></i><p>Muy academico, se ve todo tipo de pacientes</p></li>
+                            <li><i class="fa fa-check"></i><p>Hospital con todo tipo de servicios (excepto pediatria)</p></li>
+                            <li><i class="fa fa-check"></i><p>Servicio informatizado (historia clinica, laboratorio, bacteriologia)</p></li>
+                        </ul>
+                    </div>
+                    <div class="page links" id="hsmlp-link-ctn">
+                        <a href="https://www.instagram.com/residenciaclinicahsm/" target="_blank" id="hsmlp-instagram-button">
+                            <i class="fa fa-instagram"></i>
+                            <p>#residenciaclinicahsm</p>
+                        </a>
+                    </div>
+                    <div class="page recomendation">
+                        <h4>
+                            Hola, soy <span>Uriel Espada, creador de esta pagina.</span><br>
+                            Estoy haciendo mi residencia de infectologia, actualmente cursando mi primer año de clinica medica en el <span>hospital San Martin de La Plata</span> y estoy mas que satisfecho. <br>
+                            Te invito a que conozcas el servicio. <br>
+                            Manda mensaje por Instagram.
+                        </h4>
+                    </div>
+                </div>
+            </div>
+            <span id="close-hsmlp-modal" class="close-modal-button">&#215;</span>
+        </div>
     
         <div id="readme-modal" class="modal">
             <div class="modal-ctn" id="readme-ctn">
@@ -247,7 +290,7 @@
         </div>
         <div class="modal" id="error-modal">
             <div class="modal-ctn" id="error-modal-ctn">
-                <h3>Error</h3>
+                <h3 class="modal-title">Error</h3>
                 <p id="error-modal-message"></p>
             </div>
         </div>

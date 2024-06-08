@@ -19,6 +19,7 @@
     --footer-fg: #eee;
     --header-heigth: 10vh;
     --nav-button-bg: #ff6c00;
+    --instagram: #ff7e29;
 }
 
 *, *::after, *::before {
@@ -128,6 +129,8 @@ i {
 .icon-button:hover {
   background-color: var(--icon-button-fg);
   color: #111;
+  /* border: 1.5px solid #222; */
+  box-shadow: 0 0 0 2px #222;
 }
 
 .tooltip {
@@ -147,6 +150,8 @@ i {
     font-size: calc(var(--font-size) * 1);
     transform: none;
     align-items: center;
+    z-index: 100;
+    font-weight: 600;
 }
 
 
@@ -159,6 +164,7 @@ i {
     height: 15px;
     width: 15px;
 }
+
 ::-webkit-scrollbar-thumb {
     background-color: #888; /* Color of the thumb */
     border-radius: 6px; /* Rounded corners */
@@ -185,6 +191,24 @@ i {
 
 body.modal-open {
   overflow: hidden;
+}
+
+.vibrate {
+  animation: vibrar .1s linear infinite alternate;
+}
+
+.fa-instagram {
+  color: var(--instagram);
+  font-size: calc(var(--font-size) * 2);
+}
+
+@keyframes vibrar {
+  0% {
+    transform: translateX(-4px);
+  }
+  100% {
+    transform: translateX(4px);
+  }
 }
 
 @media (max-width: 767px) {

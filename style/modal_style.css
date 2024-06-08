@@ -28,6 +28,7 @@
     position: relative;
     animation-name: modalopen;
     animation-duration: 0.5s;
+    overflow: auto;
 }
 
 
@@ -37,6 +38,8 @@
     background: var(--button-background);
     color: var(--foreground-color);
     padding: 1rem;
+    text-transform: uppercase;
+    font-size: calc(var(--font-size) * 2);
 }
 
 .close-modal-button {
@@ -137,6 +140,132 @@
     box-shadow: 0 0 6px 5px #222;
 }
 
+
+/*  -------------- HSMLP ----------------------  */
+
+.hsmlp-pages-ctn {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-template-areas: 
+    "recomendation img"
+    "check check"
+    "links links";
+    padding: 1rem;
+}
+
+.page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img {
+    grid-area: img;
+}
+.checks {
+    grid-area: check;
+}
+
+.checks i {
+    cursor: default;
+}
+
+.recomendation {
+    grid-area: recomendation;
+    /* margin: auto; */
+    display: flex;
+    justify-content: center;
+}
+
+.recomendation h4 {
+    font-weight: 500;
+    font-size: calc(var(--font-size) * 1);
+    color: #fff;
+    background-color: var(--button-background);
+    padding: 1rem;
+    max-width: 80%;
+    border-radius: 10px;
+}
+
+.recomendation h4 span {
+    font-weight: 600;
+}
+
+.links {
+    grid-area: links;
+}
+
+.links a {
+    background-color: var(--instagram);
+    padding: 1rem;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 600;
+    transition: .5s;
+    i {
+        color: #fff;
+        transition: .5s;
+    }
+}
+
+.links a:hover {
+    background-color: white;
+    color: var(--instagram) !important;
+    box-shadow: 0 0 2px 2px var(--instagram);
+    i {
+        color: var(--instagram);
+    }
+}
+
+.page img {
+    max-width: 50%;
+    max-height: 100%;
+}
+
+.hsmlp-pages-ctn ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    justify-items: center;
+}
+
+.hsmlp-pages-ctn ul li {
+    display: flex;
+    gap: .3rem;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.hsmlp-pages-ctn ul li i {
+    background-color: var(--correct-color);
+    padding: .5rem;
+    border-radius: 50%;
+    color: #eee;
+}
+.hsmlp-pages-ctn ul li p {
+    width: 90%;
+    font-size: calc(var(--font-size) * 1);
+    text-align: left;
+}
+
+#hsmlp-link-ctn a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+
+/* -------------- ERROR modal -------------------- */
+#error-modal-ctn h3 {
+    background-color: var(--error-color);
+
+}
+#error-modal-ctn p {
+    padding: 1rem;
+
+}
 
 /*  REPORT QUESTION */
 
@@ -305,4 +434,20 @@
     .modal-ctn {
         max-width: 90%;
     }
+
+    .hsmlp_logo {
+        flex-basis: 100%;
+    }
+
+    .hsmlp-pages-ctn {
+        padding: .4rem;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 10px;
+        grid-template-areas: 
+        "recomendation recomendation"
+        "check check"
+        "links links"
+        "img img";
+}
 }

@@ -221,8 +221,12 @@ function elementCreate(type, content="", classes=[], element_id="", childs=[], a
 
 function discussionsHandler(discussionList, discussionsCtn) {
     discussionList.forEach((disc, i) => {
+        let explication = document.createElement("p")
+        let explicationEdited = disc["explication"].replace(/\n/g, "<br>")
+        explication.classList.add("explication")
+        explication.innerHTML = explicationEdited
 
-        let explication = elementCreate("p", disc["explication"], "explication", "", [], false)
+        // let explication = elementCreate("p", disc["explication"], "explication", "", [], false)
 
         let bibliographyCtn = document.createElement("div")
         if (disc["bibliography"] != "") {
