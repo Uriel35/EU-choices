@@ -37,11 +37,16 @@ defineModal(document.getElementById('report-question-button'), document.getEleme
 //  *************** DATA ANALYTICS EVENTS *****************
 function addAnaltyticEvent(tgt, name) {
   tgt.addEventListener("click", () => {
-    console.log("Enviado a Data Analytics")
-    gtag('event', name, {
-          'event_category': name,
-          'event_label': name
-        });
+      if (!sessionStorage.getItem(`${name}_session_storage`)) {
+        console.log('Evento registrado');
+        gtag('event', name, {
+              'event_category': name,
+              'event_label': name
+            });
+        sessionStorage.setItem(`${name}_session_storage`, 'true');
+      } else {
+          console.log(`${name}_session_storage` + ' ya fue registrado en esta sesión');
+      }
   })
 }
 let eu_stats_link = document.getElementById("eu-stats")
