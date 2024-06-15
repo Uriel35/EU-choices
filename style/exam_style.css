@@ -218,11 +218,12 @@
 .pdf-and-origin-ctn a {
     font-weight: 600;
     text-decoration: underline;
+    color: var(--button-background);
     font-size: calc(var(--font-size) * 1.2);
 }
 
 .pdf-and-origin-ctn a:hover {
-    color: var(--button-background);
+    color: black;
 }
 
 #origin-text {
@@ -235,6 +236,7 @@
     width: 100%;
     display: none;
     flex-direction: column;
+    animation: path-animation .5s ease-in;
 }
 
 .discussions-title-ctn {

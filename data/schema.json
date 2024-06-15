@@ -8426,7 +8426,10 @@
                     "discussion": []
                 }
             ],
-            "aclaracion": ""
+            "aclaracion": "",
+            "analogos": [
+                ""
+            ]
         }
     },
     "medio interno": {
@@ -9780,7 +9783,18 @@
                     "answer": "d",
                     "index": 51,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-10 14:12:18",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 51,
+                            "explication": "Seg\u00fan datos de la 4ta Encuesta Nacional de Factores de Riesgo (ENFR,2018), la prevalencia de glucemia elevada o diabetes por autorreporte en la poblaci\u00f3n adulta aument\u00f3 de 9,8% a 12,7% respecto de la edici\u00f3n anterior.",
+                            "bibliography": "Gu\u00eda Nacional Pr\u00e1ctica cl\u00ednica de DBT Mellitus tipo 2 (2019)",
+                            "id": "c5b2b4cf-c1aa-4fe8-9b97-57610401d7f3"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "98) Paciente de 52 a\u00f1os concurre a control con estudios solicitados en guardia donde presentaba una \nglucemia al azar de 210 mg/dl, por lo que el m\u00e9dico de guardia lo deriva a su consultorio para control. \n\u00bfQu\u00e9 conducta toma ante esta situaci\u00f3n? \n a) Repite Glucemia en ayunas\nb) Solicita HBA1C (Hemoglobina Glicosilada) \n c) Solicita PTOG (Prueba de tolerancia a la glucosa) \n d) Informa al paciente el diagn\u00f3stico de diabetes",
@@ -11018,7 +11032,18 @@
                     "answer": "b",
                     "index": 95,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-10 18:56:44",
+                            "name": "Mar\u00eda Pastorino",
+                            "email": "maripastorino38@gmail.com",
+                            "year": 2021,
+                            "index": 95,
+                            "explication": "Parkinson:\nTemblor en reposo: El temblor de reposo es una caracter\u00edstica cl\u00e1sica de la enfermedad de Parkinson.\nBradicinesia: La lentitud de movimientos (bradicinesia) es otro signo cardinal del Parkinson.\nAsimetr\u00eda: La enfermedad de Parkinson a menudo comienza de manera asim\u00e9trica, afectando un lado del cuerpo antes que el otro, como en este caso.\nTemblor esencial: Generalmente se caracteriza por un temblor de acci\u00f3n (cuando se usa la mano) y no un temblor de reposo. Adem\u00e1s, suele ser bilateral y no se asocia con bradicinesia.\n\nHipertiroidismo:\nPuede causar temblores, pero estos son t\u00edpicamente temblores de acci\u00f3n y no de reposo. Adem\u00e1s, el paciente tiene antecedentes de hipertiroidismo en sus 30 a\u00f1os, no actualmente.\n\nParkinsonismo farmacol\u00f3gico:\nAunque puede presentar s\u00edntomas similares al Parkinson, es m\u00e1s com\u00fanmente inducido por medicamentos antipsic\u00f3ticos y algunos antiem\u00e9ticos, no por enalapril.\n\nConclusi\u00f3n:\nLa combinaci\u00f3n de un temblor en reposo unilateral y bradicinesia es m\u00e1s indicativa de la enfermedad de Parkinson.",
+                            "bibliography": "",
+                            "id": "6ca07ced-89cc-4e83-98d5-ec9ba100dd05"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "30) Paciente de 78 a\u00f1os, con antecedentes de hipertensi\u00f3n arterial, fue evaluada en el consultorio de \nneurolog\u00eda por presentar trastornos en la memoria anter\u00f3grada y fallas en la atenci\u00f3n asociado a \nalucinaciones visuales de al menos 6 meses de evoluci\u00f3n, que empeoraron en las \u00faltimas semanas, \nasociadas a bradicinesia y temblor en reposo. Fue evaluada ambulatoriamente indic\u00e1ndosele L- dopa. \nA las 24 horas present\u00f3 un s\u00edndrome confusional alucinatorio. \u00bfQu\u00e9 diagn\u00f3stico explica este cuadro? \n a) Demencia de tipo Alzheimer \n b) Demencia asociada a Parkinson \n c) Demencia con cuerpos de Lewy \n d) Demencia vascular",
@@ -11228,7 +11253,18 @@
                     "answer": "b",
                     "index": 46,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-10 19:00:39",
+                            "name": "Mar\u00eda",
+                            "email": "maripastorino38@gmail.com",
+                            "year": 2020,
+                            "index": 46,
+                            "explication": "El cuadro cl\u00ednico descrito sugiere que la paciente podr\u00eda estar sufriendo de s\u00edndrome de Guillain-Barr\u00e9. Esta enfermedad autoinmune se caracteriza por una debilidad progresiva que comienza en los miembros inferiores y asciende hacia los miembros superiores. En el examen f\u00edsico, la hiporreflexia y la hipoestesia generalizada son hallazgos comunes.\n\nEn el s\u00edndrome de Guillain-Barr\u00e9, el an\u00e1lisis del l\u00edquido cefalorraqu\u00eddeo (LCR) t\u00edpicamente muestra:\nAumento de prote\u00ednas debido a la desmielinizaci\u00f3n de los nervios perif\u00e9ricos.\nRecuento celular normal (conocido como disociaci\u00f3n albuminocitol\u00f3gica).\n\nPor lo tanto, el resultado esperable en el examen fisicoqu\u00edmico del l\u00edquido cefalorraqu\u00eddeo es:\nb) Proteinorraquia alta, c\u00e9lulas normales, presi\u00f3n de apertura normal.",
+                            "bibliography": "Chat GTP",
+                            "id": "8b235ab6-b157-4df3-938f-3ae721ecea7a"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "77) Concurre a la guardia un paciente de 32 a\u00f1os que presenta sensaci\u00f3n de hormigueo en ambos \nmiembros inferiores, entumecimiento y dificultad para caminar de 48hs de evoluci\u00f3n. Al interrogatorio \nrefiere que hace 2 semanas tuvo un episodio de diarrea que se autolimit\u00f3. \u00bfEn qu\u00e9 diagn\u00f3stico \npensar\u00eda? \n a) S\u00edndrome gloso-entero-neuro-an\u00e9mico \n b) Esclerosis m\u00faltiple \n c) S\u00edndrome de Guillan Barre \n d) Intoxicaci\u00f3n por plomo",
@@ -11295,7 +11331,18 @@
                     "answer": "b",
                     "index": 46,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-10 19:00:39",
+                            "name": "Mar\u00eda",
+                            "email": "maripastorino38@gmail.com",
+                            "year": 2020,
+                            "index": 46,
+                            "explication": "El cuadro cl\u00ednico descrito sugiere que la paciente podr\u00eda estar sufriendo de s\u00edndrome de Guillain-Barr\u00e9. Esta enfermedad autoinmune se caracteriza por una debilidad progresiva que comienza en los miembros inferiores y asciende hacia los miembros superiores. En el examen f\u00edsico, la hiporreflexia y la hipoestesia generalizada son hallazgos comunes.\n\nEn el s\u00edndrome de Guillain-Barr\u00e9, el an\u00e1lisis del l\u00edquido cefalorraqu\u00eddeo (LCR) t\u00edpicamente muestra:\nAumento de prote\u00ednas debido a la desmielinizaci\u00f3n de los nervios perif\u00e9ricos.\nRecuento celular normal (conocido como disociaci\u00f3n albuminocitol\u00f3gica).\n\nPor lo tanto, el resultado esperable en el examen fisicoqu\u00edmico del l\u00edquido cefalorraqu\u00eddeo es:\nb) Proteinorraquia alta, c\u00e9lulas normales, presi\u00f3n de apertura normal.",
+                            "bibliography": "Chat GTP",
+                            "id": "8b235ab6-b157-4df3-938f-3ae721ecea7a"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "59) Un var\u00f3n de 75 a\u00f1os consulta por astenia, adinamia y parestesias en miembros inferiores de 2 \nmeses de evoluci\u00f3n. Su familia refiere adem\u00e1s fallas mn\u00e9sicas anter\u00f3gradas y trastornos en la \natenci\u00f3n. Al examen f\u00edsico presenta signos vitales normales, arreflexia aquiliana, hipopalestesia \nbilateral y un mini mental test alterado. En el laboratorio se constat\u00f3: Hto 30%, Hb 9.1 gr%, VCM 83 fL, \nGb 3900 /mm3, plaquetas 96000 /mm3, LDH 690 UI/L, hepatograma normal. \u00bfCu\u00e1l es su diagn\u00f3stico \npresuntivo? \n a) D\u00e9ficit de vitamina C \n b) D\u00e9ficit de vitamina B12 \n c) D\u00e9ficit de tiamina \n d) D\u00e9ficit de vitamina D",
@@ -12577,12 +12624,12 @@
         "infeccion genital": {
             "array": [
                 {
-                    "question_complete": "\n14) \u00bfQu\u00e9 caracter\u00edsticas cl\u00ednicas tiene la descarga vaginal en la candidiasis vulvo-vaginal? \n a) PH>4,5, color gris\u00e1ceo, olor f\u00e9tido, homog\u00e9neo, con prurito \n b) PH<4,5, amarillo, olor f\u00e9tido, heterog\u00e9neo, sin prurito \n c) PH>4,5, blanco, sin olor, heterog\u00e9neo, con prurito \n d) PH>4,5, verdoso, sin olor, heterog\u00e9neo, sin prurito \n",
+                    "question_complete": "\n14) \u00bfQu\u00e9 caracter\u00edsticas cl\u00ednicas tiene la descarga vaginal en la candidiasis vulvo-vaginal? \n a) PH>4,5, color gris\u00e1ceo, olor f\u00e9tido, homog\u00e9neo, con prurito \n b) PH<4,5, amarillo, olor f\u00e9tido, heterog\u00e9neo, sin prurito \n c) PH<4,5, blanco, sin olor, heterog\u00e9neo, con prurito \n d) PH>4,5, verdoso, sin olor, heterog\u00e9neo, sin prurito \n",
                     "question": "\u00bfQu\u00e9 caracter\u00edsticas cl\u00ednicas tiene la descarga vaginal en la candidiasis vulvo-vaginal? ",
                     "options": {
                         "a": "PH>4,5, color gris\u00e1ceo, olor f\u00e9tido, homog\u00e9neo, con prurito",
                         "b": "PH<4,5, amarillo, olor f\u00e9tido, heterog\u00e9neo, sin prurito",
-                        "c": "PH>4,5, blanco, sin olor, heterog\u00e9neo, con prurito",
+                        "c": "PH<4,5, blanco, sin olor, heterog\u00e9neo, con prurito",
                         "d": "PH>4,5, verdoso, sin olor, heterog\u00e9neo, sin prurito"
                     },
                     "id": "ad2c00d9-f514-4f61-9fb3-da3f35d7bfe9",

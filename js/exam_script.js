@@ -370,7 +370,7 @@ pathsListModalButton.addEventListener("click", async (e) => {
     for (let path in result) {
         let li = document.createElement("LI")
         if (path % 2 == 0) li.className = "path-dark"
-        li.textContent = `${result[0].speciality} / ${result[path].theme}`
+        li.textContent = `${result[path].speciality} / ${result[path].theme}`
         pathsListModalUl.appendChild(li)
     }
 })
