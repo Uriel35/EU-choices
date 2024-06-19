@@ -916,7 +916,7 @@
                 },
                 {
                     "question_complete": "1) \u00bfCu\u00e1l es el esquema de vacunaci\u00f3n para poliomielitis que debe administrarse a un reci\u00e9n nacido sano hasta \nlos dos a\u00f1os de edad? \n a) Una dosis a los 2,4 y 6 meses, y una cuarta dosis entre los 15 y 18 meses. \n b) Una dosis a los 4 y 6 meses, y una tercera y cuarta dosis a los 15 y 18 meses respectivamente. \n c) Una dosis a los 2, 4 y 6 meses. \n d) Una dosis a los 4, 6 y 12 meses y una cuarta dosis a los 2 a\u00f1os. \n",
-                    "question": "\u00bfCu\u00e1l es el esquema de vacunaci\u00f3n para poliomielitis que debe administrarse a un reci\u00e9n nacido sano hasta los dos a\u00f1os de edad? ",
+                    "question": "\u00bfCu\u00e1l es el esquema de vacunaci\u00f3n para poliomielitis que debe administrarse a un reci\u00e9n nacido sano hasta los dos a\u00f1os de edad?",
                     "options": {
                         "a": "Una dosis a los 2,4 y 6 meses, y una cuarta dosis entre los 15 y 18 meses.",
                         "b": "Una dosis a los 4 y 6 meses, y una tercera y cuarta dosis a los 15 y 18 meses respectivamente.",
@@ -17594,7 +17594,18 @@
                     "answer": "a",
                     "index": 91,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-15 05:17:50",
+                            "name": "Santi Ch",
+                            "email": "",
+                            "year": 2021,
+                            "index": 91,
+                            "explication": "La correcta, dicha por el ex\u00e1men del 2021 (al menos de acuerdo con el sitio web del ministerio) es la A, es decir, un tratamiento emp\u00edrico con amoxidal clavul\u00e1nico. Esto es un ERROR, se DEBE CONFIRMAR LA NEUMON\u00cdA CON RADIOGRAF\u00cdA y adem\u00e1s realizar otros estudios complementarios. Sobre todo en un com\u00f3rbido de 68 a\u00f1os.",
+                            "bibliography": "Gu\u00eda de Neumon\u00eda de la SADI",
+                            "id": "f1b0f498-8b60-4420-952b-acf7a2a3a7af"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n9) Pregunta: \u00bfQu\u00e9 diagn\u00f3stico puede inferir a partir de la siguiente radiograf\u00eda de t\u00f3rax?\nA) Neumonia del lobulo superior derecho \nB) Neumonua del lobulo medio \nC) Atelectasia del lobulo medio \nD) Atelectasia del lobulo superior derecho.  \n",
@@ -23012,7 +23023,18 @@
                     "answer": "d",
                     "index": 9,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-19 18:34:18",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2023,
+                            "index": 9,
+                            "explication": "De Paul Ochotorena y Arruabarrena (1996) describen tres tipos de asimetr\u00eda\nVincular que est\u00e1n presentes en todo acto de Abuso Sexual Infantil (ASI): \n- asimetr\u00eda de poder, que aparece por diferencia de roles, jerarqu\u00eda, fuerza f\u00edsica o diferencia de edad entre la v\u00edctima que presenta un alto grado de vulnerabilidad y dependencia y el abusador que ejerce una manipulaci\u00f3n psicol\u00f3gica sobre el infante permitiendo que el ofensor controle a la v\u00edctima en esta relaci\u00f3n sexual no consensuada. Cuando la relaci\u00f3n es parento-filial se ponen en juego componentes afectivos y emocionales que son utilizados por el abusador para acceder a la v\u00edctima con m\u00e1s facilidad; \n- asimetr\u00eda de conocimientos, el agresor posee un conocimiento m\u00e1s refinado sobre temas relacionados con la sexualidad como as\u00ed tambi\u00e9n implicaciones de la relaci\u00f3n sexual que a\u00fan la v\u00edctima no conoce. Sin embargo, que la v\u00edctima tenga edad para estar informada no es garant\u00eda en absoluto que entienda la din\u00e1mica abusiva. \n- Por \u00faltimo, la asimetr\u00eda de gratificaci\u00f3n, donde el adulto tiene como \u00fanico objetivo obtener su propia gratificaci\u00f3n sexual, aunque intente generar placer en la v\u00edctima, su meta \u00faltima siempre est\u00e1 vinculada \u00fanicamente a sus propios deseos y necesidades.",
+                            "bibliography": "https://dspace.palermo.edu/dspace/bitstream/handle/10226/1912/Gette%2C%20Anabela.pdf?sequence=1&isAllowed=y",
+                            "id": "33ec6930-2167-441d-91f2-560814f8a92f"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "54) Paciente de 12 a\u00f1os consulta a centro de salud por presentar dolor abdominal de 5 d\u00edas de \nevoluci\u00f3n, se realizan ex\u00e1menes complementarios y se diagnostica embarazo de 12 semanas. Refiere \nrelaciones sexuales ocasionales. Se encuentra acompa\u00f1ada por su madre. \u00bfCu\u00e1l es la conducta a \ntomar ante esta situaci\u00f3n? \n a) Es un delito de instancia p\u00fablica, por lo que corresponde que el personal de salud denuncie. \n b) Es un delito de instancia privada, por lo que no corresponde que el personal de salud denuncie.\nc) Es un delito de instancia p\u00fablica, por lo que la decisi\u00f3n de instar la acci\u00f3n penal es de la v\u00edctima. \n d) Es un delito de instancia privada, por lo que corresponde que el personal de salud denuncie.  \n13",
@@ -23829,7 +23851,18 @@
                     "answer": "d",
                     "index": 9,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-19 18:34:18",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2023,
+                            "index": 9,
+                            "explication": "De Paul Ochotorena y Arruabarrena (1996) describen tres tipos de asimetr\u00eda\nVincular que est\u00e1n presentes en todo acto de Abuso Sexual Infantil (ASI): \n- asimetr\u00eda de poder, que aparece por diferencia de roles, jerarqu\u00eda, fuerza f\u00edsica o diferencia de edad entre la v\u00edctima que presenta un alto grado de vulnerabilidad y dependencia y el abusador que ejerce una manipulaci\u00f3n psicol\u00f3gica sobre el infante permitiendo que el ofensor controle a la v\u00edctima en esta relaci\u00f3n sexual no consensuada. Cuando la relaci\u00f3n es parento-filial se ponen en juego componentes afectivos y emocionales que son utilizados por el abusador para acceder a la v\u00edctima con m\u00e1s facilidad; \n- asimetr\u00eda de conocimientos, el agresor posee un conocimiento m\u00e1s refinado sobre temas relacionados con la sexualidad como as\u00ed tambi\u00e9n implicaciones de la relaci\u00f3n sexual que a\u00fan la v\u00edctima no conoce. Sin embargo, que la v\u00edctima tenga edad para estar informada no es garant\u00eda en absoluto que entienda la din\u00e1mica abusiva. \n- Por \u00faltimo, la asimetr\u00eda de gratificaci\u00f3n, donde el adulto tiene como \u00fanico objetivo obtener su propia gratificaci\u00f3n sexual, aunque intente generar placer en la v\u00edctima, su meta \u00faltima siempre est\u00e1 vinculada \u00fanicamente a sus propios deseos y necesidades.",
+                            "bibliography": "https://dspace.palermo.edu/dspace/bitstream/handle/10226/1912/Gette%2C%20Anabela.pdf?sequence=1&isAllowed=y",
+                            "id": "33ec6930-2167-441d-91f2-560814f8a92f"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "20) Paciente de 11 a\u00f1os llega a la guardia de un centro de salud por un intento de suicidio. Seg\u00fan la \nLey Nacional de Prevenci\u00f3n del Suicidio N\u00ba 27.130 \u00bfCu\u00e1l es la intervenci\u00f3n que deber\u00eda llevar a cabo el \nequipo de salud? \n a) Realizar una comunicaci\u00f3n oficial ante la Secretar\u00eda Nacional de Ni\u00f1ez, Adolescencia y Familia o la \nautoridad administrativa de protecci\u00f3n de derechos que corresponda en el \u00e1mbito local \n b) Realizar una denuncia ante la Polic\u00eda para que tome la intervenci\u00f3n correspondiente al tratarse de un \nmenor de edad.\nc) Llevar a cabo las intervenciones de salud propiamente dichas en lo que respecta a la estabilizaci\u00f3n cl\u00ednica, \npor lo cual no corresponde notificar a ning\u00fan organismo externo. \n d) Convocar a una reuni\u00f3n entre la familia y la escuela (u otro \u00e1mbito de pertenencia) para evaluar las \nestrategias posibles de intervenci\u00f3n comunitarias.",
