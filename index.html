@@ -306,7 +306,7 @@
         <div class="modal" id="report-question-modal">
             <div class="modal-ctn" id="report-question-modal-ctn">
                 <form action="https://formspree.io/f/mgejkpgw" method="post">
-                    <input type="hidden" name="_subject" value="Question report">
+                    <input type="hidden" name="_subject" id="reported-question-subject" value="Question report">
                     <div>
                         <h2>Reportar pregunta</h2>
                         <p>Enviame un mensaje explicando el error de esta pregunta <span id="reported-question-span"></span>, ya sea que esta mal redactada o mal archivada.
@@ -341,7 +341,7 @@
 
     <footer>
         <form action="https://formspree.io/f/mgejkpgw" class="footer-suggestions-form" method="post">
-            <input type="hidden" name="_subject" value="Suggestion">
+            <input type="hidden" name="_subject" value="Sugerencia">
             <h2>Dame tu opinion</h2>
             <div>
                 <input type="emai" name="email" id="footer-suggestion-email" placeholder="Email (opcional)">

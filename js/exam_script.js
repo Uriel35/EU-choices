@@ -331,16 +331,13 @@ remakeButton.addEventListener('click', () => {
 const reportQuestionButton = document.getElementById('report-question-button')
 const reportedQuestionSpan = document.getElementById('reported-question-span')
 const reportedQuestionInfo = document.getElementById('reported-question-info')
+const reportedQuestionSubject= document.getElementById('reported-question-subject')
 reportQuestionButton.addEventListener('click', (e) => {
     e.stopPropagation()
-    let path = ""
-    let pathRadios = document.querySelectorAll('.path-radio')
-    if (pathRadios) {
-        pathRadios.forEach(radio => path += `\n${dom_utils.clean_string_spaces(radio.value)}`)
-    }
     let currentQ = PREGUNTAS[counter]
     reportedQuestionSpan.textContent = `[ Examen unico ${currentQ['origin']['exam']}, pregunta ${currentQ['index']}) ]`
-    reportedQuestionInfo.value = `${currentQ['id']} \n EU ${currentQ['origin']['exam']}, ${currentQ['index']}).\n\nChosen paths:${path}`
+    reportedQuestionInfo.value = `Examen unico ${currentQ['origin']['exam']}, pregunta ${currentQ['index']}).`
+    reportedQuestionSubject.value = `Pregunta reportada, Año ${currentQ['origin']['exam']}, pregunta ${currentQ['index']}).`
 })
 
 
