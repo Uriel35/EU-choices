@@ -14640,7 +14640,18 @@
                     "answer": "b",
                     "index": 3,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-19 22:43:10",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 3,
+                            "explication": "La OMS solo recomienda la profilaxis con inmunoglobulina anti-D en mujeres u otras PCG no sensibilizadas para prevenir la aloinmunizaci\u00f3n RhD en abortos con medicamentos o quir\u00fargicos a partir de las 12 semanas.\nSi se dispone de inmunoglobulina anti-Rh, debe administrarse antes de 72 horas posteriores al procedimiento para mejores resultados (OMS, 2022).",
+                            "bibliography": "Gu\u00eda IVE - 2022",
+                            "id": "5505265d-a009-4e78-94be-7affcbfbcd53"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Isoinmunizacion RH: Todo lo que tiene que ver con el factor RH",
