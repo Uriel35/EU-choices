@@ -20502,7 +20502,18 @@
                     "answer": "b",
                     "index": 82,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-23 20:44:15",
+                            "name": "Natalia Scianca",
+                            "email": "nataliascianca@hotmail.com",
+                            "year": 2019,
+                            "index": 82,
+                            "explication": "52 p/y =  (1 paquete [20 cig]) x 52 a\u00f1os fumados",
+                            "bibliography": "cantidad de paquetes por a\u00f1o x cantidad de a\u00f1os que fumo el paciente",
+                            "id": "7fe20d7c-fe05-42d5-9437-3ca8fb9a79c1"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n5) \u00bfEn cu\u00e1l de las siguientes circunstancias considera que un paciente fumador se encuentra en estadio de \ncontemplaci\u00f3n de acuerdo al modelo transteor\u00e9tico de  cambio? \n a) No percibe actualmente la necesidad de cambiar su comportamiento. \n b)  Eval\u00faa  la  posibilidad  de  hacer  un  intento  de  dejar  en  el  futuro aunque  existe  una  ambivalencia  que  le \nimpide pasar a la acci\u00f3n. \n c) Se encuentra pensando estrategias cercanas al d\u00eda D (fecha de abandono). \n d) Est\u00e1 listo para realizar un intento de dejar en los pr\u00f3ximos 30 d\u00edas y est\u00e1 tomando acciones concretas.\n",
