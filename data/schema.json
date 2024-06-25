@@ -17625,6 +17625,16 @@
                             "explication": "Si bien el diagnostico correcto se hace por clinica y confirmo con radiograf\u00eda, en el TRAPS fasciculo 3 de enfermedades prevalentes dice textualmente: \"En los servicios de salud en los que no se pueda realizar la radiograf\u00eda o recolectar la muestra microbiol\u00f3gica antes de iniciar el tratamiento, el diagn\u00f3stico de NAC puede ser cl\u00ednico y basarse en el interrogatorio y en el examen f\u00edsico. No retrasar el inicio del tratamiento emp\u00edrico si no es accesible realizar estudios complementarios.\" \n",
                             "bibliography": "Traps fasciculo 3; Enfermedades prevalentes en el PNA",
                             "id": "b981afa9-b40d-4221-9173-ef68a68ea849"
+                        },
+                        {
+                            "date": "2024-06-24 20:57:02",
+                            "name": "Santiago SC",
+                            "email": "santiago.sc95@gmail.com",
+                            "year": 2021,
+                            "index": 91,
+                            "explication": "El tratamiento antibi\u00f3tico sin factores de riesgo y en tratamiento ambulatorio, seg\u00fan Harrison (bibliograf\u00eda oficial 2024) es un Macr\u00f3lido o Doxiciclina ",
+                            "bibliography": "Harrison edici\u00f3n 20",
+                            "id": "e9118803-179a-4437-91ab-00b93e00f560"
                         }
                     ]
                 },
