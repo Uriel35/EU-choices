@@ -118,7 +118,7 @@
     padding: 1rem;
 }
 
-#statistics-ctn a {
+#statistics-ctn .container a  {
     width: 30%;
     text-decoration: none;
     padding: .5rem;
@@ -131,8 +131,9 @@
     color: var(--foreground-color);
     font-weight: 600;
     height: 6rem;
-    text-align: center;
     display: flex;
+    text-align: center;
+    justify-content: center;
     align-items: center;
 }
 
@@ -261,6 +262,29 @@
     gap: .5rem;
     height: 100%;
 }
+
+/* -------------- QUIZ MODAL -------------------- */
+#quiz-modal-ctn {
+    display: flex;
+    gap: 1rem;
+    padding-bottom: 1rem;
+
+    p, a {
+        padding-inline: 1rem;
+        text-align: center;
+    }
+    a {
+        padding: 1rem;
+        background-color: var(--button-background);
+        width: max-content;
+        margin: auto;
+        border-radius: 5px;
+        color: #eee;
+        font-weight: 600;
+    }
+}
+
+
 
 /* -------------- ERROR modal -------------------- */
 #error-modal-ctn h3 {

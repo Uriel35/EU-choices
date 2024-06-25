@@ -220,6 +220,7 @@
                             <li><i class="fa fa-check"></i><p>Muy academico, se ve todo tipo de pacientes</p></li>
                             <li><i class="fa fa-check"></i><p>Hospital con todo tipo de servicios (excepto pediatria)</p></li>
                             <li><i class="fa fa-check"></i><p>Servicio informatizado (historia clinica, laboratorio, bacteriologia)</p></li>
+                            <li><i class="fa fa-check"></i><p>Hay 8 puestos para residentes este año</p></li>
                         </ul>
                     </div>
                     <div class="page links" id="hsmlp-link-ctn">
@@ -283,14 +284,11 @@
                 <div class="container">
                     <a href="https://drive.google.com/file/d/1fXHMXWYyTLtK0flXaqGMEL7YCa5DJ1IM/view?usp=sharing" id="eu-stats" target="_blank">Estadisticas del examen unico</a>
                     <a href="https://drive.google.com/file/d/1Pj6Zv85e_tlLYHoVXgV739V11gXHPzgV/view?usp=drive_link" id="applicants-stats" target="_blank">Estadisticas sobre postulantes a residencias medicas</a>
+                    <a href="#" id="open-quiz-modal">Encuesta 2024</a>
+                    <!-- <a href="https://docs.google.com/forms/d/1YlLyFgacwWKHWLWBIbHdL9MF9trvPgcyIzisxMPU11M/edit" id="open-quiz-modal" target="_blank">Encuesta 2024</a> -->
                 </div>
             </div>
             <span class="close-modal-button" id="close-statistics-modal">&#215;</span>
-        </div>
-        <div id="help-me-modal" class="modal">
-            <div class="modal-ctn" id="help-me-ctn">
-                <p id="help-me-output"></p>
-            </div>
         </div>
         <div class="modal" id="error-modal">
             <div class="modal-ctn" id="error-modal-ctn">
@@ -337,6 +335,18 @@
             </div>
             <span class="close-modal-button" id="close-paths-list-modal">&#215</span>
         </div>
+
+        <div class="modal" id="quiz-modal">
+            <div class="modal-ctn" id="quiz-modal-ctn">
+                <h2 class="modal-title">Encuesta de estudio</h2>
+                <p>Ayudame a crear estadisticas sobre la metodologia de estudio para el examen unico completando un formulario sobre tu metodologia de estudio para dicho examen.</p>
+                <p>Los resultados seran <span class="bold">totalmente anonimos.</span></p>
+                <p>Solo te tomará 5 minutos.</p>
+                <p class="bold">Esta dedicada a TODXS LXS POSTULANTES del examen unico del 2024.</p>
+                <a href="https://forms.gle/X8SfxWh3kjaQeZic6" id="quiz-link" target="_blank">Llena el Google Form</a>
+            </div>
+            <span class="close-modal-button" id="close-quiz-modal">&#215</span>
+        </div>
     </main>
 
     <footer>
@@ -353,22 +363,10 @@
             <button id="submit-suggestion" class="formspree-submit-buttons" type="submit">Enviar</button>
         </form>
         <div class="footer-contact-ctn">
-            <!-- <a href="https://www.instagram.com/urielespada/" target="_blank" class="link-ctn">
-                <i class="fa fa-instagram"></i>
-                <p>@urielespada</p>
-            </a>
-            <a href="https://www.facebook.com/uriel.espada" target="_blank" class="link-ctn">
-                <i class="fa fa-facebook"></i>
-                <p>/uriel.espada</p>
-            </a> -->
             <a href="#"class="link-ctn copy-email-button" id="copy-email-button">
                 <i class="fa fa-envelope"></i>
                 <p>euchoices@gmail.com</p>
             </a>
-            <!-- <a href="mailto:euchoices@gmail.com?" class="link-ctn copy-email-button" id="copy-email-button">
-                <i class="fa fa-envelope"></i>
-                <p>euchoices@gmail.com</p>
-            </a> -->
         </div>
     </footer>
     <script type="module" src="utils/schema_utils.js"></script>

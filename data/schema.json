@@ -931,7 +931,18 @@
                     "answer": "a",
                     "index": 1,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 19:00:33",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2016,
+                            "index": 1,
+                            "explication": "El Calendario Nacional de Vacunaci\u00f3n Argentino del a\u00f1o 2024 recomienda solamente SALK (IPV) a los 2, 4, 6 meses de vida y un refuerzo al ingreso escolar (5-6 a\u00f1os).\nLa Sabin Oral (OPV) ya no se administra.",
+                            "bibliography": "https://www.argentina.gob.ar/sites/default/files/2024-02-calendario-nacional-vacunacion.pdf",
+                            "id": "39c415bb-14e0-443c-83da-483be6eccf73"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n21)  La  Vacuna  triple  viral  protege  contra  sarampi\u00f3n,  rub\u00e9ola  y  paperas.  Se\u00f1ale  el  esquema  de \nadministraci\u00f3n: \n a) Administrar 1ra. dosis a los 12 meses de edad y 2da. dosis a los 5-6 a\u00f1os. \n b) Administrar primera dosis al nacer y 2da. dosis a los 5-6 a\u00f1os. \n c) Administrar primera dosis a los 12 meses y 2da dosis a los 11 a\u00f1os. \n d) Administrar \u00fanica dosis a los 4 a 6 a\u00f1os. ",
@@ -988,7 +999,18 @@
                     "answer": "b",
                     "index": 81,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 11:30:39",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2019,
+                            "index": 81,
+                            "explication": "Poblaci\u00f3n objetivo - destinatarios\nPersonas mayores o igual de 65 a\u00f1os\nPersonas hasta los 64 a\u00f1os inclusive con factores de riesgo.\nTener en cuentas que las siguientes situaciones NO contraindican la aplicaci\u00f3n de la vacuna:\n* Conviviente de paciente inmunosuprimido\n* Infecci\u00f3n por el virus de la inmunodeficiencia humana (VIH)\n* Intolerancia al huevo o antecedente de reacci\u00f3n al\u00e9rgica no anafil\u00e1ctica al huevo\n* Tratamiento con antibi\u00f3ticos o convalecencia de enfermedad leve\n* Tratamiento con corticoides\n* Enfermedad aguda benigna: rinitis, catarro, tos, diarrea\n* Embarazo- lactancia",
+                            "bibliography": "http://186.33.221.24/images/2018/F4IP-MARZO.pdf",
+                            "id": "3f62f60d-718e-4359-b317-86b400d70d24"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n94. \u00bfA qu\u00e9 edad se debe aplicar a las ni\u00f1as la vacuna contra el virus del papiloma humano (HVP)?\na. 9 a\u00f1os\nb. 11 a\u00f1os\nc. 13 a\u00f1os\nd. 16 a\u00f1os",
@@ -3458,7 +3480,18 @@
                     "answer": "d",
                     "index": 19,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 18:15:17",
+                            "name": "",
+                            "email": "",
+                            "year": 2021,
+                            "index": 19,
+                            "explication": "La presentaci\u00f3n de Juan, que incluye hematomas generalizados, hipertrofia gingival, sangrado de enc\u00edas, cansancio marcado y un s\u00edndrome confusional reciente, junto con los hallazgos de laboratorio (anemia, trombocitopenia y coagulograma alterado) son altamente sugestivos de leucemia aguda. La hipertrofia gingival es un hallazgo caracter\u00edstico de la leucemia mieloide aguda (LMA), que es menos com\u00fan en la leucemia linfobl\u00e1stica aguda (LLA) o leucemia mieloide cr\u00f3nica (LMC).",
+                            "bibliography": "",
+                            "id": "8a63d682-c6da-4d10-9413-e7e209aad85b"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n56) \u00bfCu\u00e1l es el diagn\u00f3stico m\u00e1s probable de una ni\u00f1a de 2 a\u00f1os de edad que en la consulta de control se la \nencuentra con acentuada palidez, distensi\u00f3n abdominal y hepatomegalia y que en dos oportunidades, en \notro centro m\u00e9dico, en las radiograf\u00edas de t\u00f3rax, se le hab\u00eda observado infiltrado intersticial err\u00e1tico y en \nlos  ex\u00e1menes  de  laboratorio  presentaba  28.000  gl\u00f3bulos  blancos/  mm3,  con  58%  de  eosin\u00f3filos,  Hb  8,9 \ng/100 ml y plaquetas normales? \n a) Hemosiderosis pulmonar idiop\u00e1tica. \n b) Toxoplasmosis cong\u00e9nita. \n c) Toxocariasis sist\u00e9mica. \n d) Leucemia  eosinof\u00edlica. ",
@@ -3477,7 +3510,18 @@
                     "answer": "c",
                     "index": 56,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 16:22:35",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2018,
+                            "index": 56,
+                            "explication": "MANIFESTACIONES CL\u00cdNICAS.\nHay 3 s\u00edndromes cl\u00ednicos principales asociados a la toxocariasis humana: LMV, larva migrans ocular (LMO) y toxocariasis encubierta (tabla 295-1).\nLa presentaci\u00f3n cl\u00e1sica de la LMV comprende eosinofilia, fiebre y hepatomegalia y suele producirse en los ni\u00f1os de entre 1 y 2 a\u00f1os con antecedentes de pica y de exposici\u00f3n a cachorros. Los s\u00edntomas incluyen fiebre, tos, sibilancias, bronconeumon\u00eda, anemia, hepatomegalia, leucocitosis, eosinofilia y serolog\u00eda positiva para Toxocara. La LMO tiende a aparecer en ni\u00f1os mayores sin signos ni s\u00edntomas de LMV. Los s\u00edntomas de presentaci\u00f3n pueden ser la p\u00e9rdida de visi\u00f3n unilateral, el dolor ocular, la leucocoria o el estrabismo, que se desarrolla en varias semanas. Los granulomas aparecen en el polo posterior de la retina y pueden confundirse con retinoblastomas.\nLas pruebas serol\u00f3gicas de Toxocara permiten identificar a los individuos con s\u00edntomas encubiertos o menos evidentes de infecci\u00f3n. Estos ni\u00f1os pueden presentar s\u00edntomas no espec\u00edficos que no constituyen ning\u00fan s\u00edndrome reconocible. La exploraci\u00f3n f\u00edsica suele mostrar hepatomegalia, dolor abdominal, tos, alteraciones del sue\u00f1o, retraso del crecimiento y cefalea con t\u00edtulos elevados de anticuerpos contra Toxocara. Tan s\u00f3lo un 50-75% de los casos presenta eosinofilia. La prevalencia de serolog\u00eda positiva para Toxocara en la poblaci\u00f3n general apoya la idea de que la mayor\u00eda de los ni\u00f1os con infecci\u00f3n por T. canis est\u00e1n asintom\u00e1ticos y no desarrollar\u00e1n despu\u00e9s secuelas cl\u00ednicas evidentes. Tambi\u00e9n se ha descrito una correlaci\u00f3n entre la serolog\u00eda positiva para Toxocara y el asma al\u00e9rgico.\n\nDIAGN\u00d3STICO.\nSe puede establecer un diagn\u00f3stico de presunci\u00f3n en un ni\u00f1o peque\u00f1o con eosinofilia (>20%), leucocitosis, hepatomegalia, fiebre, sibilancias y antecedentes de geofagia y exposici\u00f3n a cachorros y\nperros salvajes. Los datos de las pruebas de laboratorio que apoyan el diagn\u00f3stico son la hipergammaglobulinemia y t\u00edtulos elevados de isohemaglutininas para los ant\u00edgenos de los grupos sangu\u00edneos A y B. La mayor\u00eda de los pacientes con LMV tiene una cifra absoluta de eosin\u00f3filos de >500/\u03bcl. La eosinofilia es menos frecuente en los sujetos con LMO.\nLa biopsia confirmar el diagn\u00f3stico. Cuando no pueden obtenerse biopsias, la prueba serol\u00f3gica est\u00e1ndar que confirma la toxocariasis es el enzimoinmunoan\u00e1lisis con prote\u00ednas excretoras-secretoras obtenidas de larvas de T. canis mantenidas in vitro. La sensibilidad es >91% y la especificidad >86%. El diagn\u00f3stico del LMO puede establecerse en pacientes con cl\u00ednica t\u00edpica de granuloma retiniano o del polo perif\u00e9rico o\nen los que tienen endoftalmitis con t\u00edtulos de anticuerpos elevados. Los t\u00edtulos de antitoxocara en el humor v\u00edtreo y acuoso son por lo general mayores a los obtenidos en plasma. Se debe considerar el diagn\u00f3stico de toxocariasis encubierta en los individuos con debilidad cr\u00f3nica, dolor abdominal o signos de alergia con eosinofilia y elevaci\u00f3n de IgE. En las regiones templadas del mundo, las causas no parasitarias de eosinofilia que hay que considerar en el diagn\u00f3stico diferencial son las alergias, la hipersensiblidad a f\u00e1rmacos, el linfoma, la vasculitis y el s\u00edndrome hipereosin\u00f3filo idiop\u00e1tico (v. cap. 128).",
+                            "bibliography": "Nelson Tratado de Pediatr\u00eda pag. 1507\n",
+                            "id": "c82670df-851b-4d62-97df-b84b78a10ae4"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n16) \u00bfCu\u00e1l es el diagn\u00f3stico m\u00e1s probable de un ni\u00f1o de 12 a\u00f1os que se encuentra internado por presentar \nun s\u00edndrome de Guillain Barr\u00e9 posterior a un s\u00edndrome febril de varios d\u00edas de evoluci\u00f3n, acompa\u00f1ado de \nadenopat\u00edas generalizadas y esplenomegalia? En los ex\u00e1menes de laboratorio presenta: trombocitopenia, \ny anemia hemol\u00edtica Coombs positiva y con crioaglutininas espec\u00edficas para el ant\u00edgeno i de los eritrocitos. \n a) Artritis idiop\u00e1tica juvenil. \n b) Mononucleosis infecciosa. \n c) Leucemia linfobl\u00e1stica aguda. \n d) Infecci\u00f3n por Mycoplasma pneumoniae. ",
@@ -10276,7 +10320,18 @@
                     "answer": "d",
                     "index": 19,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 18:15:17",
+                            "name": "",
+                            "email": "",
+                            "year": 2021,
+                            "index": 19,
+                            "explication": "La presentaci\u00f3n de Juan, que incluye hematomas generalizados, hipertrofia gingival, sangrado de enc\u00edas, cansancio marcado y un s\u00edndrome confusional reciente, junto con los hallazgos de laboratorio (anemia, trombocitopenia y coagulograma alterado) son altamente sugestivos de leucemia aguda. La hipertrofia gingival es un hallazgo caracter\u00edstico de la leucemia mieloide aguda (LMA), que es menos com\u00fan en la leucemia linfobl\u00e1stica aguda (LLA) o leucemia mieloide cr\u00f3nica (LMC).",
+                            "bibliography": "",
+                            "id": "8a63d682-c6da-4d10-9413-e7e209aad85b"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Mieloproliferativo: Cualquier tipo de neoplasia mieloproliferativa, como leucemias, trombocitemia esencial, policiteia vera, mielofibrosis primaria, leucemia linfoblastica",
@@ -18328,7 +18383,18 @@
                     "answer": "c",
                     "index": 56,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 16:22:35",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2018,
+                            "index": 56,
+                            "explication": "MANIFESTACIONES CL\u00cdNICAS.\nHay 3 s\u00edndromes cl\u00ednicos principales asociados a la toxocariasis humana: LMV, larva migrans ocular (LMO) y toxocariasis encubierta (tabla 295-1).\nLa presentaci\u00f3n cl\u00e1sica de la LMV comprende eosinofilia, fiebre y hepatomegalia y suele producirse en los ni\u00f1os de entre 1 y 2 a\u00f1os con antecedentes de pica y de exposici\u00f3n a cachorros. Los s\u00edntomas incluyen fiebre, tos, sibilancias, bronconeumon\u00eda, anemia, hepatomegalia, leucocitosis, eosinofilia y serolog\u00eda positiva para Toxocara. La LMO tiende a aparecer en ni\u00f1os mayores sin signos ni s\u00edntomas de LMV. Los s\u00edntomas de presentaci\u00f3n pueden ser la p\u00e9rdida de visi\u00f3n unilateral, el dolor ocular, la leucocoria o el estrabismo, que se desarrolla en varias semanas. Los granulomas aparecen en el polo posterior de la retina y pueden confundirse con retinoblastomas.\nLas pruebas serol\u00f3gicas de Toxocara permiten identificar a los individuos con s\u00edntomas encubiertos o menos evidentes de infecci\u00f3n. Estos ni\u00f1os pueden presentar s\u00edntomas no espec\u00edficos que no constituyen ning\u00fan s\u00edndrome reconocible. La exploraci\u00f3n f\u00edsica suele mostrar hepatomegalia, dolor abdominal, tos, alteraciones del sue\u00f1o, retraso del crecimiento y cefalea con t\u00edtulos elevados de anticuerpos contra Toxocara. Tan s\u00f3lo un 50-75% de los casos presenta eosinofilia. La prevalencia de serolog\u00eda positiva para Toxocara en la poblaci\u00f3n general apoya la idea de que la mayor\u00eda de los ni\u00f1os con infecci\u00f3n por T. canis est\u00e1n asintom\u00e1ticos y no desarrollar\u00e1n despu\u00e9s secuelas cl\u00ednicas evidentes. Tambi\u00e9n se ha descrito una correlaci\u00f3n entre la serolog\u00eda positiva para Toxocara y el asma al\u00e9rgico.\n\nDIAGN\u00d3STICO.\nSe puede establecer un diagn\u00f3stico de presunci\u00f3n en un ni\u00f1o peque\u00f1o con eosinofilia (>20%), leucocitosis, hepatomegalia, fiebre, sibilancias y antecedentes de geofagia y exposici\u00f3n a cachorros y\nperros salvajes. Los datos de las pruebas de laboratorio que apoyan el diagn\u00f3stico son la hipergammaglobulinemia y t\u00edtulos elevados de isohemaglutininas para los ant\u00edgenos de los grupos sangu\u00edneos A y B. La mayor\u00eda de los pacientes con LMV tiene una cifra absoluta de eosin\u00f3filos de >500/\u03bcl. La eosinofilia es menos frecuente en los sujetos con LMO.\nLa biopsia confirmar el diagn\u00f3stico. Cuando no pueden obtenerse biopsias, la prueba serol\u00f3gica est\u00e1ndar que confirma la toxocariasis es el enzimoinmunoan\u00e1lisis con prote\u00ednas excretoras-secretoras obtenidas de larvas de T. canis mantenidas in vitro. La sensibilidad es >91% y la especificidad >86%. El diagn\u00f3stico del LMO puede establecerse en pacientes con cl\u00ednica t\u00edpica de granuloma retiniano o del polo perif\u00e9rico o\nen los que tienen endoftalmitis con t\u00edtulos de anticuerpos elevados. Los t\u00edtulos de antitoxocara en el humor v\u00edtreo y acuoso son por lo general mayores a los obtenidos en plasma. Se debe considerar el diagn\u00f3stico de toxocariasis encubierta en los individuos con debilidad cr\u00f3nica, dolor abdominal o signos de alergia con eosinofilia y elevaci\u00f3n de IgE. En las regiones templadas del mundo, las causas no parasitarias de eosinofilia que hay que considerar en el diagn\u00f3stico diferencial son las alergias, la hipersensiblidad a f\u00e1rmacos, el linfoma, la vasculitis y el s\u00edndrome hipereosin\u00f3filo idiop\u00e1tico (v. cap. 128).",
+                            "bibliography": "Nelson Tratado de Pediatr\u00eda pag. 1507\n",
+                            "id": "c82670df-851b-4d62-97df-b84b78a10ae4"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -19454,7 +19520,18 @@
                     "answer": "c",
                     "index": 56,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 16:22:35",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2018,
+                            "index": 56,
+                            "explication": "MANIFESTACIONES CL\u00cdNICAS.\nHay 3 s\u00edndromes cl\u00ednicos principales asociados a la toxocariasis humana: LMV, larva migrans ocular (LMO) y toxocariasis encubierta (tabla 295-1).\nLa presentaci\u00f3n cl\u00e1sica de la LMV comprende eosinofilia, fiebre y hepatomegalia y suele producirse en los ni\u00f1os de entre 1 y 2 a\u00f1os con antecedentes de pica y de exposici\u00f3n a cachorros. Los s\u00edntomas incluyen fiebre, tos, sibilancias, bronconeumon\u00eda, anemia, hepatomegalia, leucocitosis, eosinofilia y serolog\u00eda positiva para Toxocara. La LMO tiende a aparecer en ni\u00f1os mayores sin signos ni s\u00edntomas de LMV. Los s\u00edntomas de presentaci\u00f3n pueden ser la p\u00e9rdida de visi\u00f3n unilateral, el dolor ocular, la leucocoria o el estrabismo, que se desarrolla en varias semanas. Los granulomas aparecen en el polo posterior de la retina y pueden confundirse con retinoblastomas.\nLas pruebas serol\u00f3gicas de Toxocara permiten identificar a los individuos con s\u00edntomas encubiertos o menos evidentes de infecci\u00f3n. Estos ni\u00f1os pueden presentar s\u00edntomas no espec\u00edficos que no constituyen ning\u00fan s\u00edndrome reconocible. La exploraci\u00f3n f\u00edsica suele mostrar hepatomegalia, dolor abdominal, tos, alteraciones del sue\u00f1o, retraso del crecimiento y cefalea con t\u00edtulos elevados de anticuerpos contra Toxocara. Tan s\u00f3lo un 50-75% de los casos presenta eosinofilia. La prevalencia de serolog\u00eda positiva para Toxocara en la poblaci\u00f3n general apoya la idea de que la mayor\u00eda de los ni\u00f1os con infecci\u00f3n por T. canis est\u00e1n asintom\u00e1ticos y no desarrollar\u00e1n despu\u00e9s secuelas cl\u00ednicas evidentes. Tambi\u00e9n se ha descrito una correlaci\u00f3n entre la serolog\u00eda positiva para Toxocara y el asma al\u00e9rgico.\n\nDIAGN\u00d3STICO.\nSe puede establecer un diagn\u00f3stico de presunci\u00f3n en un ni\u00f1o peque\u00f1o con eosinofilia (>20%), leucocitosis, hepatomegalia, fiebre, sibilancias y antecedentes de geofagia y exposici\u00f3n a cachorros y\nperros salvajes. Los datos de las pruebas de laboratorio que apoyan el diagn\u00f3stico son la hipergammaglobulinemia y t\u00edtulos elevados de isohemaglutininas para los ant\u00edgenos de los grupos sangu\u00edneos A y B. La mayor\u00eda de los pacientes con LMV tiene una cifra absoluta de eosin\u00f3filos de >500/\u03bcl. La eosinofilia es menos frecuente en los sujetos con LMO.\nLa biopsia confirmar el diagn\u00f3stico. Cuando no pueden obtenerse biopsias, la prueba serol\u00f3gica est\u00e1ndar que confirma la toxocariasis es el enzimoinmunoan\u00e1lisis con prote\u00ednas excretoras-secretoras obtenidas de larvas de T. canis mantenidas in vitro. La sensibilidad es >91% y la especificidad >86%. El diagn\u00f3stico del LMO puede establecerse en pacientes con cl\u00ednica t\u00edpica de granuloma retiniano o del polo perif\u00e9rico o\nen los que tienen endoftalmitis con t\u00edtulos de anticuerpos elevados. Los t\u00edtulos de antitoxocara en el humor v\u00edtreo y acuoso son por lo general mayores a los obtenidos en plasma. Se debe considerar el diagn\u00f3stico de toxocariasis encubierta en los individuos con debilidad cr\u00f3nica, dolor abdominal o signos de alergia con eosinofilia y elevaci\u00f3n de IgE. En las regiones templadas del mundo, las causas no parasitarias de eosinofilia que hay que considerar en el diagn\u00f3stico diferencial son las alergias, la hipersensiblidad a f\u00e1rmacos, el linfoma, la vasculitis y el s\u00edndrome hipereosin\u00f3filo idiop\u00e1tico (v. cap. 128).",
+                            "bibliography": "Nelson Tratado de Pediatr\u00eda pag. 1507\n",
+                            "id": "c82670df-851b-4d62-97df-b84b78a10ae4"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Toxocara canis: Toxocariasis",
