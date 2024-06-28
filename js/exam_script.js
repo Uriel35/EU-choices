@@ -48,6 +48,9 @@ function displayExam(allQuestions) {
         return q
     })
 
+    resetTimer()
+    startTimer()
+
     TOTAL = 0
     CORRECTAS = 0
     ERRORES = 0
@@ -372,12 +375,50 @@ pathsListModalButton.addEventListener("click", async (e) => {
     }
 })
 
+// TIMER
+let timer;
+let isRunning = false;
+let hours = 0;
+let minutes = 0;
+let seconds = 0;
+
+function updateDisplay() {
+    document.getElementById('hours').textContent = String(hours).padStart(2, '0');
+    document.getElementById('minutes').textContent = String(minutes).padStart(2, '0');
+    document.getElementById('seconds').textContent = String(seconds).padStart(2, '0');
+}
+
+function startTimer() {
+    if (isRunning) return;
+    isRunning = true;
+    timer = setInterval(() => {
+        seconds++;
+        if (seconds >= 60) {
+            seconds = 0;
+            minutes++;
+            if (minutes >= 60) {
+                minutes = 0;
+                hours++;
+            }
+        }
+        updateDisplay();
+    }, 1000);
+}
+function resetTimer() {
+    hours = 0;
+    minutes = 0;
+    seconds = 0;
+    updateDisplay();
+}
+
 // Option key binding 
 document.addEventListener("keydown", (e) => {
     if (!examModal.classList.contains("flex-active") || document.getElementById("option-blackout") || document.activeElement.tagName == "INPUT" || document.activeElement.tagName == "TEXTAREA") return;
     let optionSelected = document.getElementById(e.key)
     if (optionSelected)  optionSelected.click()
 })
+
+
 
 export default {
     displayExam

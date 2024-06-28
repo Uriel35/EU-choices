@@ -348,12 +348,34 @@
     padding: 1rem;
 }
 
-.score-marker-ctn {
+
+
+.score-marker-timer-cafecito-ctn {
     width: 100%;
     display: flex;
     justify-content: space-between;
     height: max-content;
     gap: .3rem;
+
+    .score-marker-timer-ctn {
+        display: flex;
+        align-items: center;
+
+        .timer-ctn {
+            height: 100%;
+            background: #222;
+            padding: .7rem;
+            border-radius: 10px;
+            border: 2px solid var(--on-slide);
+            width: max-content;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            font-size: calc(var(--font-size) * 1.5);
+            font-weight: 800;
+
+        }
+    }
 }
 
 .exam-cafecito-ctn {
@@ -437,5 +459,11 @@
 
     .buttons-ctn {
         gap: .3rem;
+    }
+
+    .score-marker-timer-cafecito-ctn {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }
