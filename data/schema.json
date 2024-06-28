@@ -1333,7 +1333,18 @@
                     "answer": "b",
                     "index": 14,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-27 15:46:12",
+                            "name": "sandra",
+                            "email": "sandra_yang01@hotmail.com",
+                            "year": 2023,
+                            "index": 14,
+                            "explication": "La profilaxis consiste en la administraci\u00f3n de isoniacida a 10 mg/Kg/d\u00eda (m\u00e1x. 300 mg) en una sola toma diaria durante 6 meses.\nEn el caso del contacto bacil\u00edfero PPD negativo de inicio con persistencia de la negatividad a los 3 meses (PPD y RX torax normal) podr\u00eda suspenderse la quimioprofilaxis a los 3 meses.",
+                            "bibliography": "Gu\u00edas de Tratamiento Ambulatorio HPG 2019: Tuberculosis ",
+                            "id": "b25daa63-a5cd-4fcf-a6c0-4ab73bbc6252"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -9857,7 +9868,18 @@
                     "answer": "d",
                     "index": 98,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-26 19:56:29",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 98,
+                            "explication": "Seg\u00fan la gu\u00eda  \"Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2) 2019\", el diagnostico de Dbt se realiza con los siguientes criterios:\n- Glucemia plasm\u00e1tica en ayunas (GPA): dos determinaciones con valores iguales o mayores a 126 mg/dl, realizadas en 2 d\u00edas distintos.\n- Glucemia medida al azar: una determinaci\u00f3n de glucemia plasm\u00e1tica con valor mayor o igual a 200 mg/dl m\u00e1s la presencia de s\u00edntomas cardinales de diabetes (p\u00e9rdida de peso, poliuria, polidipsia, polifagia).\n- Prueba de tolerancia oral a la glucosa (PTOG75): dos determinaciones de glucemia plasm\u00e1tica dos horas despu\u00e9s de una carga oral con 75 grs de glucosa anhidra disueltos en 375 ml de agua, igual o mayor a 200 mg/dl realizadas en dos d\u00edas distintos.\n- Hemoglobina glicosilada A1c (HbA1c) estandarizada: dos determinaciones con valores iguales o mayores a 6,5% realizadas en dos d\u00edas distintos.\n\nPor tanto, si bien nuestro paciente tiene una glucemia al azar > 200 mg/dl, no presenta ninguno de los s\u00edntomas cardinales (o no lo especifica) y debido a eso la respuesta m\u00e1s correcta ser\u00eda pedir una nueva glucemia en ayuno.",
+                            "bibliography": "bancos.salud.gob.ar/sites/default/files/2020-09/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_2019.pdf",
+                            "id": "c4e8cc05-d117-4e6f-9a4a-cabff1505241"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Diabetes: De cualquier tipo, con TODAS SUS COMPLICACIONES",
@@ -12355,7 +12377,18 @@
                     "answer": "b",
                     "index": 35,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-28 13:17:28",
+                            "name": "Katherine",
+                            "email": "katiihochnerr@gmail.com",
+                            "year": 2019,
+                            "index": 35,
+                            "explication": "La opci\u00f3n b) Realizar tratamiento local con estr\u00f3genos antes de repetir la citolog\u00eda se puede justificar en el contexto de pacientes postmenop\u00e1usicas, ya que los cambios atr\u00f3ficos en el epitelio vaginal y cervical pueden dificultar la interpretaci\u00f3n de la citolog\u00eda y la colposcopia.\n\nEn mujeres postmenop\u00e1usicas, la disminuci\u00f3n de los niveles de estr\u00f3genos conduce a atrofia del epitelio vaginal y cervical, lo que puede causar inflamaci\u00f3n y cambios celulares que pueden ser malinterpretados como anormales en una citolog\u00eda.\nEl tratamiento con estr\u00f3genos locales puede restaurar la maduraci\u00f3n del epitelio, reduciendo as\u00ed la atrofia y mejorando la calidad de la muestra citol\u00f3gica.\nEsto puede resultar en una citolog\u00eda m\u00e1s representativa y menos propensa a interpretaciones err\u00f3neas.\nEn casos donde la citolog\u00eda muestra atipias y hay sospecha de que los cambios pueden estar influenciados por atrofia, las gu\u00edas cl\u00ednicas recomiendan el uso de estr\u00f3genos locales antes de repetir la citolog\u00eda.\nEsto es particularmente relevante si no se han encontrado lesiones de alto grado en la colposcopia o la biopsia.\n\nASC-H y CIN 1 en Mujeres Postmenop\u00e1usicas:\nASC-H es una categor\u00eda preocupante que sugiere la posibilidad de lesiones de alto grado. Sin embargo, si la biopsia muestra solo CIN 1 y se sospecha que los cambios pueden estar exacerbados por la atrofia, tratar primero la atrofia con estr\u00f3genos puede ser una estrategia v\u00e1lida.\nEsto permite obtener una muestra citol\u00f3gica m\u00e1s confiable en la siguiente evaluaci\u00f3n, evitando intervenciones m\u00e1s invasivas que pueden no ser necesarias.\n\nConclusi\u00f3n:\nLa opci\u00f3n b) Realizar tratamiento local con estr\u00f3genos antes de repetir la citolog\u00eda es adecuada en el contexto de una paciente postmenop\u00e1usica con cambios citol\u00f3gicos que podr\u00edan estar influenciados por la atrofia. Al tratar la atrofia primero, se mejora la precisi\u00f3n de la citolog\u00eda y se evita potencialmente un tratamiento innecesariamente agresivo. Esta estrategia es especialmente relevante cuando la biopsia no muestra lesiones de alto grado y la sospecha de malignidad es baja.",
+                            "bibliography": "",
+                            "id": "411770fb-710e-4f80-a539-e77edbba5856"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n86)  \u00bfQu\u00e9  pr\u00e1cticas  preventivas  corresponden  a  una  paciente  mujer  de  70  a\u00f1os  no  fumadora  sin \nantecedentes de importancia con controles de salud al d\u00eda? \n a) Rastreo de C\u00e1ncer de mama y Rastreo de Aneurisma de aorta. \n b) Rastreo de C\u00e1ncer de mama; Rastreo de C\u00e1ncer de colon y Rastreo de C\u00e1ncer de cuello Uterino. \n c) Rastreo de C\u00e1ncer de mama; Rastreo de C\u00e1ncer de colon y Rastreo de Aneurisma de aorta. \n d) Rastreo de C\u00e1ncer de mama; Rastreo de C\u00e1ncer de colon y Rastreo de Osteoporosis. ",
@@ -13737,7 +13770,18 @@
                     "answer": "d",
                     "index": 23,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-27 22:01:55",
+                            "name": "sandra",
+                            "email": "sandra_yang01@hotmail.com",
+                            "year": 2023,
+                            "index": 23,
+                            "explication": "La terapia antenatal con corticoides para  la inducci\u00f3n de la MPF disminuye la mortalidad, el S\u00edndrome de distress respiratorio (SDR)  y  la hemorragia Intraventicular (HIV) en ni\u00f1os prematuros.\nEstos beneficios se dan entre las 24 y 34 semanas.\nLa terapia utilizada puede ser:\n* Betametasona (2 dosis):  12 mg v\u00eda IM  con 24 hs de diferencia (1 ampolla de 12 mg contiene 6 mg de fosfato + 6 mg de acetato); total de 24 mg.\n* Dexametasona (4 dosis): 6 mg IM cada 12 hs; total de 24 mg.",
+                            "bibliography": "https://www.sarda.org.ar/images/GPC_RPM_HMIRS_2019.pdf",
+                            "id": "7a3e911f-6bc3-4f67-99ee-649fc21a3370"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Parto prematuro: Todo lo que tenga que con el diagnostico y manejo de amaneza de parto prematuro",
@@ -14542,7 +14586,18 @@
                     "answer": "c",
                     "index": 15,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-27 16:01:52",
+                            "name": "sandra",
+                            "email": "sandra_yang01@hotmail.com",
+                            "year": 2023,
+                            "index": 15,
+                            "explication": "Preeclampsia sobreimpuesta a la HTA cr\u00f3nica: paciente que padece HTA cr\u00f3nica pero luego de las 20 semanas de gestaci\u00f3n se diagnostica proteinuria.\nSi presentan proteinuria previa o consultan tard\u00edamente la presencia de un aumento brusco de los valores de PA o de pr\u00f3dromos de la eclampsia puede ser \u00fatil para su diagn\u00f3stico.",
+                            "bibliography": "Consenso de Obstetricia FASGO 2017  \"Estados hipertensivos y embarazo\" ",
+                            "id": "4daf1a02-78bd-4350-8022-eeead31887ef"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "60) Recibe en la consulta a una mujer cis embarazada de 34 semanas,  presentando cifras de tensi\u00f3n \narterial de 150/95, con un laboratorio que informa proteinuria. \u00bfQu\u00e9 decide hacer? \n a) Indica interrumpir el embarazo inmediatamente. \n b) Indica controles ambulatorios de tensi\u00f3n arterial y cita en 48hs. \n c) Indica derivaci\u00f3n a consultorio de alto riesgo obst\u00e9trico. \n d) Indica internaci\u00f3n en centro de alta complejidad.",
@@ -15713,7 +15768,18 @@
                     "answer": "b",
                     "index": 28,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-26 18:05:58",
+                            "name": "manuel attorri",
+                            "email": "manuelattorri@gmail.com",
+                            "year": 2023,
+                            "index": 28,
+                            "explication": "En la intoxicaci\u00f3n grave por CO debe plantearse la posibilidad de la oxigenoterapia en c\u00e1mara hiperb\u00e1rica (OHB).\nLas indicaciones m\u00e1s aceptadas son: Disminuci\u00f3n del nivel de consciencia recuperada o no, convulsiones, ataxia, s\u00edndrome confusional, arritmias card\u00edacas, \u00e1ngor,  shock, grandes elevaciones (> 20%) de la COHb, signos de hipoxia tisular grave, como la acidosis metab\u00f3lica, o falta de respuesta a la oxigenoterapia convencional.\nSi bien la OHB no ha demostrado de forma inequ\u00edvoca su superioridad sobre la oxigenoterapia normob\u00e1rica, aquella  tiene un claro fundamento fisiopatol\u00f3gico: su capacidad para reducir la semivida de eliminaci\u00f3n del CO unido a la Hb de forma mucho m\u00e1s r\u00e1pida que la oxigenoterapia convencional (20 min).",
+                            "bibliography": "Farreras Rozman- Medicina interna- 19 edicion.",
+                            "id": "f09152c6-f7d9-430b-9902-553e45d435e2"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -17690,6 +17756,16 @@
                             "explication": "El tratamiento antibi\u00f3tico sin factores de riesgo y en tratamiento ambulatorio, seg\u00fan Harrison (bibliograf\u00eda oficial 2024) es un Macr\u00f3lido o Doxiciclina ",
                             "bibliography": "Harrison edici\u00f3n 20",
                             "id": "e9118803-179a-4437-91ab-00b93e00f560"
+                        },
+                        {
+                            "date": "2024-06-27 11:47:34",
+                            "name": "Aldana J",
+                            "email": "jaraaldana18596@gmail.com",
+                            "year": 2021,
+                            "index": 91,
+                            "explication": "Pacientes \u2265 65 a\u00f1os o con comorbilidades se utiliza Amoxicilina clavul\u00e1nico o sulbactam 875/1000 mg cada 12 horas v\u00eda oral",
+                            "bibliography": "Consenso SADI Neumonia adquirida en la comunidad 2014",
+                            "id": "c21a3b6c-0dc3-480b-9814-b3397a392181"
                         }
                     ]
                 },
@@ -17954,7 +18030,18 @@
                     "answer": "a",
                     "index": 37,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 21:03:56",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2016,
+                            "index": 37,
+                            "explication": "TRATAMIENTO DE LA SECRECI\u00d3N URETRAL\nCeftriaxona 250 mg IM DU o cefixima 400 mg VO dosis unica (si solo se quiere cubrir gonococo alternativa es azitro 2 g VO DU)\n+\nAzitromicina 1 g VO DU o doxi 100/12 hs VO 7 d\u00edas",
+                            "bibliography": "http://186.33.221.24/medicamentos/images/2018/F7IPMARZO.pdf",
+                            "id": "0c3e45a5-088a-49bf-bd90-dd856b1edbaf"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Infeccion urinaria (ITU)",
@@ -18003,7 +18090,18 @@
                     "answer": "a",
                     "index": 37,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 21:03:56",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2016,
+                            "index": 37,
+                            "explication": "TRATAMIENTO DE LA SECRECI\u00d3N URETRAL\nCeftriaxona 250 mg IM DU o cefixima 400 mg VO dosis unica (si solo se quiere cubrir gonococo alternativa es azitro 2 g VO DU)\n+\nAzitromicina 1 g VO DU o doxi 100/12 hs VO 7 d\u00edas",
+                            "bibliography": "http://186.33.221.24/medicamentos/images/2018/F7IPMARZO.pdf",
+                            "id": "0c3e45a5-088a-49bf-bd90-dd856b1edbaf"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Infeccion de transmision sexual: Tales como sifilis, hepatitis B o C, HIV, gonorrea, chancroide blando, linfogranuloma venereo, granuloma inguinal, uretritis/vaginitis NO gonococcica, etc.",
@@ -21262,7 +21360,18 @@
                     "answer": "a",
                     "index": 37,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 21:03:56",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2016,
+                            "index": 37,
+                            "explication": "TRATAMIENTO DE LA SECRECI\u00d3N URETRAL\nCeftriaxona 250 mg IM DU o cefixima 400 mg VO dosis unica (si solo se quiere cubrir gonococo alternativa es azitro 2 g VO DU)\n+\nAzitromicina 1 g VO DU o doxi 100/12 hs VO 7 d\u00edas",
+                            "bibliography": "http://186.33.221.24/medicamentos/images/2018/F7IPMARZO.pdf",
+                            "id": "0c3e45a5-088a-49bf-bd90-dd856b1edbaf"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Infeccion genital: Tales como epididimitis, uretritis, cistitis, prostatitis, etc",
@@ -24000,7 +24109,18 @@
                     "answer": "a",
                     "index": 20,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-27 17:11:08",
+                            "name": "sandra",
+                            "email": "sandra_yang01@hotmail.com",
+                            "year": 2023,
+                            "index": 20,
+                            "explication": "ART\u00cdCULO 12. \u2014 En el caso de tratarse del intento de suicidio de un ni\u00f1o, ni\u00f1a o adolescente, es obligatoria la comunicaci\u00f3n, no denuncia, a la Secretar\u00eda Nacional de Ni\u00f1ez, Adolescencia y Familia o la autoridad administrativa de protecci\u00f3n de derechos del ni\u00f1o que corresponda en el \u00e1mbito local, a los efectos de solicitar medidas de protecci\u00f3n integral de derechos que se estimen convenientes.",
+                            "bibliography": "https://www.argentina.gob.ar/normativa/nacional/ley-27130-245618/texto",
+                            "id": "b6ca8064-fbf5-4f6d-ac12-fa652f8b02ab"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "84) \u00bfQu\u00e9 indicador de salud mental es el m\u00e1s espec\u00edfico para detectar Abuso sexual infantil? \n a) Trastorno de ansiedad \n b) Trastorno depresivo\nc) Estr\u00e9s postraum\u00e1tico \n d) Trastorno l\u00edmite de personalidad",
@@ -24251,7 +24371,18 @@
                     "answer": "b",
                     "index": 18,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-27 17:01:49",
+                            "name": "sandra",
+                            "email": "sandra_yang01@hotmail.com",
+                            "year": 2023,
+                            "index": 18,
+                            "explication": "El Equipo de salud a cargo debe notificar en un plazo de diez (10) horas al Juez competente y al \u00d3rgano de Revisi\u00f3n (art. 21 LNSM). Las horas deben contarse desde el momento en que se efectiviz\u00f3 la medida, incluso cuando el vencimiento opere en d\u00eda u hora inh\u00e1bil judicial (art. 21 Dec. Reg 603/13).\nCuando la internaci\u00f3n voluntaria se transforma en involuntaria se debe proceder conforme a los art\u00edculos que regulan a \u00e9sta \u00faltima, debiendo el Equipo de Salud notificar en un plazo de diez (10) horas al Juez competente y al \u00d3rgano de Revisi\u00f3n (art. 16 inc. C).",
+                            "bibliography": "https://mpd.jusentrerios.gov.ar/organo-de-revision-preguntas-frecuentes/#:~:text=Reg%20603%2F13).,C).",
+                            "id": "06f0c8ce-ec22-45f0-b96d-9a83e3d0912a"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "43) Seg\u00fan la Ley Nacional de Salud Mental N\u00ba 26.657, \u00bfd\u00f3nde deben realizarse las internaciones por \nsalud mental? \n a) En hospitales monovalentes\nb) En hospitales generales \n c) En hospitales neuropsiqui\u00e1tricos \n d) En manicomios",
@@ -24384,7 +24515,18 @@
                     "answer": "a",
                     "index": 20,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-27 17:11:08",
+                            "name": "sandra",
+                            "email": "sandra_yang01@hotmail.com",
+                            "year": 2023,
+                            "index": 20,
+                            "explication": "ART\u00cdCULO 12. \u2014 En el caso de tratarse del intento de suicidio de un ni\u00f1o, ni\u00f1a o adolescente, es obligatoria la comunicaci\u00f3n, no denuncia, a la Secretar\u00eda Nacional de Ni\u00f1ez, Adolescencia y Familia o la autoridad administrativa de protecci\u00f3n de derechos del ni\u00f1o que corresponda en el \u00e1mbito local, a los efectos de solicitar medidas de protecci\u00f3n integral de derechos que se estimen convenientes.",
+                            "bibliography": "https://www.argentina.gob.ar/normativa/nacional/ley-27130-245618/texto",
+                            "id": "b6ca8064-fbf5-4f6d-ac12-fa652f8b02ab"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -25892,7 +26034,18 @@
                     "answer": "a",
                     "index": 20,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-27 17:11:08",
+                            "name": "sandra",
+                            "email": "sandra_yang01@hotmail.com",
+                            "year": 2023,
+                            "index": 20,
+                            "explication": "ART\u00cdCULO 12. \u2014 En el caso de tratarse del intento de suicidio de un ni\u00f1o, ni\u00f1a o adolescente, es obligatoria la comunicaci\u00f3n, no denuncia, a la Secretar\u00eda Nacional de Ni\u00f1ez, Adolescencia y Familia o la autoridad administrativa de protecci\u00f3n de derechos del ni\u00f1o que corresponda en el \u00e1mbito local, a los efectos de solicitar medidas de protecci\u00f3n integral de derechos que se estimen convenientes.",
+                            "bibliography": "https://www.argentina.gob.ar/normativa/nacional/ley-27130-245618/texto",
+                            "id": "b6ca8064-fbf5-4f6d-ac12-fa652f8b02ab"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
