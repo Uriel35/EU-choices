@@ -146,7 +146,18 @@
                     "answer": "a",
                     "index": 60,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-28 22:56:18",
+                            "name": "sandra",
+                            "email": "",
+                            "year": 2017,
+                            "index": 60,
+                            "explication": "Administrar 1\u00aa dosis de vacuna Hepatitis B + inmunoglobulina espec\u00edfica anti-VHB (HBIG) IM (0,5 ml) en diferente lugar anat\u00f3mico (vasto externo) (independientemente del peso al nacimiento) en las primeras 12 horas de vida.",
+                            "bibliography": "https://hn.sld.pa/wp-content/uploads/2022/11/PROTOCOLO-DE-HIJO-DE-MADRE-CON-HEPATITIS-B.pdf",
+                            "id": "f52da8be-a521-47c9-9144-6804a1d5b984"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n15) Pregunta: \nUna mujer de 25 a\u00f1os, present\u00f3 s\u00edfilis durante el embarazo. Fue diagnosticada en la semana 30. Recibi\u00f3 \ntres dosis de penicilina benzat\u00ednica, separadas por una semana. Su pareja tambi\u00e9n recibi\u00f3 tratamiento. \nRealiz\u00f3 controles obst\u00e9tricos hasta el parto. Su hijo nace a t\u00e9rmino, con peso adecuado para la edad \ngestacional y presenta examen f\u00edsico normal. \u00bfCu\u00e1l es la conducta adecuada para seguimiento del ni\u00f1o? \nA. seguimiento clinico y serologico durante el 1er a\u00f1o \nB. controles habituales del rn sano  \nC. seguimiento serologico, PL e imagenes \nD. indicacion de peni benzatinica para completar tto \nA ",
@@ -7101,7 +7112,18 @@
                     "answer": "a",
                     "index": 49,
                     "image": "eu_2018_q49",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-06-30 12:55:54",
+                            "name": "Anonimo",
+                            "email": "",
+                            "year": 2018,
+                            "index": 49,
+                            "explication": "Si bien es cierto que la elevaci\u00f3n del ST es t\u00edpica del IAM, tambi\u00e9n puede aparecer en pericarditis. Ese registro aislado del segmento ST, sin contexto cl\u00ednico y sin el resto del ECG para referencia, en mi opini\u00f3n, deja la pregunta susceptible de impugnaci\u00f3n.",
+                            "bibliography": "",
+                            "id": "d1e59ffc-5e3c-46b0-b496-be5f11304e43"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n24. \u00bfCu\u00e1l de las siguientes determinaciones le solicitar\u00eda un paciente que tiene el siguiente hallazgo\nelectrocardiogr\u00e1fico? Ver imagen dos del anexo\na. CPK.\nb. CPK-MB.\nc. Potasio s\u00e9rico.\nd. Calcio s\u00e9rico.",
@@ -13732,7 +13754,18 @@
                     "answer": "a",
                     "index": 22,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-07-01 15:50:04",
+                            "name": "sandra",
+                            "email": "",
+                            "year": 2021,
+                            "index": 22,
+                            "explication": "Corioamnionitis\nCriterio mayor: Temperatura axilar igual o mayor a 37,8 \u00baC, acompa\u00f1ada de 2 o m\u00e1s de los siguientes signos:\n* Taquicardia materna (frecuencia card\u00edaca > 100 latidos/min).\n* Taquicardia fetal (frecuencia card\u00edaca > 160 latidos/min).\n* Leucocitosis > 15.000/mm3.\n* Irritabilidad uterina (dolor a la palpaci\u00f3n o din\u00e1mica uterina).\n* L\u00edquido amni\u00f3tico purulento o f\u00e9tido\n\nLa administraci\u00f3n endovenosa de Ampicilina cada 6 horas y Gentamicina cada\n8-24 horas hasta el nacimiento es el r\u00e9gimen m\u00e1s utilizado.\n\nEn caso de que sea necesario realizar una ces\u00e1rea, se ampliar\u00e1 la cobertura\ncontra anaerobios incluyendo en el esquema Metronidazol o Clindamicina EV\ncada 8 horas.\n\nEsquemas de tratamiento endovenoso\na. Ampicilina: 2 gramos cada 6 horas + Gentamicina 3-5 mg/kg/d\u00eda, unadosis diaria.\nb. Ampicilina Sulbactam: 3 gramos cada 8 horas.\nc. Ampicilina Sulbactam: 1,5 gramos cada 6 horas + Clindamicina 600-900 mg cada 8 horas.\nd. Ampicilina Sulbactam: 1,5 gramos cada 6 horas + Metronidazol en dosis de carga de 15 mg/kg, seguida de 7,5 mg/kg.\ne. Ceftriaxona: 2 gramos cada 24 horas + Clindamicina 600-900 mg cada 8 horas.",
+                            "bibliography": "Recomendaciones para la prevenci\u00f3n, diagn\u00f3stico y tratamiento de amenaza de parto pret\u00e9rmino, atenci\u00f3n del parto pret\u00e9rmino espont\u00e1neo y rotura prematura de membranas",
+                            "id": "0a505cbb-500b-45f0-82bb-de4c768c8160"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n78) Pregunta: \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con una mujer que cursa embarazo de 20 semanas \ny trae ecograf\u00eda transvaginal en la que se informa di\u00e1metro cervical de 22mm?  \nA) Indicar reposo y control con nueva ecografia en una semana \nB) Indicar cerclaje cervical de rescate \nC) indicar control prenatal habitual. \nD) Indicar progesterona por v\u00eda vaginal. \n",
@@ -13822,7 +13855,18 @@
                     "answer": "a",
                     "index": 31,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-07-01 16:10:32",
+                            "name": "sandra",
+                            "email": "",
+                            "year": 2021,
+                            "index": 31,
+                            "explication": "Criterios para finalizaci\u00f3n del embarazo en colestasis intrahep\u00e1tica gestacional (CIG)\nNo existe a la fecha ning\u00fan estudio de salud fetal que pueda realizarse para prevenir espec\u00edficamente la muerte fetal. En este contexto y coincidiendo con las investigaciones publicadas, ning\u00fan embarazo complicado con CIG deber\u00eda superar las 37 semanas, a\u00fan en categor\u00edas de bajo riesgo, debido al marcado aumento de la mortalidad intrauterina superada esta edad gestacional. \nSe internar\u00e1n para decidir la finalizaci\u00f3n electiva seg\u00fan corresponda por su condici\u00f3n obst\u00e9trica.",
+                            "bibliography": "COLESTASIS INTRAHEP\u00c1TICA GESTACIONAL. Hospital Ramon Sarda",
+                            "id": "a156a8a7-a052-409e-86d3-ff2f774184b7"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -14434,7 +14478,18 @@
                     "answer": "a",
                     "index": 67,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-07-01 00:45:22",
+                            "name": "sandra",
+                            "email": "",
+                            "year": 2022,
+                            "index": 67,
+                            "explication": "Administraci\u00f3n de Sulfato de Magnesio: \n* ESQUEMA ENDOVENOSO: Es el universalmente recomendado \nAtaque: Comenzar con 5 g de Sulfato de Magnesio (4 ampollas de 5 ml \u00f3 2 ampollas de 10 ml al 25%) en 10 cc Dextrosa 5%, en bolo endovenoso lento, a pasar en10-15 minutos. \n\nMantenimiento: Continuar con un goteo de 20 g de sulfato de magnesio (16 ampollas de 5 ml u 8 ampollas de 10 ml al 25%) en 500cc Sol Dextrosa al 5% o Ringer, a 7 gotas/minuto o 21 microgotas/minuto, si bien, por razones de seguridad, se recomienda uso de bomba de infusi\u00f3n continua, a 21 micro gotas por minuto (1 gramo / hora) \n\nDuraci\u00f3n del tratamiento: 24 hs, en el embarazo o puerperio.",
+                            "bibliography": "Gu\u00eda para el diagn\u00f3stico y tratamiento de la Hipertensi\u00f3n en el Embarazo. Ministerio de salud",
+                            "id": "b1254dbf-cf2b-4fbf-b926-81f42fbe3788"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n80) Pregunta: Una mujer de 18 a\u00f1os, primigesta, embarazada de 35 semanas consulta por cefalea. \nEn el examen f\u00edsico se encuentra en buen estado general, afebril, tensi\u00f3n arterial de 140/110 mmHg, \nmovimientos fetales positivos, frecuencia card\u00edaca fetal de 140 latidos/minuto, tono uterino normal, \ndin\u00e1mica uterina negativa. En el examen vaginal no tiene p\u00e9rdidas por genitales externos y se calcula \nun \u00edndice de Bishop de 3. Se le realizaron ex\u00e1menes de laboratorio: hematocrito: 29%, hemoglobina: \n10 g/dl, leucocitos: 8000/mm3, plaquetas: 100000/mm3, creatinina: 1.9 mg%, TGO: 110 UI/L, TGP: \n130 UI/L, LDH: 700 UI/L, sedimento urinario: proteinuria (+++) \u00bfCu\u00e1l es la conducta m\u00e1s adecuada? \nA) Indicar sulfato de magnesio, maduracion pulmonar fetal y solicitar nuevo laboratorio. \nB) Indicar terapia antihipertensiva, sulfato de magnesio e induccion del parto. \nC) Indicar terapia antihipertensiva, sulfato de magnesio y ces\u00e1rea. \nD) Indicar internacion en terapia intensiva para control de la tension arterial y eventual cesarea. \n",
@@ -14712,7 +14767,18 @@
                     "answer": "b",
                     "index": 45,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-07-01 00:36:17",
+                            "name": "sandra",
+                            "email": "",
+                            "year": 2022,
+                            "index": 45,
+                            "explication": "La OMS sugiere que el riesgo te\u00f3rico de isoinmunizaci\u00f3n es muy bajo en embarazos menores a 63 d\u00edas de gestaci\u00f3n (9 semanas). En consecuencia, la determinaci\u00f3n del factor Rh y la administraci\u00f3n de\tprofilaxis anti-Rh\tno se consideran requisitos previos para realizar el procedimiento de ILE en embarazos tempranos. \n\nSi se dispone de inmunoglobulina anti-Rh, debe administrarse antes o durante el procedimiento (OMS, 2012). ",
+                            "bibliography": "Protocolo para la atenci\u00f3n integral de las personas con derecho a la interrupci\u00f3n legal del embarazo",
+                            "id": "5b16ec47-a9c5-441a-8c5c-95931116edd1"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n33) Llega al centro de salud una mujer embarazada a realizarse su primer control pre natal. Se calcula la \nedad gestacional en 26 semanas. Ella dice que su grupo sangu\u00edneo es 0(-) \u00bfCu\u00e1l considera usted ser\u00eda la \nconducta a seguir? \n a) Se indican 300 microgramos de inmunoglobulina D. \n b) Se solicita grupo sangu\u00edneo y factor Rh. \n c) Se solicita la determinaci\u00f3n de anticuerpos anti-D (Coombs indirecta). \n d) Se solicita grupo sangu\u00edneo y factor del padre.\n",

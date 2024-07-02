@@ -357,10 +357,33 @@
     height: max-content;
     gap: .3rem;
 
+    .exam-cafecito-ctn {
+      display: flex;
+      align-items: center;
+    
+      .exam-cafecito-ctn img {
+        max-width: 100%;
+        height: auto;
+      }
+    }
     .score-marker-timer-ctn {
         display: flex;
         align-items: center;
-
+        
+        .score-marker {
+            background: #222;
+            padding: .7rem;
+            border-radius: 10px;
+            border: 2px solid var(--on-slide);
+            width: max-content;
+            color: #fff;
+        }
+        
+        .score-marker p {
+            font-size: calc(var(--font-size) * 1.5);
+            font-weight: 800;
+            display: inline-block;
+        }
         .timer-ctn {
             height: 100%;
             background: #222;
@@ -373,36 +396,11 @@
             align-items: center;
             font-size: calc(var(--font-size) * 1.5);
             font-weight: 800;
-
         }
     }
 }
 
-.exam-cafecito-ctn {
-  position: relative;
-  display: flex;
-  align-items: center;
-}
 
-.exam-cafecito-ctn img {
-  max-width: 100%;
-  height: auto;
-}
-
-.score-marker {
-    background: #222;
-    padding: .7rem;
-    border-radius: 10px;
-    border: 2px solid var(--on-slide);
-    width: max-content;
-    color: #fff;
-}
-
-.score-marker p {
-    font-size: calc(var(--font-size) * 1.5);
-    font-weight: 800;
-    display: inline-block;
-}
 
 #correct-marker {
     color: var(--correct-color);

@@ -3,6 +3,7 @@ To Do's:
 --- Add discussion forum and manage
 --- Customize report question
 --- Customize Statistics
+--- Put stopTimer() when exam is finished
 
 Done:
 --- Create logo
