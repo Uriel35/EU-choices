@@ -246,7 +246,18 @@ input[type="checkbox"]:checked + label {
   padding: .5rem;
   font-weight: 600;
   border-top: 1px solid #222;
+  
 }
+
+#search-ctn ul li p {
+  font-size: calc(var(--font-size) * 0.9) !important;
+  text-transform: uppercase !important;
+}
+
+/* #search-ctn ul li p span {
+  font-size: calc(var(--font-size) * 0.7);
+  text-transform: uppercase !important;
+} */
 
 #search-ctn ul li:hover, #search-ctn ul li:focus {
   background-color: #555;

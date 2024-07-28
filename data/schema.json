@@ -354,6 +354,25 @@
                     "index": 85,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "64) Concurre a control de salud Pablo de 7 a\u00f1os de edad. Dentro de la antropometr\u00eda, usted \npesquisa una talla con score Z \u20102.3. Decide valorar talla de ambos padres y calcula un rango \ngen\u00e9tico con score Z entre \u20102.5 y +1. \u00bfC\u00f3mo lo interpreta? \n a) Baja talla para la poblaci\u00f3n, dentro del rango familiar. \n b) Talla normal para la poblaci\u00f3n, fuera del rango familiar. \n c) Baja talla para poblaci\u00f3n y para la familia. \n d) Talla normal para la poblaci\u00f3n, dentro del rango familiar.",
+                    "question": "Concurre a control de salud Pablo de 7 a\u00f1os de edad. Dentro de la antropometr\u00eda, usted pesquisa una talla con score Z \u20102.3. Decide valorar talla de ambos padres y calcula un rango gen\u00e9tico con score Z entre \u20102.5 y +1. \u00bfC\u00f3mo lo interpreta? ",
+                    "options": {
+                        "a": "Baja talla para la poblaci\u00f3n, dentro del rango familiar.",
+                        "b": "Talla normal para la poblaci\u00f3n, fuera del rango familiar.",
+                        "c": "Baja talla para poblaci\u00f3n y para la familia.",
+                        "d": "Talla normal para la poblaci\u00f3n, dentro del rango familiar."
+                    },
+                    "id": "5fcca42f-c139-4705-9534-bc53f88a896a",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 64,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Crecimiento: Tanto en NI\u00d1OS como en ADOLESCENTES",
@@ -423,6 +442,44 @@
                     },
                     "answer": "d",
                     "index": 42,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "34) Mar\u00eda concurre con su hija Bel\u00e9n de 8 a\u00f1os a la consulta. La madre refiere que una prima \nse desarroll\u00f3 precozmente y est\u00e1 preocupada por saber si Bel\u00e9n est\u00e1 teniendo un desarrollo \npuberal normal. \u00bfCu\u00e1l es la secuencia de desarrollo puberal considerada normal en una ni\u00f1a? \n a) Vello pubiano \u2010 Bot\u00f3n mamario \u2010 Menarca \u2010 Pico de empuje puberal \n b) Bot\u00f3n mamario \u2010 Vello pubiano \u2010 Menarca \u2010 Pico de empuje puberal \n c) Vello pubiano \u2010 Pico de empuje puberal \u2010 Bot\u00f3n mamario \u2010 Menarca \n d) Bot\u00f3n mamario \u2010 Vello pubiano \u2010 Pico de empuje puberal \u2010 Menarca",
+                    "question": "Mar\u00eda concurre con su hija Bel\u00e9n de 8 a\u00f1os a la consulta. La madre refiere que una prima se desarroll\u00f3 precozmente y est\u00e1 preocupada por saber si Bel\u00e9n est\u00e1 teniendo un desarrollo puberal normal. \u00bfCu\u00e1l es la secuencia de desarrollo puberal considerada normal en una ni\u00f1a? ",
+                    "options": {
+                        "a": "Vello pubiano \u2010 Bot\u00f3n mamario \u2010 Menarca \u2010 Pico de empuje puberal",
+                        "b": "Bot\u00f3n mamario \u2010 Vello pubiano \u2010 Menarca \u2010 Pico de empuje puberal",
+                        "c": "Vello pubiano \u2010 Pico de empuje puberal \u2010 Bot\u00f3n mamario \u2010 Menarca",
+                        "d": "Bot\u00f3n mamario \u2010 Vello pubiano \u2010 Pico de empuje puberal \u2010 Menarca"
+                    },
+                    "id": "d6cd333f-71f4-4a87-ac4a-60a5bf609db1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 34,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "52) Un adolescente de 15 a\u00f1os es examinado despu\u00e9s de 24hs de dolor abdominal, c\u00f3lico y un \nepisodio de diarrea. No refiere anorexia, v\u00f3mitos ni fiebre. El examen f\u00edsico revela un leve \ndolor abdominal difuso a la palpaci\u00f3n abdominal sin defensa ni rebote, ruidos hidroaereos \nconservados. No se observa hepatoesplenomegalia y presenta un estadio de Tanner 1. Usted \ndiagnostica una gastroenteritis aguda. \u00bfCu\u00e1l de las siguientes es la raz\u00f3n m\u00e1s apropiada para \nreevaluar a este adolescente despu\u00e9s del cuadro agudo? \n a) Revisar su estado nutricional \n b) Realizar serolog\u00eda para hepatitis A \n c) Evaluar su contexto psicosocial y condiciones higi\u00e9nicas en domicilio. \n d) Iniciar evaluaci\u00f3n por ausencia de signos puberales",
+                    "question": "Un adolescente de 15 a\u00f1os es examinado despu\u00e9s de 24hs de dolor abdominal, c\u00f3lico y un episodio de diarrea. No refiere anorexia, v\u00f3mitos ni fiebre. El examen f\u00edsico revela un leve dolor abdominal difuso a la palpaci\u00f3n abdominal sin defensa ni rebote, ruidos hidroaereos conservados. No se observa hepatoesplenomegalia y presenta un estadio de Tanner 1. Usted diagnostica una gastroenteritis aguda. \u00bfCu\u00e1l de las siguientes es la raz\u00f3n m\u00e1s apropiada para reevaluar a este adolescente despu\u00e9s del cuadro agudo? ",
+                    "options": {
+                        "a": "Revisar su estado nutricional",
+                        "b": "Realizar serolog\u00eda para hepatitis A",
+                        "c": "Evaluar su contexto psicosocial y condiciones higi\u00e9nicas en domicilio.",
+                        "d": "Iniciar evaluaci\u00f3n por ausencia de signos puberales"
+                    },
+                    "id": "00bc2d34-c4a9-4fc6-9fcb-d8eb52b2169b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 52,
                     "image": "",
                     "discussion": []
                 }
@@ -1041,6 +1098,44 @@
                     "index": 94,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "72) Usted se encuentra en el consultorio y Maia de 18 meses es tra\u00edda por su madre para \ncontrol de salud. Durante la consulta, revisa el carnet de vacunaci\u00f3n y observa que las \u00faltimas \nvacunas aplicadas fueron las de los 15 meses. \u00bfCu\u00e1les debe indicar en este control? \n a) Pentavalente y antigripal. \n b) Pentavalente e IPV . \n c) Pentavalente, IPV, neumococo conjugada 13 valente y antigripal. \n d) Pentavalente, IPV, refuerzo de Meningococo, varicela y antigripal.",
+                    "question": "Usted se encuentra en el consultorio y Maia de 18 meses es tra\u00edda por su madre para control de salud. Durante la consulta, revisa el carnet de vacunaci\u00f3n y observa que las \u00faltimas vacunas aplicadas fueron las de los 15 meses. \u00bfCu\u00e1les debe indicar en este control? ",
+                    "options": {
+                        "a": "Pentavalente y antigripal.",
+                        "b": "Pentavalente e IPV .",
+                        "c": "Pentavalente, IPV, neumococo conjugada 13 valente y antigripal.",
+                        "d": "Pentavalente, IPV, refuerzo de Meningococo, varicela y antigripal."
+                    },
+                    "id": "bb70ae13-fceb-4ff5-aaca-dabe72f7fc55",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 72,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "75) Paciente masculino de 8 meses de vida, previamente sano, concurre a control de salud con \ncarnet de vacunaci\u00f3n en donde se constatan aplicaciones de BCG, hepatitis B, neumococo \nconjugada (2 dosis), pentavalente (2 dosis), IPV (2 dosis), meningococo ACYW (2 dosis), \nrotavirus (1 dosis). Ante la evidencia de carnet de vacunaci\u00f3n nacional y obligatorio \nincompleto \u00bfqu\u00e9 vacunas indicar\u00eda en este caso? \n a) Pentavalente e IPV \n b) Rotavirus, pentavalente e IPV \n c) IPV y rotavirus \n d) Hepatitis A, pentavalente e IPV",
+                    "question": "Paciente masculino de 8 meses de vida, previamente sano, concurre a control de salud con carnet de vacunaci\u00f3n en donde se constatan aplicaciones de BCG, hepatitis B, neumococo conjugada (2 dosis), pentavalente (2 dosis), IPV (2 dosis), meningococo ACYW (2 dosis), rotavirus (1 dosis). Ante la evidencia de carnet de vacunaci\u00f3n nacional y obligatorio incompleto \u00bfqu\u00e9 vacunas indicar\u00eda en este caso? ",
+                    "options": {
+                        "a": "Pentavalente e IPV",
+                        "b": "Rotavirus, pentavalente e IPV",
+                        "c": "IPV y rotavirus",
+                        "d": "Hepatitis A, pentavalente e IPV"
+                    },
+                    "id": "2790b798-1030-4343-985b-3e8cf1af071f",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 75,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Vacunas: Solamente para CHICOS PEDIATRICOS",
@@ -1109,6 +1204,44 @@
                     "index": 90,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "31) Leonel de 6 meses que es tra\u00eddo a la guardia por su madre de 22 a\u00f1os por presentar 2 picos \nde fiebre en las \u00faltimas 12 horas, buen \u00e1nimo salvo cuando le sube la temperatura que se \nencuentra algo deca\u00eddo. Cuando revisa al bebe se encuentra en buen estado general sin foco \ninfeccioso claro, solicita una orina completa con sedimento con t\u00e9cnica est\u00e9ril. Se obtiene \ncomo datos positivos: PH:6, Densidad 1020; Nitritos ++; Esterasa leucocitaria ++ Leucocitos 25 \nx campo. Con estos resultados \u00bfqu\u00e9 decisiones adopta? \n a) Aguardar resultados de urocultivo para comenzar con antibi\u00f3tico terapia \n b) Repetir la muestra ya que la asume como contaminada \n c) Realizar urocultivo y comenzar con antibi\u00f3tico v\u00eda oral \n d) Internar al bebe, realizar urocultivo y comenzar con antibi\u00f3tico endovenoso",
+                    "question": "Leonel de 6 meses que es tra\u00eddo a la guardia por su madre de 22 a\u00f1os por presentar 2 picos de fiebre en las \u00faltimas 12 horas, buen \u00e1nimo salvo cuando le sube la temperatura que se encuentra algo deca\u00eddo. Cuando revisa al bebe se encuentra en buen estado general sin foco infeccioso claro, solicita una orina completa con sedimento con t\u00e9cnica est\u00e9ril. Se obtiene como datos positivos: PH:6, Densidad 1020; Nitritos ++; Esterasa leucocitaria ++ Leucocitos 25 x campo. Con estos resultados \u00bfqu\u00e9 decisiones adopta? ",
+                    "options": {
+                        "a": "Aguardar resultados de urocultivo para comenzar con antibi\u00f3tico terapia",
+                        "b": "Repetir la muestra ya que la asume como contaminada",
+                        "c": "Realizar urocultivo y comenzar con antibi\u00f3tico v\u00eda oral",
+                        "d": "Internar al bebe, realizar urocultivo y comenzar con antibi\u00f3tico endovenoso"
+                    },
+                    "id": "2f9d1fd2-5fac-4c8b-ab7d-229a35002474",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 31,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "74) Concurre al consultorio para control de salud Catalina de 2 a\u00f1os. Ante la pregunta sobre \nintercurrencias, la mam\u00e1 menciona que recibi\u00f3 antibi\u00f3tico v\u00eda oral por presentar este mes, \nuna ITU (primer episodio) con rescate en urocultivo de E. Coli con >100000 UFC. Trae ya \nrealizada una ecograf\u00eda renal que es normal.\u00bfCu\u00e1l es la conducta adecuada en este caso? \n a) Solicitar nuevo urocultivo control. \n b) Solicitar cistouretrograf\u00eda retr\u00f3grada miccional. \n c) Dar pautas de alarma y no solicitar otro estudio complementario. \n d) Solicitar centellograma renal con DMSA. \n15",
+                    "question": "Concurre al consultorio para control de salud Catalina de 2 a\u00f1os. Ante la pregunta sobre intercurrencias, la mam\u00e1 menciona que recibi\u00f3 antibi\u00f3tico v\u00eda oral por presentar este mes, una ITU (primer episodio) con rescate en urocultivo de E. Coli con >100000 UFC. Trae ya realizada una ecograf\u00eda renal que es normal.\u00bfCu\u00e1l es la conducta adecuada en este caso? ",
+                    "options": {
+                        "a": "Solicitar nuevo urocultivo control.",
+                        "b": "Solicitar cistouretrograf\u00eda retr\u00f3grada miccional.",
+                        "c": "Dar pautas de alarma y no solicitar otro estudio complementario.",
+                        "d": "Solicitar centellograma renal con DMSA."
+                    },
+                    "id": "d06d7745-c009-43b4-83fa-3f1865dbfd09",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 74,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Infeccion urinaria: Tanto alta como baja, recurrente, como se estudia (ecografia, cistouretrografia, centellogragia, etc)",
@@ -1159,6 +1292,25 @@
                     },
                     "answer": "b",
                     "index": 29,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "93) \u00bfC\u00f3mo realizar\u00eda el diagn\u00f3stico de una exacerbaci\u00f3n aguda de asma en un paciente \npedi\u00e1trico? \n a) Con una radiograf\u00eda de t\u00f3rax \n b) Con una ecograf\u00eda pleural \n c) Con un examen cl\u00ednico \n d) Con una espirometr\u00eda",
+                    "question": "\u00bfC\u00f3mo realizar\u00eda el diagn\u00f3stico de una exacerbaci\u00f3n aguda de asma en un paciente pedi\u00e1trico? ",
+                    "options": {
+                        "a": "Con una radiograf\u00eda de t\u00f3rax",
+                        "b": "Con una ecograf\u00eda pleural",
+                        "c": "Con un examen cl\u00ednico",
+                        "d": "Con una espirometr\u00eda"
+                    },
+                    "id": "90cc2828-1fdc-4904-b4f1-5aba7d9fc18d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 93,
                     "image": "",
                     "discussion": []
                 }
@@ -1264,6 +1416,25 @@
                     "index": 86,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "55) Julio de 8 a\u00f1os, sin antecedentes patol\u00f3gicos de importancia, con diagn\u00f3stico de neumon\u00eda \naguda de la comunidad (NAC) realizado hace 36 horas; se encuentra en tratamiento con \namoxicilina a dosis correcta y adecuada adherencia, consulta nuevamente a la guardia porque \nrefiere continuar con los s\u00edntomas. Al examen f\u00edsico e interrogatorio, no se constata cambio \ncl\u00ednico. \u00bfCu\u00e1l es la conducta adecuada? \n a) Internar al paciente para tratamiento antibi\u00f3tico endovenoso. \n b) Rotar tratamiento antibi\u00f3tico \n c) Continuar el mismo tratamiento y citar a control en 24 horas para revaloraci\u00f3n \n d) Realizar nueva Radiograf\u00eda de t\u00f3rax",
+                    "question": "Julio de 8 a\u00f1os, sin antecedentes patol\u00f3gicos de importancia, con diagn\u00f3stico de neumon\u00eda aguda de la comunidad (NAC) realizado hace 36 horas; se encuentra en tratamiento con amoxicilina a dosis correcta y adecuada adherencia, consulta nuevamente a la guardia porque refiere continuar con los s\u00edntomas. Al examen f\u00edsico e interrogatorio, no se constata cambio cl\u00ednico. \u00bfCu\u00e1l es la conducta adecuada? ",
+                    "options": {
+                        "a": "Internar al paciente para tratamiento antibi\u00f3tico endovenoso.",
+                        "b": "Rotar tratamiento antibi\u00f3tico",
+                        "c": "Continuar el mismo tratamiento y citar a control en 24 horas para revaloraci\u00f3n",
+                        "d": "Realizar nueva Radiograf\u00eda de t\u00f3rax"
+                    },
+                    "id": "ec95ad79-2f65-4e23-90a1-796b5947aefc",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 55,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Neumonia: De cualquier evolucion, etiologia (Bacteriana, viral, covid, fungica, etc.)"
@@ -1356,6 +1527,25 @@
                             "id": "b25daa63-a5cd-4fcf-a6c0-4ab73bbc6252"
                         }
                     ]
+                },
+                {
+                    "question_complete": "89) Hern\u00e1n de 5 a\u00f1os de edad, es tra\u00eddo por su padre, con quien convive. Al pap\u00e1 le han \ndiagnosticado Tuberculosis hace 1 semana y ha iniciado tratamiento con HRZE. Usted solicit\u00f3 \nestudios complementarios para Hern\u00e1n, que arrojaron los siguientes resultados: PPD de 2 mm, \nRadiograf\u00eda de t\u00f3rax sin infiltrados. Al interrogatorio, niega tos, fiebre, p\u00e9rdida de peso y \nsudoraci\u00f3n nocturna. \u00bfCu\u00e1l es su conducta? \n a) Indica Isoniacida \n b) Indica Rifampicina \n c) Indica Isoniacida y Rifampicina \n d) Control con PPD y radiograf\u00eda de t\u00f3rax en 1 mes.",
+                    "question": "Hern\u00e1n de 5 a\u00f1os de edad, es tra\u00eddo por su padre, con quien convive. Al pap\u00e1 le han diagnosticado Tuberculosis hace 1 semana y ha iniciado tratamiento con HRZE. Usted solicit\u00f3 estudios complementarios para Hern\u00e1n, que arrojaron los siguientes resultados: PPD de 2 mm, Radiograf\u00eda de t\u00f3rax sin infiltrados. Al interrogatorio, niega tos, fiebre, p\u00e9rdida de peso y sudoraci\u00f3n nocturna. \u00bfCu\u00e1l es su conducta? ",
+                    "options": {
+                        "a": "Indica Isoniacida",
+                        "b": "Indica Rifampicina",
+                        "c": "Indica Isoniacida y Rifampicina",
+                        "d": "Control con PPD y radiograf\u00eda de t\u00f3rax en 1 mes."
+                    },
+                    "id": "5124509f-bc97-4419-843f-7983226b4a85",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 89,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -1560,6 +1750,25 @@
                     },
                     "answer": "d",
                     "index": 61,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "45) Abril de 6 meses concurre a guardia por: fiebre, tos de 5 d\u00edas de evoluci\u00f3n; al examen f\u00edsico \nse objetiva fiebre de 37.9 tiraje subcostal e intercostal, sibilancias espiratorias, FR 56 por \nminuto y FC 148 latidos por minuto. Usted hace un diagn\u00f3stico presuntivo de bronquiolitis. \n\u00bfcu\u00e1l ser\u00eda la conducta terap\u00e9utica a tomar? \n a) Suspender la lactancia e indicar hidrataci\u00f3n endovenosa \n b) Colocar ampicilina endovenosa y Salbutamol \n c) Indicar Salbutamol y corticoide. \n d) Colocar ox\u00edgeno en caso de hipoxemia e intentar continuar la alimentaci\u00f3n v\u00eda oral.",
+                    "question": "Abril de 6 meses concurre a guardia por: fiebre, tos de 5 d\u00edas de evoluci\u00f3n; al examen f\u00edsico se objetiva fiebre de 37.9 tiraje subcostal e intercostal, sibilancias espiratorias, FR 56 por minuto y FC 148 latidos por minuto. Usted hace un diagn\u00f3stico presuntivo de bronquiolitis. \u00bfcu\u00e1l ser\u00eda la conducta terap\u00e9utica a tomar? ",
+                    "options": {
+                        "a": "Suspender la lactancia e indicar hidrataci\u00f3n endovenosa",
+                        "b": "Colocar ampicilina endovenosa y Salbutamol",
+                        "c": "Indicar Salbutamol y corticoide.",
+                        "d": "Colocar ox\u00edgeno en caso de hipoxemia e intentar continuar la alimentaci\u00f3n v\u00eda oral."
+                    },
+                    "id": "1232f7b7-c716-4934-9564-d2b1ab5329a4",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 45,
                     "image": "",
                     "discussion": []
                 }
@@ -1780,6 +1989,44 @@
                     "index": 21,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "23) \u00bfEn cu\u00e1l de los siguientes casos usted debe indicar continuar la lactancia materna? \n a) Galactosemia del reci\u00e9n nacido \n b) Mastitis unilateral \n c) Virus de la inmunodeficiencia humana (VIH) materno \n d) Tuberculosis activa materna",
+                    "question": "\u00bfEn cu\u00e1l de los siguientes casos usted debe indicar continuar la lactancia materna? ",
+                    "options": {
+                        "a": "Galactosemia del reci\u00e9n nacido",
+                        "b": "Mastitis unilateral",
+                        "c": "Virus de la inmunodeficiencia humana (VIH) materno",
+                        "d": "Tuberculosis activa materna"
+                    },
+                    "id": "4782585b-329d-4e9c-b723-f23bc279af19",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 23,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "48) Usted se encuentra en la consulta junto con Mateo de 15 d\u00edas de vida y su mam\u00e1. La mam\u00e1 \nest\u00e1 preocupada porque cree que su beb\u00e9, que se alimenta con pecho materno exclusivo, se \nqueda con hambre. Mateo es un lactante producto de embarazo controlado, RN de 37 \nsemanas/peso 3100 gr, alta conjunta a las 48 hs, con un progreso de peso de 27gr/d. \u00bfCu\u00e1l de \nlas siguientes conductas usted debe tomar en primera instancia? \n a) Contin\u00faa con la lactancia e indica f\u00f3rmula de inicio como complemento. \n b) Contraindica transitoriamente la lactancia e indica f\u00f3rmula de inicio. \n c) Eval\u00faa la t\u00e9cnica de lactancia y sugiere continuar con pecho materno exclusivo. \n d) Solicita laboratorio y sedimento urinario. \n10",
+                    "question": "Usted se encuentra en la consulta junto con Mateo de 15 d\u00edas de vida y su mam\u00e1. La mam\u00e1 est\u00e1 preocupada porque cree que su beb\u00e9, que se alimenta con pecho materno exclusivo, se queda con hambre. Mateo es un lactante producto de embarazo controlado, RN de 37 semanas/peso 3100 gr, alta conjunta a las 48 hs, con un progreso de peso de 27gr/d. \u00bfCu\u00e1l de las siguientes conductas usted debe tomar en primera instancia? ",
+                    "options": {
+                        "a": "Contin\u00faa con la lactancia e indica f\u00f3rmula de inicio como complemento.",
+                        "b": "Contraindica transitoriamente la lactancia e indica f\u00f3rmula de inicio.",
+                        "c": "Eval\u00faa la t\u00e9cnica de lactancia y sugiere continuar con pecho materno exclusivo.",
+                        "d": "Solicita laboratorio y sedimento urinario."
+                    },
+                    "id": "e3e0f422-b6fe-46e8-85aa-4ad1e1f6cb35",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 48,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Lactancia: Entra tanto la tecnica de amamantacion, como la intolerancia a la leche de vaca, alergia a la proteina de vaca, etc.",
@@ -1864,6 +2111,25 @@
                     },
                     "answer": "b",
                     "index": 11,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "13) Bastian, de 4 meses de vida, nacido a t\u00e9rmino con peso adecuado para la edad gestacional, \ncomienza a manifestar cianosis de mucosas, manos y pies. Al examen f\u00edsico, lo valora durante \nllanto, en regular estado general con aumento de su cianosis. A la auscultaci\u00f3n cardiol\u00f3gica, \npresenta soplo sist\u00f3lico eyectivo intenso y \u00e1spero, en borde esternal izquierdo. \u00bfCu\u00e1l es su \nsospecha diagn\u00f3stica? \n a) CIV grande \n b) Tetralog\u00eda de Fallot \n c) Transposici\u00f3n de los grandes vasos \n d) Ductus arterioso persistente",
+                    "question": "Bastian, de 4 meses de vida, nacido a t\u00e9rmino con peso adecuado para la edad gestacional, comienza a manifestar cianosis de mucosas, manos y pies. Al examen f\u00edsico, lo valora durante llanto, en regular estado general con aumento de su cianosis. A la auscultaci\u00f3n cardiol\u00f3gica, presenta soplo sist\u00f3lico eyectivo intenso y \u00e1spero, en borde esternal izquierdo. \u00bfCu\u00e1l es su sospecha diagn\u00f3stica? ",
+                    "options": {
+                        "a": "CIV grande",
+                        "b": "Tetralog\u00eda de Fallot",
+                        "c": "Transposici\u00f3n de los grandes vasos",
+                        "d": "Ductus arterioso persistente"
+                    },
+                    "id": "7bac8849-733e-4b39-bc38-9ebcbf376693",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 13,
                     "image": "",
                     "discussion": []
                 }
@@ -2561,6 +2827,25 @@
                     "index": 67,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "17) En el caso de la epistaxis en pediatr\u00eda se debe realizar laboratorio \u00bfEn qu\u00e9 escenario cl\u00ednico \nes necesario realizar laboratorio ante un caso de epistaxis en pediatria? \n a) Ni\u00f1os con epistaxis graves o recurrentes (sin causa local que las explique). \n b) En ni\u00f1os que sufieron un traumatismo nasal. \n c) Si es el primer episodio \n d) Si se sospecha infecci\u00f3n viral",
+                    "question": "En el caso de la epistaxis en pediatr\u00eda se debe realizar laboratorio \u00bfEn qu\u00e9 escenario cl\u00ednico es necesario realizar laboratorio ante un caso de epistaxis en pediatria? ",
+                    "options": {
+                        "a": "Ni\u00f1os con epistaxis graves o recurrentes (sin causa local que las explique).",
+                        "b": "En ni\u00f1os que sufieron un traumatismo nasal.",
+                        "c": "Si es el primer episodio",
+                        "d": "Si se sospecha infecci\u00f3n viral"
+                    },
+                    "id": "de12e143-c694-45aa-9dae-77370943fe72",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 17,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "ORL: Entra sinusitis, laringitis, amigdalas, epiglotitis...",
@@ -2915,6 +3200,25 @@
                     "index": 1,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "3) En cuanto a la profilaxis del haemofilus influenzae por un caso de meningitis en una \nguarderia, marque lo correcto: \u00bfQui\u00e9nes deben recibir la profilaxis del haemofilus influenzae \nante un caso de meningitis en un jard\u00edn maternal? \n a) Todos los contactos cercanos menores de 4 a\u00f1os, aunque posean vacunaci\u00f3n completa \n b) Los contactos cercanos menores de 4 a\u00f1os con vacunaci\u00f3n incompleta \n c) Todos contactos cercanos con vacunaci\u00f3n incompleta \n d) Todos los contactos cercanos, aunque posean vacunaci\u00f3n completa",
+                    "question": "En cuanto a la profilaxis del haemofilus influenzae por un caso de meningitis en una guarderia, marque lo correcto: \u00bfQui\u00e9nes deben recibir la profilaxis del haemofilus influenzae ante un caso de meningitis en un jard\u00edn maternal? ",
+                    "options": {
+                        "a": "Todos los contactos cercanos menores de 4 a\u00f1os, aunque posean vacunaci\u00f3n completa",
+                        "b": "Los contactos cercanos menores de 4 a\u00f1os con vacunaci\u00f3n incompleta",
+                        "c": "Todos contactos cercanos con vacunaci\u00f3n incompleta",
+                        "d": "Todos los contactos cercanos, aunque posean vacunaci\u00f3n completa"
+                    },
+                    "id": "5c0ef28a-4558-4b5b-a9f9-06439d02bd2b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 3,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Meningitis: De cualquier causa (bacteriana, viral, micotica, TBC, etc)"
@@ -3089,6 +3393,44 @@
                     },
                     "answer": "a",
                     "index": 13,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "67) Luz de 1 mes y medio de edad, RNT/PAEG, concurre a consulta con su madre por v\u00f3mitos \nde contenido alimentario. Usted valora peso de 5,500 kg (pc 50\u201075), con adecuado progreso \nde peso desde el nacimiento. Al interrogatorio, la madre refiere que los v\u00f3mitos son escasos, \nluego de la toma de pecho. \u00bfCu\u00e1l es el diagn\u00f3stico m\u00e1s probable? \n a) V\u00f3lvulo intestinal \n b) Estenosis hipertr\u00f3fica del p\u00edloro \n c) Enfermedad por reflujo gastroesof\u00e1gico \n d) Reflujo gastroesof\u00e1gico fisiol\u00f3gico",
+                    "question": "Luz de 1 mes y medio de edad, RNT/PAEG, concurre a consulta con su madre por v\u00f3mitos de contenido alimentario. Usted valora peso de 5,500 kg (pc 50\u201075), con adecuado progreso de peso desde el nacimiento. Al interrogatorio, la madre refiere que los v\u00f3mitos son escasos, luego de la toma de pecho. \u00bfCu\u00e1l es el diagn\u00f3stico m\u00e1s probable? ",
+                    "options": {
+                        "a": "V\u00f3lvulo intestinal",
+                        "b": "Estenosis hipertr\u00f3fica del p\u00edloro",
+                        "c": "Enfermedad por reflujo gastroesof\u00e1gico",
+                        "d": "Reflujo gastroesof\u00e1gico fisiol\u00f3gico"
+                    },
+                    "id": "62e772ce-f0ea-4779-9bc3-2dedf59e266d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 67,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "96) Gael de 12 meses de edad es tra\u00eddo a la guardia por presentar llanto inconsolable y dolor \nabdominal intermitente asociada a v\u00f3mitos biliosos. Al realizar el examen f\u00edsico, se encuentra \nirritable, p\u00e1lido, sudoroso, con abdomen blando y flexi\u00f3n de las piernas. En el pa\u00f1al se observa \n1 deposici\u00f3n sanguinolenta. \u00bfCu\u00e1l es el diagn\u00f3stico presuntivo? \n a) Invaginaci\u00f3n intestinal \n b) Apendicitis aguda \n c) Sangrado proveniente del divert\u00edculo de Meckel \n d) Gastroenteritis aguda con disenter\u00eda \n20",
+                    "question": "Gael de 12 meses de edad es tra\u00eddo a la guardia por presentar llanto inconsolable y dolor abdominal intermitente asociada a v\u00f3mitos biliosos. Al realizar el examen f\u00edsico, se encuentra irritable, p\u00e1lido, sudoroso, con abdomen blando y flexi\u00f3n de las piernas. En el pa\u00f1al se observa 1 deposici\u00f3n sanguinolenta. \u00bfCu\u00e1l es el diagn\u00f3stico presuntivo? ",
+                    "options": {
+                        "a": "Invaginaci\u00f3n intestinal",
+                        "b": "Apendicitis aguda",
+                        "c": "Sangrado proveniente del divert\u00edculo de Meckel",
+                        "d": "Gastroenteritis aguda con disenter\u00eda"
+                    },
+                    "id": "ed697be1-4d54-4c76-bd96-d2964d2dfedb",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 96,
                     "image": "",
                     "discussion": []
                 }
@@ -3346,6 +3688,44 @@
                     "index": 69,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "14) Bruno, 10 meses, es tra\u00eddo a la consulta por diarrea de 5 d\u00edas de duraci\u00f3n. Sin signos de \nalarma, normohidratado. Desde hace 4 meses, ha tenido episodios similares. Ud sospecha \ns\u00edndrome de malabsorci\u00f3n. \u00bfCu\u00e1l ser\u00eda su conducta inicial? \n a) Eliminar gluten de la dieta y seguimiento en 15 d\u00edas, con adecuado control de signos de \nalarma \n b) Continuar su dieta habitual y solicitar hemograma, sangre oculta en materia fecal y \ncoprocultivo. \n c) Continuar su dieta habitual y solicitar hemograma, coproparasitol\u00f3gico en fresco y seriado, \nIgA total e IgA anti\u2010transglutaminasa. \n d) Eliminar gluten de la dieta y solicitar glucemia, creatinina y coproparasitol\u00f3gico \n",
+                    "question": "Bruno, 10 meses, es tra\u00eddo a la consulta por diarrea de 5 d\u00edas de duraci\u00f3n. Sin signos de alarma, normohidratado. Desde hace 4 meses, ha tenido episodios similares. Ud sospecha s\u00edndrome de malabsorci\u00f3n. \u00bfCu\u00e1l ser\u00eda su conducta inicial? ",
+                    "options": {
+                        "a": "Eliminar gluten de la dieta y seguimiento en 15 d\u00edas, con adecuado control de signos de  alarma",
+                        "b": "Continuar su dieta habitual y solicitar hemograma, sangre oculta en materia fecal y  coprocultivo.",
+                        "c": "Continuar su dieta habitual y solicitar hemograma, coproparasitol\u00f3gico en fresco y seriado,  IgA total e IgA anti\u2010transglutaminasa.",
+                        "d": "Eliminar gluten de la dieta y solicitar glucemia, creatinina y coproparasitol\u00f3gico"
+                    },
+                    "id": "7101dfcf-e079-44c5-a4e6-9540e8e67eca",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 14,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "85) Eugenia, de 1 a\u00f1o de edad, presenta deposiciones desligadas abundantes sin moco ni \nsangre. Al examen f\u00edsico, presenta mucosas h\u00famedas, frecuencia card\u00edaca de 100 lpm. \u00daltima \ndiuresis hace una hora. Presenta buena tolerancia a la v\u00eda oral. Signo del pliegue negativo. \n\u00bfCu\u00e1l es el tratamiento inicial adecuado? \n a) Soluci\u00f3n polielectrol\u00edtica endovenosa hasta normohidrataci\u00f3n \n b) Sales de rehidrataci\u00f3n oral luego de cada deposici\u00f3n \n c) Metronidazol 30 mg/kg/d\u00eda por 5 d\u00edas \n d) Dieta hipofermentativa hasta mejor\u00eda de los s\u00edntomas",
+                    "question": "Eugenia, de 1 a\u00f1o de edad, presenta deposiciones desligadas abundantes sin moco ni sangre. Al examen f\u00edsico, presenta mucosas h\u00famedas, frecuencia card\u00edaca de 100 lpm. \u00daltima diuresis hace una hora. Presenta buena tolerancia a la v\u00eda oral. Signo del pliegue negativo. \u00bfCu\u00e1l es el tratamiento inicial adecuado? ",
+                    "options": {
+                        "a": "Soluci\u00f3n polielectrol\u00edtica endovenosa hasta normohidrataci\u00f3n",
+                        "b": "Sales de rehidrataci\u00f3n oral luego de cada deposici\u00f3n",
+                        "c": "Metronidazol 30 mg/kg/d\u00eda por 5 d\u00edas",
+                        "d": "Dieta hipofermentativa hasta mejor\u00eda de los s\u00edntomas"
+                    },
+                    "id": "3aa696a7-6f62-4bab-ad35-18ead239e47d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 85,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Diarrea: De cualquier tipo (malabsortiva, osmotica, disenteria), de cualquier evolucion (aguda, subaguda o cronica), de cualquier etiologia (bacteriana, viral, parasitaria, inmunologica como celiaquia)",
@@ -3563,6 +3943,25 @@
                     "index": 16,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "73) Consulta a la guardia Julia de 14 a\u00f1os presentando hematomas espont\u00e1neos, astenia y \nepistaxis de 1 semana de evoluci\u00f3n. Laboratorio: Hto 25%, Hb 7.5 g/dL, leucocitos 1.500/mm3 \n(N 30%, L 20%, Blastos 50%), plaquetas 30.000/mm3, hipofibrinogenemia. \u00bfCu\u00e1l es su principal \nsospecha diagn\u00f3stica? \n a) Leucemia Aguda \n b) S\u00edndrome mielodispl\u00e1sico \n c) Anemia megalobl\u00e1stica \n d) Aplasia medular",
+                    "question": "Consulta a la guardia Julia de 14 a\u00f1os presentando hematomas espont\u00e1neos, astenia y epistaxis de 1 semana de evoluci\u00f3n. Laboratorio: Hto 25%, Hb 7.5 g/dL, leucocitos 1.500/mm3 (N 30%, L 20%, Blastos 50%), plaquetas 30.000/mm3, hipofibrinogenemia. \u00bfCu\u00e1l es su principal sospecha diagn\u00f3stica? ",
+                    "options": {
+                        "a": "Leucemia Aguda",
+                        "b": "S\u00edndrome mielodispl\u00e1sico",
+                        "c": "Anemia megalobl\u00e1stica",
+                        "d": "Aplasia medular"
+                    },
+                    "id": "2aa3a14c-0a6f-4e01-bcf7-512ba9afe6ce",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 73,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Hematologia: Tanto como anemias, purpuras, leucemias, etc",
@@ -3697,6 +4096,25 @@
                     },
                     "answer": "c",
                     "index": 96,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "69) Natalia de 7 a\u00f1os de edad, es tra\u00edda a la guardia por presentar lesiones en la piel de \nreciente comienzo. Las mismas son de color rojo viol\u00e1ceo, palpables, de aproximadamente 3 \na 5 mm y se distribuyen en miembros inferiores hasta alcanzar el abdomen. Hace 2 semanas \ntuvo odinofagia que resolvi\u00f3 con analg\u00e9sicos. Usted decide realizar un laboratorio con \ncoagulograma, hemograma y funci\u00f3n renal, cuyos resultados son normales. \u00bfCu\u00e1l es el \ndiagn\u00f3stico presuntivo? \n a) Enfermedad oncohematol\u00f3gica \n b) P\u00farpura de Schoenlein Henoch \n c) P\u00farpura Trombocitop\u00e9nica Idiop\u00e1tica \n d) Edema agudo hemorr\u00e1gico \n14",
+                    "question": "Natalia de 7 a\u00f1os de edad, es tra\u00edda a la guardia por presentar lesiones en la piel de reciente comienzo. Las mismas son de color rojo viol\u00e1ceo, palpables, de aproximadamente 3 a 5 mm y se distribuyen en miembros inferiores hasta alcanzar el abdomen. Hace 2 semanas tuvo odinofagia que resolvi\u00f3 con analg\u00e9sicos. Usted decide realizar un laboratorio con coagulograma, hemograma y funci\u00f3n renal, cuyos resultados son normales. \u00bfCu\u00e1l es el diagn\u00f3stico presuntivo? ",
+                    "options": {
+                        "a": "Enfermedad oncohematol\u00f3gica",
+                        "b": "P\u00farpura de Schoenlein Henoch",
+                        "c": "P\u00farpura Trombocitop\u00e9nica Idiop\u00e1tica",
+                        "d": "Edema agudo hemorr\u00e1gico"
+                    },
+                    "id": "61b4f928-6113-4464-bb15-40b71650ecc2",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 69,
                     "image": "",
                     "discussion": []
                 }
@@ -4127,6 +4545,44 @@
                     "index": 9,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "44) Santino de 8 a\u00f1os presenta dolor en ambos miembros inferiores, el dolor data de varios \nmeses de evoluci\u00f3n. El mismo se manifiesta al final del d\u00eda, inclusive lo ha despertado durante \nla noche. Ocurre 1 a 2 veces por semana y se localiza a nivel de las masas musculares y a veces \nse asemeja a calambres o pinchazos. Calma habitualmente en 10 minutos con masajes. El \nestado general es bueno, se presenta afebril, eutr\u00f3fico y su examen f\u00edsico es normal. Frente a \neste cuadro. \u00bfCu\u00e1l es el diagn\u00f3stico presuntivo? \n a) Artritis s\u00e9ptica \n b) Sinovitis \n c) Dolores de crecimiento \n d) Enfermedad de Perthes",
+                    "question": "Santino de 8 a\u00f1os presenta dolor en ambos miembros inferiores, el dolor data de varios meses de evoluci\u00f3n. El mismo se manifiesta al final del d\u00eda, inclusive lo ha despertado durante la noche. Ocurre 1 a 2 veces por semana y se localiza a nivel de las masas musculares y a veces se asemeja a calambres o pinchazos. Calma habitualmente en 10 minutos con masajes. El estado general es bueno, se presenta afebril, eutr\u00f3fico y su examen f\u00edsico es normal. Frente a este cuadro. \u00bfCu\u00e1l es el diagn\u00f3stico presuntivo? ",
+                    "options": {
+                        "a": "Artritis s\u00e9ptica",
+                        "b": "Sinovitis",
+                        "c": "Dolores de crecimiento",
+                        "d": "Enfermedad de Perthes"
+                    },
+                    "id": "8025e9c9-54f5-4130-97a2-c83364a40107",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 44,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "90) Pedro de 7 a\u00f1os de edad es tra\u00eddo a la consulta por presentar dolor e impotencia funcional \ndel miembro inferior derecho de dos d\u00edas de evoluci\u00f3n. Al examen f\u00edsico se encuentra febril, \ncon restricci\u00f3n y dolor al movimiento de la cadera, acompa\u00f1ado de sensibilidad en la parte \nsuperior de la misma. Se realizan una radiograf\u00eda y ecograf\u00eda de cadera que muestran \ndesplazamiento lateral de la cabeza femoral con contenido l\u00edquido en la articulaci\u00f3n, el \nlaboratorio presenta leucocitos 30.000 con dosaje de prote\u00edna C reactiva de 200 mg/l. \u00bfCu\u00e1l \nes el diagn\u00f3stico presuntivo? \n a) Artritis s\u00e9ptica \n b) Sinovitis transitoria de cadera \n c) Epifisiolisis. \n d) Osteomielitis del cuello femoral",
+                    "question": "Pedro de 7 a\u00f1os de edad es tra\u00eddo a la consulta por presentar dolor e impotencia funcional del miembro inferior derecho de dos d\u00edas de evoluci\u00f3n. Al examen f\u00edsico se encuentra febril, con restricci\u00f3n y dolor al movimiento de la cadera, acompa\u00f1ado de sensibilidad en la parte superior de la misma. Se realizan una radiograf\u00eda y ecograf\u00eda de cadera que muestran desplazamiento lateral de la cabeza femoral con contenido l\u00edquido en la articulaci\u00f3n, el laboratorio presenta leucocitos 30.000 con dosaje de prote\u00edna C reactiva de 200 mg/l. \u00bfCu\u00e1l es el diagn\u00f3stico presuntivo? ",
+                    "options": {
+                        "a": "Artritis s\u00e9ptica",
+                        "b": "Sinovitis transitoria de cadera",
+                        "c": "Epifisiolisis.",
+                        "d": "Osteomielitis del cuello femoral"
+                    },
+                    "id": "f70c41ed-e192-49e5-8733-31afc2197b4e",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 90,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Traumatologia: Tanto como displasia de caderas, enfermedad de Perthes, Sinovitis transitoria, Epifisiolisis, Osteomielitis, etc",
@@ -4140,7 +4596,27 @@
             ]
         },
         "oncologia": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "73) Consulta a la guardia Julia de 14 a\u00f1os presentando hematomas espont\u00e1neos, astenia y \nepistaxis de 1 semana de evoluci\u00f3n. Laboratorio: Hto 25%, Hb 7.5 g/dL, leucocitos 1.500/mm3 \n(N 30%, L 20%, Blastos 50%), plaquetas 30.000/mm3, hipofibrinogenemia. \u00bfCu\u00e1l es su principal \nsospecha diagn\u00f3stica? \n a) Leucemia Aguda \n b) S\u00edndrome mielodispl\u00e1sico \n c) Anemia megalobl\u00e1stica \n d) Aplasia medular",
+                    "question": "Consulta a la guardia Julia de 14 a\u00f1os presentando hematomas espont\u00e1neos, astenia y epistaxis de 1 semana de evoluci\u00f3n. Laboratorio: Hto 25%, Hb 7.5 g/dL, leucocitos 1.500/mm3 (N 30%, L 20%, Blastos 50%), plaquetas 30.000/mm3, hipofibrinogenemia. \u00bfCu\u00e1l es su principal sospecha diagn\u00f3stica? ",
+                    "options": {
+                        "a": "Leucemia Aguda",
+                        "b": "S\u00edndrome mielodispl\u00e1sico",
+                        "c": "Anemia megalobl\u00e1stica",
+                        "d": "Aplasia medular"
+                    },
+                    "id": "2aa3a14c-0a6f-4e01-bcf7-512ba9afe6ce",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 73,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": "Oncologia: Tumor de Wilms, neuroblastoma, linfoma, leucemia",
             "analogos": [
                 "tumor de wilms",
@@ -4150,7 +4626,27 @@
             ]
         },
         "autismo": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "57) Joel tiene 2 a\u00f1os y presenta algunas conductas que preocupan a su madre porque cree que \ntiene Autismo. Durante el Control de ni\u00f1o Sano \u00bfQu\u00e9 conductas de Joel lo orientar\u00edan a la \nsospecha de Trastorno del espectro autista? \n a) No comparte juego con otros ni\u00f1os y es temeroso a lo desconocido. \n b) Es selectivo al comer e inquieto \n c) Hace berrinches y cuesta conciliar el sue\u00f1o \n d) No responde a su nombre, no hace contacto visual y no habla.",
+                    "question": "Joel tiene 2 a\u00f1os y presenta algunas conductas que preocupan a su madre porque cree que tiene Autismo. Durante el Control de ni\u00f1o Sano \u00bfQu\u00e9 conductas de Joel lo orientar\u00edan a la sospecha de Trastorno del espectro autista? ",
+                    "options": {
+                        "a": "No comparte juego con otros ni\u00f1os y es temeroso a lo desconocido.",
+                        "b": "Es selectivo al comer e inquieto",
+                        "c": "Hace berrinches y cuesta conciliar el sue\u00f1o",
+                        "d": "No responde a su nombre, no hace contacto visual y no habla."
+                    },
+                    "id": "9311af22-19a1-4b5c-bfdc-78bb939350e7",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 57,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": "",
             "analogos": [
                 "tea",
@@ -4170,7 +4666,27 @@
             ]
         },
         "otros": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "61) Concurre a la consulta Ciro 6 meses por lesiones en la regi\u00f3n genital de \n a) Indicar crema con \u00f3xido de zinc y recambio frecuente de pa\u00f1ales. \n b) Indicar clotrimazol crema durante 7 d\u00edas y recambio frecuente de pa\u00f1ales. \n c) Indicar permetrina 5%, tratamiento familiar y cuidado de ropas de cama y toalla. \n d) Indicar hidrocortisona 1% 2 veces por semana durante 10 d\u00edas y recambio frecuente de \npa\u00f1ales.",
+                    "question": "Concurre a la consulta Ciro 6 meses por lesiones en la regi\u00f3n genital de ",
+                    "options": {
+                        "a": "Indicar crema con \u00f3xido de zinc y recambio frecuente de pa\u00f1ales.",
+                        "b": "Indicar clotrimazol crema durante 7 d\u00edas y recambio frecuente de pa\u00f1ales.",
+                        "c": "Indicar permetrina 5%, tratamiento familiar y cuidado de ropas de cama y toalla.",
+                        "d": "Indicar hidrocortisona 1% 2 veces por semana durante 10 d\u00edas y recambio frecuente de  pa\u00f1ales."
+                    },
+                    "id": "f1515ba9-8adf-4afe-a85c-2c63ee251421",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 61,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": "Otros: Mete cualquier tema de PEDIATRIA que NO sepas donde ponerlo"
         },
         "control": {
@@ -4399,6 +4915,25 @@
                     },
                     "answer": "c",
                     "index": 68,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "86) Concurre a la consulta Jaime de 20 meses de edad por lesiones en la piel hace 4 d\u00edas. No \ntuvo fiebre y est\u00e1 en buen estado general. La madre comenta que se rasca mucho, \nespecialmente por la noche. Al examen f\u00edsico observa p\u00e1pulas eritematosas, con algunas \nexcoriaciones por rascado, localizadas en mu\u00f1ecas, tobillos, axilas y genitales. Vive con sus \npadres quienes comenzaron hace un d\u00eda con algunas lesiones similares en la piel. El ni\u00f1o \nconcurre a la guarder\u00eda. \u00bfCu\u00e1l es su conducta m\u00e1s adecuada? \n a) Indicar crema con permetrina al 5% al ni\u00f1o e ivermectina a sus padres \n b) Indicar crema combinada de antibi\u00f3ticos, corticoides y antif\u00fangicos \n c) Indicar hidrocortisona al 1% en las zonas afectadas \n d) Indicar crema combinada de antibi\u00f3ticos e ivermectina a sus padres",
+                    "question": "Concurre a la consulta Jaime de 20 meses de edad por lesiones en la piel hace 4 d\u00edas. No tuvo fiebre y est\u00e1 en buen estado general. La madre comenta que se rasca mucho, especialmente por la noche. Al examen f\u00edsico observa p\u00e1pulas eritematosas, con algunas excoriaciones por rascado, localizadas en mu\u00f1ecas, tobillos, axilas y genitales. Vive con sus padres quienes comenzaron hace un d\u00eda con algunas lesiones similares en la piel. El ni\u00f1o concurre a la guarder\u00eda. \u00bfCu\u00e1l es su conducta m\u00e1s adecuada? ",
+                    "options": {
+                        "a": "Indicar crema con permetrina al 5% al ni\u00f1o e ivermectina a sus padres",
+                        "b": "Indicar crema combinada de antibi\u00f3ticos, corticoides y antif\u00fangicos",
+                        "c": "Indicar hidrocortisona al 1% en las zonas afectadas",
+                        "d": "Indicar crema combinada de antibi\u00f3ticos e ivermectina a sus padres"
+                    },
+                    "id": "43982cc4-4050-4373-bf14-ad2489609782",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 86,
                     "image": "",
                     "discussion": []
                 }
@@ -4776,6 +5311,25 @@
                     "index": 11,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "81) Bel\u00e9n, de 3 a\u00f1os de edad, es tra\u00edda a urgencias por sus padres tras un episodio de ahogo, \ntos y v\u00f3mito postus\u00edgeno, mientras com\u00eda frutos secos. Actualmente se encuentra sin \ndificultad respiratoria. Se ausculta buena entrada de aire, hipoventilaci\u00f3n en campo pulmonar \nizquierdo. Saturaci\u00f3n de 97%. Se realiza radiograf\u00eda de t\u00f3rax que informa atrapamiento a\u00e9reo \nizquierdo y desplazamiento mediastinal a la derecha \u00bfCu\u00e1l es la conducta terap\u00e9utica a seguir? \n a) Indica realizar broncoscopia. \n b) Realiza maniobra de Heimlich. \n c) Indica internaci\u00f3n para observaci\u00f3n durante 24 hs con ayuno y plan de hidrataci\u00f3n \nendovenoso. \n d) Da pautas de alarma y otorga egreso hospitalario.",
+                    "question": "Bel\u00e9n, de 3 a\u00f1os de edad, es tra\u00edda a urgencias por sus padres tras un episodio de ahogo, tos y v\u00f3mito postus\u00edgeno, mientras com\u00eda frutos secos. Actualmente se encuentra sin dificultad respiratoria. Se ausculta buena entrada de aire, hipoventilaci\u00f3n en campo pulmonar izquierdo. Saturaci\u00f3n de 97%. Se realiza radiograf\u00eda de t\u00f3rax que informa atrapamiento a\u00e9reo izquierdo y desplazamiento mediastinal a la derecha \u00bfCu\u00e1l es la conducta terap\u00e9utica a seguir? ",
+                    "options": {
+                        "a": "Indica realizar broncoscopia.",
+                        "b": "Realiza maniobra de Heimlich.",
+                        "c": "Indica internaci\u00f3n para observaci\u00f3n durante 24 hs con ayuno y plan de hidrataci\u00f3n  endovenoso.",
+                        "d": "Da pautas de alarma y otorga egreso hospitalario."
+                    },
+                    "id": "7acfeaf0-4b0e-461b-ab1b-dbb7501b2b3a",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 81,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -5115,6 +5669,25 @@
                     "index": 63,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "97) Paciente masculino, de 75 a\u00f1os de edad, es tra\u00eddo a la guardia por presentar dolor inguinal \nde 24 horas de evoluci\u00f3n, asociado a n\u00e1useas y v\u00f3mitos, distensi\u00f3n abdominal y falta de \neliminaci\u00f3n de heces y gases. En el laboratorio de ingreso presenta 1500 gl\u00f3bulos \nblancos/mm3 y acidosis metab\u00f3lica con hiperlactacidemia. Al examen f\u00edsico, se encuentra \nsomnoliento y se constata hernia inguinoescrotal izquierda dolorosa e irreductible. \u00bfCu\u00e1l es la \nconducta adecuada a seguir? \n a) Colocaci\u00f3n de sonda nasog\u00e1strica y radiograf\u00eda de abdomen. \n b) Colocaci\u00f3n de sonda nasog\u00e1strica y solicitar TC de abdomen y pelvis. \n c) Colocaci\u00f3n de sonda nasog\u00e1strica y cirug\u00eda de urgencia. \n d) Colocaci\u00f3n de sonda nasog\u00e1strica e internaci\u00f3n en unidad de cuidados intensivos.",
+                    "question": "Paciente masculino, de 75 a\u00f1os de edad, es tra\u00eddo a la guardia por presentar dolor inguinal de 24 horas de evoluci\u00f3n, asociado a n\u00e1useas y v\u00f3mitos, distensi\u00f3n abdominal y falta de eliminaci\u00f3n de heces y gases. En el laboratorio de ingreso presenta 1500 gl\u00f3bulos blancos/mm3 y acidosis metab\u00f3lica con hiperlactacidemia. Al examen f\u00edsico, se encuentra somnoliento y se constata hernia inguinoescrotal izquierda dolorosa e irreductible. \u00bfCu\u00e1l es la conducta adecuada a seguir? ",
+                    "options": {
+                        "a": "Colocaci\u00f3n de sonda nasog\u00e1strica y radiograf\u00eda de abdomen.",
+                        "b": "Colocaci\u00f3n de sonda nasog\u00e1strica y solicitar TC de abdomen y pelvis.",
+                        "c": "Colocaci\u00f3n de sonda nasog\u00e1strica y cirug\u00eda de urgencia.",
+                        "d": "Colocaci\u00f3n de sonda nasog\u00e1strica e internaci\u00f3n en unidad de cuidados intensivos."
+                    },
+                    "id": "ef58370b-ce4c-46fb-94df-fb065995ceee",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 97,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Hernias: Todo tipo de hernias (hiatal, umbiilical, inguinal, femoral, epigastrica, crural, etc.)",
@@ -5382,6 +5955,25 @@
                     "index": 73,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "37) Paciente femenino de 40 a\u00f1os de edad, sin antecedentes de relevancia, ingresa a la guardia \npor presentar dolor abdominal localizado en fosa iliaca izquierda de 72 horas de evoluci\u00f3n, sin \notros s\u00edntomas asociados. Al examen f\u00edsico, presenta dolor abdominal en fosa iliaca izquierda, \nsin reacci\u00f3n peritoneal. En el laboratorio presenta 11500 gl\u00f3bulos blancos/mm3 y PCR de 30 \nmg/L. Se realiza una TC de abdomen y pelvis que muestra engrosamiento del colon sigmoides \ncon im\u00e1genes diverticulares y leve rarefacci\u00f3n de la grasa pericol\u00f3nica. \u00bfCu\u00e1l es la conducta a \nseguir? \n a) Internaci\u00f3n, antibioticoterapia endovenosa y control evolutivo. \n b) Internaci\u00f3n, antibioticoterapia endovenosa y colectom\u00eda. \n c) Antibioticoterapia v\u00eda oral, pautas de alarma y control ambulatorio al mes. \n d) Antibioticoterapia v\u00eda oral, pautas de alarma y control ambulatorio en 48 horas.",
+                    "question": "Paciente femenino de 40 a\u00f1os de edad, sin antecedentes de relevancia, ingresa a la guardia por presentar dolor abdominal localizado en fosa iliaca izquierda de 72 horas de evoluci\u00f3n, sin otros s\u00edntomas asociados. Al examen f\u00edsico, presenta dolor abdominal en fosa iliaca izquierda, sin reacci\u00f3n peritoneal. En el laboratorio presenta 11500 gl\u00f3bulos blancos/mm3 y PCR de 30 mg/L. Se realiza una TC de abdomen y pelvis que muestra engrosamiento del colon sigmoides con im\u00e1genes diverticulares y leve rarefacci\u00f3n de la grasa pericol\u00f3nica. \u00bfCu\u00e1l es la conducta a seguir? ",
+                    "options": {
+                        "a": "Internaci\u00f3n, antibioticoterapia endovenosa y control evolutivo.",
+                        "b": "Internaci\u00f3n, antibioticoterapia endovenosa y colectom\u00eda.",
+                        "c": "Antibioticoterapia v\u00eda oral, pautas de alarma y control ambulatorio al mes.",
+                        "d": "Antibioticoterapia v\u00eda oral, pautas de alarma y control ambulatorio en 48 horas."
+                    },
+                    "id": "41ec145a-a617-4d23-8179-cba1f799867d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 37,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Diverticulos: Entra diverticulosis, diverticulitis, perforacion de diverticulos...",
@@ -5600,6 +6192,25 @@
                     },
                     "answer": "c",
                     "index": 7,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "71) Marta , de 55 a\u00f1os, postmenop\u00e1usica, consulta por astenia y disnea de esfuerzo. En la \nanamnesis refiere ligera epigastralgia y pirosis ocasional. No metrorragias. Laboratorio: Hb 6 \ng/dl, VCM 69 fl, Ferremia 13 microgramos/dl, ferritina 4 ng/ml. Como antecedentes presenta \nuna Endoscopia digestiva alta con peque\u00f1a hernia hiatal por deslizamiento sin signos de \nesofagitis de 15 dias antes de la consulta. \u00bfCu\u00e1l es la conducta que adoptar\u00eda? \n a) Tratar con inhibidores de la bomba de protones y evaluar a los tres meses \n b) Administrar hierro oral y evaluar evoluci\u00f3n de la anemia en 3 meses. \n c) Solicitar fibrocolonoscop\u00eda e iniciar terap\u00e9utica con hierro oral. \n d) Iniciar tratamiento con hierro oral y solicitar evaluaci\u00f3n ginecol\u00f3gica.",
+                    "question": "Marta , de 55 a\u00f1os, postmenop\u00e1usica, consulta por astenia y disnea de esfuerzo. En la anamnesis refiere ligera epigastralgia y pirosis ocasional. No metrorragias. Laboratorio: Hb 6 g/dl, VCM 69 fl, Ferremia 13 microgramos/dl, ferritina 4 ng/ml. Como antecedentes presenta una Endoscopia digestiva alta con peque\u00f1a hernia hiatal por deslizamiento sin signos de esofagitis de 15 dias antes de la consulta. \u00bfCu\u00e1l es la conducta que adoptar\u00eda? ",
+                    "options": {
+                        "a": "Tratar con inhibidores de la bomba de protones y evaluar a los tres meses",
+                        "b": "Administrar hierro oral y evaluar evoluci\u00f3n de la anemia en 3 meses.",
+                        "c": "Solicitar fibrocolonoscop\u00eda e iniciar terap\u00e9utica con hierro oral.",
+                        "d": "Iniciar tratamiento con hierro oral y solicitar evaluaci\u00f3n ginecol\u00f3gica."
+                    },
+                    "id": "54c3f9cb-34dd-449f-88ff-ad7f7eba43f6",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 71,
                     "image": "",
                     "discussion": []
                 }
@@ -6159,6 +6770,44 @@
                     "index": 78,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "47) \u00bfQu\u00e9 caracter\u00edstica posee un derrame pleural para definirlo como empiema? \n a) Glucosa 75 mg/dL. \n b) Tinci\u00f3n de Gram positiva. \n c) PH 7.32. \n d) LDH 900 UI/L.",
+                    "question": "\u00bfQu\u00e9 caracter\u00edstica posee un derrame pleural para definirlo como empiema? ",
+                    "options": {
+                        "a": "Glucosa 75 mg/dL.",
+                        "b": "Tinci\u00f3n de Gram positiva.",
+                        "c": "PH 7.32.",
+                        "d": "LDH 900 UI/L."
+                    },
+                    "id": "35556369-5f0a-4dbf-a483-e3353711da80",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 47,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "82) Durante un examen semiol\u00f3gico respiratorio se detecta en una regi\u00f3n: disminuci\u00f3n del \nmurmullo vesicular, matidez a la percusi\u00f3n, disminuci\u00f3n de las vibraciones vocales y sonoridad \nen columna vertebral \u00bfEn qu\u00e9 patolog\u00eda pensar\u00eda? \n a) Atelectasia. \n b) Neumon\u00eda. \n c) Derrame pleural. \n d) Hidroneumotorax. \n17",
+                    "question": "Durante un examen semiol\u00f3gico respiratorio se detecta en una regi\u00f3n: disminuci\u00f3n del murmullo vesicular, matidez a la percusi\u00f3n, disminuci\u00f3n de las vibraciones vocales y sonoridad en columna vertebral \u00bfEn qu\u00e9 patolog\u00eda pensar\u00eda? ",
+                    "options": {
+                        "a": "Atelectasia.",
+                        "b": "Neumon\u00eda.",
+                        "c": "Derrame pleural.",
+                        "d": "Hidroneumotorax."
+                    },
+                    "id": "6dab5ad7-473a-450b-99f5-55478aaeccd4",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 82,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Derrame pleural: De cualquier tipo (hemotorax, empiema, quilotorax, etc)",
@@ -6301,7 +6950,27 @@
             ]
         },
         "colangitis aguda": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "79) Paciente masculino de 70 a\u00f1os de edad, sin antecedentes quir\u00fargicos, consulta por \npresentar dolor abdominal localizado en epigastrio e hipocondrio derecho, asociado a \nn\u00e1useas, v\u00f3mitos y registro febril de 38.1\u00b0C, de 48 horas de evoluci\u00f3n. Al examen f\u00edsico, se \nencuentra somnoliento, con TA=80/60 mmHg, con ictericia y dolor abdominal localizado en \nepigastrio e hipocondrio derecho. Signo de Murphy negativo. El laboratorio de ingreso \npresenta 17000 gl\u00f3bulos blancos/mm3, bilirrubina total de 7.2 mg/dL, bilirrubina directa de \n6.9 mg/dL, FAL: 205 UI/L, GOT: 429 UI/L GPT: 502 UI/L, acidosis metab\u00f3lica. Ecograf\u00eda \nabdominal muestra litiasis vesicular con dilataci\u00f3n de la v\u00eda biliar intrahep\u00e1tica con v\u00eda \nextrahep\u00e1tica no visible. Ante sospecha de colangitis. \u00bfQu\u00e9 procedimiento debe realizarse? \n a) Colecistectom\u00eda convencional y colangiograf\u00eda intraoperatoria. \n b) Colangiopancreatograf\u00eda retr\u00f3grada endosc\u00f3pica y colecistectom\u00eda laparosc\u00f3pica posterior. \n c) Colecistectom\u00eda laparosc\u00f3pica con colangiograf\u00eda intraoperatoria. \n d) Colecistectom\u00eda laparosc\u00f3pica con colangiopancreatigraf\u00eda retrograda endosc\u00f3pica \npostoperatoria.",
+                    "question": "Paciente masculino de 70 a\u00f1os de edad, sin antecedentes quir\u00fargicos, consulta por presentar dolor abdominal localizado en epigastrio e hipocondrio derecho, asociado a n\u00e1useas, v\u00f3mitos y registro febril de 38.1\u00b0C, de 48 horas de evoluci\u00f3n. Al examen f\u00edsico, se encuentra somnoliento, con TA=80/60 mmHg, con ictericia y dolor abdominal localizado en epigastrio e hipocondrio derecho. Signo de Murphy negativo. El laboratorio de ingreso presenta 17000 gl\u00f3bulos blancos/mm3, bilirrubina total de 7.2 mg/dL, bilirrubina directa de 6.9 mg/dL, FAL: 205 UI/L, GOT: 429 UI/L GPT: 502 UI/L, acidosis metab\u00f3lica. Ecograf\u00eda abdominal muestra litiasis vesicular con dilataci\u00f3n de la v\u00eda biliar intrahep\u00e1tica con v\u00eda extrahep\u00e1tica no visible. Ante sospecha de colangitis. \u00bfQu\u00e9 procedimiento debe realizarse? ",
+                    "options": {
+                        "a": "Colecistectom\u00eda convencional y colangiograf\u00eda intraoperatoria.",
+                        "b": "Colangiopancreatograf\u00eda retr\u00f3grada endosc\u00f3pica y colecistectom\u00eda laparosc\u00f3pica posterior.",
+                        "c": "Colecistectom\u00eda laparosc\u00f3pica con colangiograf\u00eda intraoperatoria.",
+                        "d": "Colecistectom\u00eda laparosc\u00f3pica con colangiopancreatigraf\u00eda retrograda endosc\u00f3pica  postoperatoria."
+                    },
+                    "id": "cea62935-74fc-48cc-a430-32e899a6d145",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 79,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": "",
             "analogos": [
                 "biliar"
@@ -6951,6 +7620,63 @@
                     "index": 99,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "4) Estanislao Mendez de 85 a\u00f1os asiste a su consulta luego de haberse tomado la presi\u00f3n en \nun stand de salud en una fiesta patronal. Refiere que la enfermera encontr\u00f3 que ten\u00eda una TA \nde 150/80 mmHg , por lo que le dijo que acuda r\u00e1pidamente a ver un profesional . Al reiterar \nla toma en consultorio se encuentra la misma TA indicada en el stand. \u00bfCu\u00e1l es la medida \nterap\u00e9utica a realizar? \n a) Iniciar tratamiento antihipertensivo con terapia combinada doble. \n b) Se indica tratamiento higi\u00e9nico diet\u00e9tico. \n c) Iniciar tratamiento antihipertensivo con terapia combinada triple. \n d) Iniciar tratamiento antihipertensivo con monoterapia.",
+                    "question": "Estanislao Mendez de 85 a\u00f1os asiste a su consulta luego de haberse tomado la presi\u00f3n en un stand de salud en una fiesta patronal. Refiere que la enfermera encontr\u00f3 que ten\u00eda una TA de 150/80 mmHg , por lo que le dijo que acuda r\u00e1pidamente a ver un profesional . Al reiterar la toma en consultorio se encuentra la misma TA indicada en el stand. \u00bfCu\u00e1l es la medida terap\u00e9utica a realizar? ",
+                    "options": {
+                        "a": "Iniciar tratamiento antihipertensivo con terapia combinada doble.",
+                        "b": "Se indica tratamiento higi\u00e9nico diet\u00e9tico.",
+                        "c": "Iniciar tratamiento antihipertensivo con terapia combinada triple.",
+                        "d": "Iniciar tratamiento antihipertensivo con monoterapia."
+                    },
+                    "id": "6461d2dc-bd2b-4016-bed8-07650e857219",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 4,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "26) Un paciente de 53 a\u00f1os presenta en su consultorio mediciones de presi\u00f3n arterial en dos \noportunidades de 142/80 y 120/90 mmHg. Usted le solicit\u00f3 un Monitoreo Ambulatorio de 24 \nhs (MAPA) que arroj\u00f3 un valor promedio de 138/90 mmHg. \u00bfQu\u00e9 le informa al paciente \nrespecto de su diagn\u00f3stico? \n a) Sospecha hipertensi\u00f3n sist\u00f3lica aislada, requiere completar estudios. \n b) Confirma el diagn\u00f3stico de hipertensi\u00f3n arterial. \n c) Confirma el diagn\u00f3stico de hipertensi\u00f3n diast\u00f3lica aislada. \n d) Sospecha hipertensi\u00f3n diast\u00f3lica aislada, requiere completar estudios.",
+                    "question": "Un paciente de 53 a\u00f1os presenta en su consultorio mediciones de presi\u00f3n arterial en dos oportunidades de 142/80 y 120/90 mmHg. Usted le solicit\u00f3 un Monitoreo Ambulatorio de 24 hs (MAPA) que arroj\u00f3 un valor promedio de 138/90 mmHg. \u00bfQu\u00e9 le informa al paciente respecto de su diagn\u00f3stico? ",
+                    "options": {
+                        "a": "Sospecha hipertensi\u00f3n sist\u00f3lica aislada, requiere completar estudios.",
+                        "b": "Confirma el diagn\u00f3stico de hipertensi\u00f3n arterial.",
+                        "c": "Confirma el diagn\u00f3stico de hipertensi\u00f3n diast\u00f3lica aislada.",
+                        "d": "Sospecha hipertensi\u00f3n diast\u00f3lica aislada, requiere completar estudios."
+                    },
+                    "id": "28f17dad-7d21-422e-b090-9409451cafc0",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 26,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "62) \u00bfAnte la sospecha de qu\u00e9 patolog\u00eda est\u00e1 indicado realizar un monitoreo ambulatorio de \ntensi\u00f3n arterial (MAPA)? \n a) Hipertensi\u00f3n arterial con da\u00f1o de \u00f3rgano blanco. \n b) Hipertensi\u00f3n arterial de grado 2. \n c) Hipertensi\u00f3n arterial secundaria. \n d) Hipertensi\u00f3n de guardapolvo blanco.",
+                    "question": "\u00bfAnte la sospecha de qu\u00e9 patolog\u00eda est\u00e1 indicado realizar un monitoreo ambulatorio de tensi\u00f3n arterial (MAPA)? ",
+                    "options": {
+                        "a": "Hipertensi\u00f3n arterial con da\u00f1o de \u00f3rgano blanco.",
+                        "b": "Hipertensi\u00f3n arterial de grado 2.",
+                        "c": "Hipertensi\u00f3n arterial secundaria.",
+                        "d": "Hipertensi\u00f3n de guardapolvo blanco."
+                    },
+                    "id": "2117c7f0-5d9d-4c35-9f39-3ae8cff0542d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 62,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Hipertension arterial: Tanto HTA como crisis HTA",
@@ -7417,7 +8143,27 @@
             ]
         },
         "endorcarditis infecciosa": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "58) \u00bfCu\u00e1l es un criterio mayor en la endocarditis infecciosa? \n a) Fiebre superior a 38 grados. \n b) N\u00f3dulo de Osler. \n c) Nueva insuficiencia valvular. \n d) Embolia arterial recidivante.",
+                    "question": "\u00bfCu\u00e1l es un criterio mayor en la endocarditis infecciosa? ",
+                    "options": {
+                        "a": "Fiebre superior a 38 grados.",
+                        "b": "N\u00f3dulo de Osler.",
+                        "c": "Nueva insuficiencia valvular.",
+                        "d": "Embolia arterial recidivante."
+                    },
+                    "id": "4f05d414-18c4-4b06-9cc7-7b34f066104f",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 58,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": ""
         },
         "arritmias": {
@@ -7592,6 +8338,25 @@
                     "index": 72,
                     "image": "eu_2016_q72",
                     "discussion": []
+                },
+                {
+                    "question_complete": "5) \u00bfCu\u00e1l es criterio electrocardiogr\u00e1fico de fibrilaci\u00f3n auricular? \n a) Ondas R polim\u00f3rficas e irregulares, ondas auriculares regulares. \n b) Ausencia de ondas P, ondas auriculares regulares y monom\u00f3rficas. \n c) Ondas P de distinta morfolog\u00eda y ondas R a intervalos irregulares. \n d) Ondas R en intervalos irregulares, ausencia de ondas P y ondas auriculares polim\u00f3rficas \n",
+                    "question": "\u00bfCu\u00e1l es criterio electrocardiogr\u00e1fico de fibrilaci\u00f3n auricular? ",
+                    "options": {
+                        "a": "Ondas R polim\u00f3rficas e irregulares, ondas auriculares regulares.",
+                        "b": "Ausencia de ondas P, ondas auriculares regulares y monom\u00f3rficas.",
+                        "c": "Ondas P de distinta morfolog\u00eda y ondas R a intervalos irregulares.",
+                        "d": "Ondas R en intervalos irregulares, ausencia de ondas P y ondas auriculares polim\u00f3rficas"
+                    },
+                    "id": "da615dd5-55c8-4286-8472-0c51bfda5a0a",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 5,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Arritmias: Entra TODOS los tipos de arritmias como FA, bloqueos AV, taquicardia, bradicardia, fibrilacion ventricular, etc...",
@@ -7753,6 +8518,25 @@
                     "index": 38,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "76) Se presenta un paciente de 65 a\u00f1os a la guardia, por dolor pleural, disnea de reposo s\u00fabita \ny palpitaciones. Usted tiene fuerte sospecha de un tromboembolismo pulmonar \u00bfQu\u00e9 \nestudios complementarios solicitar\u00eda para confirmar su sospecha diagn\u00f3stica? \n a) Solicita D\u00edmero D. \n b) Solicita Tomograf\u00eda computada con contraste EV. \n c) Solicita una gammagraf\u00eda ventilaci\u00f3n perfusi\u00f3n. \n d) Solicita cateterismo.",
+                    "question": "Se presenta un paciente de 65 a\u00f1os a la guardia, por dolor pleural, disnea de reposo s\u00fabita y palpitaciones. Usted tiene fuerte sospecha de un tromboembolismo pulmonar \u00bfQu\u00e9 estudios complementarios solicitar\u00eda para confirmar su sospecha diagn\u00f3stica? ",
+                    "options": {
+                        "a": "Solicita D\u00edmero D.",
+                        "b": "Solicita Tomograf\u00eda computada con contraste EV.",
+                        "c": "Solicita una gammagraf\u00eda ventilaci\u00f3n perfusi\u00f3n.",
+                        "d": "Solicita cateterismo."
+                    },
+                    "id": "fed0afca-64a5-4e81-85d1-81e1728f427a",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 76,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -7836,6 +8620,44 @@
                     },
                     "answer": "c",
                     "index": 71,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "11) Margarita, de 10 a\u00f1os de edad, concurre a control de salud. Al examen f\u00edsico, usted detecta \nque presenta soplo sist\u00f3lico eyectivo a predominio en foco a\u00f3rtico, que no irradia. Se aten\u00faa \nal pasar de dec\u00fabito dorsal a la posici\u00f3n sentada. Frente a esto \u00bfCu\u00e1l es su sospecha? \n a) Insuficiencia a\u00f3rtica \n b) Estenosis a\u00f3rtica \n c) Insuficiencia mitral \n d) Soplo funcional",
+                    "question": "Margarita, de 10 a\u00f1os de edad, concurre a control de salud. Al examen f\u00edsico, usted detecta que presenta soplo sist\u00f3lico eyectivo a predominio en foco a\u00f3rtico, que no irradia. Se aten\u00faa al pasar de dec\u00fabito dorsal a la posici\u00f3n sentada. Frente a esto \u00bfCu\u00e1l es su sospecha? ",
+                    "options": {
+                        "a": "Insuficiencia a\u00f3rtica",
+                        "b": "Estenosis a\u00f3rtica",
+                        "c": "Insuficiencia mitral",
+                        "d": "Soplo funcional"
+                    },
+                    "id": "0d2d7515-657f-40aa-8ed2-96b805f9f88e",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 11,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "40) Paciente masculino de 78 a\u00f1os que consulta por astenia y disnea de 3 meses de evoluci\u00f3n, \nque ha progresado hasta hacerse de reposo en los \u00faltimos d\u00edas. En los d\u00edas previos refiere \ntambi\u00e9n dolor tor\u00e1cico de caracter\u00edsticas anginosas con peque\u00f1os esfuerzos. En la exploraci\u00f3n \ndestaca TA de 110/80 mmHg, frecuencia card\u00edaca de 85 lpm y auscultaci\u00f3n con soplo sist\u00f3lico \n\u00e1spero en segundo espacio intercostal derecho y crepitantes en ambas bases pulmonares. \n\u00bfCu\u00e1l es su sospecha diagn\u00f3stica? \n a) Insuficiencia Mitral. \n b) Miocardiopat\u00eda dilatada isqu\u00e9mica. \n c) Estenosis A\u00f3rtica. \n d) Insuficiencia A\u00f3rtica.",
+                    "question": "Paciente masculino de 78 a\u00f1os que consulta por astenia y disnea de 3 meses de evoluci\u00f3n, que ha progresado hasta hacerse de reposo en los \u00faltimos d\u00edas. En los d\u00edas previos refiere tambi\u00e9n dolor tor\u00e1cico de caracter\u00edsticas anginosas con peque\u00f1os esfuerzos. En la exploraci\u00f3n destaca TA de 110/80 mmHg, frecuencia card\u00edaca de 85 lpm y auscultaci\u00f3n con soplo sist\u00f3lico \u00e1spero en segundo espacio intercostal derecho y crepitantes en ambas bases pulmonares. \u00bfCu\u00e1l es su sospecha diagn\u00f3stica? ",
+                    "options": {
+                        "a": "Insuficiencia Mitral.",
+                        "b": "Miocardiopat\u00eda dilatada isqu\u00e9mica.",
+                        "c": "Estenosis A\u00f3rtica.",
+                        "d": "Insuficiencia A\u00f3rtica."
+                    },
+                    "id": "20b3097f-5bda-4ebd-8490-c8635fafe1b1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 40,
                     "image": "",
                     "discussion": []
                 }
@@ -8301,6 +9123,25 @@
                     "index": 68,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "70) \u00bfCu\u00e1l de los siguientes estudios iniciales deben solicitarse ante la sospecha de enfermedad \ncel\u00edaca? \n a) Anticuerpos antitransglutaminasa tisular (a\u2010tTG) IgA + IgA total \n b) Determinaci\u00f3n HLA DQ2 / DQ8 \n c) Video endoscop\u00eda alta + anticuerpos anti gliadina IgA e IgG cl\u00e1sicos. \n d) Video endoscop\u00eda alta + anticuerpos anti gliadina deaminados IgG.",
+                    "question": "\u00bfCu\u00e1l de los siguientes estudios iniciales deben solicitarse ante la sospecha de enfermedad cel\u00edaca? ",
+                    "options": {
+                        "a": "Anticuerpos antitransglutaminasa tisular (a\u2010tTG) IgA + IgA total",
+                        "b": "Determinaci\u00f3n HLA DQ2 / DQ8",
+                        "c": "Video endoscop\u00eda alta + anticuerpos anti gliadina IgA e IgG cl\u00e1sicos.",
+                        "d": "Video endoscop\u00eda alta + anticuerpos anti gliadina deaminados IgG."
+                    },
+                    "id": "6a9cc3c1-d22d-49df-bc5c-a26fe46aa68b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 70,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": ""
@@ -8507,6 +9348,30 @@
             "analogos": [
                 ""
             ]
+        },
+        "hepatitis": {
+            "array": [
+                {
+                    "question_complete": "41) Un paciente de 55 a\u00f1os con antecedentes de enolismo y consumo espor\u00e1dico de \nparacetamol, concurre a la guardia por deterioro del estado general, astenia e ictericia de 10 \nd\u00edas de evoluci\u00f3n. Al examen f\u00edsico presenta taquicardia, desorientado en tiempo pero no en \nespacio y persona y con ictericia de piel y mucosa y ara\u00f1as vasculares en el t\u00f3rax. En el \nlaboratorio se constat\u00f3: Hb 11 gr%, VCM 100 fL, GGT 120 UI/L, bilirrubina total de 8 mg/dL \n(predominio directa), TGO 320 UI/L, TGP 120 UIL, fosfatasa alcalina de 225 UI/L (elevado para \neste laboratorio) y lactato deshidrogenasa dentro del rango de normalidad. Adem\u00e1s se realiz\u00f3 \nuna ecograf\u00eda que no mostr\u00f3 litiasis vesicular o dilataci\u00f3n de la v\u00eda biliar intra u extrahep\u00e1tica. \n\u00bfCu\u00e1l es la causa m\u00e1s probable de injuria hepatocelular en este paciente? \n a) Hepatitis alcoh\u00f3lica. \n b) Injuria hep\u00e1tica mediada por drogas (DILI). \n c) Hepatitis viral A o B. \n d) Hepatitis isqu\u00e9mica.",
+                    "question": "Un paciente de 55 a\u00f1os con antecedentes de enolismo y consumo espor\u00e1dico de paracetamol, concurre a la guardia por deterioro del estado general, astenia e ictericia de 10 d\u00edas de evoluci\u00f3n. Al examen f\u00edsico presenta taquicardia, desorientado en tiempo pero no en espacio y persona y con ictericia de piel y mucosa y ara\u00f1as vasculares en el t\u00f3rax. En el laboratorio se constat\u00f3: Hb 11 gr%, VCM 100 fL, GGT 120 UI/L, bilirrubina total de 8 mg/dL (predominio directa), TGO 320 UI/L, TGP 120 UIL, fosfatasa alcalina de 225 UI/L (elevado para este laboratorio) y lactato deshidrogenasa dentro del rango de normalidad. Adem\u00e1s se realiz\u00f3 una ecograf\u00eda que no mostr\u00f3 litiasis vesicular o dilataci\u00f3n de la v\u00eda biliar intra u extrahep\u00e1tica. \u00bfCu\u00e1l es la causa m\u00e1s probable de injuria hepatocelular en este paciente? ",
+                    "options": {
+                        "a": "Hepatitis alcoh\u00f3lica.",
+                        "b": "Injuria hep\u00e1tica mediada por drogas (DILI).",
+                        "c": "Hepatitis viral A o B.",
+                        "d": "Hepatitis isqu\u00e9mica."
+                    },
+                    "id": "d49fcefd-3897-4417-ab43-8f7aec0cdfb5",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 41,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
+            "aclaracion": ""
         }
     },
     "medio interno": {
@@ -8843,6 +9708,25 @@
                     "index": 7,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "24) \u00bfEn qu\u00e9 lesi\u00f3n renal aguda la excreci\u00f3n fraccional de sodio es menor al 1%? \n a) Posrenal. \n b) Necrosis tubular. \n c) Nefritis intersticial. \n d) Prerrenal.",
+                    "question": "\u00bfEn qu\u00e9 lesi\u00f3n renal aguda la excreci\u00f3n fraccional de sodio es menor al 1%? ",
+                    "options": {
+                        "a": "Posrenal.",
+                        "b": "Necrosis tubular.",
+                        "c": "Nefritis intersticial.",
+                        "d": "Prerrenal."
+                    },
+                    "id": "9c3314a0-7a1a-4795-a6ab-5fd326d9f24e",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 24,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -8953,6 +9837,25 @@
                     },
                     "answer": "b",
                     "index": 97,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "42) Jorge de 5 a\u00f1os, sano, es tra\u00eddo a la consulta por presentar edema de miembros inferiores, \nescrotal y bipalpebral de 48 hs de evoluci\u00f3n. Sin fiebre. Tensi\u00f3n arterial normal. Trae resultado \nde un sedimento urinario realizado horas previas que informa densidad 1020, pH 5, \nproteinuria ++++, leucocitos 5 por campo, sin hematuria y sin cilindros. Con estos datos, \u00bfcu\u00e1l \nes la sospecha diagn\u00f3stica? \n a) Infecci\u00f3n urinaria \n b) S\u00edndrome nefr\u00f3tico \n c) S\u00edndrome nefr\u00edtico \n d) Proteinuria ortost\u00e1tica",
+                    "question": "Jorge de 5 a\u00f1os, sano, es tra\u00eddo a la consulta por presentar edema de miembros inferiores, escrotal y bipalpebral de 48 hs de evoluci\u00f3n. Sin fiebre. Tensi\u00f3n arterial normal. Trae resultado de un sedimento urinario realizado horas previas que informa densidad 1020, pH 5, proteinuria ++++, leucocitos 5 por campo, sin hematuria y sin cilindros. Con estos datos, \u00bfcu\u00e1l es la sospecha diagn\u00f3stica? ",
+                    "options": {
+                        "a": "Infecci\u00f3n urinaria",
+                        "b": "S\u00edndrome nefr\u00f3tico",
+                        "c": "S\u00edndrome nefr\u00edtico",
+                        "d": "Proteinuria ortost\u00e1tica"
+                    },
+                    "id": "ce821b4c-5a96-4a30-a03d-e2851a94b4c3",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 42,
                     "image": "",
                     "discussion": []
                 }
@@ -9342,7 +10245,27 @@
             ]
         },
         "hipoparatiroidismo": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "88) Paciente femenino de 42 a\u00f1os de edad, consulta por presentar aumento de tama\u00f1o de la \nglandula tiroides asociado a disnea. Se realiz\u00f3 ecograf\u00eda que mostr\u00f3 bocio multinodular con \nn\u00f3dulo dominante en l\u00f3bulo derecho de 4.5 cm. Se realiza punci\u00f3n con aguja fina cuya \nanatomia patol\u00f3gica informa lesi\u00f3n benigna (Bethesda II). Se decide la conducta quir\u00fargica \nrealizando tiroidectomia total. En el postoperatorio presenta signos de Chvostek y Trousseau \npositivos. \u00bfCu\u00e1l es la complicaci\u00f3n postoperatoria m\u00e1s probable? \n a) Hipocalcemia. \n b) Lesi\u00f3n del nervio lar\u00edngeo superior. \n c) Lesi\u00f3n del nervio lar\u00edngeo recurrente. \n d) Hematoma sofocante.",
+                    "question": "Paciente femenino de 42 a\u00f1os de edad, consulta por presentar aumento de tama\u00f1o de la glandula tiroides asociado a disnea. Se realiz\u00f3 ecograf\u00eda que mostr\u00f3 bocio multinodular con n\u00f3dulo dominante en l\u00f3bulo derecho de 4.5 cm. Se realiza punci\u00f3n con aguja fina cuya anatomia patol\u00f3gica informa lesi\u00f3n benigna (Bethesda II). Se decide la conducta quir\u00fargica realizando tiroidectomia total. En el postoperatorio presenta signos de Chvostek y Trousseau positivos. \u00bfCu\u00e1l es la complicaci\u00f3n postoperatoria m\u00e1s probable? ",
+                    "options": {
+                        "a": "Hipocalcemia.",
+                        "b": "Lesi\u00f3n del nervio lar\u00edngeo superior.",
+                        "c": "Lesi\u00f3n del nervio lar\u00edngeo recurrente.",
+                        "d": "Hematoma sofocante."
+                    },
+                    "id": "1926b6f5-4846-42b1-b2aa-4b559d4f01a5",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 88,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": "",
             "analogos": [
                 "hipopth"
@@ -9423,6 +10346,25 @@
                     },
                     "answer": "b",
                     "index": 38,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "65) Un paciente de 37 a\u00f1os de edad con antecedente de diabetes mellitus y dislipemia \nconcurre a su consulta por el hallazgo de un n\u00f3dulo tiroideo. Trae el informe ecogr\u00e1fico que \ndescribe la presencia de un n\u00f3dulo hipoecoico de 18 mm en el l\u00f3bulo izquierdo. Los valores de \nTSH y T4 libre se encuentran dentro valores normales. \u00bfCu\u00e1l es la conducta a tomar? \n a) Punci\u00f3n aspirativa con aguja fina. \n b) Lobectom\u00eda tiroidea. \n c) Centellograma tiroideo. \n d) Control cl\u00ednico e imagenol\u00f3gico en 6 a 12 meses. \n13",
+                    "question": "Un paciente de 37 a\u00f1os de edad con antecedente de diabetes mellitus y dislipemia concurre a su consulta por el hallazgo de un n\u00f3dulo tiroideo. Trae el informe ecogr\u00e1fico que describe la presencia de un n\u00f3dulo hipoecoico de 18 mm en el l\u00f3bulo izquierdo. Los valores de TSH y T4 libre se encuentran dentro valores normales. \u00bfCu\u00e1l es la conducta a tomar? ",
+                    "options": {
+                        "a": "Punci\u00f3n aspirativa con aguja fina.",
+                        "b": "Lobectom\u00eda tiroidea.",
+                        "c": "Centellograma tiroideo.",
+                        "d": "Control cl\u00ednico e imagenol\u00f3gico en 6 a 12 meses."
+                    },
+                    "id": "ee8b2427-63b2-4f8e-a3ac-cb6e4c66f283",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 65,
                     "image": "",
                     "discussion": []
                 }
@@ -9902,6 +10844,82 @@
                             "id": "c4e8cc05-d117-4e6f-9a4a-cabff1505241"
                         }
                     ]
+                },
+                {
+                    "question_complete": "29) \u00bfEn qu\u00e9 paciente diab\u00e9tico tipo 2 Ud. indicar\u00eda insulinoterapia? \n a) Paciente con IMC 36 y sedentarismo. \n b) Hiperglucemia en ayunas con terapia hipoglucemiante oral a dosis m\u00e1ximas. \n c) Glucemia en ayunas superior a 200 mg al momento del diagn\u00f3stico. \n d) Paciente con sobrepeso y mala adherencia a dieta.",
+                    "question": "\u00bfEn qu\u00e9 paciente diab\u00e9tico tipo 2 Ud. indicar\u00eda insulinoterapia? ",
+                    "options": {
+                        "a": "Paciente con IMC 36 y sedentarismo.",
+                        "b": "Hiperglucemia en ayunas con terapia hipoglucemiante oral a dosis m\u00e1ximas.",
+                        "c": "Glucemia en ayunas superior a 200 mg al momento del diagn\u00f3stico.",
+                        "d": "Paciente con sobrepeso y mala adherencia a dieta."
+                    },
+                    "id": "a7fa34a1-5fc7-4204-99a0-ce7b6b6308fd",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 29,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "30) Paciente de 55 a\u00f1os de edad, obeso (IMC 34)consulta por poliuria, polidipsia y p\u00e9rdida \nde 6 kg en los \u00faltimos tres meses. Trae a la consulta un laboratorio en el cual se constata \nglucemia en ayunas 240mg%. \u00bfQu\u00e9 tratamiento realizar\u00eda? \n a) Metformina, dieta hipohidrocarbonada hipograsa y actividad f\u00edsica reglada. \n b) Insulinoterapia con NPH en 2 dosis diarias y caminata de 30 minutos diarios. \n c) Metformina asociada a insulinoterapia bed time monodosis. \n d) Metformina m\u00e1s glibenclamida porque los valores de glucemia son mayores a 220 mg/dl. \n",
+                    "question": "Paciente de 55 a\u00f1os de edad, obeso (IMC 34)consulta por poliuria, polidipsia y p\u00e9rdida de 6 kg en los \u00faltimos tres meses. Trae a la consulta un laboratorio en el cual se constata glucemia en ayunas 240mg%. \u00bfQu\u00e9 tratamiento realizar\u00eda? ",
+                    "options": {
+                        "a": "Metformina, dieta hipohidrocarbonada hipograsa y actividad f\u00edsica reglada.",
+                        "b": "Insulinoterapia con NPH en 2 dosis diarias y caminata de 30 minutos diarios.",
+                        "c": "Metformina asociada a insulinoterapia bed time monodosis.",
+                        "d": "Metformina m\u00e1s glibenclamida porque los valores de glucemia son mayores a 220 mg/dl."
+                    },
+                    "id": "83c50b19-ad8c-444f-ba1c-39110394c659",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 30,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "87) En un paciente con diagn\u00f3stico de Diabetes Mellitus tipo 2 \u00bfEn qu\u00e9 escenario cl\u00ednico es \ncorrecto el inicio de la terapia farmacol\u00f3gica con Insulina? \n a) Diabetes de reciente diagn\u00f3stico en paciente obeso. \n b) En caso de intolerancia digestiva a la metformina. \n c) Hemoglobina glicosilada mayor o igual a 8% con glucemia en ayunas de 250 mg/dl. \n d) P\u00e9rdida de peso no planificada asociada a hiperglucemia. \n18",
+                    "question": "En un paciente con diagn\u00f3stico de Diabetes Mellitus tipo 2 \u00bfEn qu\u00e9 escenario cl\u00ednico es correcto el inicio de la terapia farmacol\u00f3gica con Insulina? ",
+                    "options": {
+                        "a": "Diabetes de reciente diagn\u00f3stico en paciente obeso.",
+                        "b": "En caso de intolerancia digestiva a la metformina.",
+                        "c": "Hemoglobina glicosilada mayor o igual a 8% con glucemia en ayunas de 250 mg/dl.",
+                        "d": "P\u00e9rdida de peso no planificada asociada a hiperglucemia."
+                    },
+                    "id": "e1adf961-1585-453d-b3f7-559d3fe9e540",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 87,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "95) \u00bfQu\u00e9 recomendar\u00eda realizar en un paciente que presenta una glucemia plasm\u00e1tica en \nayunas (GPA) de 119 mg/dl? \n a) Una segunda prueba para detecci\u00f3n DM2: nueva glucemia y POTG 75. \n b) Cito en 3 meses para repetir laboratorios. \n c) Solicito Hemoglobina glicosilada . \n d) Inicio tratamiento con Metformina y cambios en el estilo de vida saludable.",
+                    "question": "\u00bfQu\u00e9 recomendar\u00eda realizar en un paciente que presenta una glucemia plasm\u00e1tica en ayunas (GPA) de 119 mg/dl? ",
+                    "options": {
+                        "a": "Una segunda prueba para detecci\u00f3n DM2: nueva glucemia y POTG 75.",
+                        "b": "Cito en 3 meses para repetir laboratorios.",
+                        "c": "Solicito Hemoglobina glicosilada .",
+                        "d": "Inicio tratamiento con Metformina y cambios en el estilo de vida saludable."
+                    },
+                    "id": "f0163ec1-e867-45e9-bc80-0b5241f516fa",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 95,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Diabetes: De cualquier tipo, con TODAS SUS COMPLICACIONES",
@@ -10327,6 +11345,25 @@
                     },
                     "answer": "b",
                     "index": 59,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "22) Var\u00f3n de 73 a\u00f1os que consulta por disnea a peque\u00f1os esfuerzos, palidez cut\u00e1nea e \nictericia. Examen f\u00edsico: conjuntivas ict\u00e9ricas, esplenomegalia a 4 cm por debajo del reborde \ncostal izquierdo. Laboratorio: Hto 12%, Hb 4 gr/dL, VCM 100 fL, leucocitos 12.000/mm3 (N \n75%, L 20%, M 5%), plaquetas 200.000/mm3, LDH 1.900 UI/L, BT 4.1 UI/L, BI 3 UI/L, \nhaptoglobina ausente. Reticulocitos 15%. Prueba de Coombs Directa: panaglutinina IgG y C3d. \n\u00bfCu\u00e1l es su diagn\u00f3stico presuntivo? \n a) Anemia diseritropoy\u00e9tica. \n b) Anemia megalobl\u00e1stica. \n c) Anemia hemol\u00edtica autoinmune. \n d) Anemia ferrop\u00e9nica.",
+                    "question": "Var\u00f3n de 73 a\u00f1os que consulta por disnea a peque\u00f1os esfuerzos, palidez cut\u00e1nea e ictericia. Examen f\u00edsico: conjuntivas ict\u00e9ricas, esplenomegalia a 4 cm por debajo del reborde costal izquierdo. Laboratorio: Hto 12%, Hb 4 gr/dL, VCM 100 fL, leucocitos 12.000/mm3 (N 75%, L 20%, M 5%), plaquetas 200.000/mm3, LDH 1.900 UI/L, BT 4.1 UI/L, BI 3 UI/L, haptoglobina ausente. Reticulocitos 15%. Prueba de Coombs Directa: panaglutinina IgG y C3d. \u00bfCu\u00e1l es su diagn\u00f3stico presuntivo? ",
+                    "options": {
+                        "a": "Anemia diseritropoy\u00e9tica.",
+                        "b": "Anemia megalobl\u00e1stica.",
+                        "c": "Anemia hemol\u00edtica autoinmune.",
+                        "d": "Anemia ferrop\u00e9nica."
+                    },
+                    "id": "59dbc384-341d-4a01-98c3-50ca21eed4b2",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 22,
                     "image": "",
                     "discussion": []
                 }
@@ -10781,6 +11818,25 @@
                     "index": 35,
                     "image": "eu_2020_q35",
                     "discussion": []
+                },
+                {
+                    "question_complete": "92) Paciente de 75 a\u00f1os, con antecedentes de HTA en tratamiento con IECA, presenta \nAccidente Isqu\u00e9mico Transitorio (AIT). Ecograf\u00eda doppler de vasos de cuello: ateromatosis \ncarot\u00eddea con estenosis menor al 70%. ECG: fibrilaci\u00f3n auricular con moderada respuesta \nventricular. TAC de cerebro es normal. \u00bfCu\u00e1l es el tratamiento de prevenci\u00f3n para reducir el \nriesgo de nuevos episodios tromboemb\u00f3licos cerebrales? \n a) Acenocumarol con RIN 2\u20103. \n b) Aspirina y clopidogrel. \n c) Endarterectom\u00eda carotidea. \n d) \u00c1cido acetilsalic\u00edlico (aspirina) 300 mg/d.",
+                    "question": "Paciente de 75 a\u00f1os, con antecedentes de HTA en tratamiento con IECA, presenta Accidente Isqu\u00e9mico Transitorio (AIT). Ecograf\u00eda doppler de vasos de cuello: ateromatosis carot\u00eddea con estenosis menor al 70%. ECG: fibrilaci\u00f3n auricular con moderada respuesta ventricular. TAC de cerebro es normal. \u00bfCu\u00e1l es el tratamiento de prevenci\u00f3n para reducir el riesgo de nuevos episodios tromboemb\u00f3licos cerebrales? ",
+                    "options": {
+                        "a": "Acenocumarol con RIN 2\u20103.",
+                        "b": "Aspirina y clopidogrel.",
+                        "c": "Endarterectom\u00eda carotidea.",
+                        "d": "\u00c1cido acetilsalic\u00edlico (aspirina) 300 mg/d."
+                    },
+                    "id": "56a56f66-26d4-4bea-895d-a36309584c52",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 92,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -11187,6 +12243,25 @@
                     },
                     "answer": "a",
                     "index": 7,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "83) \u00bfCu\u00e1les son caracter\u00edsticas propias del S\u00edndrome Confusional Agudo? \n a) Alteraci\u00f3n transitoria del estado mental, de origen psic\u00f3geno, con perturbaci\u00f3n en el ritmo \nsue\u00f1o vigilia. \n b) Alteraci\u00f3n transitoria del estado mental, de inicio agudo y curso fluctuante, con alteraciones \nen el nivel de atenci\u00f3n, de origen org\u00e1nico. \n c) Alteraci\u00f3n cr\u00f3nica del estado mental, con conservaci\u00f3n de funciones cognitivas e ideaci\u00f3n \ndelirante megal\u00f3mana. \n d) Alteraci\u00f3n transitoria del estado mental, de inicio insidioso, con alteraciones en el nivel de \natenci\u00f3n sin fluctuaciones.",
+                    "question": "\u00bfCu\u00e1les son caracter\u00edsticas propias del S\u00edndrome Confusional Agudo? ",
+                    "options": {
+                        "a": "Alteraci\u00f3n transitoria del estado mental, de origen psic\u00f3geno, con perturbaci\u00f3n en el ritmo  sue\u00f1o vigilia.",
+                        "b": "Alteraci\u00f3n transitoria del estado mental, de inicio agudo y curso fluctuante, con alteraciones  en el nivel de atenci\u00f3n, de origen org\u00e1nico.",
+                        "c": "Alteraci\u00f3n cr\u00f3nica del estado mental, con conservaci\u00f3n de funciones cognitivas e ideaci\u00f3n  delirante megal\u00f3mana.",
+                        "d": "Alteraci\u00f3n transitoria del estado mental, de inicio insidioso, con alteraciones en el nivel de  atenci\u00f3n sin fluctuaciones."
+                    },
+                    "id": "b6af6c61-b9f2-4501-ad0f-2f025fff9e21",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 83,
                     "image": "",
                     "discussion": []
                 }
@@ -12074,6 +13149,25 @@
                     "index": 25,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "43) Paciente de 40 a\u00f1os consulta por m\u00e9todo anticonceptivo ya que en unos meses se \nsometer\u00e1 a cirug\u00eda bari\u00e1trica malabsortiva. Actualmente toma ACO combinados desde hace 4 \na\u00f1os. \u00bfQu\u00e9 m\u00e9todo anticonceptivo le ofrece de primera elecci\u00f3n? \n a) ACO s\u00f3lo con progest\u00e1genos \n b) M\u00e9todos de barrera \n c) DIU con LNG o de cobre \n d) ACO con aumento de estr\u00f3genos por la malabsorci\u00f3n \n",
+                    "question": "Paciente de 40 a\u00f1os consulta por m\u00e9todo anticonceptivo ya que en unos meses se someter\u00e1 a cirug\u00eda bari\u00e1trica malabsortiva. Actualmente toma ACO combinados desde hace 4 a\u00f1os. \u00bfQu\u00e9 m\u00e9todo anticonceptivo le ofrece de primera elecci\u00f3n? ",
+                    "options": {
+                        "a": "ACO s\u00f3lo con progest\u00e1genos",
+                        "b": "M\u00e9todos de barrera",
+                        "c": "DIU con LNG o de cobre",
+                        "d": "ACO con aumento de estr\u00f3genos por la malabsorci\u00f3n"
+                    },
+                    "id": "7564579c-6889-45af-904a-93e3d976108b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 43,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -12160,6 +13254,25 @@
                     },
                     "answer": "a",
                     "index": 76,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "56) \u00bfCu\u00e1l es el standard de oro para realizar diagn\u00f3stico de c\u00e1ncer de endometrio? \n a) Dilataci\u00f3n cervical y legrado uterino bi\u00f3psico fraccionado \n b) Dilataci\u00f3n cervical y legrado uterino bi\u00f3psico fraccionado con histeroscopia \n c) Resonancia Magn\u00e9tica nuclear de pelvis \n d) Toma de biopsia con dispositivos de aspiraci\u00f3n endometrial",
+                    "question": "\u00bfCu\u00e1l es el standard de oro para realizar diagn\u00f3stico de c\u00e1ncer de endometrio? ",
+                    "options": {
+                        "a": "Dilataci\u00f3n cervical y legrado uterino bi\u00f3psico fraccionado",
+                        "b": "Dilataci\u00f3n cervical y legrado uterino bi\u00f3psico fraccionado con histeroscopia",
+                        "c": "Resonancia Magn\u00e9tica nuclear de pelvis",
+                        "d": "Toma de biopsia con dispositivos de aspiraci\u00f3n endometrial"
+                    },
+                    "id": "976674d7-4156-4e6d-afa6-944779a3d18e",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 56,
                     "image": "",
                     "discussion": []
                 }
@@ -12525,6 +13638,44 @@
                     "index": 21,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "2) Karina, 35 a\u00f1os, se realiz\u00f3 un Papanicolau (PAP). Hoy concurre al Centro de Salud con el \nresultado: Muestra satisfactoria, ASC\u2010US (C\u00e9lulas escamosas at\u00edpicas de significado incierto). \nSeg\u00fan las recomendaciones del Ministerio de Salud de la Naci\u00f3n, \u00bfcu\u00e1l es la conducta \nadecuada? \n a) Repetir citolog\u00eda (PAP) lo antes posible \n b) Derivar para colposcop\u00eda y biopsia, y tratamiento \n c) Repetir citolog\u00eda (PAP) en 6 meses o un a\u00f1o \n d) Derivar al hospital para investigaci\u00f3n y tratamiento",
+                    "question": "Karina, 35 a\u00f1os, se realiz\u00f3 un Papanicolau (PAP). Hoy concurre al Centro de Salud con el resultado: Muestra satisfactoria, ASC\u2010US (C\u00e9lulas escamosas at\u00edpicas de significado incierto). Seg\u00fan las recomendaciones del Ministerio de Salud de la Naci\u00f3n, \u00bfcu\u00e1l es la conducta adecuada? ",
+                    "options": {
+                        "a": "Repetir citolog\u00eda (PAP) lo antes posible",
+                        "b": "Derivar para colposcop\u00eda y biopsia, y tratamiento",
+                        "c": "Repetir citolog\u00eda (PAP) en 6 meses o un a\u00f1o",
+                        "d": "Derivar al hospital para investigaci\u00f3n y tratamiento"
+                    },
+                    "id": "6d7668f3-47a0-44cb-a4ea-ca999aa3d4ec",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 2,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "63) En una paciente de 32 a\u00f1os, con Lesi\u00f3n Cervical de Bajo Grado ( L\u2010SIL), cu\u00e1l es la conducta \nrecomendada? \n a) Control anual (Pap + Colpo) \n b) Efectuar Test HPV \n c) Control semestral durante dos a\u00f1os \n d) Tratamiento inmediato",
+                    "question": "En una paciente de 32 a\u00f1os, con Lesi\u00f3n Cervical de Bajo Grado ( L\u2010SIL), cu\u00e1l es la conducta recomendada? ",
+                    "options": {
+                        "a": "Control anual (Pap + Colpo)",
+                        "b": "Efectuar Test HPV",
+                        "c": "Control semestral durante dos a\u00f1os",
+                        "d": "Tratamiento inmediato"
+                    },
+                    "id": "8f855966-fe2d-4ebf-82a2-7cf6e297678c",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 63,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -12562,6 +13713,25 @@
                     },
                     "answer": "b",
                     "index": 79,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "84) \u00bfCu\u00e1l es el tratamiento m\u00e9dico de elecci\u00f3n en pacientes con endometriosis? \n a) Dienogest \n b) Danazol \n c) An\u00e1logos agonistas de GnRh \n d) Anticonceptivos orales combinados",
+                    "question": "\u00bfCu\u00e1l es el tratamiento m\u00e9dico de elecci\u00f3n en pacientes con endometriosis? ",
+                    "options": {
+                        "a": "Dienogest",
+                        "b": "Danazol",
+                        "c": "An\u00e1logos agonistas de GnRh",
+                        "d": "Anticonceptivos orales combinados"
+                    },
+                    "id": "534a2add-4401-4cd7-90bf-e2b90adbc061",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 84,
                     "image": "",
                     "discussion": []
                 }
@@ -12987,6 +14157,25 @@
                     "index": 86,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "46) Desde el punto de vista hormonal, \u00bfqu\u00e9 es lo caracter\u00edstico de la menopausia? \n a) Prolactina elevada y estradiol alto \n b) LH normal y progesterona elevada. \n c) FSH normal y Estradiol alto. \n d) FSH elevado y Estradiol bajo.",
+                    "question": "Desde el punto de vista hormonal, \u00bfqu\u00e9 es lo caracter\u00edstico de la menopausia? ",
+                    "options": {
+                        "a": "Prolactina elevada y estradiol alto",
+                        "b": "LH normal y progesterona elevada.",
+                        "c": "FSH normal y Estradiol alto.",
+                        "d": "FSH elevado y Estradiol bajo."
+                    },
+                    "id": "936bac39-f2cb-414b-94b5-7d2b9f0fc8b3",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 46,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Menopausia: Entra la clinica de menopausia, climaterio, perimenopausia, las complicaciones de la menopausia, hormonoterapia (TRH).",
@@ -13035,6 +14224,25 @@
                     },
                     "answer": "a",
                     "index": 33,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "50) Paciente de 35 a\u00f1os de edad con deseo de fertilidad, presenta un mioma submucoso de 2 \ncm sintom\u00e1tico, \u00bfCu\u00e1l es el tratamiento de elecci\u00f3n? \n a) Miomectom\u00eda laparosc\u00f3pica \n b) Histerectom\u00eda total \n c) Miomectom\u00eda histerosc\u00f3pica \n d) Miomectom\u00eda convencional laparot\u00f3mica",
+                    "question": "Paciente de 35 a\u00f1os de edad con deseo de fertilidad, presenta un mioma submucoso de 2 cm sintom\u00e1tico, \u00bfCu\u00e1l es el tratamiento de elecci\u00f3n? ",
+                    "options": {
+                        "a": "Miomectom\u00eda laparosc\u00f3pica",
+                        "b": "Histerectom\u00eda total",
+                        "c": "Miomectom\u00eda histerosc\u00f3pica",
+                        "d": "Miomectom\u00eda convencional laparot\u00f3mica"
+                    },
+                    "id": "3b068f9e-7dfa-4640-a021-53cf1a315a0d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 50,
                     "image": "",
                     "discussion": []
                 }
@@ -13330,6 +14538,44 @@
                     "index": 64,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "8) Paciente de 28 a\u00f1os de edad que acude a la consulta por tumoraci\u00f3n en mama izquierda. \nAl examen f\u00edsico mamas sim\u00e9tricas, p\u00e9ndulas, no se observan cicatrices ni retracciones. En \nmama izquierda se palpa lesi\u00f3n nodular de 2 por 2 cm m\u00f3vil, no dolorosa, no adherida a planos \nsuperficiales ni profundos. Ambas axilas sin adenopat\u00edas. \u00bfCu\u00e1l es su presunci\u00f3n diagnostica? \n a) C\u00e1ncer de mama \n b) Necrosis grasa \n c) Fibroadenoma \n d) Absceso de mama",
+                    "question": "Paciente de 28 a\u00f1os de edad que acude a la consulta por tumoraci\u00f3n en mama izquierda. Al examen f\u00edsico mamas sim\u00e9tricas, p\u00e9ndulas, no se observan cicatrices ni retracciones. En mama izquierda se palpa lesi\u00f3n nodular de 2 por 2 cm m\u00f3vil, no dolorosa, no adherida a planos superficiales ni profundos. Ambas axilas sin adenopat\u00edas. \u00bfCu\u00e1l es su presunci\u00f3n diagnostica? ",
+                    "options": {
+                        "a": "C\u00e1ncer de mama",
+                        "b": "Necrosis grasa",
+                        "c": "Fibroadenoma",
+                        "d": "Absceso de mama"
+                    },
+                    "id": "945c7d86-0d9a-4d41-91b1-77ac13309915",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 8,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "27) \u00bfCu\u00e1l es el signo m\u00e1s frecuente en un Carcinoma Papilar de Mama? \n a) Retracci\u00f3n del pez\u00f3n \n b) Derrame sanguinolento por el pez\u00f3n \n c) N\u00f3dulo palpable subareolar \n d) Adenopat\u00eda axilar y n\u00f3dulo palpable",
+                    "question": "\u00bfCu\u00e1l es el signo m\u00e1s frecuente en un Carcinoma Papilar de Mama? ",
+                    "options": {
+                        "a": "Retracci\u00f3n del pez\u00f3n",
+                        "b": "Derrame sanguinolento por el pez\u00f3n",
+                        "c": "N\u00f3dulo palpable subareolar",
+                        "d": "Adenopat\u00eda axilar y n\u00f3dulo palpable"
+                    },
+                    "id": "821b5bc7-c890-4a3a-8d2b-50e071687e36",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 27,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Cancer de mama: Entra tanto el cancer como su screening (mamografia, ecografia mamaria)",
@@ -13344,7 +14590,27 @@
             ]
         },
         "mama benigno": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "8) Paciente de 28 a\u00f1os de edad que acude a la consulta por tumoraci\u00f3n en mama izquierda. \nAl examen f\u00edsico mamas sim\u00e9tricas, p\u00e9ndulas, no se observan cicatrices ni retracciones. En \nmama izquierda se palpa lesi\u00f3n nodular de 2 por 2 cm m\u00f3vil, no dolorosa, no adherida a planos \nsuperficiales ni profundos. Ambas axilas sin adenopat\u00edas. \u00bfCu\u00e1l es su presunci\u00f3n diagnostica? \n a) C\u00e1ncer de mama \n b) Necrosis grasa \n c) Fibroadenoma \n d) Absceso de mama",
+                    "question": "Paciente de 28 a\u00f1os de edad que acude a la consulta por tumoraci\u00f3n en mama izquierda. Al examen f\u00edsico mamas sim\u00e9tricas, p\u00e9ndulas, no se observan cicatrices ni retracciones. En mama izquierda se palpa lesi\u00f3n nodular de 2 por 2 cm m\u00f3vil, no dolorosa, no adherida a planos superficiales ni profundos. Ambas axilas sin adenopat\u00edas. \u00bfCu\u00e1l es su presunci\u00f3n diagnostica? ",
+                    "options": {
+                        "a": "C\u00e1ncer de mama",
+                        "b": "Necrosis grasa",
+                        "c": "Fibroadenoma",
+                        "d": "Absceso de mama"
+                    },
+                    "id": "945c7d86-0d9a-4d41-91b1-77ac13309915",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 8,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": "",
             "analogos": [
                 "fibroadenoma",
@@ -13355,7 +14621,27 @@
             ]
         },
         "sua": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "54) \u00bfCu\u00e1l de las siguientes afirmaciones caracterizan a la amenorrea primaria? \n a) El 50% de los casos se debe a disgenesias gonadales \n b) El 50% de los casos se debe a patolog\u00eda hipotal\u00e1mica \n c) El 50% de los casos se debe a agenesias m\u00fcllerianas \n d) El 50% de los casos se debe a patolog\u00eda hipofisaria",
+                    "question": "\u00bfCu\u00e1l de las siguientes afirmaciones caracterizan a la amenorrea primaria? ",
+                    "options": {
+                        "a": "El 50% de los casos se debe a disgenesias gonadales",
+                        "b": "El 50% de los casos se debe a patolog\u00eda hipotal\u00e1mica",
+                        "c": "El 50% de los casos se debe a agenesias m\u00fcllerianas",
+                        "d": "El 50% de los casos se debe a patolog\u00eda hipofisaria"
+                    },
+                    "id": "e7838286-0fac-4959-a0ae-40080c4c834d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 54,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": "Sangrado uterino anormal (SUA): Entra amenorrea (tanto primaria como 2ra), oligomenorrea, hipermenorrea y cualquier otro sangrado anormal",
             "analogos": [
                 "amenorrea",
@@ -13429,6 +14715,25 @@
                     },
                     "answer": "b",
                     "index": 25,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "32) Juana de 61 a\u00f1os, con diagn\u00f3stico ecogr\u00e1fico, de masa ov\u00e1rica, unilateral, heterog\u00e9nea, \ndoppler (+). \u00bfQu\u00e9 estudio complementario solicitar\u00eda para arribar al diagn\u00f3stico? \n a) Rx directa de Abdomen de pie. \n b) Laparoscopia diagnostica. \n c) Nada, con la Ecograf\u00eda es suficiente. \n d) Marcadores tumorales.",
+                    "question": "Juana de 61 a\u00f1os, con diagn\u00f3stico ecogr\u00e1fico, de masa ov\u00e1rica, unilateral, heterog\u00e9nea, doppler (+). \u00bfQu\u00e9 estudio complementario solicitar\u00eda para arribar al diagn\u00f3stico? ",
+                    "options": {
+                        "a": "Rx directa de Abdomen de pie.",
+                        "b": "Laparoscopia diagnostica.",
+                        "c": "Nada, con la Ecograf\u00eda es suficiente.",
+                        "d": "Marcadores tumorales."
+                    },
+                    "id": "b31b5553-41f3-412e-a2eb-d12ff9c9234e",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 32,
                     "image": "",
                     "discussion": []
                 }
@@ -14185,6 +15490,25 @@
                     "index": 7,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "51) \u00bfCu\u00e1l es el sitio de implantaci\u00f3n tubaria m\u00e1s frecuente en el embarazo ect\u00f3pico? \n a) \u00cdstmico \n b) Ampular \n c) Infundibular \n d) Intersticial",
+                    "question": "\u00bfCu\u00e1l es el sitio de implantaci\u00f3n tubaria m\u00e1s frecuente en el embarazo ect\u00f3pico? ",
+                    "options": {
+                        "a": "\u00cdstmico",
+                        "b": "Ampular",
+                        "c": "Infundibular",
+                        "d": "Intersticial"
+                    },
+                    "id": "c56623cf-9c4b-46d7-ab76-9b6405b12ab5",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 51,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": ""
@@ -14257,6 +15581,25 @@
                     },
                     "answer": "c",
                     "index": 34,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "6) \u00bfCu\u00e1l es la causa m\u00e1s frecuente de hemorragia post parto? \n a) Coagulopatias relacionadas al embarazo \n b) Restos y adherencias placentarias \n c) Anomal\u00edas de la contractilidad uterina \n d) Traumatismos del tracto genital",
+                    "question": "\u00bfCu\u00e1l es la causa m\u00e1s frecuente de hemorragia post parto? ",
+                    "options": {
+                        "a": "Coagulopatias relacionadas al embarazo",
+                        "b": "Restos y adherencias placentarias",
+                        "c": "Anomal\u00edas de la contractilidad uterina",
+                        "d": "Traumatismos del tracto genital"
+                    },
+                    "id": "c0fc4995-4f68-415c-99e7-e5f520eb2b5f",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 6,
                     "image": "",
                     "discussion": []
                 }
@@ -14397,6 +15740,25 @@
                     },
                     "answer": "c",
                     "index": 34,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "20) Paciente que ingresa a la guardia del centro obst\u00e9trico refiriendo p\u00e9rdida de sangre por \ngenitales externos cursando gestaci\u00f3n de 33 semanas por ecografia,tercigesta, secund\u00edpara \n(dos partos normales). Usted constata actividad card\u00edaca fetal positiva, tono uterino \naumentado. En la especuloscop\u00eda presenta ginecorragia roja oscura proveniente de cavidad. \n\u00bfcu\u00e1l es su sospecha diagn\u00f3stica? \n a) Desprendimiento de Placenta Normoinserta \n b) Rotura Uterina \n c) Cervicitis Sangrante \n d) Vasa Previa \n",
+                    "question": "Paciente que ingresa a la guardia del centro obst\u00e9trico refiriendo p\u00e9rdida de sangre por genitales externos cursando gestaci\u00f3n de 33 semanas por ecografia,tercigesta, secund\u00edpara (dos partos normales). Usted constata actividad card\u00edaca fetal positiva, tono uterino aumentado. En la especuloscop\u00eda presenta ginecorragia roja oscura proveniente de cavidad. \u00bfcu\u00e1l es su sospecha diagn\u00f3stica? ",
+                    "options": {
+                        "a": "Desprendimiento de Placenta Normoinserta",
+                        "b": "Rotura Uterina",
+                        "c": "Cervicitis Sangrante",
+                        "d": "Vasa Previa"
+                    },
+                    "id": "5c1de803-2d7c-46ec-839b-b66557ac13a9",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 20,
                     "image": "",
                     "discussion": []
                 }
@@ -14670,6 +16032,44 @@
                     },
                     "answer": "d",
                     "index": 60,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "9) Paciente de 18 a\u00f1os, primigesta, 35 semanas de embarazo consulta por cefalea. Ex. F\u00edsico: \nTA 140/110, LF +, DU \u2010, tono uterino normal, sin perdidas ni dilataci\u00f3n. Laboratorio: hto 29%, \nhb 10g/dl, plaquetas 100000/dl, creatinina 1,9mg , TGO/TGP 110/130, LDH 700, proteinuria al \nazar +++. Luego de internar a la paciente \u00bfqu\u00e9 conducta toma? \n a) Tto antihipertensivo, sulfato de Mg y ces\u00e1rea \n b) maduraci\u00f3n pulmonar, sulfato de Mg e inducci\u00f3n al parto \n c) tto antihipertensivo, sulfato de Mg e inducci\u00f3n al parto \n d) maduraci\u00f3n pulmonar, sulfato de Mg y ces\u00e1rea",
+                    "question": "Paciente de 18 a\u00f1os, primigesta, 35 semanas de embarazo consulta por cefalea. Ex. F\u00edsico: TA 140/110, LF +, DU \u2010, tono uterino normal, sin perdidas ni dilataci\u00f3n. Laboratorio: hto 29%, hb 10g/dl, plaquetas 100000/dl, creatinina 1,9mg , TGO/TGP 110/130, LDH 700, proteinuria al azar +++. Luego de internar a la paciente \u00bfqu\u00e9 conducta toma? ",
+                    "options": {
+                        "a": "Tto antihipertensivo, sulfato de Mg y ces\u00e1rea",
+                        "b": "maduraci\u00f3n pulmonar, sulfato de Mg e inducci\u00f3n al parto",
+                        "c": "tto antihipertensivo, sulfato de Mg e inducci\u00f3n al parto",
+                        "d": "maduraci\u00f3n pulmonar, sulfato de Mg y ces\u00e1rea"
+                    },
+                    "id": "4a8e5446-b3eb-45a7-bc52-8f4b178e82b9",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 9,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "49) \u00bfQu\u00e9 f\u00e1rmacos est\u00e1n recomendados en pacientes con hipertensi\u00f3n en el embarazo cuyo \ntratamiento es oral y ambulatorio? \n a) Alfametidopa, Labetalol, Nifedipina \n b) Clonidina, Hidralacina, Labetalol \n c) Labetalol, Hidralacina, Nifedipina \n d) Alfametildopa, Hidralacina, Clonidina",
+                    "question": "\u00bfQu\u00e9 f\u00e1rmacos est\u00e1n recomendados en pacientes con hipertensi\u00f3n en el embarazo cuyo tratamiento es oral y ambulatorio? ",
+                    "options": {
+                        "a": "Alfametidopa, Labetalol, Nifedipina",
+                        "b": "Clonidina, Hidralacina, Labetalol",
+                        "c": "Labetalol, Hidralacina, Nifedipina",
+                        "d": "Alfametildopa, Hidralacina, Clonidina"
+                    },
+                    "id": "10520ac5-e9eb-4ef2-ba4e-dd9abae15fa9",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 49,
                     "image": "",
                     "discussion": []
                 }
@@ -15009,6 +16409,25 @@
                     "index": 58,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "39) En el monitoreo fetal intraparto, \u00bfPor qu\u00e9 motivo se produce un DIP variable? \n a) Por acidosis fetal. \n b) Por reducci\u00f3n del tono vagal. \n c) Por el encaje de la cabeza fetal. \n d) Por compresi\u00f3n del cord\u00f3n. \n",
+                    "question": "En el monitoreo fetal intraparto, \u00bfPor qu\u00e9 motivo se produce un DIP variable? ",
+                    "options": {
+                        "a": "Por acidosis fetal.",
+                        "b": "Por reducci\u00f3n del tono vagal.",
+                        "c": "Por el encaje de la cabeza fetal.",
+                        "d": "Por compresi\u00f3n del cord\u00f3n."
+                    },
+                    "id": "e5369156-df48-4d50-8566-f60cc679f7d8",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 39,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Parto: Todo lo que es trabajo de parto, mecanismos del parto en si, parto cefalico, parto parto instrumental (forceps, vacuum/ventosa), episiotomia",
@@ -15250,6 +16669,25 @@
                     },
                     "answer": "c",
                     "index": 75,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "18) En pacientes embarazadas, con diagn\u00f3stico de HIV y carga viral mayor a 1000 copias, \u00bfCu\u00e1l \nes la v\u00eda de finalizaci\u00f3n del embarazo? \n a) Parto Vaginal + profilaxis con AZT intraparto \n b) Ces\u00e1rea electiva + profilaxis con AZT intraparto \n c) Ces\u00e1rea electiva \n d) Parto vaginal o ces\u00e1rea seg\u00fan criterio obst\u00e9trica.",
+                    "question": "En pacientes embarazadas, con diagn\u00f3stico de HIV y carga viral mayor a 1000 copias, \u00bfCu\u00e1l es la v\u00eda de finalizaci\u00f3n del embarazo? ",
+                    "options": {
+                        "a": "Parto Vaginal + profilaxis con AZT intraparto",
+                        "b": "Ces\u00e1rea electiva + profilaxis con AZT intraparto",
+                        "c": "Ces\u00e1rea electiva",
+                        "d": "Parto vaginal o ces\u00e1rea seg\u00fan criterio obst\u00e9trica."
+                    },
+                    "id": "d85764f6-74a7-4e93-8bf8-63aa7624a492",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 18,
                     "image": "",
                     "discussion": []
                 }
@@ -15567,6 +17005,25 @@
                     },
                     "answer": "a",
                     "index": 48,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "35) \u00bfCu\u00e1ndo debe ser aplicada la dosis de la vacuna del virus sincicial respiratorio (VSR) en la \ngestante? \n a) Entre la semana 12 y 16 \n b) Entre la semana 20 y 24 \n c) Entre la semana 32 y 36 \n d) Entre la semana 36 y 40 \n",
+                    "question": "\u00bfCu\u00e1ndo debe ser aplicada la dosis de la vacuna del virus sincicial respiratorio (VSR) en la gestante? ",
+                    "options": {
+                        "a": "Entre la semana 12 y 16",
+                        "b": "Entre la semana 20 y 24",
+                        "c": "Entre la semana 32 y 36",
+                        "d": "Entre la semana 36 y 40"
+                    },
+                    "id": "26c46588-9e8a-413b-8663-c2138811dd66",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 35,
                     "image": "",
                     "discussion": []
                 }
@@ -16923,6 +18380,25 @@
                     "index": 14,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "78) \u00bfCu\u00e1l es el tratamiento de elecci\u00f3n para las formas no graves de infecci\u00f3n por clostridium \ndifficcile? \n a) Vancomicina 500 mg cada 6 hs vo \n b) Vancomicina 125 mg cada 6 hs vo \n c) Vancomicina 500 mg vo cada 6 m\u00e1s metronidazol 500 cada 8 hs Ev \n d) Metronidazol 500 mg cada 8 hs vo \n16",
+                    "question": "\u00bfCu\u00e1l es el tratamiento de elecci\u00f3n para las formas no graves de infecci\u00f3n por clostridium difficcile? ",
+                    "options": {
+                        "a": "Vancomicina 500 mg cada 6 hs vo",
+                        "b": "Vancomicina 125 mg cada 6 hs vo",
+                        "c": "Vancomicina 500 mg vo cada 6 m\u00e1s metronidazol 500 cada 8 hs Ev",
+                        "d": "Metronidazol 500 mg cada 8 hs vo"
+                    },
+                    "id": "8b1cc351-cbef-4427-85c1-18bbad86efde",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 78,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Diarreas agudas: De cualquier etiologia infecciosa (bacteriana, viral, amebiana, etc.), de cualquier tipo (acuosa, secretora, sanguinolenta, etc.)",
@@ -17206,6 +18682,25 @@
                     "index": 95,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "1) \u00bfEn qu\u00e9 fase ocurren las complicaciones cl\u00ednicas potencialmente graves y mortales del \ndengue? \n a) Fase febril de la enfermedad. \n b) Fase de incubaci\u00f3n de la enfermedad. \n c) Fase de recuperaci\u00f3n de la enfermedad. \n d) Fase de defervescencia febril.",
+                    "question": "\u00bfEn qu\u00e9 fase ocurren las complicaciones cl\u00ednicas potencialmente graves y mortales del dengue? ",
+                    "options": {
+                        "a": "Fase febril de la enfermedad.",
+                        "b": "Fase de incubaci\u00f3n de la enfermedad.",
+                        "c": "Fase de recuperaci\u00f3n de la enfermedad.",
+                        "d": "Fase de defervescencia febril."
+                    },
+                    "id": "be0aa84a-9173-4f61-9ee9-0fa59de904a1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 1,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Fiebres hemorragicas: Dengue, Hantavirus, Fiebre hemorragica argentina, leptospirosis",
@@ -17261,6 +18756,25 @@
                     "index": 95,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "1) \u00bfEn qu\u00e9 fase ocurren las complicaciones cl\u00ednicas potencialmente graves y mortales del \ndengue? \n a) Fase febril de la enfermedad. \n b) Fase de incubaci\u00f3n de la enfermedad. \n c) Fase de recuperaci\u00f3n de la enfermedad. \n d) Fase de defervescencia febril.",
+                    "question": "\u00bfEn qu\u00e9 fase ocurren las complicaciones cl\u00ednicas potencialmente graves y mortales del dengue? ",
+                    "options": {
+                        "a": "Fase febril de la enfermedad.",
+                        "b": "Fase de incubaci\u00f3n de la enfermedad.",
+                        "c": "Fase de recuperaci\u00f3n de la enfermedad.",
+                        "d": "Fase de defervescencia febril."
+                    },
+                    "id": "be0aa84a-9173-4f61-9ee9-0fa59de904a1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 1,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -17306,6 +18820,25 @@
                     },
                     "answer": "a",
                     "index": 48,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "98) \u00bfCu\u00e1l es la v\u00eda de transmisi\u00f3n de la Hepatitis E? \n a) Transfusional. \n b) Fecal\u2010oral. \n c) Sexual. \n d) Perinatal.",
+                    "question": "\u00bfCu\u00e1l es la v\u00eda de transmisi\u00f3n de la Hepatitis E? ",
+                    "options": {
+                        "a": "Transfusional.",
+                        "b": "Fecal\u2010oral.",
+                        "c": "Sexual.",
+                        "d": "Perinatal."
+                    },
+                    "id": "07d6e695-2c05-4d5d-bbdd-12840c93eed1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 98,
                     "image": "",
                     "discussion": []
                 }
@@ -17596,6 +19129,25 @@
                     },
                     "answer": "b",
                     "index": 82,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "99) Paciente de 40 a\u00f1os de edad, sin antecedentes de consideraci\u00f3n. Ingresa en ambulancia a \nguardia de emergencias por cuadro de 4 d\u00edas de evoluci\u00f3n que comienza con rinitis, \nreiterados registros de fiebre, cefalea, v\u00f3mitos, dolor abdominal, conducta err\u00e1tica. Durante \nla evaluaci\u00f3n se constata afasia mixta. Fuerza y sensibilidad conservada en 4 miembros, sin \nsignos men\u00edngeos. Se solicita laboratorio con natremia 129 meq/l, leucocitosis, test HIV \nnegativo. Tomograf\u00eda axial computada de cerebro sin contraste con resultado normal. Ud. es \nel m\u00e9dico a cargo de la guardia. \u00bfCu\u00e1l es la conducta adecuada a seguir? \n a) Comenzar reposici\u00f3n endovenosa de cloruro de sodio hipert\u00f3nico e interconsultar a cirujano \ngeneral. \n b) Comenzar reposici\u00f3n endovenosa de cloruro de sodio hipert\u00f3nico con control de ionograma \ny evaluaci\u00f3n en 2 horas. \n c) Realizar de urgencia punci\u00f3n lumbar diagn\u00f3stica y considerar inicio emp\u00edrico con antibi\u00f3ticos \ny antivirales de acuerdo a resultado. \n d) Solicitar por externo resonancia magn\u00e9tica nuclear de enc\u00e9falo con gadolinio y aguardar \nhasta resultado de la misma para toma de conducta.",
+                    "question": "Paciente de 40 a\u00f1os de edad, sin antecedentes de consideraci\u00f3n. Ingresa en ambulancia a guardia de emergencias por cuadro de 4 d\u00edas de evoluci\u00f3n que comienza con rinitis, reiterados registros de fiebre, cefalea, v\u00f3mitos, dolor abdominal, conducta err\u00e1tica. Durante la evaluaci\u00f3n se constata afasia mixta. Fuerza y sensibilidad conservada en 4 miembros, sin signos men\u00edngeos. Se solicita laboratorio con natremia 129 meq/l, leucocitosis, test HIV negativo. Tomograf\u00eda axial computada de cerebro sin contraste con resultado normal. Ud. es el m\u00e9dico a cargo de la guardia. \u00bfCu\u00e1l es la conducta adecuada a seguir? ",
+                    "options": {
+                        "a": "Comenzar reposici\u00f3n endovenosa de cloruro de sodio hipert\u00f3nico e interconsultar a cirujano  general.",
+                        "b": "Comenzar reposici\u00f3n endovenosa de cloruro de sodio hipert\u00f3nico con control de ionograma  y evaluaci\u00f3n en 2 horas.",
+                        "c": "Realizar de urgencia punci\u00f3n lumbar diagn\u00f3stica y considerar inicio emp\u00edrico con antibi\u00f3ticos  y antivirales de acuerdo a resultado.",
+                        "d": "Solicitar por externo resonancia magn\u00e9tica nuclear de enc\u00e9falo con gadolinio y aguardar  hasta resultado de la misma para toma de conducta."
+                    },
+                    "id": "c9acfaf6-1f98-4a59-887b-f8049799070e",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 99,
                     "image": "",
                     "discussion": []
                 }
@@ -18016,6 +19568,25 @@
                     "index": 80,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "82) Durante un examen semiol\u00f3gico respiratorio se detecta en una regi\u00f3n: disminuci\u00f3n del \nmurmullo vesicular, matidez a la percusi\u00f3n, disminuci\u00f3n de las vibraciones vocales y sonoridad \nen columna vertebral \u00bfEn qu\u00e9 patolog\u00eda pensar\u00eda? \n a) Atelectasia. \n b) Neumon\u00eda. \n c) Derrame pleural. \n d) Hidroneumotorax. \n17",
+                    "question": "Durante un examen semiol\u00f3gico respiratorio se detecta en una regi\u00f3n: disminuci\u00f3n del murmullo vesicular, matidez a la percusi\u00f3n, disminuci\u00f3n de las vibraciones vocales y sonoridad en columna vertebral \u00bfEn qu\u00e9 patolog\u00eda pensar\u00eda? ",
+                    "options": {
+                        "a": "Atelectasia.",
+                        "b": "Neumon\u00eda.",
+                        "c": "Derrame pleural.",
+                        "d": "Hidroneumotorax."
+                    },
+                    "id": "6dab5ad7-473a-450b-99f5-55478aaeccd4",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 82,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Neumonia: De cualquier causa (bacteriana, viral, micotica, parasitaria, TBC) y sus complicaciones (derrame pleural)."
@@ -18108,6 +19679,25 @@
                             "id": "0c3e45a5-088a-49bf-bd90-dd856b1edbaf"
                         }
                     ]
+                },
+                {
+                    "question_complete": "100) Viene a la consulta una mujer de 22 a\u00f1os, que consult\u00f3 en una guardia hace 2 d\u00edas por \ndolor abdominal irradiado a regi\u00f3n lumbar, asociada a fiebre y n\u00e1useas. Trae un an\u00e1lisis de \norina completa con: HB ++++, LEUCOCITOS ++++ y PIOCITOS ++++ \u00bfCu\u00e1l es su diagn\u00f3stico \npresuntivo y qu\u00e9 conducta terap\u00e9utica tomar\u00eda? \n a) Diagn\u00f3stico de pielonefritis. Indica ceftriaxona 500 mg IM previo interrogatorio sobre FUM y \npedido de urocultivo. \n b) Diagn\u00f3stico de cistitis, indica cefalexina oral 500 mg cada 6 horas por 5 d\u00edas. \n c) Diagn\u00f3stico de pielonefritis. Solicita urocultivo. Eval\u00faa \nciprofloxacina VO 500 MG cada 12 hs por 7 d\u00edas. \nla tolerancia oral e \nindica \n d) Diagn\u00f3stico de pielonefritis. Solicita urocultivo y deriva a guardia para internaci\u00f3n de \nurgencia.",
+                    "question": "Viene a la consulta una mujer de 22 a\u00f1os, que consult\u00f3 en una guardia hace 2 d\u00edas por dolor abdominal irradiado a regi\u00f3n lumbar, asociada a fiebre y n\u00e1useas. Trae un an\u00e1lisis de orina completa con: HB ++++, LEUCOCITOS ++++ y PIOCITOS ++++ \u00bfCu\u00e1l es su diagn\u00f3stico presuntivo y qu\u00e9 conducta terap\u00e9utica tomar\u00eda? ",
+                    "options": {
+                        "a": "Diagn\u00f3stico de pielonefritis. Indica ceftriaxona 500 mg IM previo interrogatorio sobre FUM y  pedido de urocultivo.",
+                        "b": "Diagn\u00f3stico de cistitis, indica cefalexina oral 500 mg cada 6 horas por 5 d\u00edas.",
+                        "c": "Diagn\u00f3stico de pielonefritis. Solicita urocultivo. Eval\u00faa la tolerancia oral e indica ciprofloxacina VO 500 MG cada 12 hs por 7 d\u00edas.",
+                        "d": "Diagn\u00f3stico de pielonefritis. Solicita urocultivo y deriva a guardia para internaci\u00f3n de  urgencia."
+                    },
+                    "id": "0cc8c4be-1851-42d2-a20b-106d330dd014",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 100,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Infeccion urinaria (ITU)",
@@ -18985,6 +20575,25 @@
                     "index": 82,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "80) \u00bfCu\u00e1l es la indicaci\u00f3n de vacunaci\u00f3n que debe realizar a un paciente adulto \nesplenectomizado? \n a) Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana).Neumococo conjugada 13 v \nMeningococo conjugada ( 1 dosis). \n b) dTpa/dT (triple/doble bacteriana). Herpes z\u00f3ster (virus vivo atenuado). Neumococo \nconjugada 13 v Meningococo conjugada (1 dosis). \n c) Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana). Neumococo polisac\u00e1rida vpn 22 \nMeningococo conjugada (1 dosis). \n d) Hepatitis B 3 dosis. Neumococo polisac\u00e1rida VPN 22. Antigripal 1 dosis.",
+                    "question": "\u00bfCu\u00e1l es la indicaci\u00f3n de vacunaci\u00f3n que debe realizar a un paciente adulto esplenectomizado? ",
+                    "options": {
+                        "a": "Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana).Neumococo conjugada 13 v  Meningococo conjugada ( 1 dosis).",
+                        "b": "dTpa/dT (triple/doble bacteriana). Herpes z\u00f3ster (virus vivo atenuado). Neumococo  conjugada 13 v Meningococo conjugada (1 dosis).",
+                        "c": "Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana). Neumococo polisac\u00e1rida vpn 22  Meningococo conjugada (1 dosis).",
+                        "d": "Hepatitis B 3 dosis. Neumococo polisac\u00e1rida VPN 22. Antigripal 1 dosis."
+                    },
+                    "id": "485604bd-0c66-4433-93b9-61a5201c80d1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 80,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Vacunas: En cualquier grupo etario (ni\u00f1os, jovenes, adultos, adultos mayores) y cualquier condicion (inmunocompetentes, inmunocomprometidos,",
@@ -19539,6 +21148,25 @@
                     "index": 95,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "38) Paciente masculino de 43 a\u00f1os de edad VIH positivo en tratamiento antirretroviral con \nCD4 650 y carga viral indetectable. Consulta por lesiones maculo papulosas a predominio de \ntronco que no respeta palmas ni plantas. \u00bfCu\u00e1l es su sospecha diagn\u00f3stica? \n a) S\u00edfilis primaria. \n b) S\u00edfilis secundaria. \n c) Vasculitis asociada a terap\u00e9utica anti\u2010retroviral. \n d) Urticaria aguda por alergia medicamentosa.",
+                    "question": "Paciente masculino de 43 a\u00f1os de edad VIH positivo en tratamiento antirretroviral con CD4 650 y carga viral indetectable. Consulta por lesiones maculo papulosas a predominio de tronco que no respeta palmas ni plantas. \u00bfCu\u00e1l es su sospecha diagn\u00f3stica? ",
+                    "options": {
+                        "a": "S\u00edfilis primaria.",
+                        "b": "S\u00edfilis secundaria.",
+                        "c": "Vasculitis asociada a terap\u00e9utica anti\u2010retroviral.",
+                        "d": "Urticaria aguda por alergia medicamentosa."
+                    },
+                    "id": "d3f119d0-619d-4d6a-8cf5-b1ae76176d1b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 38,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Sifilis: Cualquier estadio (1ra, 2ra, 3ra), congenito.",
@@ -20021,6 +21649,25 @@
                     "index": 43,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "77) Un paciente de 70 a\u00f1os consulta por debilidad muscular de ambos miembros inferiores, \nteniendo en cuanta que el origen podr\u00eda ser una miopat\u00eda. \u00bfCu\u00e1l de los siguientes signos ser\u00eda \ncompatible? \n a) Debilidad proximal con rigidez extrapiramidal. \n b) Debilidad distal y reflejos normales o aumentados. \n c) Debilidad distal o segmentaria m\u00e1s reflejos normales. \n d) Debilidad proximal y reflejos normales o disminuidos.",
+                    "question": "Un paciente de 70 a\u00f1os consulta por debilidad muscular de ambos miembros inferiores, teniendo en cuanta que el origen podr\u00eda ser una miopat\u00eda. \u00bfCu\u00e1l de los siguientes signos ser\u00eda compatible? ",
+                    "options": {
+                        "a": "Debilidad proximal con rigidez extrapiramidal.",
+                        "b": "Debilidad distal y reflejos normales o aumentados.",
+                        "c": "Debilidad distal o segmentaria m\u00e1s reflejos normales.",
+                        "d": "Debilidad proximal y reflejos normales o disminuidos."
+                    },
+                    "id": "a42ef0e5-9564-4611-b5f2-394579c5bf2f",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 77,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Miositis: De cualquier tipo (polimiositis, dermatomiositis, etc.)",
@@ -20378,6 +22025,25 @@
                     "index": 88,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "16) Paciente masculino de 56 a\u00f1os con antecedentes de tabaquismo de 20 cigarrillos/d\u00eda por \n20 a\u00f1os, consulta por disnea de esfuerzo y tos con expectoraci\u00f3n mucosa \u00bfQu\u00e9 estudio \nsolicitar\u00eda para realizar el diagn\u00f3stico? \n a) Tomograf\u00eda de t\u00f3rax con contraste EV. \n b) Ecocardiograma doppler color. \n c) Espirometr\u00eda con prueba post broncodilatador. \n d) Examen directo para BAAR.",
+                    "question": "Paciente masculino de 56 a\u00f1os con antecedentes de tabaquismo de 20 cigarrillos/d\u00eda por 20 a\u00f1os, consulta por disnea de esfuerzo y tos con expectoraci\u00f3n mucosa \u00bfQu\u00e9 estudio solicitar\u00eda para realizar el diagn\u00f3stico? ",
+                    "options": {
+                        "a": "Tomograf\u00eda de t\u00f3rax con contraste EV.",
+                        "b": "Ecocardiograma doppler color.",
+                        "c": "Espirometr\u00eda con prueba post broncodilatador.",
+                        "d": "Examen directo para BAAR."
+                    },
+                    "id": "f516d6a0-2b23-48c5-a5b9-098741cbc55e",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 16,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
@@ -20498,6 +22164,25 @@
                     },
                     "answer": "a",
                     "index": 88,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "68) Ud. atiende a una persona de 35 a\u00f1os de edad, no tabaquista, que presenta diagn\u00f3stico \nde asma de hace 8 a\u00f1os. Se encuentra tratado con puff de Salbutamol a demanda. El paciente \nmanifiesta que en el \u00faltimo trimestre requiri\u00f3 con m\u00e1s frecuencia el uso de puff porque \naumentaron sus crisis nocturnas. En el \u00faltimo mes tuvo que asistir a la guardia del hospital en \n3 ocasiones por falta de aire all\u00ed le indicaron distintos puffs de los que no recuerda su nombre. \nUd. determina que no est\u00e1 habiendo un control cl\u00ednico del asma. \u00bfCu\u00e1l es el tratamiento \nfarmacol\u00f3gico escalonado del asma que deber\u00e1 realizar? \n a) Iniciar tratamiento con broncodilatadores adren\u00e9rgicos de acci\u00f3n larga y dosis baja de \ncorticoides inhalados. \n b) Iniciar dosis bajas de corticoides via oral asociado a Salbutamol a demanda. \n c) Continuar con los puff de Salbutamol de base cada 8 hs. \n d) Iniciar tratamiento con broncodilatadores y derivar al consultorio de Neumonologia para su \nseguimiento.",
+                    "question": "Ud. atiende a una persona de 35 a\u00f1os de edad, no tabaquista, que presenta diagn\u00f3stico de asma de hace 8 a\u00f1os. Se encuentra tratado con puff de Salbutamol a demanda. El paciente manifiesta que en el \u00faltimo trimestre requiri\u00f3 con m\u00e1s frecuencia el uso de puff porque aumentaron sus crisis nocturnas. En el \u00faltimo mes tuvo que asistir a la guardia del hospital en 3 ocasiones por falta de aire all\u00ed le indicaron distintos puffs de los que no recuerda su nombre. Ud. determina que no est\u00e1 habiendo un control cl\u00ednico del asma. \u00bfCu\u00e1l es el tratamiento farmacol\u00f3gico escalonado del asma que deber\u00e1 realizar? ",
+                    "options": {
+                        "a": "Iniciar tratamiento con broncodilatadores adren\u00e9rgicos de acci\u00f3n larga y dosis baja de  corticoides inhalados.",
+                        "b": "Iniciar dosis bajas de corticoides via oral asociado a Salbutamol a demanda.",
+                        "c": "Continuar con los puff de Salbutamol de base cada 8 hs.",
+                        "d": "Iniciar tratamiento con broncodilatadores y derivar al consultorio de Neumonologia para su  seguimiento."
+                    },
+                    "id": "d1642e25-bf19-4601-bb26-86dd08374b6e",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 68,
                     "image": "",
                     "discussion": []
                 }
@@ -20879,6 +22564,25 @@
                     "index": 3,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "53) Juan tiene 38 a\u00f1os y es tabaquista hace m\u00e1s de 10 a\u00f1os. En la consulta le comenta a su \nm\u00e9dico que sabe del da\u00f1o que le provoca el tabaquismo y piensa en dejar de fumar, pero a\u00fan \nno est\u00e1 listo para hacerlo. De acuerdo al modelo transte\u00f3rico de Prochaska y Di Clemente \n\u00bfCu\u00e1l es la etapa en la que se encuentra Juan? \n a) Etapa contemplativa \n b) Etapa de acci\u00f3n \n c) Etapa de preparaci\u00f3n \n d) Etapa precontemplativa \n11",
+                    "question": "Juan tiene 38 a\u00f1os y es tabaquista hace m\u00e1s de 10 a\u00f1os. En la consulta le comenta a su m\u00e9dico que sabe del da\u00f1o que le provoca el tabaquismo y piensa en dejar de fumar, pero a\u00fan no est\u00e1 listo para hacerlo. De acuerdo al modelo transte\u00f3rico de Prochaska y Di Clemente \u00bfCu\u00e1l es la etapa en la que se encuentra Juan? ",
+                    "options": {
+                        "a": "Etapa contemplativa",
+                        "b": "Etapa de acci\u00f3n",
+                        "c": "Etapa de preparaci\u00f3n",
+                        "d": "Etapa precontemplativa"
+                    },
+                    "id": "32fd8ae0-6eb7-484b-b036-ecd419791846",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 53,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Tabaquismo: Tanto su intoxicacion cronica como el tratamiento (cesacion tabaquica)",
@@ -20933,6 +22637,25 @@
                     },
                     "answer": "a",
                     "index": 29,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "59) \u00bfCu\u00e1l es la variable de gases arteriales que define la hipoventilaci\u00f3n? \n a) Bicarbonato. \n b) PaO2. \n c) PaCO2 \n d) pH. \n12",
+                    "question": "\u00bfCu\u00e1l es la variable de gases arteriales que define la hipoventilaci\u00f3n? ",
+                    "options": {
+                        "a": "Bicarbonato.",
+                        "b": "PaO2.",
+                        "c": "PaCO2",
+                        "d": "pH."
+                    },
+                    "id": "8b8bfd76-cd5c-4388-91cd-fdb3ddfbffc1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 59,
                     "image": "",
                     "discussion": []
                 }
@@ -21026,6 +22749,25 @@
                     "answer": "a",
                     "index": 80,
                     "image": "eu_2017_q80",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "82) Durante un examen semiol\u00f3gico respiratorio se detecta en una regi\u00f3n: disminuci\u00f3n del \nmurmullo vesicular, matidez a la percusi\u00f3n, disminuci\u00f3n de las vibraciones vocales y sonoridad \nen columna vertebral \u00bfEn qu\u00e9 patolog\u00eda pensar\u00eda? \n a) Atelectasia. \n b) Neumon\u00eda. \n c) Derrame pleural. \n d) Hidroneumotorax. \n17",
+                    "question": "Durante un examen semiol\u00f3gico respiratorio se detecta en una regi\u00f3n: disminuci\u00f3n del murmullo vesicular, matidez a la percusi\u00f3n, disminuci\u00f3n de las vibraciones vocales y sonoridad en columna vertebral \u00bfEn qu\u00e9 patolog\u00eda pensar\u00eda? ",
+                    "options": {
+                        "a": "Atelectasia.",
+                        "b": "Neumon\u00eda.",
+                        "c": "Derrame pleural.",
+                        "d": "Hidroneumotorax."
+                    },
+                    "id": "6dab5ad7-473a-450b-99f5-55478aaeccd4",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 82,
+                    "image": "",
                     "discussion": []
                 }
             ],
@@ -21627,6 +23369,25 @@
                     "index": 33,
                     "image": "eu_2020_q33",
                     "discussion": []
+                },
+                {
+                    "question_complete": "36) Una mujer de 75 a\u00f1os concurre a consulta por una disminuci\u00f3n brusca de la visi\u00f3n del ojo \nizquierdo. Como antecedente, es hipertensa arterial bien controlada. La agudeza visual del ojo \nderecho es de 10/10 con su correcci\u00f3n \u00f3ptica y del ojo izquierdo, 3/10, y no mejora con \nestenopeico. Presenta un defecto pupilar aferente en el ojo izquierdo y un escotoma central \nen el campo visual del ojo afectado. El examen del fondo de ojo muestra un edema sectorial \nde la papila del ojo izquierdo con hemorragias peripapilares. En el ojo contralateral el disco \n\u00f3ptico es normal. La velocidad de eritrosedimentaci\u00f3n es de 80 mm/1 hora. \u00bfCu\u00e1l es su \ndiagn\u00f3stico? \n a) Neuropat\u00eda optica isqu\u00e9mica arter\u00edtica \n b) Neuropat\u00eda \u00f3ptica isqu\u00e9mica no arter\u00edtica. \n c) Neuritis retrobulbar. \n d) Papilitis.",
+                    "question": "Una mujer de 75 a\u00f1os concurre a consulta por una disminuci\u00f3n brusca de la visi\u00f3n del ojo izquierdo. Como antecedente, es hipertensa arterial bien controlada. La agudeza visual del ojo derecho es de 10/10 con su correcci\u00f3n \u00f3ptica y del ojo izquierdo, 3/10, y no mejora con estenopeico. Presenta un defecto pupilar aferente en el ojo izquierdo y un escotoma central en el campo visual del ojo afectado. El examen del fondo de ojo muestra un edema sectorial de la papila del ojo izquierdo con hemorragias peripapilares. En el ojo contralateral el disco \u00f3ptico es normal. La velocidad de eritrosedimentaci\u00f3n es de 80 mm/1 hora. \u00bfCu\u00e1l es su diagn\u00f3stico? ",
+                    "options": {
+                        "a": "Neuropat\u00eda optica isqu\u00e9mica arter\u00edtica",
+                        "b": "Neuropat\u00eda \u00f3ptica isqu\u00e9mica no arter\u00edtica.",
+                        "c": "Neuritis retrobulbar.",
+                        "d": "Papilitis."
+                    },
+                    "id": "8fc33b18-0ffb-4697-b2fe-ba69e1600ea3",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 36,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": ""
@@ -22188,6 +23949,25 @@
                     "index": 47,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "10) \u00bfCu\u00e1l es la caracter\u00edstica patognom\u00f3nica del v\u00e9rtigo laber\u00edntico? \n a) Acufenos o hipoacusia. \n b) Romberg negativo. \n c) Nistagmo vertical. \n d) Nistagmo horizontal. \n",
+                    "question": "\u00bfCu\u00e1l es la caracter\u00edstica patognom\u00f3nica del v\u00e9rtigo laber\u00edntico? ",
+                    "options": {
+                        "a": "Acufenos o hipoacusia.",
+                        "b": "Romberg negativo.",
+                        "c": "Nistagmo vertical.",
+                        "d": "Nistagmo horizontal."
+                    },
+                    "id": "d03587d6-2c25-4a6c-8b8c-82b38a99ed87",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 10,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Vestibular: Entran los sindromes vestibulares perifericos, como Meniere, vertigo posicional paroxistico benigno (VPPB), neuronitis vestibular, neurinoma vestibular, ototoxicidad",
@@ -22580,6 +24360,44 @@
                     "index": 49,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "7) \u00bfCu\u00e1l es una de las principales ventajas de los Estudios de Cohorte? \n a) Son eficientes para el estudio de enfermedades raras \n b) Permiten estimar de manera directa medidas de incidencia o prevalencia \n c) Son adecuados para medir eficientemente la exposici\u00f3n \n d) Permiten estudiar varios eventos simult\u00e1neamente",
+                    "question": "\u00bfCu\u00e1l es una de las principales ventajas de los Estudios de Cohorte? ",
+                    "options": {
+                        "a": "Son eficientes para el estudio de enfermedades raras",
+                        "b": "Permiten estimar de manera directa medidas de incidencia o prevalencia",
+                        "c": "Son adecuados para medir eficientemente la exposici\u00f3n",
+                        "d": "Permiten estudiar varios eventos simult\u00e1neamente"
+                    },
+                    "id": "404c5088-45a9-4fe4-b74a-e798dd5ca78d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 7,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "60) \u00bfCu\u00e1l es el dise\u00f1o de estudio epidemiol\u00f3gico m\u00e1s adecuado para evaluar la asociaci\u00f3n \nentre varios potenciales factores de riesgo con una enfermedad de baja prevalencia? \n a) Estudio de casos y controles \n b) Estudio de corte transversal \n c) Estudio ecol\u00f3gico \n d) Estudio de cohorte",
+                    "question": "\u00bfCu\u00e1l es el dise\u00f1o de estudio epidemiol\u00f3gico m\u00e1s adecuado para evaluar la asociaci\u00f3n entre varios potenciales factores de riesgo con una enfermedad de baja prevalencia? ",
+                    "options": {
+                        "a": "Estudio de casos y controles",
+                        "b": "Estudio de corte transversal",
+                        "c": "Estudio ecol\u00f3gico",
+                        "d": "Estudio de cohorte"
+                    },
+                    "id": "ab4b8387-29a3-40da-9f92-98fb80b109a3",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 60,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Estudios epidemiologicos: De cualquier tipo, analitico, descriptivo, cohortes, reporte de casos, ecologicos, etc...",
@@ -22684,6 +24502,82 @@
                             "id": "59d07fba-71c1-402b-9e98-534689f02d29"
                         }
                     ]
+                },
+                {
+                    "question_complete": "15) \u00bfCu\u00e1l es la principal causa de muerte en la poblaci\u00f3n adulta en la Rep\u00fablica Argentina? \n a) Enfermedades del coraz\u00f3n \n b) Tumores malignos \n c) Diabetes Mellitus \n d) Neumon\u00eda e Influenza",
+                    "question": "\u00bfCu\u00e1l es la principal causa de muerte en la poblaci\u00f3n adulta en la Rep\u00fablica Argentina? ",
+                    "options": {
+                        "a": "Enfermedades del coraz\u00f3n",
+                        "b": "Tumores malignos",
+                        "c": "Diabetes Mellitus",
+                        "d": "Neumon\u00eda e Influenza"
+                    },
+                    "id": "d62416f7-a5e1-4d7c-9803-03ba310f2ab6",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 15,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "25) \u00bfCu\u00e1l es la principal causa de muerte en los menores de 1 a\u00f1o en la Rep\u00fablica Argentina? \n a) Enfermedades infecciosas intestinales. \n b) Meningitis. \n c) Afecciones originadas en el periodo perinatal. \n d) Enfermedades del sistema respiratorio. \n",
+                    "question": "\u00bfCu\u00e1l es la principal causa de muerte en los menores de 1 a\u00f1o en la Rep\u00fablica Argentina? ",
+                    "options": {
+                        "a": "Enfermedades infecciosas intestinales.",
+                        "b": "Meningitis.",
+                        "c": "Afecciones originadas en el periodo perinatal.",
+                        "d": "Enfermedades del sistema respiratorio."
+                    },
+                    "id": "ef54eac3-0e36-4044-b624-ecfb409681e3",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 25,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "66) \u00bfQu\u00e9 denominador se utiliza para el c\u00e1lculo de la tasa de mortalidad materna? \n a) Las mujeres en edad f\u00e9rtil \n b) Las mujeres con hijos nacidos vivos \n c) Los nacidos vivos \n d) Los ni\u00f1os fallecidos luego del nacimiento",
+                    "question": "\u00bfQu\u00e9 denominador se utiliza para el c\u00e1lculo de la tasa de mortalidad materna? ",
+                    "options": {
+                        "a": "Las mujeres en edad f\u00e9rtil",
+                        "b": "Las mujeres con hijos nacidos vivos",
+                        "c": "Los nacidos vivos",
+                        "d": "Los ni\u00f1os fallecidos luego del nacimiento"
+                    },
+                    "id": "23c8871e-29a1-4292-be5e-1b7798ca94ff",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 66,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "94) \u00bfC\u00f3mo se calcula la tasa de mortalidad infantil? \n a) N\u00b0 muertes fetales / N\u00b0 nacidos vivos registrados X 1.000 \n b) N\u00b0 muertes de menores de 28 d\u00edas / Poblaci\u00f3n total X 10.000 \n c) N\u00b0 muertes de menores de un a\u00f1o de edad / Poblaci\u00f3n total X 10.000 \n d) N\u00b0 muertes de menores de un a\u00f1o de edad / N\u00b0 nacidos vivos registrados X 1.000",
+                    "question": "\u00bfC\u00f3mo se calcula la tasa de mortalidad infantil? ",
+                    "options": {
+                        "a": "N\u00b0 muertes fetales / N\u00b0 nacidos vivos registrados X 1.000",
+                        "b": "N\u00b0 muertes de menores de 28 d\u00edas / Poblaci\u00f3n total X 10.000",
+                        "c": "N\u00b0 muertes de menores de un a\u00f1o de edad / Poblaci\u00f3n total X 10.000",
+                        "d": "N\u00b0 muertes de menores de un a\u00f1o de edad / N\u00b0 nacidos vivos registrados X 1.000"
+                    },
+                    "id": "d5cbfabd-a4af-496d-b943-8aca1d5f78f4",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 94,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Indicadores: Cualquier indicador/tasa que se te ocurra (tasa de mortalidad, natalidad, a\u00f1os de vida potencialmente perdidos, a\u00f1os de vida ajustados por discapacidad, etc) como tambien definiciones (tasa, indicador, indice, razon, porcentaje, prevalencia, incidencia etc.)",
@@ -23025,7 +24919,27 @@
             ]
         },
         "sensibilidad y especificidad": {
-            "array": [],
+            "array": [
+                {
+                    "question_complete": "21) \u00bfCu\u00e1l es el significado del concepto \"Valor Predictivo Positivo\"? \n a) La proporci\u00f3n de pacientes con resultados negativos de la prueba que tienen la alteraci\u00f3n \nblanco. \n b) La proporci\u00f3n de pacientes con resultados negativos de la prueba que no tienen la alteraci\u00f3n \nblanco. \n c) La proporci\u00f3n de pacientes con resultados positivos de la prueba que tienen la alteraci\u00f3n \nblanco. \n d) La proporci\u00f3n de pacientes con resultados positivos de la prueba que no tienen la alteraci\u00f3n \nblanco.",
+                    "question": "\u00bfCu\u00e1l es el significado del concepto \"Valor Predictivo Positivo\"? ",
+                    "options": {
+                        "a": "La proporci\u00f3n de pacientes con resultados negativos de la prueba que tienen la alteraci\u00f3n  blanco.",
+                        "b": "La proporci\u00f3n de pacientes con resultados negativos de la prueba que no tienen la alteraci\u00f3n  blanco.",
+                        "c": "La proporci\u00f3n de pacientes con resultados positivos de la prueba que tienen la alteraci\u00f3n  blanco.",
+                        "d": "La proporci\u00f3n de pacientes con resultados positivos de la prueba que no tienen la alteraci\u00f3n  blanco."
+                    },
+                    "id": "8e0ec2a2-966f-40d6-8f13-0410ed2a06da",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 21,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
             "aclaracion": "Sensibilidad y Especificidad: De cualquier estudio diagnostico. Tambien entra el valor predicitivo negativo y positivo (VPN y VPP)",
             "analogos": [
                 "estudio diagnostico",
@@ -23616,6 +25530,25 @@
                     "index": 100,
                     "image": "",
                     "discussion": []
+                },
+                {
+                    "question_complete": "91) La Ley 27.610 de Interrupci\u00f3n Voluntaria y Legal del Embarazo, espec\u00edfica la edad \ngestacional para contemplar IVE, \u00bfcu\u00e1l es el l\u00edmite de edad gestacional? \n a) 10 semanas \n b) 14 semanas \n c) 12 semanas \n d) 11 semanas \n19",
+                    "question": "La Ley 27.610 de Interrupci\u00f3n Voluntaria y Legal del Embarazo, espec\u00edfica la edad gestacional para contemplar IVE, \u00bfcu\u00e1l es el l\u00edmite de edad gestacional? ",
+                    "options": {
+                        "a": "10 semanas",
+                        "b": "14 semanas",
+                        "c": "12 semanas",
+                        "d": "11 semanas"
+                    },
+                    "id": "eb134663-9c7b-4fca-9e12-06faeef95ff2",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 91,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "Aborto: Tanto la interrupcion voluntaria del embarazo (IVE) o la interrupcion legal del embarazo (ILE)",
@@ -23758,6 +25691,25 @@
                     },
                     "answer": "b",
                     "index": 47,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "33) Seg\u00fan la ley N\u00ba 26.529 de \"Derechos del Paciente en su Relaci\u00f3n con los Profesionales e \nInstituciones de la Salud\", \u00bfEn qu\u00e9 casos el profesional queda eximido de requerir el \nconsentimiento informado? \n a) Cuando la intervenci\u00f3n no sea invasiva o no revista gran riesgo para el paciente. \n b) Cuando mediare gran peligro para la salud p\u00fablica o una situaci\u00f3n de emergencia con gran \npeligro para la vida del paciente. \n c) Cuando el paciente se encuentre solo y se vean afectadas sus facultades mentales. \n d) Cuando el equipo tratante tenga certeza de la necesidad y eficacia del tratamiento",
+                    "question": "Seg\u00fan la ley N\u00ba 26.529 de \"Derechos del Paciente en su Relaci\u00f3n con los Profesionales e Instituciones de la Salud\", \u00bfEn qu\u00e9 casos el profesional queda eximido de requerir el consentimiento informado? ",
+                    "options": {
+                        "a": "Cuando la intervenci\u00f3n no sea invasiva o no revista gran riesgo para el paciente.",
+                        "b": "Cuando mediare gran peligro para la salud p\u00fablica o una situaci\u00f3n de emergencia con gran  peligro para la vida del paciente.",
+                        "c": "Cuando el paciente se encuentre solo y se vean afectadas sus facultades mentales.",
+                        "d": "Cuando el equipo tratante tenga certeza de la necesidad y eficacia del tratamiento"
+                    },
+                    "id": "0ba297d5-573a-4fac-9df9-2b15323d842f",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 33,
                     "image": "",
                     "discussion": []
                 }
@@ -23964,6 +25916,25 @@
                     },
                     "answer": "c",
                     "index": 97,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "12) Un equipo de salud de una maternidad toma conocimiento de que una mujer tiene \nserolog\u00eda positiva para VIH y que su marido no lo sabe. La pareja de la mujer intercepta a uno \nde los m\u00e9dicos en el pasillo diciendo que escuch\u00f3 que ella no puede amamantar al ni\u00f1o. Al \nescuchar esto, el marido pregunta cu\u00e1l es la causa de dicha indicaci\u00f3n. Seg\u00fan la ley N\u00ba 26.529 \nde \"Derechos del Paciente en su Relaci\u00f3n con los Profesionales e Instituciones de la Salud\", \n\u00bfQu\u00e9 deber\u00eda hacer el equipo de salud ante la pregunta del marido? \n a) Explicar en forma clara y precisa que el VIH se transmite por fluidos corporales a trav\u00e9s de la \nleche materna. \n b) Evadir la pregunta y al encontrar sola a la mujer informarle que debe comunicarle al marido \nla situaci\u00f3n. \n c) Informar la serolog\u00eda de la mujer y brindarle pautas de cuidado, bas\u00e1ndose en el imperativo \nsanitario preventivo. \n d) Resguardar la intimidad de la mujer, manifestando que no puede responder a la pregunta \ndel marido.",
+                    "question": "Un equipo de salud de una maternidad toma conocimiento de que una mujer tiene serolog\u00eda positiva para VIH y que su marido no lo sabe. La pareja de la mujer intercepta a uno de los m\u00e9dicos en el pasillo diciendo que escuch\u00f3 que ella no puede amamantar al ni\u00f1o. Al escuchar esto, el marido pregunta cu\u00e1l es la causa de dicha indicaci\u00f3n. Seg\u00fan la ley N\u00ba 26.529 de \"Derechos del Paciente en su Relaci\u00f3n con los Profesionales e Instituciones de la Salud\", \u00bfQu\u00e9 deber\u00eda hacer el equipo de salud ante la pregunta del marido? ",
+                    "options": {
+                        "a": "Explicar en forma clara y precisa que el VIH se transmite por fluidos corporales a trav\u00e9s de la  leche materna.",
+                        "b": "Evadir la pregunta y al encontrar sola a la mujer informarle que debe comunicarle al marido  la situaci\u00f3n.",
+                        "c": "Informar la serolog\u00eda de la mujer y brindarle pautas de cuidado, bas\u00e1ndose en el imperativo  sanitario preventivo.",
+                        "d": "Resguardar la intimidad de la mujer, manifestando que no puede responder a la pregunta  del marido."
+                    },
+                    "id": "7489a400-4366-4ef3-b5ed-28869c3afcf4",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "d",
+                    "index": 12,
                     "image": "",
                     "discussion": []
                 }
@@ -24967,6 +26938,25 @@
                     },
                     "answer": "d",
                     "index": 45,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "19) \u00bfA qu\u00e9 tipo de prevenci\u00f3n pertenece la toma de presi\u00f3n arterial? \n a) Prevenci\u00f3n secundaria \n b) Prevenci\u00f3n terciaria \n c) Prevenci\u00f3n cuaternaria \n d) Prevenci\u00f3n primaria",
+                    "question": "\u00bfA qu\u00e9 tipo de prevenci\u00f3n pertenece la toma de presi\u00f3n arterial? ",
+                    "options": {
+                        "a": "Prevenci\u00f3n secundaria",
+                        "b": "Prevenci\u00f3n terciaria",
+                        "c": "Prevenci\u00f3n cuaternaria",
+                        "d": "Prevenci\u00f3n primaria"
+                    },
+                    "id": "fd380e43-e087-4e13-b95e-15e2649ba5c9",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 19,
                     "image": "",
                     "discussion": []
                 }
@@ -26112,6 +28102,25 @@
                             "id": "b6ca8064-fbf5-4f6d-ac12-fa652f8b02ab"
                         }
                     ]
+                },
+                {
+                    "question_complete": "28) Concurre un paciente por guardia manifestando de manera espont\u00e1nea \u00e1nimo depresivo, \nansiedad creciente y preocupaci\u00f3n sobre su futuro. Manifiesta tener insomnio de varios d\u00edas \nde evoluci\u00f3n e ideas de ruina y desesperanza. \u00bfQu\u00e9 conducta tomar\u00eda en relaci\u00f3n a la \nevaluaci\u00f3n y abordaje del riesgo? \n a) Indicar una medida farmacol\u00f3gica para disminuir sus s\u00edntomas ansiosos y derivar a \npsicoterapia por consultorios externos. \n b) Mantener una conducta expectante a la espera que el paciente introduzca que considera \nacabar con su vida. \n c) Indagar acerca de la presencia de ideaci\u00f3n suicida, evaluando la existencia de un plan as\u00ed \ncomo acerca de intentos previos. \n d) Evitar introducir la pregunta acerca de ideas suicidas para no promover conductas que no \nfueron expresadas por el paciente.",
+                    "question": "Concurre un paciente por guardia manifestando de manera espont\u00e1nea \u00e1nimo depresivo, ansiedad creciente y preocupaci\u00f3n sobre su futuro. Manifiesta tener insomnio de varios d\u00edas de evoluci\u00f3n e ideas de ruina y desesperanza. \u00bfQu\u00e9 conducta tomar\u00eda en relaci\u00f3n a la evaluaci\u00f3n y abordaje del riesgo? ",
+                    "options": {
+                        "a": "Indicar una medida farmacol\u00f3gica para disminuir sus s\u00edntomas ansiosos y derivar a  psicoterapia por consultorios externos.",
+                        "b": "Mantener una conducta expectante a la espera que el paciente introduzca que considera  acabar con su vida.",
+                        "c": "Indagar acerca de la presencia de ideaci\u00f3n suicida, evaluando la existencia de un plan as\u00ed  como acerca de intentos previos.",
+                        "d": "Evitar introducir la pregunta acerca de ideas suicidas para no promover conductas que no  fueron expresadas por el paciente."
+                    },
+                    "id": "046ac8b9-64aa-4b84-9150-cc4811678ad6",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 28,
+                    "image": "",
+                    "discussion": []
                 }
             ],
             "aclaracion": "",
