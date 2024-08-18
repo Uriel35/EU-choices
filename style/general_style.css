@@ -179,14 +179,14 @@ i {
 
 .new {
   background-color: #FF5733; 
-  color: white; /* Color del texto del cartel */
+  color: white; 
   font-weight: bold;
-  font-size: calc(var(--font-size) * 1.2);
-  padding: 2px 8px; /* Espaciado dentro del cartel */
+  font-size: calc(var(--font-size) * 2) !important;
+  padding: 4px 9px; /* Espaciado dentro del cartel */
   border-radius: 4px;
   position: absolute;
-  top: calc(var(--font-size) * -.8);
-  right: calc(var(--font-size) * -2);
+  top: calc(var(--font-size) * -1);
+  right: calc(var(--font-size) * -1.5);
 }
 
 .bold {
@@ -231,5 +231,13 @@ body.modal-open {
   
   .icon-button {
     min-width: 2.5rem;
+  }
+
+  .new {
+    font-size: calc(var(--font-size) * 2) !important;
+    padding: 4px 9px; /* Espaciado dentro del cartel */
+    border-radius: 4px;
+    top: calc(var(--font-size) * -1.7);
+    right: calc(var(--font-size) * -1.7);
   }
 }
