@@ -122,8 +122,15 @@ i {
   align-items: center;
   justify-content: center;
   height: 100%;
+  /* max-height: max-content; */
   min-width: 3rem;
   position: relative;
+}
+
+.fa-pause, .fa-play {
+  padding: 0;
+  font-size: calc(var(--font-size) * 1);
+  margin-left: .5rem;
 }
 
 .icon-button:hover {

@@ -1,5 +1,6 @@
 To Do's:
 --- Put stopTimer() when exam is finished
+--- Custon HSMLP propaganda
 
 Done:
 --- Create logo

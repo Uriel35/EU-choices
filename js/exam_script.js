@@ -82,7 +82,6 @@ function displayExam(allQuestions) {
     }
 
     customMarker(undefined, true)
-
     showQuestion(counter, false)
 }
 
@@ -113,6 +112,10 @@ function showQuestion(index, disable, choosen=undefined){
     addDiscussionButton.href = `https://docs.google.com/forms/d/e/1FAIpQLSckutbAadPXsxUmPeWHaI3J7dBYnqgxb-QGtzVDyee4TnJPLQ/viewform?usp=pp_url&entry.1641804022=${PREGUNTAS[index].origin.exam}&entry.432963879=${PREGUNTAS[index].index}`
     discussionFormLink.href = `https://docs.google.com/forms/d/e/1FAIpQLSckutbAadPXsxUmPeWHaI3J7dBYnqgxb-QGtzVDyee4TnJPLQ/viewform?usp=pp_url&entry.1641804022=${PREGUNTAS[index].origin.exam}&entry.432963879=${PREGUNTAS[index].index}`
 
+
+    if(TOTAL != PREGUNTAS.length){
+        startTimer()
+    }
     const discussions = document.getElementById("discussions")
 
     const emptyDiscussion = document.getElementById("empty-discussion-ctn")
@@ -176,6 +179,9 @@ function showQuestion(index, disable, choosen=undefined){
             customMarker(false)
         }
         createBlackOut()
+        if(TOTAL == PREGUNTAS.length){
+            stopTimer()
+        }
     }
     
     for (let letter of ['a', 'b', 'c', 'd']){
@@ -329,6 +335,9 @@ remakeButton.addEventListener('click', () => {
         document.querySelectorAll('.option-correct').forEach(elemento => elemento.classList.remove('option-correct'));
     } 
     doneQuestions = doneQuestions.filter((e) => e.index != indexNum)
+    if(!isRunning){
+        startTimer()
+    }
 })
 
 const reportQuestionButton = document.getElementById('report-question-button')
@@ -403,13 +412,35 @@ function startTimer() {
         }
         updateDisplay();
     }, 1000);
+    toggleTimerBtn.classList.replace("fa-play", "fa-pause")
 }
+
 function resetTimer() {
     hours = 0;
     minutes = 0;
     seconds = 0;
+    toggleTimerBtn.classList.replace("fa-play", "fa-pause")
     updateDisplay();
 }
+
+function stopTimer() {
+    if (!isRunning) return;
+    clearInterval(timer); // Detener el intervalo
+    isRunning = false;    // Cambiar el estado
+    toggleTimerBtn.classList.replace("fa-pause", "fa-play")
+}
+
+// STOP TIMER BUTTON
+let toggleTimerBtn = document.getElementById("toggle-timer-btn")
+toggleTimerBtn.addEventListener("click", () => {
+    if(isRunning) {stopTimer()}
+    else {
+        console.log("TOTAL:", TOTAL)
+        console.log("PREGUNTAS:", PREGUNTAS.length)
+        if(TOTAL == PREGUNTAS.length) return
+        else startTimer()
+    }
+})
 
 // Option key binding 
 document.addEventListener("keydown", (e) => {
