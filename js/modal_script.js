@@ -31,11 +31,12 @@ defineModal(undefined, document.getElementById('error-modal'), document.getEleme
 defineModal(document.getElementById('show-circle-modal-button'), document.getElementById('circle-modal'), document.getElementById('circles-modal-ctn'), document.getElementById('close-circles-modal'))
 defineModal(document.getElementById('report-question-button'), document.getElementById('report-question-modal'), document.getElementById('report-question-modal-ctn'), document.getElementById('close-report-question-modal'))
 
-defineModal(document.getElementById('open-quiz-modal'), document.getElementById('quiz-modal'), document.getElementById('quiz-modal-ctn'), document.getElementById('close-quiz-modal'))
+// PARA QUE APAREZCA EL QUIZ MODAL AL INICIO
+// defineModal(document.getElementById('open-quiz-modal'), document.getElementById('quiz-modal'), document.getElementById('quiz-modal-ctn'), document.getElementById('close-quiz-modal'))
+// document.addEventListener('DOMContentLoaded', function() {
+//   document.getElementById("quiz-modal").classList.add("flex-active")
+// });
 
-document.addEventListener('DOMContentLoaded', function() {
-  document.getElementById("quiz-modal").classList.add("flex-active")
-});
 
 //  *************** DATA ANALYTICS EVENTS *****************
 function addAnaltyticEvent(tgt, name) {
