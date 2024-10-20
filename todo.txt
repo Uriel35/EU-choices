@@ -1,8 +1,8 @@
 To Do's:
---- Put stopTimer() when exam is finished
---- Custon HSMLP propaganda
+--- Custom HSMLP propaganda
 
 Done:
+--- Put stopTimer() when exam is finished
 --- Create logo
 --- All year inputs fixed
 --- Search error message position

@@ -771,381 +771,6 @@
                 "pautas neurodesarrollo"
             ]
         },
-        "vacunas": {
-            "array": [
-                {
-                    "question_complete": "\n54) Pregunta: Un ni\u00f1o de 12 meses tiene aplicadas las siguientes vacunas: BCG, anti rotavirus (dos \ndosis), anti hepatitis B (una dosis), pentavalente (3 dosis), IPV (dos dosis), OPV (una dosis), \nantineumoc\u00f3cica conjugada (dos dosis), antimeningoc\u00f3cica (dos dosis), antigripal (dos dosis). \n\u00bfCu\u00e1les de las siguientes vacunas se deben indicar?  \nA) Anti hepatitis A, triple viral y antineumoc\u00f3cica conjugada (refuerzo). \nB) Pentavalente, anti varicela y antimeningococica (refuerzo) \nC) Antimeningococica (refuerzo), antineumococica conjugada (refuerzo) y anti varicela  \nD) Anti hepatitis A, triple viral, anti varicela y pentavalente \n",
-                    "question": "Un ni\u00f1o de 12 meses tiene aplicadas las siguientes vacunas: BCG, anti rotavirus (dos dosis), anti hepatitis B (una dosis), pentavalente (3 dosis), IPV (dos dosis), OPV (una dosis), antineumoc\u00f3cica conjugada (dos dosis), antimeningoc\u00f3cica (dos dosis), antigripal (dos dosis). \u00bfCu\u00e1les de las siguientes vacunas se deben indicar? ",
-                    "options": {
-                        "a": "Anti hepatitis A, triple viral y antineumoc\u00f3cica conjugada (refuerzo).",
-                        "b": "Pentavalente, anti varicela y antimeningococica (refuerzo)",
-                        "c": "Antimeningococica (refuerzo), antineumococica conjugada (refuerzo) y anti varicela",
-                        "d": "Anti hepatitis A, triple viral, anti varicela y pentavalente"
-                    },
-                    "id": "31ae5bfb-16a6-42eb-8aa5-5206a09306a1",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2020"
-                    },
-                    "answer": "a",
-                    "index": 54,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n18)  Un  paciente  de  9  a\u00f1os  es  tra\u00eddo  a  control  de  salud.  No  realiz\u00f3  controles  en  los  \u00faltimos  a\u00f1os  y  no \npresenta carnet de vacunas. Al examen f\u00edsico no se observa cicatriz de BCG. \u00bfCu\u00e1l es el esquema correcto \nde vacunas a indicar en esta consulta seg\u00fan las Recomendaciones Nacionales de Vacunaci\u00f3n? \n a) Qu\u00edntuple, Vacuna Antipoliomiel\u00edtica Oral, Triple viral, Hepatitis A, Hepatitis B \n b) Triple bacteriana acelular, Vacuna Antipoliomiel\u00edtica Oral, Triple Viral, Hepatitis A, Hepatitis B. \n c) Qu\u00edntuple, Vacuna Antipoliomiel\u00edtica Oral, Antivaricela, Antineumoc\u00f3ccica, Hepatitis B. \n d) BCG, Triple bacteriana acelular, Triple viral, Hepatitis B, Hepatitis A. ",
-                    "question": "Un paciente de 9 a\u00f1os es tra\u00eddo a control de salud. No realiz\u00f3 controles en los \u00faltimos a\u00f1os y no presenta carnet de vacunas. Al examen f\u00edsico no se observa cicatriz de BCG. \u00bfCu\u00e1l es el esquema correcto de vacunas a indicar en esta consulta seg\u00fan las Recomendaciones Nacionales de Vacunaci\u00f3n? ",
-                    "options": {
-                        "a": "Qu\u00edntuple, Vacuna Antipoliomiel\u00edtica Oral, Triple viral, Hepatitis A, Hepatitis B",
-                        "b": "Triple bacteriana acelular, Vacuna Antipoliomiel\u00edtica Oral, Triple Viral, Hepatitis A, Hepatitis B.",
-                        "c": "Qu\u00edntuple, Vacuna Antipoliomiel\u00edtica Oral, Antivaricela, Antineumoc\u00f3ccica, Hepatitis B.",
-                        "d": "BCG, Triple bacteriana acelular, Triple viral, Hepatitis B, Hepatitis A."
-                    },
-                    "id": "3de13eb8-2351-43a9-98f8-3a9890a8fa3a",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2019"
-                    },
-                    "answer": "b",
-                    "index": 18,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n27) Un var\u00f3n de 6 meses, es tra\u00eddo por sus padres a control de salud quien refiere que a los 15 d\u00edas de vida \nse intern\u00f3 en la neonatolog\u00eda durante un mes por fiebre de origen desconocido. El carnet de vacunas tiene \nregistrado  BCG  y  Anti  Hepatitis  B.  Con  respecto  a  la  vacuna  contra  poliomelitis,  \u00bfCu\u00e1l  es  la  indicaci\u00f3n \ncorrecta de las vacunas OPV (Sabin-poliovirus oral) e IPV (Salk-poliovirus inactivada)? \n a) IPV- IPV-OPV. \n b) IPV- OPV-OPV. \n c) OPV-OPV-OPV. \n d) OPV-IPV -IPV. ",
-                    "question": "Un var\u00f3n de 6 meses, es tra\u00eddo por sus padres a control de salud quien refiere que a los 15 d\u00edas de vida se intern\u00f3 en la neonatolog\u00eda durante un mes por fiebre de origen desconocido. El carnet de vacunas tiene registrado BCG y Anti Hepatitis B. Con respecto a la vacuna contra poliomelitis, \u00bfCu\u00e1l es la indicaci\u00f3n correcta de las vacunas OPV (Sabin-poliovirus oral) e IPV (Salk-poliovirus inactivada)? ",
-                    "options": {
-                        "a": "IPV- IPV-OPV.",
-                        "b": "IPV- OPV-OPV.",
-                        "c": "OPV-OPV-OPV.",
-                        "d": "OPV-IPV -IPV."
-                    },
-                    "id": "518b8d38-5d83-4dec-b2b5-4cba39c8305b",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2019"
-                    },
-                    "answer": "a",
-                    "index": 27,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n45) Una ni\u00f1a que hace 3 d\u00edas cumpli\u00f3 6 meses, es sana y en su carnet tiene registro de vacunas hasta los 4 \nmeses. Seg\u00fan el calendario de vacunaci\u00f3n nacional, \u00bfcu\u00e1l es su conducta con respecto a las vacunas contra \nRotavirus y Meningococo? \n a) Indica colocar las dos vacunas, aunque la vacuna meningoc\u00f3cica tendr\u00eda que haber sido administrada a \nlos 5 meses. \n b) Indica solo Rotavirus y al mes meningoc\u00f3cica ya que no pueden aplicarse juntas. \n c) Indica solo meningoc\u00f3cica, por la edad no corresponde Rotavirus. \n d) Indica Rotavirus y meningoc\u00f3cica, para no desaprovechar oportunidad de vacunaci\u00f3n. ",
-                    "question": "Una ni\u00f1a que hace 3 d\u00edas cumpli\u00f3 6 meses, es sana y en su carnet tiene registro de vacunas hasta los 4 meses. Seg\u00fan el calendario de vacunaci\u00f3n nacional, \u00bfcu\u00e1l es su conducta con respecto a las vacunas contra Rotavirus y Meningococo? ",
-                    "options": {
-                        "a": "Indica colocar las dos vacunas, aunque la vacuna meningoc\u00f3cica tendr\u00eda que haber sido administrada a  los 5 meses.",
-                        "b": "Indica solo Rotavirus y al mes meningoc\u00f3cica ya que no pueden aplicarse juntas.",
-                        "c": "Indica solo meningoc\u00f3cica, por la edad no corresponde Rotavirus.",
-                        "d": "Indica Rotavirus y meningoc\u00f3cica, para no desaprovechar oportunidad de vacunaci\u00f3n."
-                    },
-                    "id": "f665ae14-a64e-48e5-94c5-ae9dafa9553b",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2019"
-                    },
-                    "answer": "c",
-                    "index": 45,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n32)  \u00bfCu\u00e1l  es  la  conducta  m\u00e1s  adecuada  con  respecto  a  la  actualizaci\u00f3n  del  Calendario  Nacional  de \nVacunaci\u00f3n en un lactante de 4 meses que recibi\u00f3 una dosis de vacuna contra hepatitis B y BCG despu\u00e9s \ndel  nacimiento,  las  vacunas  Salk,  pentavalente,  rotavirus  y  neumococo  conjugada  a  los  dos  meses  y  no \nrecibi\u00f3 m\u00e1s vacunas desde esa fecha? Es llevado a la consulta por un catarro de v\u00edas a\u00e9reas superiores. \n a) Aplicar primera dosis de vacuna antimeningoc\u00f3cica y citar en 30 d\u00edas para completar el calendario. \n b)  Aplicar  primera  dosis  de  vacuna  antimeningoc\u00f3cica  y  segunda  dosis  de  vacunas  pentavalente,  Salk, \nrotavirus y antineumoc\u00f3cica conjugada. \n c) Aplicar segunda dosis de vacunas pentavalente, Sabin, rotavirus y antineumoc\u00f3cica conjugada. \n d) Aplicar segunda dosis de vacunas pentavalente, Salk, rotavirus y antineumoc\u00f3cica conjugada. Citar a los 5 \nmeses para aplicar vacuna antimeningoc\u00f3cica. ",
-                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la actualizaci\u00f3n del Calendario Nacional de Vacunaci\u00f3n en un lactante de 4 meses que recibi\u00f3 una dosis de vacuna contra hepatitis B y BCG despu\u00e9s del nacimiento, las vacunas Salk, pentavalente, rotavirus y neumococo conjugada a los dos meses y no recibi\u00f3 m\u00e1s vacunas desde esa fecha? Es llevado a la consulta por un catarro de v\u00edas a\u00e9reas superiores. ",
-                    "options": {
-                        "a": "Aplicar primera dosis de vacuna antimeningoc\u00f3cica y citar en 30 d\u00edas para completar el calendario.",
-                        "b": "Aplicar  primera  dosis  de  vacuna  antimeningoc\u00f3cica  y  segunda  dosis  de  vacunas  pentavalente,  Salk,  rotavirus y antineumoc\u00f3cica conjugada.",
-                        "c": "Aplicar segunda dosis de vacunas pentavalente, Sabin, rotavirus y antineumoc\u00f3cica conjugada.",
-                        "d": "Aplicar segunda dosis de vacunas pentavalente, Salk, rotavirus y antineumoc\u00f3cica conjugada. Citar a los 5  meses para aplicar vacuna antimeningoc\u00f3cica."
-                    },
-                    "id": "d0117545-c420-4aa9-afb1-32c2913138f0",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2018"
-                    },
-                    "answer": "b",
-                    "index": 32,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n50) \u00bfCu\u00e1l de las siguientes vacunas NO se debe administrar a un ni\u00f1o que convive con un hermano con \ndeficiencia inmunol\u00f3gica? \n a) Triple viral (Paperas, sarampi\u00f3n y rub\u00e9ola). \n b) BCG. \n c) Vacuna contra la influenza. \n d) Vacuna oral contra la polio. ",
-                    "question": "\u00bfCu\u00e1l de las siguientes vacunas NO se debe administrar a un ni\u00f1o que convive con un hermano con deficiencia inmunol\u00f3gica? ",
-                    "options": {
-                        "a": "Triple viral (Paperas, sarampi\u00f3n y rub\u00e9ola).",
-                        "b": "BCG.",
-                        "c": "Vacuna contra la influenza.",
-                        "d": "Vacuna oral contra la polio."
-                    },
-                    "id": "2fc46a47-01d4-43c8-9686-6bafae9c8cd5",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2018"
-                    },
-                    "answer": "d",
-                    "index": 50,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n63) \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la protecci\u00f3n contra Bordetella pertussis en un ni\u00f1o \nde 1 a\u00f1o,  con esquema incompleto de vacunaci\u00f3n, que a los 8 meses  de edad estuvo internado por tos \nconvulsa (confirmada por PCR)? \n a) No es necesario vacunarlo porque tiene inmunidad por la enfermedad. \n b) Continuar con el esquema de vacunaci\u00f3n, porque padecer la enfermedad antes de los 2 a\u00f1os no genera \ninmunidad. \n c)  Continuar  con  el  esquema  de  vacunaci\u00f3n  porque  padecer  la  enfermedad  genera  inmunidad,  pero \ndisminuye con el tiempo. \n d)  Esperar  hasta  los  18  meses  para  aplicar  las  dosis  faltantes  para  no  interferir  con  los  anticuerpos \ngenerados por la enfermedad. ",
-                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la protecci\u00f3n contra Bordetella pertussis en un ni\u00f1o de 1 a\u00f1o, con esquema incompleto de vacunaci\u00f3n, que a los 8 meses de edad estuvo internado por tos convulsa (confirmada por PCR)? ",
-                    "options": {
-                        "a": "No es necesario vacunarlo porque tiene inmunidad por la enfermedad.",
-                        "b": "Continuar con el esquema de vacunaci\u00f3n, porque padecer la enfermedad antes de los 2 a\u00f1os no genera  inmunidad.",
-                        "c": "Continuar  con  el  esquema  de  vacunaci\u00f3n  porque  padecer  la  enfermedad  genera  inmunidad,  pero  disminuye con el tiempo.",
-                        "d": "Esperar  hasta  los  18  meses  para  aplicar  las  dosis  faltantes  para  no  interferir  con  los  anticuerpos  generados por la enfermedad."
-                    },
-                    "id": "d1795521-2cdb-4bc2-99b1-4e0cb86c1f8c",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2018"
-                    },
-                    "answer": "c",
-                    "index": 63,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n41. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la profilaxis antitet\u00e1nica con un ni\u00f1o de 13\na\u00f1os que present\u00f3 una herida cortante por ca\u00edda en un \u00e1rbol que fue suturado el d\u00eda anterior en\nguardia? Le indicaron gammaglobulina antitet\u00e1nica y toxoide tet\u00e1nico.Pero no se consigui\u00f3 la\ngammaglobulina y la madre trae el carnet de vacunaci\u00f3n del ni\u00f1o en el cual se constata que\ntiene todas las vacunas aplicadas adecuadamente hasta los 5 a\u00f1os.\na. No indica ninguna vacuna por tener el calendario completo.\nb. Le recomienda que aplique la gammaglobulina y cambie el toxoide por dT (Doble\nbacteriana).\nc. Le recomienda que aplique la gammaglobulina y cambie el toxoide por dTpa (Triple\nbacteriana acelular).\nd. Le indica solamente dTpa.",
-                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la profilaxis antitet\u00e1nica con un ni\u00f1o de 13 a\u00f1os que present\u00f3 una herida cortante por ca\u00edda en un \u00e1rbol que fue suturado el d\u00eda anterior en guardia? Le indicaron gammaglobulina antitet\u00e1nica y toxoide tet\u00e1nico.Pero no se consigui\u00f3 la gammaglobulina y la madre trae el carnet de vacunaci\u00f3n del ni\u00f1o en el cual se constata que tiene todas las vacunas aplicadas adecuadamente hasta los 5 a\u00f1os.",
-                    "options": {
-                        "a": "No indica ninguna vacuna por tener el calendario completo.",
-                        "b": "Le recomienda que aplique la gammaglobulina y cambie el toxoide por dT (Doble bacteriana).",
-                        "c": "Le recomienda que aplique la gammaglobulina y cambie el toxoide por dTpa (Triple bacteriana acelular).",
-                        "d": "Le indica solamente dTpa."
-                    },
-                    "id": "c6d1c912-2de1-48bb-b48e-5d0152f3a3a1",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2017"
-                    },
-                    "answer": "d",
-                    "index": 41,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n5) Pregunta: \nEn el control de salud de Ramiro, un beb\u00e9 de 3 meses sano, sin antecedentes patol\u00f3gicos perinatales, se \nconstata ausencia de cicatriz de BGC. \u00bfQu\u00e9 conducta asume? \nA. recolocar bcg antes del 6to mes \nB. realizar ppd, lectura a las 48hs y 72hs para recolocar bcg \nC. observa carnet vacunas si hay registro, explicar que no requiere vacunar \nD. deriva al inmunologo por sospecha de inmunodeficiencia \nC ",
-                    "question": "En el control de salud de Ramiro, un beb\u00e9 de 3 meses sano, sin antecedentes patol\u00f3gicos perinatales, se constata ausencia de cicatriz de BGC. \u00bfQu\u00e9 conducta asume? ",
-                    "options": {
-                        "a": "recolocar bcg antes del 6to mes",
-                        "b": "realizar ppd, lectura a las 48hs y 72hs para recolocar bcg",
-                        "c": "observa carnet vacunas si hay registro, explicar que no requiere vacunar",
-                        "d": "deriva al inmunologo por sospecha de inmunodeficiencia  "
-                    },
-                    "id": "06c7cd93-be21-4576-b700-f16541bb5d17",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2021"
-                    },
-                    "answer": "c",
-                    "index": 5,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n8) Pregunta: \nUd. atiende en internaci\u00f3n conjunta a un paciente de 2 d\u00edas de vida, reci\u00e9n nacido pret\u00e9rmino de 33 \nsemanas, peso adecuado para edad gestacional (2120 gramos). A\u00fan no ha recibido la vacuna BCG, \u00bfqu\u00e9 \npar\u00e1metro debe considerar para indicarla? \nA. edad corregida \nB. edad cronol\u00f3gica \nC. peso mayor a 2500 ( debe ser mayor a 2000g) \nD. luego del alta en la maternidad \nB ",
-                    "question": "Ud. atiende en internaci\u00f3n conjunta a un paciente de 2 d\u00edas de vida, reci\u00e9n nacido pret\u00e9rmino de 33 semanas, peso adecuado para edad gestacional (2120 gramos). A\u00fan no ha recibido la vacuna BCG, \u00bfqu\u00e9 par\u00e1metro debe considerar para indicarla? ",
-                    "options": {
-                        "a": "edad corregida",
-                        "b": "edad cronol\u00f3gica",
-                        "c": "peso mayor a 2500 ( debe ser mayor a 2000g)",
-                        "d": "luego del alta en la maternidad  "
-                    },
-                    "id": "cb53e27e-6af3-4c07-9971-850e8206a895",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2021"
-                    },
-                    "answer": "b",
-                    "index": 8,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n12) Pregunta: \nAsiste Sof\u00eda de 12 a\u00f1os para vacunaci\u00f3n. No tiene carnet de vacunas. En la historia cl\u00ednica s\u00f3lo figuran \nlas vacunas completas hasta los 6 meses. No refiere antecedentes de importancia. \u00bfQu\u00e9 vacunas \ncorresponde aplicarle? \nA. 1 dosis hepatitis a, 3 hepatitis b, 1 antineumococo \nB. 2 hpv. 2 triple viral, 2 antimeningo, 1 triple bacteriana acelular \nC. 1 rotarix, 1 varicela, 1 hepatitis a \nD. 3 hpv, 2 antimeningo, 2 antigripal \nB ",
-                    "question": "Asiste Sof\u00eda de 12 a\u00f1os para vacunaci\u00f3n. No tiene carnet de vacunas. En la historia cl\u00ednica s\u00f3lo figuran las vacunas completas hasta los 6 meses. No refiere antecedentes de importancia. \u00bfQu\u00e9 vacunas corresponde aplicarle? ",
-                    "options": {
-                        "a": "1 dosis hepatitis a, 3 hepatitis b, 1 antineumococo",
-                        "b": "2 hpv. 2 triple viral, 2 antimeningo, 1 triple bacteriana acelular",
-                        "c": "1 rotarix, 1 varicela, 1 hepatitis a",
-                        "d": "3 hpv, 2 antimeningo, 2 antigripal  "
-                    },
-                    "id": "28b22256-5c68-4259-94c6-28897dd05c5f",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2021"
-                    },
-                    "answer": "b",
-                    "index": 12,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "1) \u00bfCu\u00e1l es el esquema de vacunaci\u00f3n para poliomielitis que debe administrarse a un reci\u00e9n nacido sano hasta \nlos dos a\u00f1os de edad? \n a) Una dosis a los 2,4 y 6 meses, y una cuarta dosis entre los 15 y 18 meses. \n b) Una dosis a los 4 y 6 meses, y una tercera y cuarta dosis a los 15 y 18 meses respectivamente. \n c) Una dosis a los 2, 4 y 6 meses. \n d) Una dosis a los 4, 6 y 12 meses y una cuarta dosis a los 2 a\u00f1os. \n",
-                    "question": "\u00bfCu\u00e1l es el esquema de vacunaci\u00f3n para poliomielitis que debe administrarse a un reci\u00e9n nacido sano hasta los dos a\u00f1os de edad?",
-                    "options": {
-                        "a": "Una dosis a los 2,4 y 6 meses, y una cuarta dosis entre los 15 y 18 meses.",
-                        "b": "Una dosis a los 4 y 6 meses, y una tercera y cuarta dosis a los 15 y 18 meses respectivamente.",
-                        "c": "Una dosis a los 2, 4 y 6 meses.",
-                        "d": "Una dosis a los 4, 6 y 12 meses y una cuarta dosis a los 2 a\u00f1os."
-                    },
-                    "id": "dacc0648-9b5e-4631-8086-be621d6367e1",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2016"
-                    },
-                    "answer": "a",
-                    "index": 1,
-                    "image": "",
-                    "discussion": [
-                        {
-                            "date": "2024-06-25 19:00:33",
-                            "name": "Marco Aguilera",
-                            "email": "marcosaguilera801@gmail.com",
-                            "year": 2016,
-                            "index": 1,
-                            "explication": "El Calendario Nacional de Vacunaci\u00f3n Argentino del a\u00f1o 2024 recomienda solamente SALK (IPV) a los 2, 4, 6 meses de vida y un refuerzo al ingreso escolar (5-6 a\u00f1os).\nLa Sabin Oral (OPV) ya no se administra.",
-                            "bibliography": "https://www.argentina.gob.ar/sites/default/files/2024-02-calendario-nacional-vacunacion.pdf",
-                            "id": "39c415bb-14e0-443c-83da-483be6eccf73"
-                        }
-                    ]
-                },
-                {
-                    "question_complete": "\n21)  La  Vacuna  triple  viral  protege  contra  sarampi\u00f3n,  rub\u00e9ola  y  paperas.  Se\u00f1ale  el  esquema  de \nadministraci\u00f3n: \n a) Administrar 1ra. dosis a los 12 meses de edad y 2da. dosis a los 5-6 a\u00f1os. \n b) Administrar primera dosis al nacer y 2da. dosis a los 5-6 a\u00f1os. \n c) Administrar primera dosis a los 12 meses y 2da dosis a los 11 a\u00f1os. \n d) Administrar \u00fanica dosis a los 4 a 6 a\u00f1os. ",
-                    "question": "La Vacuna triple viral protege contra sarampi\u00f3n, rub\u00e9ola y paperas. Se\u00f1ale el esquema de administraci\u00f3n: ",
-                    "options": {
-                        "a": "Administrar 1ra. dosis a los 12 meses de edad y 2da. dosis a los 5-6 a\u00f1os.",
-                        "b": "Administrar primera dosis al nacer y 2da. dosis a los 5-6 a\u00f1os.",
-                        "c": "Administrar primera dosis a los 12 meses y 2da dosis a los 11 a\u00f1os.",
-                        "d": "Administrar \u00fanica dosis a los 4 a 6 a\u00f1os."
-                    },
-                    "id": "abb64a23-457a-447f-9bbc-55976b136185",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2019"
-                    },
-                    "answer": "a",
-                    "index": 21,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n53) El calendario de vacunaci\u00f3n 2018 del Ministerio de Salud y Desarrollo Social de la Naci\u00f3n, establece \ncon respecto a la aplicaci\u00f3n de la vacuna del virus del papiloma humano: \n a) El esquema de vacunaci\u00f3n nacional indica una \u00fanica dosis en las ni\u00f1as hasta los 21 a\u00f1os. \n b) El esquema de vacunaci\u00f3n nacional indica dos dosis, a los 11 a\u00f1os para ni\u00f1as y ni\u00f1os. \n c) El esquema de vacunaci\u00f3n nacional no indica su aplicaci\u00f3n en pacientes inmunosuprimidos. \n d) El esquema de vacunaci\u00f3n nacional dos dosis a los 9 a\u00f1os para ni\u00f1as y ni\u00f1os. ",
-                    "question": "El calendario de vacunaci\u00f3n 2018 del Ministerio de Salud y Desarrollo Social de la Naci\u00f3n, establece con respecto a la aplicaci\u00f3n de la vacuna del virus del papiloma humano: ",
-                    "options": {
-                        "a": "El esquema de vacunaci\u00f3n nacional indica una \u00fanica dosis en las ni\u00f1as hasta los 21 a\u00f1os.",
-                        "b": "El esquema de vacunaci\u00f3n nacional indica dos dosis, a los 11 a\u00f1os para ni\u00f1as y ni\u00f1os.",
-                        "c": "El esquema de vacunaci\u00f3n nacional no indica su aplicaci\u00f3n en pacientes inmunosuprimidos.",
-                        "d": "El esquema de vacunaci\u00f3n nacional dos dosis a los 9 a\u00f1os para ni\u00f1as y ni\u00f1os."
-                    },
-                    "id": "679a3c83-10a3-403b-8c70-4410688150d4",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2019"
-                    },
-                    "answer": "b",
-                    "index": 53,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n81)  Un  lactante  de  12  meses  es  tra\u00eddo  a  control  de  salud.  Su  madre  refiere  que  se  encuentra  en \nseguimiento con pediatra alergista por haber presentado un episodio de anafilaxia asociado a la ingesta \nde huevo. Respecto al esquema de vacunaci\u00f3n que le corresponde recibir, \u00bfCu\u00e1l de las siguientes vacunas \ndebe ser aplicada bajo supervisi\u00f3n m\u00e9dica en un hospital? \n a) Hepatitis A. \n b) Antigripal. \n c) Triple viral. \n d) Antineumoc\u00f3ccica conjugada. ",
-                    "question": "Un lactante de 12 meses es tra\u00eddo a control de salud. Su madre refiere que se encuentra en seguimiento con pediatra alergista por haber presentado un episodio de anafilaxia asociado a la ingesta de huevo. Respecto al esquema de vacunaci\u00f3n que le corresponde recibir, \u00bfCu\u00e1l de las siguientes vacunas debe ser aplicada bajo supervisi\u00f3n m\u00e9dica en un hospital? ",
-                    "options": {
-                        "a": "Hepatitis A.",
-                        "b": "Antigripal.",
-                        "c": "Triple viral.",
-                        "d": "Antineumoc\u00f3ccica conjugada."
-                    },
-                    "id": "ec7900e8-99d6-41aa-b62b-37731c74f3d3",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2019"
-                    },
-                    "answer": "b",
-                    "index": 81,
-                    "image": "",
-                    "discussion": [
-                        {
-                            "date": "2024-06-25 11:30:39",
-                            "name": "Marco Aguilera",
-                            "email": "marcosaguilera801@gmail.com",
-                            "year": 2019,
-                            "index": 81,
-                            "explication": "Poblaci\u00f3n objetivo - destinatarios\nPersonas mayores o igual de 65 a\u00f1os\nPersonas hasta los 64 a\u00f1os inclusive con factores de riesgo.\nTener en cuentas que las siguientes situaciones NO contraindican la aplicaci\u00f3n de la vacuna:\n* Conviviente de paciente inmunosuprimido\n* Infecci\u00f3n por el virus de la inmunodeficiencia humana (VIH)\n* Intolerancia al huevo o antecedente de reacci\u00f3n al\u00e9rgica no anafil\u00e1ctica al huevo\n* Tratamiento con antibi\u00f3ticos o convalecencia de enfermedad leve\n* Tratamiento con corticoides\n* Enfermedad aguda benigna: rinitis, catarro, tos, diarrea\n* Embarazo- lactancia",
-                            "bibliography": "http://186.33.221.24/images/2018/F4IP-MARZO.pdf",
-                            "id": "3f62f60d-718e-4359-b317-86b400d70d24"
-                        }
-                    ]
-                },
-                {
-                    "question_complete": "\n94. \u00bfA qu\u00e9 edad se debe aplicar a las ni\u00f1as la vacuna contra el virus del papiloma humano (HVP)?\na. 9 a\u00f1os\nb. 11 a\u00f1os\nc. 13 a\u00f1os\nd. 16 a\u00f1os",
-                    "question": "\u00bfA qu\u00e9 edad se debe aplicar a las ni\u00f1as la vacuna contra el virus del papiloma humano (HVP)?",
-                    "options": {
-                        "a": "9 a\u00f1os",
-                        "b": "11 a\u00f1os",
-                        "c": "13 a\u00f1os",
-                        "d": "16 a\u00f1os"
-                    },
-                    "id": "94edf95e-ba58-43f1-a75d-1ee44df4da79",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2017"
-                    },
-                    "answer": "b",
-                    "index": 94,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "72) Usted se encuentra en el consultorio y Maia de 18 meses es tra\u00edda por su madre para \ncontrol de salud. Durante la consulta, revisa el carnet de vacunaci\u00f3n y observa que las \u00faltimas \nvacunas aplicadas fueron las de los 15 meses. \u00bfCu\u00e1les debe indicar en este control? \n a) Pentavalente y antigripal. \n b) Pentavalente e IPV . \n c) Pentavalente, IPV, neumococo conjugada 13 valente y antigripal. \n d) Pentavalente, IPV, refuerzo de Meningococo, varicela y antigripal.",
-                    "question": "Usted se encuentra en el consultorio y Maia de 18 meses es tra\u00edda por su madre para control de salud. Durante la consulta, revisa el carnet de vacunaci\u00f3n y observa que las \u00faltimas vacunas aplicadas fueron las de los 15 meses. \u00bfCu\u00e1les debe indicar en este control? ",
-                    "options": {
-                        "a": "Pentavalente y antigripal.",
-                        "b": "Pentavalente e IPV .",
-                        "c": "Pentavalente, IPV, neumococo conjugada 13 valente y antigripal.",
-                        "d": "Pentavalente, IPV, refuerzo de Meningococo, varicela y antigripal."
-                    },
-                    "id": "bb70ae13-fceb-4ff5-aaca-dabe72f7fc55",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2024"
-                    },
-                    "answer": "a",
-                    "index": 72,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "75) Paciente masculino de 8 meses de vida, previamente sano, concurre a control de salud con \ncarnet de vacunaci\u00f3n en donde se constatan aplicaciones de BCG, hepatitis B, neumococo \nconjugada (2 dosis), pentavalente (2 dosis), IPV (2 dosis), meningococo ACYW (2 dosis), \nrotavirus (1 dosis). Ante la evidencia de carnet de vacunaci\u00f3n nacional y obligatorio \nincompleto \u00bfqu\u00e9 vacunas indicar\u00eda en este caso? \n a) Pentavalente e IPV \n b) Rotavirus, pentavalente e IPV \n c) IPV y rotavirus \n d) Hepatitis A, pentavalente e IPV",
-                    "question": "Paciente masculino de 8 meses de vida, previamente sano, concurre a control de salud con carnet de vacunaci\u00f3n en donde se constatan aplicaciones de BCG, hepatitis B, neumococo conjugada (2 dosis), pentavalente (2 dosis), IPV (2 dosis), meningococo ACYW (2 dosis), rotavirus (1 dosis). Ante la evidencia de carnet de vacunaci\u00f3n nacional y obligatorio incompleto \u00bfqu\u00e9 vacunas indicar\u00eda en este caso? ",
-                    "options": {
-                        "a": "Pentavalente e IPV",
-                        "b": "Rotavirus, pentavalente e IPV",
-                        "c": "IPV y rotavirus",
-                        "d": "Hepatitis A, pentavalente e IPV"
-                    },
-                    "id": "2790b798-1030-4343-985b-3e8cf1af071f",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2024"
-                    },
-                    "answer": "a",
-                    "index": 75,
-                    "image": "",
-                    "discussion": []
-                }
-            ],
-            "aclaracion": "Vacunas: Solamente para CHICOS PEDIATRICOS",
-            "analogos": [
-                "esquema de vacunacion",
-                "esquema vacunas",
-                "calendario de vacunacion",
-                "esquema de vacunas"
-            ]
-        },
         "infeccion urinaria": {
             "array": [
                 {
@@ -6949,33 +6574,6 @@
                 "calculo biliar"
             ]
         },
-        "colangitis aguda": {
-            "array": [
-                {
-                    "question_complete": "79) Paciente masculino de 70 a\u00f1os de edad, sin antecedentes quir\u00fargicos, consulta por \npresentar dolor abdominal localizado en epigastrio e hipocondrio derecho, asociado a \nn\u00e1useas, v\u00f3mitos y registro febril de 38.1\u00b0C, de 48 horas de evoluci\u00f3n. Al examen f\u00edsico, se \nencuentra somnoliento, con TA=80/60 mmHg, con ictericia y dolor abdominal localizado en \nepigastrio e hipocondrio derecho. Signo de Murphy negativo. El laboratorio de ingreso \npresenta 17000 gl\u00f3bulos blancos/mm3, bilirrubina total de 7.2 mg/dL, bilirrubina directa de \n6.9 mg/dL, FAL: 205 UI/L, GOT: 429 UI/L GPT: 502 UI/L, acidosis metab\u00f3lica. Ecograf\u00eda \nabdominal muestra litiasis vesicular con dilataci\u00f3n de la v\u00eda biliar intrahep\u00e1tica con v\u00eda \nextrahep\u00e1tica no visible. Ante sospecha de colangitis. \u00bfQu\u00e9 procedimiento debe realizarse? \n a) Colecistectom\u00eda convencional y colangiograf\u00eda intraoperatoria. \n b) Colangiopancreatograf\u00eda retr\u00f3grada endosc\u00f3pica y colecistectom\u00eda laparosc\u00f3pica posterior. \n c) Colecistectom\u00eda laparosc\u00f3pica con colangiograf\u00eda intraoperatoria. \n d) Colecistectom\u00eda laparosc\u00f3pica con colangiopancreatigraf\u00eda retrograda endosc\u00f3pica \npostoperatoria.",
-                    "question": "Paciente masculino de 70 a\u00f1os de edad, sin antecedentes quir\u00fargicos, consulta por presentar dolor abdominal localizado en epigastrio e hipocondrio derecho, asociado a n\u00e1useas, v\u00f3mitos y registro febril de 38.1\u00b0C, de 48 horas de evoluci\u00f3n. Al examen f\u00edsico, se encuentra somnoliento, con TA=80/60 mmHg, con ictericia y dolor abdominal localizado en epigastrio e hipocondrio derecho. Signo de Murphy negativo. El laboratorio de ingreso presenta 17000 gl\u00f3bulos blancos/mm3, bilirrubina total de 7.2 mg/dL, bilirrubina directa de 6.9 mg/dL, FAL: 205 UI/L, GOT: 429 UI/L GPT: 502 UI/L, acidosis metab\u00f3lica. Ecograf\u00eda abdominal muestra litiasis vesicular con dilataci\u00f3n de la v\u00eda biliar intrahep\u00e1tica con v\u00eda extrahep\u00e1tica no visible. Ante sospecha de colangitis. \u00bfQu\u00e9 procedimiento debe realizarse? ",
-                    "options": {
-                        "a": "Colecistectom\u00eda convencional y colangiograf\u00eda intraoperatoria.",
-                        "b": "Colangiopancreatograf\u00eda retr\u00f3grada endosc\u00f3pica y colecistectom\u00eda laparosc\u00f3pica posterior.",
-                        "c": "Colecistectom\u00eda laparosc\u00f3pica con colangiograf\u00eda intraoperatoria.",
-                        "d": "Colecistectom\u00eda laparosc\u00f3pica con colangiopancreatigraf\u00eda retrograda endosc\u00f3pica  postoperatoria."
-                    },
-                    "id": "cea62935-74fc-48cc-a430-32e899a6d145",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2024"
-                    },
-                    "answer": "b",
-                    "index": 79,
-                    "image": "",
-                    "discussion": []
-                }
-            ],
-            "aclaracion": "",
-            "analogos": [
-                "biliar"
-            ]
-        },
         "colecistitis": {
             "array": [
                 {
@@ -9367,6 +8965,36 @@
                     },
                     "answer": "a",
                     "index": 41,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
+            "aclaracion": "Hepatitis no viral, como alcoholica, por drogas (DILI), isquemica, etc.",
+            "analogos": [
+                "hepatitis alcogolica",
+                "dili",
+                "hepatitis isquemica",
+                "esteatosis"
+            ]
+        },
+        "colangitis": {
+            "array": [
+                {
+                    "question_complete": "79) Paciente masculino de 70 a\u00f1os de edad, sin antecedentes quir\u00fargicos, consulta por \npresentar dolor abdominal localizado en epigastrio e hipocondrio derecho, asociado a \nn\u00e1useas, v\u00f3mitos y registro febril de 38.1\u00b0C, de 48 horas de evoluci\u00f3n. Al examen f\u00edsico, se \nencuentra somnoliento, con TA=80/60 mmHg, con ictericia y dolor abdominal localizado en \nepigastrio e hipocondrio derecho. Signo de Murphy negativo. El laboratorio de ingreso \npresenta 17000 gl\u00f3bulos blancos/mm3, bilirrubina total de 7.2 mg/dL, bilirrubina directa de \n6.9 mg/dL, FAL: 205 UI/L, GOT: 429 UI/L GPT: 502 UI/L, acidosis metab\u00f3lica. Ecograf\u00eda \nabdominal muestra litiasis vesicular con dilataci\u00f3n de la v\u00eda biliar intrahep\u00e1tica con v\u00eda \nextrahep\u00e1tica no visible. Ante sospecha de colangitis. \u00bfQu\u00e9 procedimiento debe realizarse? \n a) Colecistectom\u00eda convencional y colangiograf\u00eda intraoperatoria. \n b) Colangiopancreatograf\u00eda retr\u00f3grada endosc\u00f3pica y colecistectom\u00eda laparosc\u00f3pica posterior. \n c) Colecistectom\u00eda laparosc\u00f3pica con colangiograf\u00eda intraoperatoria. \n d) Colecistectom\u00eda laparosc\u00f3pica con colangiopancreatigraf\u00eda retrograda endosc\u00f3pica \npostoperatoria.",
+                    "question": "Paciente masculino de 70 a\u00f1os de edad, sin antecedentes quir\u00fargicos, consulta por presentar dolor abdominal localizado en epigastrio e hipocondrio derecho, asociado a n\u00e1useas, v\u00f3mitos y registro febril de 38.1\u00b0C, de 48 horas de evoluci\u00f3n. Al examen f\u00edsico, se encuentra somnoliento, con TA=80/60 mmHg, con ictericia y dolor abdominal localizado en epigastrio e hipocondrio derecho. Signo de Murphy negativo. El laboratorio de ingreso presenta 17000 gl\u00f3bulos blancos/mm3, bilirrubina total de 7.2 mg/dL, bilirrubina directa de 6.9 mg/dL, FAL: 205 UI/L, GOT: 429 UI/L GPT: 502 UI/L, acidosis metab\u00f3lica. Ecograf\u00eda abdominal muestra litiasis vesicular con dilataci\u00f3n de la v\u00eda biliar intrahep\u00e1tica con v\u00eda extrahep\u00e1tica no visible. Ante sospecha de colangitis. \u00bfQu\u00e9 procedimiento debe realizarse? ",
+                    "options": {
+                        "a": "Colecistectom\u00eda convencional y colangiograf\u00eda intraoperatoria.",
+                        "b": "Colangiopancreatograf\u00eda retr\u00f3grada endosc\u00f3pica y colecistectom\u00eda laparosc\u00f3pica posterior.",
+                        "c": "Colecistectom\u00eda laparosc\u00f3pica con colangiograf\u00eda intraoperatoria.",
+                        "d": "Colecistectom\u00eda laparosc\u00f3pica con colangiopancreatigraf\u00eda retrograda endosc\u00f3pica  postoperatoria."
+                    },
+                    "id": "cea62935-74fc-48cc-a430-32e899a6d145",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "b",
+                    "index": 79,
                     "image": "",
                     "discussion": []
                 }
@@ -12260,7 +11888,7 @@
                         "course": "examen unico",
                         "exam": "2024"
                     },
-                    "answer": "c",
+                    "answer": "b",
                     "index": 83,
                     "image": "",
                     "discussion": []
@@ -13097,10 +12725,10 @@
                     "question_complete": "\n32) Pregunta: \nConcurre a control una mujer de 29 a\u00f1os, pu\u00e9rpera hace 20 d\u00edas, parto vaginal sin complicaciones, reci\u00e9n \nnacido sano. Lactancia exclusiva libre demanda diurna. Lo consulta por un m\u00e9todo anticonceptivo (MAC). \nNo espera tener m\u00e1s hijos por el momento. Teniendo en cuenta los diferentes m\u00e9todos disponibles \u00bfCu\u00e1l \nes la conducta adecuada para esta paciente? \nA. dar informacion para que continue lm, muy efectiva \nB. recomendar uso aco combinado \nC. ac de progestageno de larga duracion o diu \nD. informacion para q decida con su pareja sobre las opciones \nC ",
                     "question": "Concurre a control una mujer de 29 a\u00f1os, pu\u00e9rpera hace 20 d\u00edas, parto vaginal sin complicaciones, reci\u00e9n nacido sano. Lactancia exclusiva libre demanda diurna. Lo consulta por un m\u00e9todo anticonceptivo (MAC). No espera tener m\u00e1s hijos por el momento. Teniendo en cuenta los diferentes m\u00e9todos disponibles \u00bfCu\u00e1l es la conducta adecuada para esta paciente? ",
                     "options": {
-                        "a": "dar informacion para que continue lm, muy efectiva",
-                        "b": "recomendar uso aco combinado",
-                        "c": "ac de progestageno de larga duracion o diu",
-                        "d": "informacion para q decida con su pareja sobre las opciones  "
+                        "a": "Dar informacion para que continue lactancia materna.",
+                        "b": "Recomendar uso aco combinado",
+                        "c": "Anticonceptivos de progestageno de larga duracion o DIU.",
+                        "d": "Dar informacion para que decida con su pareja sobre las opciones."
                     },
                     "id": "6ca396c6-d740-46b5-9917-d26f89827efe",
                     "origin": {
@@ -16835,204 +16463,6 @@
                 "desprendimiento de placenta normoinserta"
             ]
         },
-        "vacunas": {
-            "array": [
-                {
-                    "question_complete": "\n39) \u00bfQu\u00e9 vacunas se deben aplicar reci\u00e9n a partir de las 20 semanas de embarazo/gestaci\u00f3n? \n a) Vacuna triple bacteriana acelular \n b) Vacuna contra la COVID 19 \n c) Vacuna antigripal \n d) Vacuna contra la Hepatitis B \n ",
-                    "question": "\u00bfQu\u00e9 vacunas se deben aplicar reci\u00e9n a partir de las 20 semanas de embarazo/gestaci\u00f3n? ",
-                    "options": {
-                        "a": "Vacuna triple bacteriana acelular",
-                        "b": "Vacuna contra la COVID 19",
-                        "c": "Vacuna antigripal",
-                        "d": "Vacuna contra la Hepatitis B"
-                    },
-                    "id": "1a964131-af96-4784-a711-7c1c419d5f81",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2022"
-                    },
-                    "answer": "a",
-                    "index": 39,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n86) \u00bfCu\u00e1les son las vacunas que deben aplicarse a toda persona gestante seg\u00fan el calendario nacional \nde vacunaci\u00f3n? \n a) Vacuna Antigripal en cualquier trimestre del embarazo. Vacuna triple bacteriana acelular a partir de las 20 \nsemanas \n b)  Vacuna  Antigripal  en  cualquier  trimestre  del embarazo. Si tiene vacuna  antitet\u00e1nica aplicada  hace  menos \nde 5 a\u00f1os, no corresponde vacuna triple bacteriana acelular \n c)  Vacuna  Antigripal,  en  cualquier  trimestre  del  embarazo,  y  triple  bacteriana  acelular  a  partir  de  las  20 \nsemanas de embarazo (independientemente de la vacunaci\u00f3n previa). Vacuna contra la Hepatitis B si no hay \ndatos de que haya sido vacunada \n d)  Vacuna  Antigripal  despu\u00e9s  de  las  12  semanas  del  embarazo.  Vacuna  dTP  acelular  a  partir  de  las  20 \nsemanas de embarazo. Vacuna contra la Hepatitis B si no hay datos de que haya sido vacunada, empezar o \ncompletar esquema \n",
-                    "question": "\u00bfCu\u00e1les son las vacunas que deben aplicarse a toda persona gestante seg\u00fan el calendario nacional de vacunaci\u00f3n? ",
-                    "options": {
-                        "a": "Vacuna Antigripal en cualquier trimestre del embarazo. Vacuna triple bacteriana acelular a partir de las 20  semanas",
-                        "b": "Vacuna  Antigripal  en  cualquier  trimestre  del embarazo. Si tiene vacuna  antitet\u00e1nica aplicada  hace  menos  de 5 a\u00f1os, no corresponde vacuna triple bacteriana acelular",
-                        "c": "Vacuna  Antigripal,  en  cualquier  trimestre  del  embarazo,  y  triple  bacteriana  acelular  a  partir  de  las  20  semanas de embarazo (independientemente de la vacunaci\u00f3n previa). Vacuna contra la Hepatitis B si no hay  datos de que haya sido vacunada",
-                        "d": "Vacuna  Antigripal  despu\u00e9s  de  las  12  semanas  del  embarazo.  Vacuna  dTP  acelular  a  partir  de  las  20  semanas de embarazo. Vacuna contra la Hepatitis B si no hay datos de que haya sido vacunada, empezar o  completar esquema"
-                    },
-                    "id": "8b57ecf7-375c-4647-ac44-ec1381f68b54",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2022"
-                    },
-                    "answer": "c",
-                    "index": 86,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": " 92) Pregunta: \u00bfCu\u00e1l de las siguientes vacunas debe recibir una mujer embarazada?  \nA) Antigripal, anti HVB, doble viral \nB) Antrigripal y doble bacteriana. \nC) Antigripal y triple bacteriana acelular. \nD) Antigripal y triple viral. \n",
-                    "question": "\u00bfCu\u00e1l de las siguientes vacunas debe recibir una mujer embarazada? ",
-                    "options": {
-                        "a": "Antigripal, anti HVB, doble viral",
-                        "b": "Antrigripal y doble bacteriana.",
-                        "c": "Antigripal y triple bacteriana acelular.",
-                        "d": "Antigripal y triple viral."
-                    },
-                    "id": "1c1048a7-2f97-441c-a8f0-e2cae8aeb2a6",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2020"
-                    },
-                    "answer": "c",
-                    "index": 92,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n87) \u00bfCu\u00e1l de las siguientes vacunas est\u00e1 contraindicada en una mujer embarazada? \n a) Vacuna contra la hepatitis B. \n b) Vacuna contra la varicela. \n c) Vacuna triple bacteriana (dtPa). \n d) Vacuna contra la hepatitis A. ",
-                    "question": "\u00bfCu\u00e1l de las siguientes vacunas est\u00e1 contraindicada en una mujer embarazada? ",
-                    "options": {
-                        "a": "Vacuna contra la hepatitis B.",
-                        "b": "Vacuna contra la varicela.",
-                        "c": "Vacuna triple bacteriana (dtPa).",
-                        "d": "Vacuna contra la hepatitis A."
-                    },
-                    "id": "18872271-b5f1-4b7a-8ec3-2e5cc9a1d771",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2018"
-                    },
-                    "answer": "b",
-                    "index": 87,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n34. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con una embarazada de 28 semanas, que estuvo ayer en\ncontacto con un sobrino de 14 a\u00f1os al cual se le diagnostic\u00f3 varicela? Ella no tiene evidencias\nde inmunidad.\na. Administrar vacuna contra varicela.\nb. Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las 96\nhoras posteriores a la exposici\u00f3n.\nc. Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las siete\nhoras posteriores a la exposici\u00f3n.\nd. Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las 96\nhoras posteriores a la exposici\u00f3n m\u00e1s vacuna contra varicela.",
-                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con una embarazada de 28 semanas, que estuvo ayer en contacto con un sobrino de 14 a\u00f1os al cual se le diagnostic\u00f3 varicela? Ella no tiene evidencias de inmunidad.",
-                    "options": {
-                        "a": "Administrar vacuna contra varicela.",
-                        "b": "Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las 96 horas posteriores a la exposici\u00f3n.",
-                        "c": "Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las siete horas posteriores a la exposici\u00f3n.",
-                        "d": "Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las 96 horas posteriores a la exposici\u00f3n m\u00e1s vacuna contra varicela."
-                    },
-                    "id": "d2f1f558-be66-4323-b8f5-9e3d46dddd0b",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2017"
-                    },
-                    "answer": "b",
-                    "index": 34,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n4) \u00bfCu\u00e1l ser\u00eda la conducta m\u00e1s adecuada con una mujer que cursa la sexta semana de gestaci\u00f3n y se encuentra \nansiosa  porque  regresa  de  visitar  a  su  familia  en  Asia  donde  hab\u00eda  un  brote  de  rub\u00e9ola?  Hace  dos  meses, \ndurante la consulta pre-concepcional, la paciente ten\u00eda IgG reactiva para rub\u00e9ola. \n a) Tranquilizar a la paciente. \n b) Administrar vacuna contra rub\u00e9ola. \n c) Administrar gammaglobulina. \n d) Realizar amniocentesis en semana 15 de gestaci\u00f3n.\n",
-                    "question": "\u00bfCu\u00e1l ser\u00eda la conducta m\u00e1s adecuada con una mujer que cursa la sexta semana de gestaci\u00f3n y se encuentra ansiosa porque regresa de visitar a su familia en Asia donde hab\u00eda un brote de rub\u00e9ola? Hace dos meses, durante la consulta pre-concepcional, la paciente ten\u00eda IgG reactiva para rub\u00e9ola. ",
-                    "options": {
-                        "a": "Tranquilizar a la paciente.",
-                        "b": "Administrar vacuna contra rub\u00e9ola.",
-                        "c": "Administrar gammaglobulina.",
-                        "d": "Realizar amniocentesis en semana 15 de gestaci\u00f3n."
-                    },
-                    "id": "dcf55b4f-0302-4ea7-96e2-117801ba1194",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2016"
-                    },
-                    "answer": "a",
-                    "index": 4,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n48) \u00bfCu\u00e1l es la indicaci\u00f3n adecuada con respecto a la vacunaci\u00f3n en el momento del alta hospitalaria, de una \nmujer de 27 a\u00f1os sin antecedentes patol\u00f3gicos, que ha tenido un parto normal hace 72 horas? Ha realizado un \ncontrol  irregular  durante  el  embarazo  y  solo  recibi\u00f3  una  dosis  de  vacuna  antigripal  en  el  quinto  mes  de \ngestaci\u00f3n.  Tiene  una  sola  dosis  de  triple  viral  aplicada  a  los  6  a\u00f1os  de  edad,  con  el  resto  del  esquema  de \nvacunaci\u00f3n completo hasta los 16 a\u00f1os. \n a) No requiere aplicar ninguna vacuna ya que tiene el esquema de vacunaci\u00f3n completo. \n b) Aplicar una dosis de Difteria-T\u00e9tanos (dT) y doble viral. \n c) Aplicar una dosis doble viral. \n d) Aplicar una dosis de Difteria-T\u00e9tanos-Pertussis acelular (dTpa) y doble viral. ",
-                    "question": "\u00bfCu\u00e1l es la indicaci\u00f3n adecuada con respecto a la vacunaci\u00f3n en el momento del alta hospitalaria, de una mujer de 27 a\u00f1os sin antecedentes patol\u00f3gicos, que ha tenido un parto normal hace 72 horas? Ha realizado un control irregular durante el embarazo y solo recibi\u00f3 una dosis de vacuna antigripal en el quinto mes de gestaci\u00f3n. Tiene una sola dosis de triple viral aplicada a los 6 a\u00f1os de edad, con el resto del esquema de vacunaci\u00f3n completo hasta los 16 a\u00f1os. ",
-                    "options": {
-                        "a": "No requiere aplicar ninguna vacuna ya que tiene el esquema de vacunaci\u00f3n completo.",
-                        "b": "Aplicar una dosis de Difteria-T\u00e9tanos (dT) y doble viral.",
-                        "c": "Aplicar una dosis doble viral.",
-                        "d": "Aplicar una dosis de Difteria-T\u00e9tanos-Pertussis acelular (dTpa) y doble viral."
-                    },
-                    "id": "6621e602-b99e-4d8b-86ca-3261a3ddac01",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2016"
-                    },
-                    "answer": "d",
-                    "index": 48,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n35) \u00bfEn qu\u00e9 momento obst\u00e9trico debe aplicarse la vacuna para sarampi\u00f3n, paperas y rubeola? \n a) En el primer trimestre del embarazo \n b) En el puerperio inmediato \n c) En el segundo trimestre del embarazo \n d) En el tercer trimestre del embarazo \n",
-                    "question": "\u00bfEn qu\u00e9 momento obst\u00e9trico debe aplicarse la vacuna para sarampi\u00f3n, paperas y rubeola? ",
-                    "options": {
-                        "a": "En el primer trimestre del embarazo",
-                        "b": "En el puerperio inmediato",
-                        "c": "En el segundo trimestre del embarazo",
-                        "d": "En el tercer trimestre del embarazo"
-                    },
-                    "id": "76b56b3e-6e82-4439-b934-61cb2b5d871b",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2022"
-                    },
-                    "answer": "b",
-                    "index": 35,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "48) Usted realiza control prenatal a una mujer cis que cursa 24 semanas de gestaci\u00f3n. \u00bfQu\u00e9 vacunas \nindica? \n a) Triple bacteriana acelular, antigripal, antihepatitis B. \n b) Triple viral, antigripal y antihepatitis B. \n c) Triple bacteriana acelular, antihepatitis A, antigripal. \n d) Triple viral, antihepatitis A, antigripal.",
-                    "question": "Usted realiza control prenatal a una mujer cis que cursa 24 semanas de gestaci\u00f3n. \u00bfQu\u00e9 vacunas indica? ",
-                    "options": {
-                        "a": " Triple bacteriana acelular, antigripal, antihepatitis B. ",
-                        "b": " Triple viral, antigripal y antihepatitis B. ",
-                        "c": " Triple bacteriana acelular, antihepatitis A, antigripal. ",
-                        "d": " Triple viral, antihepatitis A, antigripal."
-                    },
-                    "id": "8b0a68ef-9425-4b9a-bfa0-d7670358d3d9",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2023"
-                    },
-                    "answer": "a",
-                    "index": 48,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "35) \u00bfCu\u00e1ndo debe ser aplicada la dosis de la vacuna del virus sincicial respiratorio (VSR) en la \ngestante? \n a) Entre la semana 12 y 16 \n b) Entre la semana 20 y 24 \n c) Entre la semana 32 y 36 \n d) Entre la semana 36 y 40 \n",
-                    "question": "\u00bfCu\u00e1ndo debe ser aplicada la dosis de la vacuna del virus sincicial respiratorio (VSR) en la gestante? ",
-                    "options": {
-                        "a": "Entre la semana 12 y 16",
-                        "b": "Entre la semana 20 y 24",
-                        "c": "Entre la semana 32 y 36",
-                        "d": "Entre la semana 36 y 40"
-                    },
-                    "id": "26c46588-9e8a-413b-8663-c2138811dd66",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2024"
-                    },
-                    "answer": "c",
-                    "index": 35,
-                    "image": "",
-                    "discussion": []
-                }
-            ],
-            "aclaracion": "Vacunas: Vacunas en las embarazadas.",
-            "analogos": [
-                ""
-            ]
-        },
         "estreptococo agalactiae": {
             "array": [
                 {
@@ -20200,405 +19630,6 @@
             "aclaracion": "",
             "analogos": [
                 "trichinella spiralis"
-            ]
-        },
-        "vacunas": {
-            "array": [
-                {
-                    "question_complete": "\n8) \u00bfQu\u00e9  vacunas  debe  controlar  que  haya  recibido una persona  de  60  a\u00f1os,  adem\u00e1s del esquema  de \nvacunaci\u00f3n completo contra COVID-19? \n a) Gripe (Anual) y Neumococo \n b) Neumococo, Doble Bacteriana, Gripe, Hepatitis B \n c) Hepatitis A y B, Gripe y Neumococo \n d) Gripe y Doble Bacteriana \n",
-                    "question": "\u00bfQu\u00e9 vacunas debe controlar que haya recibido una persona de 60 a\u00f1os, adem\u00e1s del esquema de vacunaci\u00f3n completo contra COVID-19? ",
-                    "options": {
-                        "a": "Gripe (Anual) y Neumococo",
-                        "b": "Neumococo, Doble Bacteriana, Gripe, Hepatitis B",
-                        "c": "Hepatitis A y B, Gripe y Neumococo",
-                        "d": "Gripe y Doble Bacteriana"
-                    },
-                    "id": "d4e22087-0920-4484-ab9c-d4e3a8f0ce15",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2022"
-                    },
-                    "answer": "b",
-                    "index": 8,
-                    "image": "",
-                    "discussion": [
-                        {
-                            "date": "2024-04-27 11:14:53",
-                            "name": "",
-                            "email": "",
-                            "year": 2022,
-                            "index": 8,
-                            "explication": "Calendario nacional de vacunaci\u00f3n 2023: 65 a\u00f1os o mas, antigripal, neumococo y doble bacteriana",
-                            "bibliography": "https://www.argentina.gob.ar/sites/default/files/2024-03-infografia-calendario-vacunas.pdf",
-                            "id": "0444e2bc-e786-4b40-9595-f57a679a0764"
-                        }
-                    ]
-                },
-                {
-                    "question_complete": "\n73) \u00bfCu\u00e1l es la recomendaci\u00f3n que debe hacerse a una persona de 30 a\u00f1os de edad que la \u00faltima dosis \nde doble adulto fue a los 16 a\u00f1os y a partir de ese momento no recibi\u00f3 ning\u00fan refuerzo? \n a) Indicar una dosis ahora y continuar refuerzos cada 10 a\u00f1os \n b) Reiniciar el esquema, indicando tres dosis (1\u00ba dosis: ahora, 2\u00ba dosis en un mes y 3\u00ba dosis en seis meses) \n c) Indicar dos dosis con diferencia de un mes \n d) Indicar primera dosis ahora y refuerzo en un a\u00f1o\n",
-                    "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n que debe hacerse a una persona de 30 a\u00f1os de edad que la \u00faltima dosis de doble adulto fue a los 16 a\u00f1os y a partir de ese momento no recibi\u00f3 ning\u00fan refuerzo? ",
-                    "options": {
-                        "a": "Indicar una dosis ahora y continuar refuerzos cada 10 a\u00f1os",
-                        "b": "Reiniciar el esquema, indicando tres dosis (1\u00ba dosis: ahora, 2\u00ba dosis en un mes y 3\u00ba dosis en seis meses)",
-                        "c": "Indicar dos dosis con diferencia de un mes",
-                        "d": "Indicar primera dosis ahora y refuerzo en un a\u00f1o"
-                    },
-                    "id": "81a55d20-6a28-419a-a20d-b4d451c85d28",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2022"
-                    },
-                    "answer": "a",
-                    "index": 73,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n89) \u00bfQu\u00e9 vacunas deben administrarse a una persona de 69 a\u00f1os que posee 4 dosis contra el COVID, \n\u00fanica vacuna que ha recibido en los \u00faltimos 20 a\u00f1os? \n a) Antigripal anual, Antimeningoc\u00f3ccica tetravalente, Esquema secuencial para neumococo \n b) Esquema secuencial para neumococo, Doble bacteriana, Antigripal anual \n c) Antimeningoc\u00f3ccica tetravalente, Antigripal anual, Doble bacteriana\nd) Doble bacteriana, Triple viral, Antigripal anual \n",
-                    "question": "\u00bfQu\u00e9 vacunas deben administrarse a una persona de 69 a\u00f1os que posee 4 dosis contra el COVID, \u00fanica vacuna que ha recibido en los \u00faltimos 20 a\u00f1os? ",
-                    "options": {
-                        "a": "Antigripal anual, Antimeningoc\u00f3ccica tetravalente, Esquema secuencial para neumococo",
-                        "b": "Esquema secuencial para neumococo, Doble bacteriana, Antigripal anual",
-                        "c": "Antimeningoc\u00f3ccica tetravalente, Antigripal anual, Doble bacteriana",
-                        "d": "Doble bacteriana, Triple viral, Antigripal anual"
-                    },
-                    "id": "50ff4022-a518-47cd-a12d-bc3d93f62ab6",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2022"
-                    },
-                    "answer": "b",
-                    "index": 89,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n31) Pregunta: \u00bfCu\u00e1l de las siguientes vacunas debe recibir un var\u00f3n de 30 a\u00f1os, con diabetes y \nconsumo de tabaco de 20 cigarrillos/d\u00eda, que tiene el calendario de vacunaci\u00f3n de la infancia \ncompleto y en el a\u00f1o 2019 recibi\u00f3 la vacuna antigripal, doble bacteriana y la primera dosis de vacuna \nanti hepatitis B?  \nA) Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 13 valente, una dosis de triple viral y \nsegunda dosis de vacuna anti hepatitis B. \nB) Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 23 valente, segunda dosis de vacuna \nanti hepatitis B. \nC) Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 23 valente, una dosis de triple viral y \nreiniciar esquema de vacuna anti hepatitis B. \nD) Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 13 valente, una dosis de triple viral y \nreiniciar esquema de vacuna anti hepatitis B. \n",
-                    "question": "\u00bfCu\u00e1l de las siguientes vacunas debe recibir un var\u00f3n de 30 a\u00f1os, con diabetes y consumo de tabaco de 20 cigarrillos/d\u00eda, que tiene el calendario de vacunaci\u00f3n de la infancia completo y en el a\u00f1o 2019 recibi\u00f3 la vacuna antigripal, doble bacteriana y la primera dosis de vacuna anti hepatitis B? ",
-                    "options": {
-                        "a": "Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 13 valente, una dosis de triple viral y  segunda dosis de vacuna anti hepatitis B.",
-                        "b": "Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 23 valente, segunda dosis de vacuna  anti hepatitis B.",
-                        "c": "Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 23 valente, una dosis de triple viral y  reiniciar esquema de vacuna anti hepatitis B.",
-                        "d": "Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 13 valente, una dosis de triple viral y  reiniciar esquema de vacuna anti hepatitis B."
-                    },
-                    "id": "d509049e-9f1a-4d1c-b0dc-d6bcad021417",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2020"
-                    },
-                    "answer": "a",
-                    "index": 31,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n37) Pregunta: Un profesional de la salud tiene que recibir una dosis de vacuna triple viral y hace 10 \nd\u00edas recibi\u00f3 gammaglobulina contra hepatitis B (IgHB) como profilaxis post-exposici\u00f3n de accidente \nlaboral. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada?  \nA) Aplicar la vacuna inmediatamente. \nB) Esperar 7 d\u00edas y aplicar la vacuna \nC) Esperar un mes y aplicar la vacuna. \nD) Esperar tres meses y aplicar la vacuna. \n",
-                    "question": "Un profesional de la salud tiene que recibir una dosis de vacuna triple viral y hace 10 d\u00edas recibi\u00f3 gammaglobulina contra hepatitis B (IgHB) como profilaxis post-exposici\u00f3n de accidente laboral. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada? ",
-                    "options": {
-                        "a": "Aplicar la vacuna inmediatamente.",
-                        "b": "Esperar 7 d\u00edas y aplicar la vacuna",
-                        "c": "Esperar un mes y aplicar la vacuna.",
-                        "d": "Esperar tres meses y aplicar la vacuna."
-                    },
-                    "id": "98741f31-f685-49ca-a064-952949e8a1e2",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2020"
-                    },
-                    "answer": "d",
-                    "index": 37,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n57) Pregunta: \u00bfCu\u00e1l de las siguientes vacunas es de aplicaci\u00f3n intrad\u00e9rmica?  \nA) Triple viral \nB) Anti HVB \nC) Anti neumococica conjugada. \nD) BCG \n",
-                    "question": "\u00bfCu\u00e1l de las siguientes vacunas es de aplicaci\u00f3n intrad\u00e9rmica? ",
-                    "options": {
-                        "a": "Triple viral",
-                        "b": "Anti HVB",
-                        "c": "Anti neumococica conjugada.",
-                        "d": "BCG"
-                    },
-                    "id": "362c82d0-ede2-4ce0-8277-384518a0caeb",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2020"
-                    },
-                    "answer": "d",
-                    "index": 57,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n73)  Una  paciente  de  65  a\u00f1os,  sana,  lo  consulta  con  respecto  a  la  indicaci\u00f3n  de  vacunaci\u00f3n  contra  el \nneumococo.  Refiere  haber  recibido  hace  4  semanas  una  dosis  de  vacuna  polisac\u00e1rida  de  23  serotipos \n(VPN23). \u00bfQu\u00e9 esquema de vacunaci\u00f3n est\u00e1 indicado en esta paciente? \n a) Administrar al a\u00f1o de recibir la VPN23 una dosis de vacuna conjugada de 13 serotipos (VCN13). \n b) Administrar a las 8 semanas de recibir la VPN23 una dosis de vacuna conjugada de 13 serotipos (VCN13). \n c) Reiniciar el esquema nuevamente con una dosis de VCN13 y a las 8 semanas una dosis de VPN23. \n d) Administrar dentro de 5 a\u00f1os una dosis de VCN13 y a las 8 semanas una dosis de VPN23. ",
-                    "question": "Una paciente de 65 a\u00f1os, sana, lo consulta con respecto a la indicaci\u00f3n de vacunaci\u00f3n contra el neumococo. Refiere haber recibido hace 4 semanas una dosis de vacuna polisac\u00e1rida de 23 serotipos (VPN23). \u00bfQu\u00e9 esquema de vacunaci\u00f3n est\u00e1 indicado en esta paciente? ",
-                    "options": {
-                        "a": "Administrar al a\u00f1o de recibir la VPN23 una dosis de vacuna conjugada de 13 serotipos (VCN13).",
-                        "b": "Administrar a las 8 semanas de recibir la VPN23 una dosis de vacuna conjugada de 13 serotipos (VCN13).",
-                        "c": "Reiniciar el esquema nuevamente con una dosis de VCN13 y a las 8 semanas una dosis de VPN23.",
-                        "d": "Administrar dentro de 5 a\u00f1os una dosis de VCN13 y a las 8 semanas una dosis de VPN23."
-                    },
-                    "id": "23e96ce0-9ecc-40d7-b696-9ce3641f9743",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2019"
-                    },
-                    "answer": "a",
-                    "index": 73,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n76)  Concurre  al  Centro  de  salud  una  paciente  de  65  a\u00f1os  para  control  de  salud.  Como  antecedentes  de \nrelevancia  es  hipotiroidea  medicada  con  Levotiroxina  150  mcg.  De  acuerdo  a  las  recomendaciones  de \ninmunizaci\u00f3n para adultos mayores. \u00bfCu\u00e1les son las vacunas que se recomiendan para este grupo etario? \n a) Vacuna contra influenza en forma anual, refuerzo de la doble de adultos (DT) cada 5 a\u00f1os. \n b) Vacuna contra el neumococo e influenza ambas en forma anual y doble adultos cada 10 a\u00f1os. \n c) Vacuna contra el neumococo, influenza y refuerzo de doble adulto (DT). \n d) Refuerzo de doble adulto (DT) cada 10 a\u00f1os.\n",
-                    "question": "Concurre al Centro de salud una paciente de 65 a\u00f1os para control de salud. Como antecedentes de relevancia es hipotiroidea medicada con Levotiroxina 150 mcg. De acuerdo a las recomendaciones de inmunizaci\u00f3n para adultos mayores. \u00bfCu\u00e1les son las vacunas que se recomiendan para este grupo etario? ",
-                    "options": {
-                        "a": "Vacuna contra influenza en forma anual, refuerzo de la doble de adultos (DT) cada 5 a\u00f1os.",
-                        "b": "Vacuna contra el neumococo e influenza ambas en forma anual y doble adultos cada 10 a\u00f1os.",
-                        "c": "Vacuna contra el neumococo, influenza y refuerzo de doble adulto (DT).",
-                        "d": "Refuerzo de doble adulto (DT) cada 10 a\u00f1os."
-                    },
-                    "id": "16f997e2-26ab-42c3-a031-8bfd2add5209",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2019"
-                    },
-                    "answer": "c",
-                    "index": 76,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n17) \u00bfC\u00f3mo indica la administraci\u00f3n de vacuna antineumoc\u00f3cica a una paciente de 50 a\u00f1os con diabetes? \n a) 1a dosis: vacuna conjugada 13 valente (VCN13) y 2a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23) \ncon un intervalo m\u00ednimo de 12 meses. \n b) 1a dosis: vacuna conjugada 13 valente (VCN13) y 2a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23) \ncon un intervalo m\u00ednimo de 8 semanas. \n c) Una sola dosis de la vacuna polisac\u00e1rida de 23 serotipos (VPN23). \n d) 1a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23) y 2a dosis: vacuna conjugada 13 valente (VCN13) \ncon un intervalo m\u00ednimo de 8 semanas.\n",
-                    "question": "\u00bfC\u00f3mo indica la administraci\u00f3n de vacuna antineumoc\u00f3cica a una paciente de 50 a\u00f1os con diabetes? ",
-                    "options": {
-                        "a": "1a dosis: vacuna conjugada 13 valente (VCN13) y 2a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23)  con un intervalo m\u00ednimo de 12 meses.",
-                        "b": "1a dosis: vacuna conjugada 13 valente (VCN13) y 2a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23)  con un intervalo m\u00ednimo de 8 semanas.",
-                        "c": "Una sola dosis de la vacuna polisac\u00e1rida de 23 serotipos (VPN23).",
-                        "d": "1a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23) y 2a dosis: vacuna conjugada 13 valente (VCN13)  con un intervalo m\u00ednimo de 8 semanas."
-                    },
-                    "id": "d7596da5-4df1-4749-91df-a85d12c83937",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2018"
-                    },
-                    "answer": "a",
-                    "index": 17,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n40) \u00bfCu\u00e1l de las siguientes afirmaciones con respecto a la vacunaci\u00f3n BCG es correcta? \n a) Evita la infecci\u00f3n por M. tuberculosis. \n b) Previene la diseminaci\u00f3n hemat\u00f3gena de M. tuberculosis. \n c) Se puede aplicar en neonatos a partir de los tres kilos de peso. \n d) Se puede aplicar en inmunodeprimidos sin riesgo. ",
-                    "question": "\u00bfCu\u00e1l de las siguientes afirmaciones con respecto a la vacunaci\u00f3n BCG es correcta? ",
-                    "options": {
-                        "a": "Evita la infecci\u00f3n por M. tuberculosis.",
-                        "b": "Previene la diseminaci\u00f3n hemat\u00f3gena de M. tuberculosis.",
-                        "c": "Se puede aplicar en neonatos a partir de los tres kilos de peso.",
-                        "d": "Se puede aplicar en inmunodeprimidos sin riesgo."
-                    },
-                    "id": "e560e6e8-108a-4bff-ab46-b10fe2b5e2e1",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2018"
-                    },
-                    "answer": "b",
-                    "index": 40,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n93)  \u00bfCu\u00e1l  de  las  siguientes  inmunizaciones  est\u00e1  contraindicada  en  una  persona  con  VIH  que  tiene  un \nrecuento de CD4 de 150 c\u00e9l / mm3? \n a) Vacuna contra hepatitis A. \n b) Vacuna antigripal. \n c) Vacuna antineumoc\u00f3cica conjugada. \n d) Vacuna contra la fiebre amarilla.\n",
-                    "question": "\u00bfCu\u00e1l de las siguientes inmunizaciones est\u00e1 contraindicada en una persona con VIH que tiene un recuento de CD4 de 150 c\u00e9l / mm3? ",
-                    "options": {
-                        "a": "Vacuna contra hepatitis A.",
-                        "b": "Vacuna antigripal.",
-                        "c": "Vacuna antineumoc\u00f3cica conjugada.",
-                        "d": "Vacuna contra la fiebre amarilla."
-                    },
-                    "id": "e7386bd3-f989-4f52-8091-fd61d0c91ecf",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2018"
-                    },
-                    "answer": "d",
-                    "index": 93,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n13. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada para completar el esquema de vacunaci\u00f3n en el caso de un\njoven de 25 a\u00f1os que recibi\u00f3, hace un a\u00f1o, una sola dosis de vacuna contra hepatitis B?\na. Iniciar el esquema de vacunaci\u00f3n nuevamente.\nb. Completar el esquema con las dosis faltantes.\nc. Dar una doble dosis inicialmente y a los 6 meses la tercera dosis.\nd. Solicitar serolog\u00eda y decidir seg\u00fan el t\u00edtulo de anticuerpos.",
-                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada para completar el esquema de vacunaci\u00f3n en el caso de un joven de 25 a\u00f1os que recibi\u00f3, hace un a\u00f1o, una sola dosis de vacuna contra hepatitis B?",
-                    "options": {
-                        "a": "Iniciar el esquema de vacunaci\u00f3n nuevamente.",
-                        "b": "Completar el esquema con las dosis faltantes.",
-                        "c": "Dar una doble dosis inicialmente y a los 6 meses la tercera dosis.",
-                        "d": "Solicitar serolog\u00eda y decidir seg\u00fan el t\u00edtulo de anticuerpos."
-                    },
-                    "id": "91ca1a27-28d5-44e4-870b-56764d250747",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2017"
-                    },
-                    "answer": "b",
-                    "index": 13,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n55) Pregunta: \nAsiste a la consulta Jos\u00e9 de 60 a\u00f1os de edad con antecedentes de cardiopat\u00eda isqu\u00e9mica con \ncolocaci\u00f3n de stent, enfermedad pulmonar obstructiva cr\u00f3nica (EPOC), y con diagn\u00f3stico reciente \nde mieloma m\u00faltiple. Le pregunta si se puede colocar la vacunas antineumoc\u00f3cica conjugadas 13 \nserotipos (VCN-13) que estuvo indagando en internet. \u00bfCu\u00e1l es la conducta apropiada?\nA. le dice que no tiene indicaci\u00f3n \nB. le dice que le indicar\u00e1 vacuna cuando cumpla 65 a\u00f1os \nC. le indica la vacuna para que se la coloque ahora \nD. aborda la patolog\u00eda actual y recita para la pr\u00f3xima consulta el tema de vacunas \nC ",
-                    "question": "Asiste a la consulta Jos\u00e9 de 60 a\u00f1os de edad con antecedentes de cardiopat\u00eda isqu\u00e9mica con colocaci\u00f3n de stent, enfermedad pulmonar obstructiva cr\u00f3nica (EPOC), y con diagn\u00f3stico reciente de mieloma m\u00faltiple. Le pregunta si se puede colocar la vacunas antineumoc\u00f3cica conjugadas 13 serotipos (VCN-13) que estuvo indagando en internet. \u00bfCu\u00e1l es la conducta apropiada?",
-                    "options": {
-                        "a": "le dice que no tiene indicaci\u00f3n",
-                        "b": "le dice que le indicar\u00e1 vacuna cuando cumpla 65 a\u00f1os",
-                        "c": "le indica la vacuna para que se la coloque ahora",
-                        "d": "aborda la patolog\u00eda actual y recita para la pr\u00f3xima consulta el tema de vacunas  "
-                    },
-                    "id": "198ebb8b-dc66-4f2f-ba5b-578df56b84a1",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2021"
-                    },
-                    "answer": "c",
-                    "index": 55,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n60) Pregunta: \nJorge de 66 a\u00f1os diab\u00e9tico e hipertenso, recibi\u00f3 a los 59 a\u00f1os una dosis de vacuna antineumoc\u00f3cica \nconjugada 13 valente (VCN13) y a los 60 a\u00f1os una dosis de vacuna polisac\u00e1rida 23 valente (VPN23). \n\u00bfCu\u00e1l es la estrategia correcta? \nA. no requiere nueva dosis de neumococo \nB. una dosis adicional 23 \nC. una dosis adicional 13 \nD. una dosis adicional 13 y 23 al a\u00f1o  \nB ",
-                    "question": "Jorge de 66 a\u00f1os diab\u00e9tico e hipertenso, recibi\u00f3 a los 59 a\u00f1os una dosis de vacuna antineumoc\u00f3cica conjugada 13 valente (VCN13) y a los 60 a\u00f1os una dosis de vacuna polisac\u00e1rida 23 valente (VPN23). \u00bfCu\u00e1l es la estrategia correcta? ",
-                    "options": {
-                        "a": "no requiere nueva dosis de neumococo",
-                        "b": "una dosis adicional 23",
-                        "c": "una dosis adicional 13",
-                        "d": "una dosis adicional 13 y 23 al a\u00f1o   "
-                    },
-                    "id": "36b3aacf-b90e-4136-9a5d-6732203e3e2d",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2021"
-                    },
-                    "answer": "b",
-                    "index": 60,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n24) \u00bfCu\u00e1l es la conducta adecuada respecto a la vacunaci\u00f3n contra hepatitis B de un m\u00e9dico que recibi\u00f3 un \nesquema completo de vacunaci\u00f3n, y a los dos meses de finalizado tiene anti HBs >10 mlU/ml? \n a) Indicar un nuevo esquema de vacunaci\u00f3n. \n b) Controlar peri\u00f3dicamente la serolog\u00eda y re vacunar cuando el t\u00edtulo sea < 10 mIU/ml. \n c) Informar que ha respondido a la vacuna y que est\u00e1 protegido. \n d) Administrar una cuarta dosis para que tenga mejor t\u00edtulo de anticuerpos. ",
-                    "question": "\u00bfCu\u00e1l es la conducta adecuada respecto a la vacunaci\u00f3n contra hepatitis B de un m\u00e9dico que recibi\u00f3 un esquema completo de vacunaci\u00f3n, y a los dos meses de finalizado tiene anti HBs >10 mlU/ml? ",
-                    "options": {
-                        "a": "Indicar un nuevo esquema de vacunaci\u00f3n.",
-                        "b": "Controlar peri\u00f3dicamente la serolog\u00eda y re vacunar cuando el t\u00edtulo sea < 10 mIU/ml.",
-                        "c": "Informar que ha respondido a la vacuna y que est\u00e1 protegido.",
-                        "d": "Administrar una cuarta dosis para que tenga mejor t\u00edtulo de anticuerpos."
-                    },
-                    "id": "226331f5-e2f0-449e-8433-4c05a552cb98",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2016"
-                    },
-                    "answer": "c",
-                    "index": 24,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n48) \u00bfCu\u00e1l es la indicaci\u00f3n adecuada con respecto a la vacunaci\u00f3n en el momento del alta hospitalaria, de una \nmujer de 27 a\u00f1os sin antecedentes patol\u00f3gicos, que ha tenido un parto normal hace 72 horas? Ha realizado un \ncontrol  irregular  durante  el  embarazo  y  solo  recibi\u00f3  una  dosis  de  vacuna  antigripal  en  el  quinto  mes  de \ngestaci\u00f3n.  Tiene  una  sola  dosis  de  triple  viral  aplicada  a  los  6  a\u00f1os  de  edad,  con  el  resto  del  esquema  de \nvacunaci\u00f3n completo hasta los 16 a\u00f1os. \n a) No requiere aplicar ninguna vacuna ya que tiene el esquema de vacunaci\u00f3n completo. \n b) Aplicar una dosis de Difteria-T\u00e9tanos (dT) y doble viral. \n c) Aplicar una dosis doble viral. \n d) Aplicar una dosis de Difteria-T\u00e9tanos-Pertussis acelular (dTpa) y doble viral. ",
-                    "question": "\u00bfCu\u00e1l es la indicaci\u00f3n adecuada con respecto a la vacunaci\u00f3n en el momento del alta hospitalaria, de una mujer de 27 a\u00f1os sin antecedentes patol\u00f3gicos, que ha tenido un parto normal hace 72 horas? Ha realizado un control irregular durante el embarazo y solo recibi\u00f3 una dosis de vacuna antigripal en el quinto mes de gestaci\u00f3n. Tiene una sola dosis de triple viral aplicada a los 6 a\u00f1os de edad, con el resto del esquema de vacunaci\u00f3n completo hasta los 16 a\u00f1os. ",
-                    "options": {
-                        "a": "No requiere aplicar ninguna vacuna ya que tiene el esquema de vacunaci\u00f3n completo.",
-                        "b": "Aplicar una dosis de Difteria-T\u00e9tanos (dT) y doble viral.",
-                        "c": "Aplicar una dosis doble viral.",
-                        "d": "Aplicar una dosis de Difteria-T\u00e9tanos-Pertussis acelular (dTpa) y doble viral."
-                    },
-                    "id": "6621e602-b99e-4d8b-86ca-3261a3ddac01",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2016"
-                    },
-                    "answer": "d",
-                    "index": 48,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n59) \u00bfEn cu\u00e1l de las siguientes situaciones est\u00e1 indicada la vacuna antigripal? \n a) Ni\u00f1os en edad escolar, independientemente de los antecedentes. \n b) Bebes prematuros con menos de 1,500 Kg. \n c) Pu\u00e9rperas hasta los seis meses posteriores al parto. \n d) Convivientes de enfermos oncohematol\u00f3gicos. ",
-                    "question": "\u00bfEn cu\u00e1l de las siguientes situaciones est\u00e1 indicada la vacuna antigripal? ",
-                    "options": {
-                        "a": "Ni\u00f1os en edad escolar, independientemente de los antecedentes.",
-                        "b": "Bebes prematuros con menos de 1,500 Kg.",
-                        "c": "Pu\u00e9rperas hasta los seis meses posteriores al parto.",
-                        "d": "Convivientes de enfermos oncohematol\u00f3gicos."
-                    },
-                    "id": "1a5d4972-3e92-424c-af16-223221c26ec5",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2016"
-                    },
-                    "answer": "d",
-                    "index": 59,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "\n11. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con un adulto de 36 a\u00f1os, afebril, que cursa catarro de v\u00edas\na\u00e9reas superiores, y lo consulta porque le indicaron la vacuna doble bacteriana y no sabe si\nvacunarse o no con este cuadro cl\u00ednico?\na. Puede aplicarse la vacuna.\nb. Puede vacunarse inmediatamente despu\u00e9s de la curaci\u00f3n del cuadro actual.\nc. Debe postergar la vacunaci\u00f3n hasta dos semanas despu\u00e9s del curado el cuadro.\nd. Debe postergar la vacunaci\u00f3n hasta un mes despu\u00e9s de curado el cuadro.",
-                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con un adulto de 36 a\u00f1os, afebril, que cursa catarro de v\u00edas a\u00e9reas superiores, y lo consulta porque le indicaron la vacuna doble bacteriana y no sabe si vacunarse o no con este cuadro cl\u00ednico?",
-                    "options": {
-                        "a": "Puede aplicarse la vacuna.",
-                        "b": "Puede vacunarse inmediatamente despu\u00e9s de la curaci\u00f3n del cuadro actual.",
-                        "c": "Debe postergar la vacunaci\u00f3n hasta dos semanas despu\u00e9s del curado el cuadro.",
-                        "d": "Debe postergar la vacunaci\u00f3n hasta un mes despu\u00e9s de curado el cuadro."
-                    },
-                    "id": "9393edf8-34e1-4477-9d15-1abc0badbf58",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2017"
-                    },
-                    "answer": "a",
-                    "index": 11,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "82) \u00bfCu\u00e1l de los siguientes g\u00e9rmenes requieren quimioprofilaxis post exposici\u00f3n a un caso de \nmeningitis? \n a) Streptococcus pneumoniae y Haemophilus influenzae \n b) Haemophilus influenzae y Neisseria meningitidis \n c) Neisseria meningitidis y Streptococcus pneumoniae \n d) Haemophilus influenzae y Listeria monocitogenes \n20",
-                    "question": "\u00bfCu\u00e1l de los siguientes g\u00e9rmenes requieren quimioprofilaxis post exposici\u00f3n a un caso de meningitis? ",
-                    "options": {
-                        "a": " Streptococcus pneumoniae y Haemophilus influenzae ",
-                        "b": " Haemophilus influenzae y Neisseria meningitidis ",
-                        "c": " Neisseria meningitidis y Streptococcus pneumoniae ",
-                        "d": " Haemophilus influenzae y Listeria monocitogenes  20"
-                    },
-                    "id": "9b624e45-2f4c-4158-bcd5-fcd96c010dab",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2023"
-                    },
-                    "answer": "b",
-                    "index": 82,
-                    "image": "",
-                    "discussion": []
-                },
-                {
-                    "question_complete": "80) \u00bfCu\u00e1l es la indicaci\u00f3n de vacunaci\u00f3n que debe realizar a un paciente adulto \nesplenectomizado? \n a) Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana).Neumococo conjugada 13 v \nMeningococo conjugada ( 1 dosis). \n b) dTpa/dT (triple/doble bacteriana). Herpes z\u00f3ster (virus vivo atenuado). Neumococo \nconjugada 13 v Meningococo conjugada (1 dosis). \n c) Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana). Neumococo polisac\u00e1rida vpn 22 \nMeningococo conjugada (1 dosis). \n d) Hepatitis B 3 dosis. Neumococo polisac\u00e1rida VPN 22. Antigripal 1 dosis.",
-                    "question": "\u00bfCu\u00e1l es la indicaci\u00f3n de vacunaci\u00f3n que debe realizar a un paciente adulto esplenectomizado? ",
-                    "options": {
-                        "a": "Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana).Neumococo conjugada 13 v  Meningococo conjugada ( 1 dosis).",
-                        "b": "dTpa/dT (triple/doble bacteriana). Herpes z\u00f3ster (virus vivo atenuado). Neumococo  conjugada 13 v Meningococo conjugada (1 dosis).",
-                        "c": "Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana). Neumococo polisac\u00e1rida vpn 22  Meningococo conjugada (1 dosis).",
-                        "d": "Hepatitis B 3 dosis. Neumococo polisac\u00e1rida VPN 22. Antigripal 1 dosis."
-                    },
-                    "id": "485604bd-0c66-4433-93b9-61a5201c80d1",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2024"
-                    },
-                    "answer": "a",
-                    "index": 80,
-                    "image": "",
-                    "discussion": []
-                }
-            ],
-            "aclaracion": "Vacunas: En cualquier grupo etario (ni\u00f1os, jovenes, adultos, adultos mayores) y cualquier condicion (inmunocompetentes, inmunocomprometidos,",
-            "analogos": [
-                "vacunacion"
             ]
         },
         "hiv": {
@@ -28755,6 +27786,980 @@
                 "abcde",
                 "emergencias",
                 "urgencias"
+            ]
+        }
+    },
+    "vacunas": {
+        "infectologia": {
+            "array": [
+                {
+                    "question_complete": "\n8) \u00bfQu\u00e9  vacunas  debe  controlar  que  haya  recibido una persona  de  60  a\u00f1os,  adem\u00e1s del esquema  de \nvacunaci\u00f3n completo contra COVID-19? \n a) Gripe (Anual) y Neumococo \n b) Neumococo, Doble Bacteriana, Gripe, Hepatitis B \n c) Hepatitis A y B, Gripe y Neumococo \n d) Gripe y Doble Bacteriana \n",
+                    "question": "\u00bfQu\u00e9 vacunas debe controlar que haya recibido una persona de 60 a\u00f1os, adem\u00e1s del esquema de vacunaci\u00f3n completo contra COVID-19? ",
+                    "options": {
+                        "a": "Gripe (Anual) y Neumococo",
+                        "b": "Neumococo, Doble Bacteriana, Gripe, Hepatitis B",
+                        "c": "Hepatitis A y B, Gripe y Neumococo",
+                        "d": "Gripe y Doble Bacteriana"
+                    },
+                    "id": "d4e22087-0920-4484-ab9c-d4e3a8f0ce15",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2022"
+                    },
+                    "answer": "b",
+                    "index": 8,
+                    "image": "",
+                    "discussion": [
+                        {
+                            "date": "2024-04-27 11:14:53",
+                            "name": "",
+                            "email": "",
+                            "year": 2022,
+                            "index": 8,
+                            "explication": "Calendario nacional de vacunaci\u00f3n 2023: 65 a\u00f1os o mas, antigripal, neumococo y doble bacteriana",
+                            "bibliography": "https://www.argentina.gob.ar/sites/default/files/2024-03-infografia-calendario-vacunas.pdf",
+                            "id": "0444e2bc-e786-4b40-9595-f57a679a0764"
+                        }
+                    ]
+                },
+                {
+                    "question_complete": "\n73) \u00bfCu\u00e1l es la recomendaci\u00f3n que debe hacerse a una persona de 30 a\u00f1os de edad que la \u00faltima dosis \nde doble adulto fue a los 16 a\u00f1os y a partir de ese momento no recibi\u00f3 ning\u00fan refuerzo? \n a) Indicar una dosis ahora y continuar refuerzos cada 10 a\u00f1os \n b) Reiniciar el esquema, indicando tres dosis (1\u00ba dosis: ahora, 2\u00ba dosis en un mes y 3\u00ba dosis en seis meses) \n c) Indicar dos dosis con diferencia de un mes \n d) Indicar primera dosis ahora y refuerzo en un a\u00f1o\n",
+                    "question": "\u00bfCu\u00e1l es la recomendaci\u00f3n que debe hacerse a una persona de 30 a\u00f1os de edad que la \u00faltima dosis de doble adulto fue a los 16 a\u00f1os y a partir de ese momento no recibi\u00f3 ning\u00fan refuerzo? ",
+                    "options": {
+                        "a": "Indicar una dosis ahora y continuar refuerzos cada 10 a\u00f1os",
+                        "b": "Reiniciar el esquema, indicando tres dosis (1\u00ba dosis: ahora, 2\u00ba dosis en un mes y 3\u00ba dosis en seis meses)",
+                        "c": "Indicar dos dosis con diferencia de un mes",
+                        "d": "Indicar primera dosis ahora y refuerzo en un a\u00f1o"
+                    },
+                    "id": "81a55d20-6a28-419a-a20d-b4d451c85d28",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2022"
+                    },
+                    "answer": "a",
+                    "index": 73,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n89) \u00bfQu\u00e9 vacunas deben administrarse a una persona de 69 a\u00f1os que posee 4 dosis contra el COVID, \n\u00fanica vacuna que ha recibido en los \u00faltimos 20 a\u00f1os? \n a) Antigripal anual, Antimeningoc\u00f3ccica tetravalente, Esquema secuencial para neumococo \n b) Esquema secuencial para neumococo, Doble bacteriana, Antigripal anual \n c) Antimeningoc\u00f3ccica tetravalente, Antigripal anual, Doble bacteriana\nd) Doble bacteriana, Triple viral, Antigripal anual \n",
+                    "question": "\u00bfQu\u00e9 vacunas deben administrarse a una persona de 69 a\u00f1os que posee 4 dosis contra el COVID, \u00fanica vacuna que ha recibido en los \u00faltimos 20 a\u00f1os? ",
+                    "options": {
+                        "a": "Antigripal anual, Antimeningoc\u00f3ccica tetravalente, Esquema secuencial para neumococo",
+                        "b": "Esquema secuencial para neumococo, Doble bacteriana, Antigripal anual",
+                        "c": "Antimeningoc\u00f3ccica tetravalente, Antigripal anual, Doble bacteriana",
+                        "d": "Doble bacteriana, Triple viral, Antigripal anual"
+                    },
+                    "id": "50ff4022-a518-47cd-a12d-bc3d93f62ab6",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2022"
+                    },
+                    "answer": "b",
+                    "index": 89,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n31) Pregunta: \u00bfCu\u00e1l de las siguientes vacunas debe recibir un var\u00f3n de 30 a\u00f1os, con diabetes y \nconsumo de tabaco de 20 cigarrillos/d\u00eda, que tiene el calendario de vacunaci\u00f3n de la infancia \ncompleto y en el a\u00f1o 2019 recibi\u00f3 la vacuna antigripal, doble bacteriana y la primera dosis de vacuna \nanti hepatitis B?  \nA) Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 13 valente, una dosis de triple viral y \nsegunda dosis de vacuna anti hepatitis B. \nB) Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 23 valente, segunda dosis de vacuna \nanti hepatitis B. \nC) Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 23 valente, una dosis de triple viral y \nreiniciar esquema de vacuna anti hepatitis B. \nD) Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 13 valente, una dosis de triple viral y \nreiniciar esquema de vacuna anti hepatitis B. \n",
+                    "question": "\u00bfCu\u00e1l de las siguientes vacunas debe recibir un var\u00f3n de 30 a\u00f1os, con diabetes y consumo de tabaco de 20 cigarrillos/d\u00eda, que tiene el calendario de vacunaci\u00f3n de la infancia completo y en el a\u00f1o 2019 recibi\u00f3 la vacuna antigripal, doble bacteriana y la primera dosis de vacuna anti hepatitis B? ",
+                    "options": {
+                        "a": "Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 13 valente, una dosis de triple viral y  segunda dosis de vacuna anti hepatitis B.",
+                        "b": "Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 23 valente, segunda dosis de vacuna  anti hepatitis B.",
+                        "c": "Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 23 valente, una dosis de triple viral y  reiniciar esquema de vacuna anti hepatitis B.",
+                        "d": "Dosis anual de vacuna antigripal, vacuna antineumoc\u00f3cica 13 valente, una dosis de triple viral y  reiniciar esquema de vacuna anti hepatitis B."
+                    },
+                    "id": "d509049e-9f1a-4d1c-b0dc-d6bcad021417",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2020"
+                    },
+                    "answer": "a",
+                    "index": 31,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n37) Pregunta: Un profesional de la salud tiene que recibir una dosis de vacuna triple viral y hace 10 \nd\u00edas recibi\u00f3 gammaglobulina contra hepatitis B (IgHB) como profilaxis post-exposici\u00f3n de accidente \nlaboral. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada?  \nA) Aplicar la vacuna inmediatamente. \nB) Esperar 7 d\u00edas y aplicar la vacuna \nC) Esperar un mes y aplicar la vacuna. \nD) Esperar tres meses y aplicar la vacuna. \n",
+                    "question": "Un profesional de la salud tiene que recibir una dosis de vacuna triple viral y hace 10 d\u00edas recibi\u00f3 gammaglobulina contra hepatitis B (IgHB) como profilaxis post-exposici\u00f3n de accidente laboral. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada? ",
+                    "options": {
+                        "a": "Aplicar la vacuna inmediatamente.",
+                        "b": "Esperar 7 d\u00edas y aplicar la vacuna",
+                        "c": "Esperar un mes y aplicar la vacuna.",
+                        "d": "Esperar tres meses y aplicar la vacuna."
+                    },
+                    "id": "98741f31-f685-49ca-a064-952949e8a1e2",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2020"
+                    },
+                    "answer": "d",
+                    "index": 37,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n57) Pregunta: \u00bfCu\u00e1l de las siguientes vacunas es de aplicaci\u00f3n intrad\u00e9rmica?  \nA) Triple viral \nB) Anti HVB \nC) Anti neumococica conjugada. \nD) BCG \n",
+                    "question": "\u00bfCu\u00e1l de las siguientes vacunas es de aplicaci\u00f3n intrad\u00e9rmica? ",
+                    "options": {
+                        "a": "Triple viral",
+                        "b": "Anti HVB",
+                        "c": "Anti neumococica conjugada.",
+                        "d": "BCG"
+                    },
+                    "id": "362c82d0-ede2-4ce0-8277-384518a0caeb",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2020"
+                    },
+                    "answer": "d",
+                    "index": 57,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n73)  Una  paciente  de  65  a\u00f1os,  sana,  lo  consulta  con  respecto  a  la  indicaci\u00f3n  de  vacunaci\u00f3n  contra  el \nneumococo.  Refiere  haber  recibido  hace  4  semanas  una  dosis  de  vacuna  polisac\u00e1rida  de  23  serotipos \n(VPN23). \u00bfQu\u00e9 esquema de vacunaci\u00f3n est\u00e1 indicado en esta paciente? \n a) Administrar al a\u00f1o de recibir la VPN23 una dosis de vacuna conjugada de 13 serotipos (VCN13). \n b) Administrar a las 8 semanas de recibir la VPN23 una dosis de vacuna conjugada de 13 serotipos (VCN13). \n c) Reiniciar el esquema nuevamente con una dosis de VCN13 y a las 8 semanas una dosis de VPN23. \n d) Administrar dentro de 5 a\u00f1os una dosis de VCN13 y a las 8 semanas una dosis de VPN23. ",
+                    "question": "Una paciente de 65 a\u00f1os, sana, lo consulta con respecto a la indicaci\u00f3n de vacunaci\u00f3n contra el neumococo. Refiere haber recibido hace 4 semanas una dosis de vacuna polisac\u00e1rida de 23 serotipos (VPN23). \u00bfQu\u00e9 esquema de vacunaci\u00f3n est\u00e1 indicado en esta paciente? ",
+                    "options": {
+                        "a": "Administrar al a\u00f1o de recibir la VPN23 una dosis de vacuna conjugada de 13 serotipos (VCN13).",
+                        "b": "Administrar a las 8 semanas de recibir la VPN23 una dosis de vacuna conjugada de 13 serotipos (VCN13).",
+                        "c": "Reiniciar el esquema nuevamente con una dosis de VCN13 y a las 8 semanas una dosis de VPN23.",
+                        "d": "Administrar dentro de 5 a\u00f1os una dosis de VCN13 y a las 8 semanas una dosis de VPN23."
+                    },
+                    "id": "23e96ce0-9ecc-40d7-b696-9ce3641f9743",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2019"
+                    },
+                    "answer": "a",
+                    "index": 73,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n76)  Concurre  al  Centro  de  salud  una  paciente  de  65  a\u00f1os  para  control  de  salud.  Como  antecedentes  de \nrelevancia  es  hipotiroidea  medicada  con  Levotiroxina  150  mcg.  De  acuerdo  a  las  recomendaciones  de \ninmunizaci\u00f3n para adultos mayores. \u00bfCu\u00e1les son las vacunas que se recomiendan para este grupo etario? \n a) Vacuna contra influenza en forma anual, refuerzo de la doble de adultos (DT) cada 5 a\u00f1os. \n b) Vacuna contra el neumococo e influenza ambas en forma anual y doble adultos cada 10 a\u00f1os. \n c) Vacuna contra el neumococo, influenza y refuerzo de doble adulto (DT). \n d) Refuerzo de doble adulto (DT) cada 10 a\u00f1os.\n",
+                    "question": "Concurre al Centro de salud una paciente de 65 a\u00f1os para control de salud. Como antecedentes de relevancia es hipotiroidea medicada con Levotiroxina 150 mcg. De acuerdo a las recomendaciones de inmunizaci\u00f3n para adultos mayores. \u00bfCu\u00e1les son las vacunas que se recomiendan para este grupo etario? ",
+                    "options": {
+                        "a": "Vacuna contra influenza en forma anual, refuerzo de la doble de adultos (DT) cada 5 a\u00f1os.",
+                        "b": "Vacuna contra el neumococo e influenza ambas en forma anual y doble adultos cada 10 a\u00f1os.",
+                        "c": "Vacuna contra el neumococo, influenza y refuerzo de doble adulto (DT).",
+                        "d": "Refuerzo de doble adulto (DT) cada 10 a\u00f1os."
+                    },
+                    "id": "16f997e2-26ab-42c3-a031-8bfd2add5209",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2019"
+                    },
+                    "answer": "c",
+                    "index": 76,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n17) \u00bfC\u00f3mo indica la administraci\u00f3n de vacuna antineumoc\u00f3cica a una paciente de 50 a\u00f1os con diabetes? \n a) 1a dosis: vacuna conjugada 13 valente (VCN13) y 2a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23) \ncon un intervalo m\u00ednimo de 12 meses. \n b) 1a dosis: vacuna conjugada 13 valente (VCN13) y 2a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23) \ncon un intervalo m\u00ednimo de 8 semanas. \n c) Una sola dosis de la vacuna polisac\u00e1rida de 23 serotipos (VPN23). \n d) 1a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23) y 2a dosis: vacuna conjugada 13 valente (VCN13) \ncon un intervalo m\u00ednimo de 8 semanas.\n",
+                    "question": "\u00bfC\u00f3mo indica la administraci\u00f3n de vacuna antineumoc\u00f3cica a una paciente de 50 a\u00f1os con diabetes? ",
+                    "options": {
+                        "a": "1a dosis: vacuna conjugada 13 valente (VCN13) y 2a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23)  con un intervalo m\u00ednimo de 12 meses.",
+                        "b": "1a dosis: vacuna conjugada 13 valente (VCN13) y 2a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23)  con un intervalo m\u00ednimo de 8 semanas.",
+                        "c": "Una sola dosis de la vacuna polisac\u00e1rida de 23 serotipos (VPN23).",
+                        "d": "1a dosis: la vacuna polisac\u00e1rida de 23 serotipos (VPN23) y 2a dosis: vacuna conjugada 13 valente (VCN13)  con un intervalo m\u00ednimo de 8 semanas."
+                    },
+                    "id": "d7596da5-4df1-4749-91df-a85d12c83937",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2018"
+                    },
+                    "answer": "a",
+                    "index": 17,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n40) \u00bfCu\u00e1l de las siguientes afirmaciones con respecto a la vacunaci\u00f3n BCG es correcta? \n a) Evita la infecci\u00f3n por M. tuberculosis. \n b) Previene la diseminaci\u00f3n hemat\u00f3gena de M. tuberculosis. \n c) Se puede aplicar en neonatos a partir de los tres kilos de peso. \n d) Se puede aplicar en inmunodeprimidos sin riesgo. ",
+                    "question": "\u00bfCu\u00e1l de las siguientes afirmaciones con respecto a la vacunaci\u00f3n BCG es correcta? ",
+                    "options": {
+                        "a": "Evita la infecci\u00f3n por M. tuberculosis.",
+                        "b": "Previene la diseminaci\u00f3n hemat\u00f3gena de M. tuberculosis.",
+                        "c": "Se puede aplicar en neonatos a partir de los tres kilos de peso.",
+                        "d": "Se puede aplicar en inmunodeprimidos sin riesgo."
+                    },
+                    "id": "e560e6e8-108a-4bff-ab46-b10fe2b5e2e1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2018"
+                    },
+                    "answer": "b",
+                    "index": 40,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n93)  \u00bfCu\u00e1l  de  las  siguientes  inmunizaciones  est\u00e1  contraindicada  en  una  persona  con  VIH  que  tiene  un \nrecuento de CD4 de 150 c\u00e9l / mm3? \n a) Vacuna contra hepatitis A. \n b) Vacuna antigripal. \n c) Vacuna antineumoc\u00f3cica conjugada. \n d) Vacuna contra la fiebre amarilla.\n",
+                    "question": "\u00bfCu\u00e1l de las siguientes inmunizaciones est\u00e1 contraindicada en una persona con VIH que tiene un recuento de CD4 de 150 c\u00e9l / mm3? ",
+                    "options": {
+                        "a": "Vacuna contra hepatitis A.",
+                        "b": "Vacuna antigripal.",
+                        "c": "Vacuna antineumoc\u00f3cica conjugada.",
+                        "d": "Vacuna contra la fiebre amarilla."
+                    },
+                    "id": "e7386bd3-f989-4f52-8091-fd61d0c91ecf",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2018"
+                    },
+                    "answer": "d",
+                    "index": 93,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n13. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada para completar el esquema de vacunaci\u00f3n en el caso de un\njoven de 25 a\u00f1os que recibi\u00f3, hace un a\u00f1o, una sola dosis de vacuna contra hepatitis B?\na. Iniciar el esquema de vacunaci\u00f3n nuevamente.\nb. Completar el esquema con las dosis faltantes.\nc. Dar una doble dosis inicialmente y a los 6 meses la tercera dosis.\nd. Solicitar serolog\u00eda y decidir seg\u00fan el t\u00edtulo de anticuerpos.",
+                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada para completar el esquema de vacunaci\u00f3n en el caso de un joven de 25 a\u00f1os que recibi\u00f3, hace un a\u00f1o, una sola dosis de vacuna contra hepatitis B?",
+                    "options": {
+                        "a": "Iniciar el esquema de vacunaci\u00f3n nuevamente.",
+                        "b": "Completar el esquema con las dosis faltantes.",
+                        "c": "Dar una doble dosis inicialmente y a los 6 meses la tercera dosis.",
+                        "d": "Solicitar serolog\u00eda y decidir seg\u00fan el t\u00edtulo de anticuerpos."
+                    },
+                    "id": "91ca1a27-28d5-44e4-870b-56764d250747",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2017"
+                    },
+                    "answer": "b",
+                    "index": 13,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n55) Pregunta: \nAsiste a la consulta Jos\u00e9 de 60 a\u00f1os de edad con antecedentes de cardiopat\u00eda isqu\u00e9mica con \ncolocaci\u00f3n de stent, enfermedad pulmonar obstructiva cr\u00f3nica (EPOC), y con diagn\u00f3stico reciente \nde mieloma m\u00faltiple. Le pregunta si se puede colocar la vacunas antineumoc\u00f3cica conjugadas 13 \nserotipos (VCN-13) que estuvo indagando en internet. \u00bfCu\u00e1l es la conducta apropiada?\nA. le dice que no tiene indicaci\u00f3n \nB. le dice que le indicar\u00e1 vacuna cuando cumpla 65 a\u00f1os \nC. le indica la vacuna para que se la coloque ahora \nD. aborda la patolog\u00eda actual y recita para la pr\u00f3xima consulta el tema de vacunas \nC ",
+                    "question": "Asiste a la consulta Jos\u00e9 de 60 a\u00f1os de edad con antecedentes de cardiopat\u00eda isqu\u00e9mica con colocaci\u00f3n de stent, enfermedad pulmonar obstructiva cr\u00f3nica (EPOC), y con diagn\u00f3stico reciente de mieloma m\u00faltiple. Le pregunta si se puede colocar la vacunas antineumoc\u00f3cica conjugadas 13 serotipos (VCN-13) que estuvo indagando en internet. \u00bfCu\u00e1l es la conducta apropiada?",
+                    "options": {
+                        "a": "le dice que no tiene indicaci\u00f3n",
+                        "b": "le dice que le indicar\u00e1 vacuna cuando cumpla 65 a\u00f1os",
+                        "c": "le indica la vacuna para que se la coloque ahora",
+                        "d": "aborda la patolog\u00eda actual y recita para la pr\u00f3xima consulta el tema de vacunas  "
+                    },
+                    "id": "198ebb8b-dc66-4f2f-ba5b-578df56b84a1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2021"
+                    },
+                    "answer": "c",
+                    "index": 55,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n60) Pregunta: \nJorge de 66 a\u00f1os diab\u00e9tico e hipertenso, recibi\u00f3 a los 59 a\u00f1os una dosis de vacuna antineumoc\u00f3cica \nconjugada 13 valente (VCN13) y a los 60 a\u00f1os una dosis de vacuna polisac\u00e1rida 23 valente (VPN23). \n\u00bfCu\u00e1l es la estrategia correcta? \nA. no requiere nueva dosis de neumococo \nB. una dosis adicional 23 \nC. una dosis adicional 13 \nD. una dosis adicional 13 y 23 al a\u00f1o  \nB ",
+                    "question": "Jorge de 66 a\u00f1os diab\u00e9tico e hipertenso, recibi\u00f3 a los 59 a\u00f1os una dosis de vacuna antineumoc\u00f3cica conjugada 13 valente (VCN13) y a los 60 a\u00f1os una dosis de vacuna polisac\u00e1rida 23 valente (VPN23). \u00bfCu\u00e1l es la estrategia correcta? ",
+                    "options": {
+                        "a": "no requiere nueva dosis de neumococo",
+                        "b": "una dosis adicional 23",
+                        "c": "una dosis adicional 13",
+                        "d": "una dosis adicional 13 y 23 al a\u00f1o   "
+                    },
+                    "id": "36b3aacf-b90e-4136-9a5d-6732203e3e2d",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2021"
+                    },
+                    "answer": "b",
+                    "index": 60,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n24) \u00bfCu\u00e1l es la conducta adecuada respecto a la vacunaci\u00f3n contra hepatitis B de un m\u00e9dico que recibi\u00f3 un \nesquema completo de vacunaci\u00f3n, y a los dos meses de finalizado tiene anti HBs >10 mlU/ml? \n a) Indicar un nuevo esquema de vacunaci\u00f3n. \n b) Controlar peri\u00f3dicamente la serolog\u00eda y re vacunar cuando el t\u00edtulo sea < 10 mIU/ml. \n c) Informar que ha respondido a la vacuna y que est\u00e1 protegido. \n d) Administrar una cuarta dosis para que tenga mejor t\u00edtulo de anticuerpos. ",
+                    "question": "\u00bfCu\u00e1l es la conducta adecuada respecto a la vacunaci\u00f3n contra hepatitis B de un m\u00e9dico que recibi\u00f3 un esquema completo de vacunaci\u00f3n, y a los dos meses de finalizado tiene anti HBs >10 mlU/ml? ",
+                    "options": {
+                        "a": "Indicar un nuevo esquema de vacunaci\u00f3n.",
+                        "b": "Controlar peri\u00f3dicamente la serolog\u00eda y re vacunar cuando el t\u00edtulo sea < 10 mIU/ml.",
+                        "c": "Informar que ha respondido a la vacuna y que est\u00e1 protegido.",
+                        "d": "Administrar una cuarta dosis para que tenga mejor t\u00edtulo de anticuerpos."
+                    },
+                    "id": "226331f5-e2f0-449e-8433-4c05a552cb98",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2016"
+                    },
+                    "answer": "c",
+                    "index": 24,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n48) \u00bfCu\u00e1l es la indicaci\u00f3n adecuada con respecto a la vacunaci\u00f3n en el momento del alta hospitalaria, de una \nmujer de 27 a\u00f1os sin antecedentes patol\u00f3gicos, que ha tenido un parto normal hace 72 horas? Ha realizado un \ncontrol  irregular  durante  el  embarazo  y  solo  recibi\u00f3  una  dosis  de  vacuna  antigripal  en  el  quinto  mes  de \ngestaci\u00f3n.  Tiene  una  sola  dosis  de  triple  viral  aplicada  a  los  6  a\u00f1os  de  edad,  con  el  resto  del  esquema  de \nvacunaci\u00f3n completo hasta los 16 a\u00f1os. \n a) No requiere aplicar ninguna vacuna ya que tiene el esquema de vacunaci\u00f3n completo. \n b) Aplicar una dosis de Difteria-T\u00e9tanos (dT) y doble viral. \n c) Aplicar una dosis doble viral. \n d) Aplicar una dosis de Difteria-T\u00e9tanos-Pertussis acelular (dTpa) y doble viral. ",
+                    "question": "\u00bfCu\u00e1l es la indicaci\u00f3n adecuada con respecto a la vacunaci\u00f3n en el momento del alta hospitalaria, de una mujer de 27 a\u00f1os sin antecedentes patol\u00f3gicos, que ha tenido un parto normal hace 72 horas? Ha realizado un control irregular durante el embarazo y solo recibi\u00f3 una dosis de vacuna antigripal en el quinto mes de gestaci\u00f3n. Tiene una sola dosis de triple viral aplicada a los 6 a\u00f1os de edad, con el resto del esquema de vacunaci\u00f3n completo hasta los 16 a\u00f1os. ",
+                    "options": {
+                        "a": "No requiere aplicar ninguna vacuna ya que tiene el esquema de vacunaci\u00f3n completo.",
+                        "b": "Aplicar una dosis de Difteria-T\u00e9tanos (dT) y doble viral.",
+                        "c": "Aplicar una dosis doble viral.",
+                        "d": "Aplicar una dosis de Difteria-T\u00e9tanos-Pertussis acelular (dTpa) y doble viral."
+                    },
+                    "id": "6621e602-b99e-4d8b-86ca-3261a3ddac01",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2016"
+                    },
+                    "answer": "d",
+                    "index": 48,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n59) \u00bfEn cu\u00e1l de las siguientes situaciones est\u00e1 indicada la vacuna antigripal? \n a) Ni\u00f1os en edad escolar, independientemente de los antecedentes. \n b) Bebes prematuros con menos de 1,500 Kg. \n c) Pu\u00e9rperas hasta los seis meses posteriores al parto. \n d) Convivientes de enfermos oncohematol\u00f3gicos. ",
+                    "question": "\u00bfEn cu\u00e1l de las siguientes situaciones est\u00e1 indicada la vacuna antigripal? ",
+                    "options": {
+                        "a": "Ni\u00f1os en edad escolar, independientemente de los antecedentes.",
+                        "b": "Bebes prematuros con menos de 1,500 Kg.",
+                        "c": "Pu\u00e9rperas hasta los seis meses posteriores al parto.",
+                        "d": "Convivientes de enfermos oncohematol\u00f3gicos."
+                    },
+                    "id": "1a5d4972-3e92-424c-af16-223221c26ec5",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2016"
+                    },
+                    "answer": "d",
+                    "index": 59,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n11. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con un adulto de 36 a\u00f1os, afebril, que cursa catarro de v\u00edas\na\u00e9reas superiores, y lo consulta porque le indicaron la vacuna doble bacteriana y no sabe si\nvacunarse o no con este cuadro cl\u00ednico?\na. Puede aplicarse la vacuna.\nb. Puede vacunarse inmediatamente despu\u00e9s de la curaci\u00f3n del cuadro actual.\nc. Debe postergar la vacunaci\u00f3n hasta dos semanas despu\u00e9s del curado el cuadro.\nd. Debe postergar la vacunaci\u00f3n hasta un mes despu\u00e9s de curado el cuadro.",
+                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con un adulto de 36 a\u00f1os, afebril, que cursa catarro de v\u00edas a\u00e9reas superiores, y lo consulta porque le indicaron la vacuna doble bacteriana y no sabe si vacunarse o no con este cuadro cl\u00ednico?",
+                    "options": {
+                        "a": "Puede aplicarse la vacuna.",
+                        "b": "Puede vacunarse inmediatamente despu\u00e9s de la curaci\u00f3n del cuadro actual.",
+                        "c": "Debe postergar la vacunaci\u00f3n hasta dos semanas despu\u00e9s del curado el cuadro.",
+                        "d": "Debe postergar la vacunaci\u00f3n hasta un mes despu\u00e9s de curado el cuadro."
+                    },
+                    "id": "9393edf8-34e1-4477-9d15-1abc0badbf58",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2017"
+                    },
+                    "answer": "a",
+                    "index": 11,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "82) \u00bfCu\u00e1l de los siguientes g\u00e9rmenes requieren quimioprofilaxis post exposici\u00f3n a un caso de \nmeningitis? \n a) Streptococcus pneumoniae y Haemophilus influenzae \n b) Haemophilus influenzae y Neisseria meningitidis \n c) Neisseria meningitidis y Streptococcus pneumoniae \n d) Haemophilus influenzae y Listeria monocitogenes \n20",
+                    "question": "\u00bfCu\u00e1l de los siguientes g\u00e9rmenes requieren quimioprofilaxis post exposici\u00f3n a un caso de meningitis? ",
+                    "options": {
+                        "a": " Streptococcus pneumoniae y Haemophilus influenzae ",
+                        "b": " Haemophilus influenzae y Neisseria meningitidis ",
+                        "c": " Neisseria meningitidis y Streptococcus pneumoniae ",
+                        "d": " Haemophilus influenzae y Listeria monocitogenes  20"
+                    },
+                    "id": "9b624e45-2f4c-4158-bcd5-fcd96c010dab",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2023"
+                    },
+                    "answer": "b",
+                    "index": 82,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "80) \u00bfCu\u00e1l es la indicaci\u00f3n de vacunaci\u00f3n que debe realizar a un paciente adulto \nesplenectomizado? \n a) Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana).Neumococo conjugada 13 v \nMeningococo conjugada ( 1 dosis). \n b) dTpa/dT (triple/doble bacteriana). Herpes z\u00f3ster (virus vivo atenuado). Neumococo \nconjugada 13 v Meningococo conjugada (1 dosis). \n c) Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana). Neumococo polisac\u00e1rida vpn 22 \nMeningococo conjugada (1 dosis). \n d) Hepatitis B 3 dosis. Neumococo polisac\u00e1rida VPN 22. Antigripal 1 dosis.",
+                    "question": "\u00bfCu\u00e1l es la indicaci\u00f3n de vacunaci\u00f3n que debe realizar a un paciente adulto esplenectomizado? ",
+                    "options": {
+                        "a": "Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana).Neumococo conjugada 13 v  Meningococo conjugada ( 1 dosis).",
+                        "b": "dTpa/dT (triple/doble bacteriana). Herpes z\u00f3ster (virus vivo atenuado). Neumococo  conjugada 13 v Meningococo conjugada (1 dosis).",
+                        "c": "Antigripal 1 dosis anual. dTpa/dT (triple/doble bacteriana). Neumococo polisac\u00e1rida vpn 22  Meningococo conjugada (1 dosis).",
+                        "d": "Hepatitis B 3 dosis. Neumococo polisac\u00e1rida VPN 22. Antigripal 1 dosis."
+                    },
+                    "id": "485604bd-0c66-4433-93b9-61a5201c80d1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 80,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
+            "aclaracion": "Vacunas: En cualquier grupo etario (ni\u00f1os, jovenes, adultos, adultos mayores) y cualquier condicion (inmunocompetentes, inmunocomprometidos,",
+            "analogos": [
+                "vacunacion"
+            ]
+        },
+        "obstetricia": {
+            "array": [
+                {
+                    "question_complete": "\n39) \u00bfQu\u00e9 vacunas se deben aplicar reci\u00e9n a partir de las 20 semanas de embarazo/gestaci\u00f3n? \n a) Vacuna triple bacteriana acelular \n b) Vacuna contra la COVID 19 \n c) Vacuna antigripal \n d) Vacuna contra la Hepatitis B \n ",
+                    "question": "\u00bfQu\u00e9 vacunas se deben aplicar reci\u00e9n a partir de las 20 semanas de embarazo/gestaci\u00f3n? ",
+                    "options": {
+                        "a": "Vacuna triple bacteriana acelular",
+                        "b": "Vacuna contra la COVID 19",
+                        "c": "Vacuna antigripal",
+                        "d": "Vacuna contra la Hepatitis B"
+                    },
+                    "id": "1a964131-af96-4784-a711-7c1c419d5f81",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2022"
+                    },
+                    "answer": "a",
+                    "index": 39,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n86) \u00bfCu\u00e1les son las vacunas que deben aplicarse a toda persona gestante seg\u00fan el calendario nacional \nde vacunaci\u00f3n? \n a) Vacuna Antigripal en cualquier trimestre del embarazo. Vacuna triple bacteriana acelular a partir de las 20 \nsemanas \n b)  Vacuna  Antigripal  en  cualquier  trimestre  del embarazo. Si tiene vacuna  antitet\u00e1nica aplicada  hace  menos \nde 5 a\u00f1os, no corresponde vacuna triple bacteriana acelular \n c)  Vacuna  Antigripal,  en  cualquier  trimestre  del  embarazo,  y  triple  bacteriana  acelular  a  partir  de  las  20 \nsemanas de embarazo (independientemente de la vacunaci\u00f3n previa). Vacuna contra la Hepatitis B si no hay \ndatos de que haya sido vacunada \n d)  Vacuna  Antigripal  despu\u00e9s  de  las  12  semanas  del  embarazo.  Vacuna  dTP  acelular  a  partir  de  las  20 \nsemanas de embarazo. Vacuna contra la Hepatitis B si no hay datos de que haya sido vacunada, empezar o \ncompletar esquema \n",
+                    "question": "\u00bfCu\u00e1les son las vacunas que deben aplicarse a toda persona gestante seg\u00fan el calendario nacional de vacunaci\u00f3n? ",
+                    "options": {
+                        "a": "Vacuna Antigripal en cualquier trimestre del embarazo. Vacuna triple bacteriana acelular a partir de las 20  semanas",
+                        "b": "Vacuna  Antigripal  en  cualquier  trimestre  del embarazo. Si tiene vacuna  antitet\u00e1nica aplicada  hace  menos  de 5 a\u00f1os, no corresponde vacuna triple bacteriana acelular",
+                        "c": "Vacuna  Antigripal,  en  cualquier  trimestre  del  embarazo,  y  triple  bacteriana  acelular  a  partir  de  las  20  semanas de embarazo (independientemente de la vacunaci\u00f3n previa). Vacuna contra la Hepatitis B si no hay  datos de que haya sido vacunada",
+                        "d": "Vacuna  Antigripal  despu\u00e9s  de  las  12  semanas  del  embarazo.  Vacuna  dTP  acelular  a  partir  de  las  20  semanas de embarazo. Vacuna contra la Hepatitis B si no hay datos de que haya sido vacunada, empezar o  completar esquema"
+                    },
+                    "id": "8b57ecf7-375c-4647-ac44-ec1381f68b54",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2022"
+                    },
+                    "answer": "c",
+                    "index": 86,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": " 92) Pregunta: \u00bfCu\u00e1l de las siguientes vacunas debe recibir una mujer embarazada?  \nA) Antigripal, anti HVB, doble viral \nB) Antrigripal y doble bacteriana. \nC) Antigripal y triple bacteriana acelular. \nD) Antigripal y triple viral. \n",
+                    "question": "\u00bfCu\u00e1l de las siguientes vacunas debe recibir una mujer embarazada? ",
+                    "options": {
+                        "a": "Antigripal, anti HVB, doble viral",
+                        "b": "Antrigripal y doble bacteriana.",
+                        "c": "Antigripal y triple bacteriana acelular.",
+                        "d": "Antigripal y triple viral."
+                    },
+                    "id": "1c1048a7-2f97-441c-a8f0-e2cae8aeb2a6",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2020"
+                    },
+                    "answer": "c",
+                    "index": 92,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n87) \u00bfCu\u00e1l de las siguientes vacunas est\u00e1 contraindicada en una mujer embarazada? \n a) Vacuna contra la hepatitis B. \n b) Vacuna contra la varicela. \n c) Vacuna triple bacteriana (dtPa). \n d) Vacuna contra la hepatitis A. ",
+                    "question": "\u00bfCu\u00e1l de las siguientes vacunas est\u00e1 contraindicada en una mujer embarazada? ",
+                    "options": {
+                        "a": "Vacuna contra la hepatitis B.",
+                        "b": "Vacuna contra la varicela.",
+                        "c": "Vacuna triple bacteriana (dtPa).",
+                        "d": "Vacuna contra la hepatitis A."
+                    },
+                    "id": "18872271-b5f1-4b7a-8ec3-2e5cc9a1d771",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2018"
+                    },
+                    "answer": "b",
+                    "index": 87,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n34. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con una embarazada de 28 semanas, que estuvo ayer en\ncontacto con un sobrino de 14 a\u00f1os al cual se le diagnostic\u00f3 varicela? Ella no tiene evidencias\nde inmunidad.\na. Administrar vacuna contra varicela.\nb. Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las 96\nhoras posteriores a la exposici\u00f3n.\nc. Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las siete\nhoras posteriores a la exposici\u00f3n.\nd. Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las 96\nhoras posteriores a la exposici\u00f3n m\u00e1s vacuna contra varicela.",
+                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con una embarazada de 28 semanas, que estuvo ayer en contacto con un sobrino de 14 a\u00f1os al cual se le diagnostic\u00f3 varicela? Ella no tiene evidencias de inmunidad.",
+                    "options": {
+                        "a": "Administrar vacuna contra varicela.",
+                        "b": "Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las 96 horas posteriores a la exposici\u00f3n.",
+                        "c": "Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las siete horas posteriores a la exposici\u00f3n.",
+                        "d": "Administrar gammaglobulina espec\u00edfica contra varicela z\u00f3ster (IGVZ) dentro de las 96 horas posteriores a la exposici\u00f3n m\u00e1s vacuna contra varicela."
+                    },
+                    "id": "d2f1f558-be66-4323-b8f5-9e3d46dddd0b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2017"
+                    },
+                    "answer": "b",
+                    "index": 34,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n4) \u00bfCu\u00e1l ser\u00eda la conducta m\u00e1s adecuada con una mujer que cursa la sexta semana de gestaci\u00f3n y se encuentra \nansiosa  porque  regresa  de  visitar  a  su  familia  en  Asia  donde  hab\u00eda  un  brote  de  rub\u00e9ola?  Hace  dos  meses, \ndurante la consulta pre-concepcional, la paciente ten\u00eda IgG reactiva para rub\u00e9ola. \n a) Tranquilizar a la paciente. \n b) Administrar vacuna contra rub\u00e9ola. \n c) Administrar gammaglobulina. \n d) Realizar amniocentesis en semana 15 de gestaci\u00f3n.\n",
+                    "question": "\u00bfCu\u00e1l ser\u00eda la conducta m\u00e1s adecuada con una mujer que cursa la sexta semana de gestaci\u00f3n y se encuentra ansiosa porque regresa de visitar a su familia en Asia donde hab\u00eda un brote de rub\u00e9ola? Hace dos meses, durante la consulta pre-concepcional, la paciente ten\u00eda IgG reactiva para rub\u00e9ola. ",
+                    "options": {
+                        "a": "Tranquilizar a la paciente.",
+                        "b": "Administrar vacuna contra rub\u00e9ola.",
+                        "c": "Administrar gammaglobulina.",
+                        "d": "Realizar amniocentesis en semana 15 de gestaci\u00f3n."
+                    },
+                    "id": "dcf55b4f-0302-4ea7-96e2-117801ba1194",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2016"
+                    },
+                    "answer": "a",
+                    "index": 4,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n48) \u00bfCu\u00e1l es la indicaci\u00f3n adecuada con respecto a la vacunaci\u00f3n en el momento del alta hospitalaria, de una \nmujer de 27 a\u00f1os sin antecedentes patol\u00f3gicos, que ha tenido un parto normal hace 72 horas? Ha realizado un \ncontrol  irregular  durante  el  embarazo  y  solo  recibi\u00f3  una  dosis  de  vacuna  antigripal  en  el  quinto  mes  de \ngestaci\u00f3n.  Tiene  una  sola  dosis  de  triple  viral  aplicada  a  los  6  a\u00f1os  de  edad,  con  el  resto  del  esquema  de \nvacunaci\u00f3n completo hasta los 16 a\u00f1os. \n a) No requiere aplicar ninguna vacuna ya que tiene el esquema de vacunaci\u00f3n completo. \n b) Aplicar una dosis de Difteria-T\u00e9tanos (dT) y doble viral. \n c) Aplicar una dosis doble viral. \n d) Aplicar una dosis de Difteria-T\u00e9tanos-Pertussis acelular (dTpa) y doble viral. ",
+                    "question": "\u00bfCu\u00e1l es la indicaci\u00f3n adecuada con respecto a la vacunaci\u00f3n en el momento del alta hospitalaria, de una mujer de 27 a\u00f1os sin antecedentes patol\u00f3gicos, que ha tenido un parto normal hace 72 horas? Ha realizado un control irregular durante el embarazo y solo recibi\u00f3 una dosis de vacuna antigripal en el quinto mes de gestaci\u00f3n. Tiene una sola dosis de triple viral aplicada a los 6 a\u00f1os de edad, con el resto del esquema de vacunaci\u00f3n completo hasta los 16 a\u00f1os. ",
+                    "options": {
+                        "a": "No requiere aplicar ninguna vacuna ya que tiene el esquema de vacunaci\u00f3n completo.",
+                        "b": "Aplicar una dosis de Difteria-T\u00e9tanos (dT) y doble viral.",
+                        "c": "Aplicar una dosis doble viral.",
+                        "d": "Aplicar una dosis de Difteria-T\u00e9tanos-Pertussis acelular (dTpa) y doble viral."
+                    },
+                    "id": "6621e602-b99e-4d8b-86ca-3261a3ddac01",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2016"
+                    },
+                    "answer": "d",
+                    "index": 48,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n35) \u00bfEn qu\u00e9 momento obst\u00e9trico debe aplicarse la vacuna para sarampi\u00f3n, paperas y rubeola? \n a) En el primer trimestre del embarazo \n b) En el puerperio inmediato \n c) En el segundo trimestre del embarazo \n d) En el tercer trimestre del embarazo \n",
+                    "question": "\u00bfEn qu\u00e9 momento obst\u00e9trico debe aplicarse la vacuna para sarampi\u00f3n, paperas y rubeola? ",
+                    "options": {
+                        "a": "En el primer trimestre del embarazo",
+                        "b": "En el puerperio inmediato",
+                        "c": "En el segundo trimestre del embarazo",
+                        "d": "En el tercer trimestre del embarazo"
+                    },
+                    "id": "76b56b3e-6e82-4439-b934-61cb2b5d871b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2022"
+                    },
+                    "answer": "b",
+                    "index": 35,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "48) Usted realiza control prenatal a una mujer cis que cursa 24 semanas de gestaci\u00f3n. \u00bfQu\u00e9 vacunas \nindica? \n a) Triple bacteriana acelular, antigripal, antihepatitis B. \n b) Triple viral, antigripal y antihepatitis B. \n c) Triple bacteriana acelular, antihepatitis A, antigripal. \n d) Triple viral, antihepatitis A, antigripal.",
+                    "question": "Usted realiza control prenatal a una mujer cis que cursa 24 semanas de gestaci\u00f3n. \u00bfQu\u00e9 vacunas indica? ",
+                    "options": {
+                        "a": " Triple bacteriana acelular, antigripal, antihepatitis B. ",
+                        "b": " Triple viral, antigripal y antihepatitis B. ",
+                        "c": " Triple bacteriana acelular, antihepatitis A, antigripal. ",
+                        "d": " Triple viral, antihepatitis A, antigripal."
+                    },
+                    "id": "8b0a68ef-9425-4b9a-bfa0-d7670358d3d9",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2023"
+                    },
+                    "answer": "a",
+                    "index": 48,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "35) \u00bfCu\u00e1ndo debe ser aplicada la dosis de la vacuna del virus sincicial respiratorio (VSR) en la \ngestante? \n a) Entre la semana 12 y 16 \n b) Entre la semana 20 y 24 \n c) Entre la semana 32 y 36 \n d) Entre la semana 36 y 40 \n",
+                    "question": "\u00bfCu\u00e1ndo debe ser aplicada la dosis de la vacuna del virus sincicial respiratorio (VSR) en la gestante? ",
+                    "options": {
+                        "a": "Entre la semana 12 y 16",
+                        "b": "Entre la semana 20 y 24",
+                        "c": "Entre la semana 32 y 36",
+                        "d": "Entre la semana 36 y 40"
+                    },
+                    "id": "26c46588-9e8a-413b-8663-c2138811dd66",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "c",
+                    "index": 35,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
+            "aclaracion": "Vacunas: Vacunas en las embarazadas.",
+            "analogos": [
+                ""
+            ]
+        },
+        "pediatria": {
+            "array": [
+                {
+                    "question_complete": "\n54) Pregunta: Un ni\u00f1o de 12 meses tiene aplicadas las siguientes vacunas: BCG, anti rotavirus (dos \ndosis), anti hepatitis B (una dosis), pentavalente (3 dosis), IPV (dos dosis), OPV (una dosis), \nantineumoc\u00f3cica conjugada (dos dosis), antimeningoc\u00f3cica (dos dosis), antigripal (dos dosis). \n\u00bfCu\u00e1les de las siguientes vacunas se deben indicar?  \nA) Anti hepatitis A, triple viral y antineumoc\u00f3cica conjugada (refuerzo). \nB) Pentavalente, anti varicela y antimeningococica (refuerzo) \nC) Antimeningococica (refuerzo), antineumococica conjugada (refuerzo) y anti varicela  \nD) Anti hepatitis A, triple viral, anti varicela y pentavalente \n",
+                    "question": "Un ni\u00f1o de 12 meses tiene aplicadas las siguientes vacunas: BCG, anti rotavirus (dos dosis), anti hepatitis B (una dosis), pentavalente (3 dosis), IPV (dos dosis), OPV (una dosis), antineumoc\u00f3cica conjugada (dos dosis), antimeningoc\u00f3cica (dos dosis), antigripal (dos dosis). \u00bfCu\u00e1les de las siguientes vacunas se deben indicar? ",
+                    "options": {
+                        "a": "Anti hepatitis A, triple viral y antineumoc\u00f3cica conjugada (refuerzo).",
+                        "b": "Pentavalente, anti varicela y antimeningococica (refuerzo)",
+                        "c": "Antimeningococica (refuerzo), antineumococica conjugada (refuerzo) y anti varicela",
+                        "d": "Anti hepatitis A, triple viral, anti varicela y pentavalente"
+                    },
+                    "id": "31ae5bfb-16a6-42eb-8aa5-5206a09306a1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2020"
+                    },
+                    "answer": "a",
+                    "index": 54,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n18)  Un  paciente  de  9  a\u00f1os  es  tra\u00eddo  a  control  de  salud.  No  realiz\u00f3  controles  en  los  \u00faltimos  a\u00f1os  y  no \npresenta carnet de vacunas. Al examen f\u00edsico no se observa cicatriz de BCG. \u00bfCu\u00e1l es el esquema correcto \nde vacunas a indicar en esta consulta seg\u00fan las Recomendaciones Nacionales de Vacunaci\u00f3n? \n a) Qu\u00edntuple, Vacuna Antipoliomiel\u00edtica Oral, Triple viral, Hepatitis A, Hepatitis B \n b) Triple bacteriana acelular, Vacuna Antipoliomiel\u00edtica Oral, Triple Viral, Hepatitis A, Hepatitis B. \n c) Qu\u00edntuple, Vacuna Antipoliomiel\u00edtica Oral, Antivaricela, Antineumoc\u00f3ccica, Hepatitis B. \n d) BCG, Triple bacteriana acelular, Triple viral, Hepatitis B, Hepatitis A. ",
+                    "question": "Un paciente de 9 a\u00f1os es tra\u00eddo a control de salud. No realiz\u00f3 controles en los \u00faltimos a\u00f1os y no presenta carnet de vacunas. Al examen f\u00edsico no se observa cicatriz de BCG. \u00bfCu\u00e1l es el esquema correcto de vacunas a indicar en esta consulta seg\u00fan las Recomendaciones Nacionales de Vacunaci\u00f3n? ",
+                    "options": {
+                        "a": "Qu\u00edntuple, Vacuna Antipoliomiel\u00edtica Oral, Triple viral, Hepatitis A, Hepatitis B",
+                        "b": "Triple bacteriana acelular, Vacuna Antipoliomiel\u00edtica Oral, Triple Viral, Hepatitis A, Hepatitis B.",
+                        "c": "Qu\u00edntuple, Vacuna Antipoliomiel\u00edtica Oral, Antivaricela, Antineumoc\u00f3ccica, Hepatitis B.",
+                        "d": "BCG, Triple bacteriana acelular, Triple viral, Hepatitis B, Hepatitis A."
+                    },
+                    "id": "3de13eb8-2351-43a9-98f8-3a9890a8fa3a",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2019"
+                    },
+                    "answer": "b",
+                    "index": 18,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n27) Un var\u00f3n de 6 meses, es tra\u00eddo por sus padres a control de salud quien refiere que a los 15 d\u00edas de vida \nse intern\u00f3 en la neonatolog\u00eda durante un mes por fiebre de origen desconocido. El carnet de vacunas tiene \nregistrado  BCG  y  Anti  Hepatitis  B.  Con  respecto  a  la  vacuna  contra  poliomelitis,  \u00bfCu\u00e1l  es  la  indicaci\u00f3n \ncorrecta de las vacunas OPV (Sabin-poliovirus oral) e IPV (Salk-poliovirus inactivada)? \n a) IPV- IPV-OPV. \n b) IPV- OPV-OPV. \n c) OPV-OPV-OPV. \n d) OPV-IPV -IPV. ",
+                    "question": "Un var\u00f3n de 6 meses, es tra\u00eddo por sus padres a control de salud quien refiere que a los 15 d\u00edas de vida se intern\u00f3 en la neonatolog\u00eda durante un mes por fiebre de origen desconocido. El carnet de vacunas tiene registrado BCG y Anti Hepatitis B. Con respecto a la vacuna contra poliomelitis, \u00bfCu\u00e1l es la indicaci\u00f3n correcta de las vacunas OPV (Sabin-poliovirus oral) e IPV (Salk-poliovirus inactivada)? ",
+                    "options": {
+                        "a": "IPV- IPV-OPV.",
+                        "b": "IPV- OPV-OPV.",
+                        "c": "OPV-OPV-OPV.",
+                        "d": "OPV-IPV -IPV."
+                    },
+                    "id": "518b8d38-5d83-4dec-b2b5-4cba39c8305b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2019"
+                    },
+                    "answer": "a",
+                    "index": 27,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n45) Una ni\u00f1a que hace 3 d\u00edas cumpli\u00f3 6 meses, es sana y en su carnet tiene registro de vacunas hasta los 4 \nmeses. Seg\u00fan el calendario de vacunaci\u00f3n nacional, \u00bfcu\u00e1l es su conducta con respecto a las vacunas contra \nRotavirus y Meningococo? \n a) Indica colocar las dos vacunas, aunque la vacuna meningoc\u00f3cica tendr\u00eda que haber sido administrada a \nlos 5 meses. \n b) Indica solo Rotavirus y al mes meningoc\u00f3cica ya que no pueden aplicarse juntas. \n c) Indica solo meningoc\u00f3cica, por la edad no corresponde Rotavirus. \n d) Indica Rotavirus y meningoc\u00f3cica, para no desaprovechar oportunidad de vacunaci\u00f3n. ",
+                    "question": "Una ni\u00f1a que hace 3 d\u00edas cumpli\u00f3 6 meses, es sana y en su carnet tiene registro de vacunas hasta los 4 meses. Seg\u00fan el calendario de vacunaci\u00f3n nacional, \u00bfcu\u00e1l es su conducta con respecto a las vacunas contra Rotavirus y Meningococo? ",
+                    "options": {
+                        "a": "Indica colocar las dos vacunas, aunque la vacuna meningoc\u00f3cica tendr\u00eda que haber sido administrada a  los 5 meses.",
+                        "b": "Indica solo Rotavirus y al mes meningoc\u00f3cica ya que no pueden aplicarse juntas.",
+                        "c": "Indica solo meningoc\u00f3cica, por la edad no corresponde Rotavirus.",
+                        "d": "Indica Rotavirus y meningoc\u00f3cica, para no desaprovechar oportunidad de vacunaci\u00f3n."
+                    },
+                    "id": "f665ae14-a64e-48e5-94c5-ae9dafa9553b",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2019"
+                    },
+                    "answer": "c",
+                    "index": 45,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n32)  \u00bfCu\u00e1l  es  la  conducta  m\u00e1s  adecuada  con  respecto  a  la  actualizaci\u00f3n  del  Calendario  Nacional  de \nVacunaci\u00f3n en un lactante de 4 meses que recibi\u00f3 una dosis de vacuna contra hepatitis B y BCG despu\u00e9s \ndel  nacimiento,  las  vacunas  Salk,  pentavalente,  rotavirus  y  neumococo  conjugada  a  los  dos  meses  y  no \nrecibi\u00f3 m\u00e1s vacunas desde esa fecha? Es llevado a la consulta por un catarro de v\u00edas a\u00e9reas superiores. \n a) Aplicar primera dosis de vacuna antimeningoc\u00f3cica y citar en 30 d\u00edas para completar el calendario. \n b)  Aplicar  primera  dosis  de  vacuna  antimeningoc\u00f3cica  y  segunda  dosis  de  vacunas  pentavalente,  Salk, \nrotavirus y antineumoc\u00f3cica conjugada. \n c) Aplicar segunda dosis de vacunas pentavalente, Sabin, rotavirus y antineumoc\u00f3cica conjugada. \n d) Aplicar segunda dosis de vacunas pentavalente, Salk, rotavirus y antineumoc\u00f3cica conjugada. Citar a los 5 \nmeses para aplicar vacuna antimeningoc\u00f3cica. ",
+                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la actualizaci\u00f3n del Calendario Nacional de Vacunaci\u00f3n en un lactante de 4 meses que recibi\u00f3 una dosis de vacuna contra hepatitis B y BCG despu\u00e9s del nacimiento, las vacunas Salk, pentavalente, rotavirus y neumococo conjugada a los dos meses y no recibi\u00f3 m\u00e1s vacunas desde esa fecha? Es llevado a la consulta por un catarro de v\u00edas a\u00e9reas superiores. ",
+                    "options": {
+                        "a": "Aplicar primera dosis de vacuna antimeningoc\u00f3cica y citar en 30 d\u00edas para completar el calendario.",
+                        "b": "Aplicar  primera  dosis  de  vacuna  antimeningoc\u00f3cica  y  segunda  dosis  de  vacunas  pentavalente,  Salk,  rotavirus y antineumoc\u00f3cica conjugada.",
+                        "c": "Aplicar segunda dosis de vacunas pentavalente, Sabin, rotavirus y antineumoc\u00f3cica conjugada.",
+                        "d": "Aplicar segunda dosis de vacunas pentavalente, Salk, rotavirus y antineumoc\u00f3cica conjugada. Citar a los 5  meses para aplicar vacuna antimeningoc\u00f3cica."
+                    },
+                    "id": "d0117545-c420-4aa9-afb1-32c2913138f0",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2018"
+                    },
+                    "answer": "b",
+                    "index": 32,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n50) \u00bfCu\u00e1l de las siguientes vacunas NO se debe administrar a un ni\u00f1o que convive con un hermano con \ndeficiencia inmunol\u00f3gica? \n a) Triple viral (Paperas, sarampi\u00f3n y rub\u00e9ola). \n b) BCG. \n c) Vacuna contra la influenza. \n d) Vacuna oral contra la polio. ",
+                    "question": "\u00bfCu\u00e1l de las siguientes vacunas NO se debe administrar a un ni\u00f1o que convive con un hermano con deficiencia inmunol\u00f3gica? ",
+                    "options": {
+                        "a": "Triple viral (Paperas, sarampi\u00f3n y rub\u00e9ola).",
+                        "b": "BCG.",
+                        "c": "Vacuna contra la influenza.",
+                        "d": "Vacuna oral contra la polio."
+                    },
+                    "id": "2fc46a47-01d4-43c8-9686-6bafae9c8cd5",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2018"
+                    },
+                    "answer": "d",
+                    "index": 50,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n63) \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la protecci\u00f3n contra Bordetella pertussis en un ni\u00f1o \nde 1 a\u00f1o,  con esquema incompleto de vacunaci\u00f3n, que a los 8 meses  de edad estuvo internado por tos \nconvulsa (confirmada por PCR)? \n a) No es necesario vacunarlo porque tiene inmunidad por la enfermedad. \n b) Continuar con el esquema de vacunaci\u00f3n, porque padecer la enfermedad antes de los 2 a\u00f1os no genera \ninmunidad. \n c)  Continuar  con  el  esquema  de  vacunaci\u00f3n  porque  padecer  la  enfermedad  genera  inmunidad,  pero \ndisminuye con el tiempo. \n d)  Esperar  hasta  los  18  meses  para  aplicar  las  dosis  faltantes  para  no  interferir  con  los  anticuerpos \ngenerados por la enfermedad. ",
+                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la protecci\u00f3n contra Bordetella pertussis en un ni\u00f1o de 1 a\u00f1o, con esquema incompleto de vacunaci\u00f3n, que a los 8 meses de edad estuvo internado por tos convulsa (confirmada por PCR)? ",
+                    "options": {
+                        "a": "No es necesario vacunarlo porque tiene inmunidad por la enfermedad.",
+                        "b": "Continuar con el esquema de vacunaci\u00f3n, porque padecer la enfermedad antes de los 2 a\u00f1os no genera  inmunidad.",
+                        "c": "Continuar  con  el  esquema  de  vacunaci\u00f3n  porque  padecer  la  enfermedad  genera  inmunidad,  pero  disminuye con el tiempo.",
+                        "d": "Esperar  hasta  los  18  meses  para  aplicar  las  dosis  faltantes  para  no  interferir  con  los  anticuerpos  generados por la enfermedad."
+                    },
+                    "id": "d1795521-2cdb-4bc2-99b1-4e0cb86c1f8c",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2018"
+                    },
+                    "answer": "c",
+                    "index": 63,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n41. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la profilaxis antitet\u00e1nica con un ni\u00f1o de 13\na\u00f1os que present\u00f3 una herida cortante por ca\u00edda en un \u00e1rbol que fue suturado el d\u00eda anterior en\nguardia? Le indicaron gammaglobulina antitet\u00e1nica y toxoide tet\u00e1nico.Pero no se consigui\u00f3 la\ngammaglobulina y la madre trae el carnet de vacunaci\u00f3n del ni\u00f1o en el cual se constata que\ntiene todas las vacunas aplicadas adecuadamente hasta los 5 a\u00f1os.\na. No indica ninguna vacuna por tener el calendario completo.\nb. Le recomienda que aplique la gammaglobulina y cambie el toxoide por dT (Doble\nbacteriana).\nc. Le recomienda que aplique la gammaglobulina y cambie el toxoide por dTpa (Triple\nbacteriana acelular).\nd. Le indica solamente dTpa.",
+                    "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con respecto a la profilaxis antitet\u00e1nica con un ni\u00f1o de 13 a\u00f1os que present\u00f3 una herida cortante por ca\u00edda en un \u00e1rbol que fue suturado el d\u00eda anterior en guardia? Le indicaron gammaglobulina antitet\u00e1nica y toxoide tet\u00e1nico.Pero no se consigui\u00f3 la gammaglobulina y la madre trae el carnet de vacunaci\u00f3n del ni\u00f1o en el cual se constata que tiene todas las vacunas aplicadas adecuadamente hasta los 5 a\u00f1os.",
+                    "options": {
+                        "a": "No indica ninguna vacuna por tener el calendario completo.",
+                        "b": "Le recomienda que aplique la gammaglobulina y cambie el toxoide por dT (Doble bacteriana).",
+                        "c": "Le recomienda que aplique la gammaglobulina y cambie el toxoide por dTpa (Triple bacteriana acelular).",
+                        "d": "Le indica solamente dTpa."
+                    },
+                    "id": "c6d1c912-2de1-48bb-b48e-5d0152f3a3a1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2017"
+                    },
+                    "answer": "d",
+                    "index": 41,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n5) Pregunta: \nEn el control de salud de Ramiro, un beb\u00e9 de 3 meses sano, sin antecedentes patol\u00f3gicos perinatales, se \nconstata ausencia de cicatriz de BGC. \u00bfQu\u00e9 conducta asume? \nA. recolocar bcg antes del 6to mes \nB. realizar ppd, lectura a las 48hs y 72hs para recolocar bcg \nC. observa carnet vacunas si hay registro, explicar que no requiere vacunar \nD. deriva al inmunologo por sospecha de inmunodeficiencia \nC ",
+                    "question": "En el control de salud de Ramiro, un beb\u00e9 de 3 meses sano, sin antecedentes patol\u00f3gicos perinatales, se constata ausencia de cicatriz de BGC. \u00bfQu\u00e9 conducta asume? ",
+                    "options": {
+                        "a": "recolocar bcg antes del 6to mes",
+                        "b": "realizar ppd, lectura a las 48hs y 72hs para recolocar bcg",
+                        "c": "observa carnet vacunas si hay registro, explicar que no requiere vacunar",
+                        "d": "deriva al inmunologo por sospecha de inmunodeficiencia  "
+                    },
+                    "id": "06c7cd93-be21-4576-b700-f16541bb5d17",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2021"
+                    },
+                    "answer": "c",
+                    "index": 5,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n8) Pregunta: \nUd. atiende en internaci\u00f3n conjunta a un paciente de 2 d\u00edas de vida, reci\u00e9n nacido pret\u00e9rmino de 33 \nsemanas, peso adecuado para edad gestacional (2120 gramos). A\u00fan no ha recibido la vacuna BCG, \u00bfqu\u00e9 \npar\u00e1metro debe considerar para indicarla? \nA. edad corregida \nB. edad cronol\u00f3gica \nC. peso mayor a 2500 ( debe ser mayor a 2000g) \nD. luego del alta en la maternidad \nB ",
+                    "question": "Ud. atiende en internaci\u00f3n conjunta a un paciente de 2 d\u00edas de vida, reci\u00e9n nacido pret\u00e9rmino de 33 semanas, peso adecuado para edad gestacional (2120 gramos). A\u00fan no ha recibido la vacuna BCG, \u00bfqu\u00e9 par\u00e1metro debe considerar para indicarla? ",
+                    "options": {
+                        "a": "edad corregida",
+                        "b": "edad cronol\u00f3gica",
+                        "c": "peso mayor a 2500 ( debe ser mayor a 2000g)",
+                        "d": "luego del alta en la maternidad  "
+                    },
+                    "id": "cb53e27e-6af3-4c07-9971-850e8206a895",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2021"
+                    },
+                    "answer": "b",
+                    "index": 8,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n12) Pregunta: \nAsiste Sof\u00eda de 12 a\u00f1os para vacunaci\u00f3n. No tiene carnet de vacunas. En la historia cl\u00ednica s\u00f3lo figuran \nlas vacunas completas hasta los 6 meses. No refiere antecedentes de importancia. \u00bfQu\u00e9 vacunas \ncorresponde aplicarle? \nA. 1 dosis hepatitis a, 3 hepatitis b, 1 antineumococo \nB. 2 hpv. 2 triple viral, 2 antimeningo, 1 triple bacteriana acelular \nC. 1 rotarix, 1 varicela, 1 hepatitis a \nD. 3 hpv, 2 antimeningo, 2 antigripal \nB ",
+                    "question": "Asiste Sof\u00eda de 12 a\u00f1os para vacunaci\u00f3n. No tiene carnet de vacunas. En la historia cl\u00ednica s\u00f3lo figuran las vacunas completas hasta los 6 meses. No refiere antecedentes de importancia. \u00bfQu\u00e9 vacunas corresponde aplicarle? ",
+                    "options": {
+                        "a": "1 dosis hepatitis a, 3 hepatitis b, 1 antineumococo",
+                        "b": "2 hpv. 2 triple viral, 2 antimeningo, 1 triple bacteriana acelular",
+                        "c": "1 rotarix, 1 varicela, 1 hepatitis a",
+                        "d": "3 hpv, 2 antimeningo, 2 antigripal  "
+                    },
+                    "id": "28b22256-5c68-4259-94c6-28897dd05c5f",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2021"
+                    },
+                    "answer": "b",
+                    "index": 12,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "1) \u00bfCu\u00e1l es el esquema de vacunaci\u00f3n para poliomielitis que debe administrarse a un reci\u00e9n nacido sano hasta \nlos dos a\u00f1os de edad? \n a) Una dosis a los 2,4 y 6 meses, y una cuarta dosis entre los 15 y 18 meses. \n b) Una dosis a los 4 y 6 meses, y una tercera y cuarta dosis a los 15 y 18 meses respectivamente. \n c) Una dosis a los 2, 4 y 6 meses. \n d) Una dosis a los 4, 6 y 12 meses y una cuarta dosis a los 2 a\u00f1os. \n",
+                    "question": "\u00bfCu\u00e1l es el esquema de vacunaci\u00f3n para poliomielitis que debe administrarse a un reci\u00e9n nacido sano hasta los dos a\u00f1os de edad?",
+                    "options": {
+                        "a": "Una dosis a los 2,4 y 6 meses, y una cuarta dosis entre los 15 y 18 meses.",
+                        "b": "Una dosis a los 4 y 6 meses, y una tercera y cuarta dosis a los 15 y 18 meses respectivamente.",
+                        "c": "Una dosis a los 2, 4 y 6 meses.",
+                        "d": "Una dosis a los 4, 6 y 12 meses y una cuarta dosis a los 2 a\u00f1os."
+                    },
+                    "id": "dacc0648-9b5e-4631-8086-be621d6367e1",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2016"
+                    },
+                    "answer": "a",
+                    "index": 1,
+                    "image": "",
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 19:00:33",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2016,
+                            "index": 1,
+                            "explication": "El Calendario Nacional de Vacunaci\u00f3n Argentino del a\u00f1o 2024 recomienda solamente SALK (IPV) a los 2, 4, 6 meses de vida y un refuerzo al ingreso escolar (5-6 a\u00f1os).\nLa Sabin Oral (OPV) ya no se administra.",
+                            "bibliography": "https://www.argentina.gob.ar/sites/default/files/2024-02-calendario-nacional-vacunacion.pdf",
+                            "id": "39c415bb-14e0-443c-83da-483be6eccf73"
+                        }
+                    ]
+                },
+                {
+                    "question_complete": "\n21)  La  Vacuna  triple  viral  protege  contra  sarampi\u00f3n,  rub\u00e9ola  y  paperas.  Se\u00f1ale  el  esquema  de \nadministraci\u00f3n: \n a) Administrar 1ra. dosis a los 12 meses de edad y 2da. dosis a los 5-6 a\u00f1os. \n b) Administrar primera dosis al nacer y 2da. dosis a los 5-6 a\u00f1os. \n c) Administrar primera dosis a los 12 meses y 2da dosis a los 11 a\u00f1os. \n d) Administrar \u00fanica dosis a los 4 a 6 a\u00f1os. ",
+                    "question": "La Vacuna triple viral protege contra sarampi\u00f3n, rub\u00e9ola y paperas. Se\u00f1ale el esquema de administraci\u00f3n: ",
+                    "options": {
+                        "a": "Administrar 1ra. dosis a los 12 meses de edad y 2da. dosis a los 5-6 a\u00f1os.",
+                        "b": "Administrar primera dosis al nacer y 2da. dosis a los 5-6 a\u00f1os.",
+                        "c": "Administrar primera dosis a los 12 meses y 2da dosis a los 11 a\u00f1os.",
+                        "d": "Administrar \u00fanica dosis a los 4 a 6 a\u00f1os."
+                    },
+                    "id": "abb64a23-457a-447f-9bbc-55976b136185",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2019"
+                    },
+                    "answer": "a",
+                    "index": 21,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n53) El calendario de vacunaci\u00f3n 2018 del Ministerio de Salud y Desarrollo Social de la Naci\u00f3n, establece \ncon respecto a la aplicaci\u00f3n de la vacuna del virus del papiloma humano: \n a) El esquema de vacunaci\u00f3n nacional indica una \u00fanica dosis en las ni\u00f1as hasta los 21 a\u00f1os. \n b) El esquema de vacunaci\u00f3n nacional indica dos dosis, a los 11 a\u00f1os para ni\u00f1as y ni\u00f1os. \n c) El esquema de vacunaci\u00f3n nacional no indica su aplicaci\u00f3n en pacientes inmunosuprimidos. \n d) El esquema de vacunaci\u00f3n nacional dos dosis a los 9 a\u00f1os para ni\u00f1as y ni\u00f1os. ",
+                    "question": "El calendario de vacunaci\u00f3n 2018 del Ministerio de Salud y Desarrollo Social de la Naci\u00f3n, establece con respecto a la aplicaci\u00f3n de la vacuna del virus del papiloma humano: ",
+                    "options": {
+                        "a": "El esquema de vacunaci\u00f3n nacional indica una \u00fanica dosis en las ni\u00f1as hasta los 21 a\u00f1os.",
+                        "b": "El esquema de vacunaci\u00f3n nacional indica dos dosis, a los 11 a\u00f1os para ni\u00f1as y ni\u00f1os.",
+                        "c": "El esquema de vacunaci\u00f3n nacional no indica su aplicaci\u00f3n en pacientes inmunosuprimidos.",
+                        "d": "El esquema de vacunaci\u00f3n nacional dos dosis a los 9 a\u00f1os para ni\u00f1as y ni\u00f1os."
+                    },
+                    "id": "679a3c83-10a3-403b-8c70-4410688150d4",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2019"
+                    },
+                    "answer": "b",
+                    "index": 53,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n81)  Un  lactante  de  12  meses  es  tra\u00eddo  a  control  de  salud.  Su  madre  refiere  que  se  encuentra  en \nseguimiento con pediatra alergista por haber presentado un episodio de anafilaxia asociado a la ingesta \nde huevo. Respecto al esquema de vacunaci\u00f3n que le corresponde recibir, \u00bfCu\u00e1l de las siguientes vacunas \ndebe ser aplicada bajo supervisi\u00f3n m\u00e9dica en un hospital? \n a) Hepatitis A. \n b) Antigripal. \n c) Triple viral. \n d) Antineumoc\u00f3ccica conjugada. ",
+                    "question": "Un lactante de 12 meses es tra\u00eddo a control de salud. Su madre refiere que se encuentra en seguimiento con pediatra alergista por haber presentado un episodio de anafilaxia asociado a la ingesta de huevo. Respecto al esquema de vacunaci\u00f3n que le corresponde recibir, \u00bfCu\u00e1l de las siguientes vacunas debe ser aplicada bajo supervisi\u00f3n m\u00e9dica en un hospital? ",
+                    "options": {
+                        "a": "Hepatitis A.",
+                        "b": "Antigripal.",
+                        "c": "Triple viral.",
+                        "d": "Antineumoc\u00f3ccica conjugada."
+                    },
+                    "id": "ec7900e8-99d6-41aa-b62b-37731c74f3d3",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2019"
+                    },
+                    "answer": "b",
+                    "index": 81,
+                    "image": "",
+                    "discussion": [
+                        {
+                            "date": "2024-06-25 11:30:39",
+                            "name": "Marco Aguilera",
+                            "email": "marcosaguilera801@gmail.com",
+                            "year": 2019,
+                            "index": 81,
+                            "explication": "Poblaci\u00f3n objetivo - destinatarios\nPersonas mayores o igual de 65 a\u00f1os\nPersonas hasta los 64 a\u00f1os inclusive con factores de riesgo.\nTener en cuentas que las siguientes situaciones NO contraindican la aplicaci\u00f3n de la vacuna:\n* Conviviente de paciente inmunosuprimido\n* Infecci\u00f3n por el virus de la inmunodeficiencia humana (VIH)\n* Intolerancia al huevo o antecedente de reacci\u00f3n al\u00e9rgica no anafil\u00e1ctica al huevo\n* Tratamiento con antibi\u00f3ticos o convalecencia de enfermedad leve\n* Tratamiento con corticoides\n* Enfermedad aguda benigna: rinitis, catarro, tos, diarrea\n* Embarazo- lactancia",
+                            "bibliography": "http://186.33.221.24/images/2018/F4IP-MARZO.pdf",
+                            "id": "3f62f60d-718e-4359-b317-86b400d70d24"
+                        }
+                    ]
+                },
+                {
+                    "question_complete": "\n94. \u00bfA qu\u00e9 edad se debe aplicar a las ni\u00f1as la vacuna contra el virus del papiloma humano (HVP)?\na. 9 a\u00f1os\nb. 11 a\u00f1os\nc. 13 a\u00f1os\nd. 16 a\u00f1os",
+                    "question": "\u00bfA qu\u00e9 edad se debe aplicar a las ni\u00f1as la vacuna contra el virus del papiloma humano (HVP)?",
+                    "options": {
+                        "a": "9 a\u00f1os",
+                        "b": "11 a\u00f1os",
+                        "c": "13 a\u00f1os",
+                        "d": "16 a\u00f1os"
+                    },
+                    "id": "94edf95e-ba58-43f1-a75d-1ee44df4da79",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2017"
+                    },
+                    "answer": "b",
+                    "index": 94,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "72) Usted se encuentra en el consultorio y Maia de 18 meses es tra\u00edda por su madre para \ncontrol de salud. Durante la consulta, revisa el carnet de vacunaci\u00f3n y observa que las \u00faltimas \nvacunas aplicadas fueron las de los 15 meses. \u00bfCu\u00e1les debe indicar en este control? \n a) Pentavalente y antigripal. \n b) Pentavalente e IPV . \n c) Pentavalente, IPV, neumococo conjugada 13 valente y antigripal. \n d) Pentavalente, IPV, refuerzo de Meningococo, varicela y antigripal.",
+                    "question": "Usted se encuentra en el consultorio y Maia de 18 meses es tra\u00edda por su madre para control de salud. Durante la consulta, revisa el carnet de vacunaci\u00f3n y observa que las \u00faltimas vacunas aplicadas fueron las de los 15 meses. \u00bfCu\u00e1les debe indicar en este control? ",
+                    "options": {
+                        "a": "Pentavalente y antigripal.",
+                        "b": "Pentavalente e IPV .",
+                        "c": "Pentavalente, IPV, neumococo conjugada 13 valente y antigripal.",
+                        "d": "Pentavalente, IPV, refuerzo de Meningococo, varicela y antigripal."
+                    },
+                    "id": "bb70ae13-fceb-4ff5-aaca-dabe72f7fc55",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 72,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "75) Paciente masculino de 8 meses de vida, previamente sano, concurre a control de salud con \ncarnet de vacunaci\u00f3n en donde se constatan aplicaciones de BCG, hepatitis B, neumococo \nconjugada (2 dosis), pentavalente (2 dosis), IPV (2 dosis), meningococo ACYW (2 dosis), \nrotavirus (1 dosis). Ante la evidencia de carnet de vacunaci\u00f3n nacional y obligatorio \nincompleto \u00bfqu\u00e9 vacunas indicar\u00eda en este caso? \n a) Pentavalente e IPV \n b) Rotavirus, pentavalente e IPV \n c) IPV y rotavirus \n d) Hepatitis A, pentavalente e IPV",
+                    "question": "Paciente masculino de 8 meses de vida, previamente sano, concurre a control de salud con carnet de vacunaci\u00f3n en donde se constatan aplicaciones de BCG, hepatitis B, neumococo conjugada (2 dosis), pentavalente (2 dosis), IPV (2 dosis), meningococo ACYW (2 dosis), rotavirus (1 dosis). Ante la evidencia de carnet de vacunaci\u00f3n nacional y obligatorio incompleto \u00bfqu\u00e9 vacunas indicar\u00eda en este caso? ",
+                    "options": {
+                        "a": "Pentavalente e IPV",
+                        "b": "Rotavirus, pentavalente e IPV",
+                        "c": "IPV y rotavirus",
+                        "d": "Hepatitis A, pentavalente e IPV"
+                    },
+                    "id": "2790b798-1030-4343-985b-3e8cf1af071f",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2024"
+                    },
+                    "answer": "a",
+                    "index": 75,
+                    "image": "",
+                    "discussion": []
+                }
+            ],
+            "aclaracion": "Vacunas: Solamente para CHICOS PEDIATRICOS",
+            "analogos": [
+                "esquema de vacunacion",
+                "esquema vacunas",
+                "calendario de vacunacion",
+                "esquema de vacunas"
             ]
         }
     }
