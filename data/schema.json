@@ -10088,7 +10088,18 @@
                     "answer": "d",
                     "index": 9,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-09-21 12:52:00",
+                            "name": "Delfina Oneto",
+                            "email": "delfinalaraoneto@gmail.com",
+                            "year": 2022,
+                            "index": 9,
+                            "explication": "La pregunta aborda en qu\u00e9 escenario cl\u00ednico es recomendable establecer una meta estricta de control gluc\u00e9mico, definida como una hemoglobina glicosilada (HbA1c) cercana al 6.5%, en pacientes con diabetes.\n\nOpciones analizadas:\na) Pacientes con comorbilidades significativas y lesiones de \u00f3rgano blanco:\nLos pacientes con comorbilidades importantes o lesiones de \u00f3rgano blanco (como nefropat\u00eda diab\u00e9tica o retinopat\u00eda) suelen ser m\u00e1s fr\u00e1giles y tienen un mayor riesgo de complicaciones derivadas de un control gluc\u00e9mico excesivamente estricto, incluyendo hipoglucemias. Por lo tanto, en estos casos, no se recomienda un control tan estricto.\n\nb) Pacientes con hipoglucemias desapercibidas como consecuencia de una dieta estricta:\nLos pacientes que presentan hipoglucemias inadvertidas est\u00e1n en mayor riesgo de episodios severos, por lo que un control gluc\u00e9mico estricto no es aconsejable en ellos. El objetivo ser\u00eda evitar hipoglucemias manteniendo una meta de HbA1c m\u00e1s alta.\n\nc) Pacientes con m\u00e1s de 10 a\u00f1os de diabetes, m\u00e1s de 10 a\u00f1os de expectativa de vida que utilizan sulfonilureas:\nEn pacientes con m\u00e1s de 10 a\u00f1os de diabetes, especialmente si est\u00e1n usando sulfonilureas (que aumentan el riesgo de hipoglucemia), un control gluc\u00e9mico estricto puede ser peligroso. Generalmente, en estos pacientes, se considera una meta de HbA1c menos estricta, en torno al 7-8%, para evitar riesgos.\n\nd) Pacientes con menos de 10 a\u00f1os de diabetes, m\u00e1s de 10 a\u00f1os de expectativa de vida, sin comorbilidades ni complicaciones:\nEsta es la opci\u00f3n correcta. En pacientes relativamente j\u00f3venes, con menos de 10 a\u00f1os de diabetes, sin comorbilidades significativas ni complicaciones, y con una larga expectativa de vida, un control estricto con una meta de HbA1c cercana al 6.5% es adecuado. Este enfoque busca minimizar el riesgo de complicaciones microvasculares a largo plazo sin aumentar significativamente el riesgo de hipoglucemias graves.\n\nJustificaci\u00f3n de la opci\u00f3n d):\nLa opci\u00f3n d) es correcta porque establece una meta de control gluc\u00e9mico m\u00e1s estricta en un grupo de pacientes que pueden beneficiarse m\u00e1s de este enfoque. Estos pacientes tienen una larga expectativa de vida, no presentan comorbilidades importantes ni complicaciones, y es probable que puedan tolerar un control m\u00e1s riguroso de su glucemia sin un riesgo elevado de hipoglucemia u otras complicaciones relacionadas con un control excesivo. Esto es coherente con las gu\u00edas de manejo de la diabetes que ajustan las metas de HbA1c en funci\u00f3n de la edad, comorbilidades y duraci\u00f3n de la diabetes.",
+                            "bibliography": "Chat GPT",
+                            "id": "028fcb61-d7cd-4fde-9bde-23b6cc28cb24"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n11)  Concurre  a  la  consulta  una  paciente  de  51  a\u00f1os  para  un  control  peri\u00f3dico  de  salud.  Presenta \nantecedentes de HTA medicada con enalapril 10 mg/d\u00eda y control de glucemia en ayunas de 135 mg/dl. \n\u00bfCu\u00e1l considera que es la conducta apropiada a seguir? \n a) Realizar prueba de tolerancia oral a glucosa (PTOG75) \n b) Realizar dosaje de insulinemia basal y HbA1c \n c) Comenzar tratamiento por diagn\u00f3stico de diabetes \n d) Repetir determinaci\u00f3n de glucemia en ayunas \n",
@@ -14618,7 +14629,18 @@
                     "answer": "c",
                     "index": 34,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-11-09 10:20:40",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 34,
+                            "explication": "Este s\u00edndrome se caracteriza por tener signos que anteceden a la ruptura uterina, es verdad que suele tener relaci\u00f3n con una cicatriza previa, pero la pregunta va dirigida hacia QUE caracteriza el s\u00edndrome por lo tanto los signos son: Bandl (Distensi\u00f3n marcada del segmento inferior con ascenso del anillo de Bandl- puede llegar a ombligo =\"reloj de arena\"),  Frommel (ligamentos redondos tensionados que parecen cuerdas que tiran del segmento) y Pinard (Hemorragia oscura, de intensidad variable- sangre va a cavidad peritoneal!!)\nEn cuando a la FC fetal , se genera una bradicardia mantenida que genera el dx descartando as\u00ed tambi\u00e9n la b.",
+                            "bibliography": "",
+                            "id": "1cd07119-fb49-4ae3-bbd7-4230a30d25dd"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Alumbramiento: Todas sus causas como inercia/atonia uterina, adherencia placentaria, contraccion espasmodica",
@@ -15210,7 +15232,18 @@
                     "answer": "c",
                     "index": 34,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-11-09 10:20:40",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 34,
+                            "explication": "Este s\u00edndrome se caracteriza por tener signos que anteceden a la ruptura uterina, es verdad que suele tener relaci\u00f3n con una cicatriza previa, pero la pregunta va dirigida hacia QUE caracteriza el s\u00edndrome por lo tanto los signos son: Bandl (Distensi\u00f3n marcada del segmento inferior con ascenso del anillo de Bandl- puede llegar a ombligo =\"reloj de arena\"),  Frommel (ligamentos redondos tensionados que parecen cuerdas que tiran del segmento) y Pinard (Hemorragia oscura, de intensidad variable- sangre va a cavidad peritoneal!!)\nEn cuando a la FC fetal , se genera una bradicardia mantenida que genera el dx descartando as\u00ed tambi\u00e9n la b.",
+                            "bibliography": "",
+                            "id": "1cd07119-fb49-4ae3-bbd7-4230a30d25dd"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "6) \u00bfCu\u00e1l es la causa m\u00e1s frecuente de hemorragia post parto? \n a) Coagulopatias relacionadas al embarazo \n b) Restos y adherencias placentarias \n c) Anomal\u00edas de la contractilidad uterina \n d) Traumatismos del tracto genital",
@@ -15369,7 +15402,18 @@
                     "answer": "c",
                     "index": 34,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-11-09 10:20:40",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 34,
+                            "explication": "Este s\u00edndrome se caracteriza por tener signos que anteceden a la ruptura uterina, es verdad que suele tener relaci\u00f3n con una cicatriza previa, pero la pregunta va dirigida hacia QUE caracteriza el s\u00edndrome por lo tanto los signos son: Bandl (Distensi\u00f3n marcada del segmento inferior con ascenso del anillo de Bandl- puede llegar a ombligo =\"reloj de arena\"),  Frommel (ligamentos redondos tensionados que parecen cuerdas que tiran del segmento) y Pinard (Hemorragia oscura, de intensidad variable- sangre va a cavidad peritoneal!!)\nEn cuando a la FC fetal , se genera una bradicardia mantenida que genera el dx descartando as\u00ed tambi\u00e9n la b.",
+                            "bibliography": "",
+                            "id": "1cd07119-fb49-4ae3-bbd7-4230a30d25dd"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "20) Paciente que ingresa a la guardia del centro obst\u00e9trico refiriendo p\u00e9rdida de sangre por \ngenitales externos cursando gestaci\u00f3n de 33 semanas por ecografia,tercigesta, secund\u00edpara \n(dos partos normales). Usted constata actividad card\u00edaca fetal positiva, tono uterino \naumentado. En la especuloscop\u00eda presenta ginecorragia roja oscura proveniente de cavidad. \n\u00bfcu\u00e1l es su sospecha diagn\u00f3stica? \n a) Desprendimiento de Placenta Normoinserta \n b) Rotura Uterina \n c) Cervicitis Sangrante \n d) Vasa Previa \n",
