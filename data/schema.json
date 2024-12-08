@@ -28510,7 +28510,18 @@
                     "answer": "a",
                     "index": 27,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-12-06 11:06:40",
+                            "name": "fabrizio martelotte",
+                            "email": "martelottefabrizio@gmail.com",
+                            "year": 2019,
+                            "index": 27,
+                            "explication": "La pregunta no tiene ninguna correcta por que se modific\u00f3 el esquema de la poliomielitis donde se retir\u00f3 la vacuna oral",
+                            "bibliography": "https://www.argentina.gob.ar/noticias/argentina-modifica-su-esquema-de-vacunacion-contra-la-poliomielitis",
+                            "id": "276610fc-c40b-4622-8880-1630e112274b"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n45) Una ni\u00f1a que hace 3 d\u00edas cumpli\u00f3 6 meses, es sana y en su carnet tiene registro de vacunas hasta los 4 \nmeses. Seg\u00fan el calendario de vacunaci\u00f3n nacional, \u00bfcu\u00e1l es su conducta con respecto a las vacunas contra \nRotavirus y Meningococo? \n a) Indica colocar las dos vacunas, aunque la vacuna meningoc\u00f3cica tendr\u00eda que haber sido administrada a \nlos 5 meses. \n b) Indica solo Rotavirus y al mes meningoc\u00f3cica ya que no pueden aplicarse juntas. \n c) Indica solo meningoc\u00f3cica, por la edad no corresponde Rotavirus. \n d) Indica Rotavirus y meningoc\u00f3cica, para no desaprovechar oportunidad de vacunaci\u00f3n. ",
