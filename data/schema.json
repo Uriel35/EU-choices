@@ -12665,7 +12665,18 @@
                     "answer": "b",
                     "index": 48,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-12-09 11:26:42",
+                            "name": "Fabrizio M",
+                            "email": "martelottefabrizio@gmail.com",
+                            "year": 2017,
+                            "index": 48,
+                            "explication": "La considerada respuesta correcta no me parece que sea la adecuada debido a que en la guia de metodos anticonceptivos dice lo siguiente \"Si el olvido es de un comprimido activo: Tomar la pastilla olvidada lo antes posible y continuar las siguientes en el horario habitual, aunque esto signifique tomar dos comprimidos juntos. La eficacia anticonceptiva no se altera, y no necesita usar un m\u00e9todo de respaldo\"\nOsea que no es necesario utilizar metodo de barrera",
+                            "bibliography": "https://www.argentina.gob.ar/sites/default/files/bancos/2023-08/Guia_MAC_2023_8_8_1082023.pdf\nPAG:126",
+                            "id": "08e104a7-0f51-4df5-ad6b-ce8431462e89"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n66. \u00bfCu\u00e1l de los siguientes m\u00e9todos anticonceptivos indicar\u00eda una joven de 16 a\u00f1os, que no tiene\npareja estable y recientemente ha iniciado relaciones sexuales?\na. Diafragma.\nb. Preservativo.\nc. Anticoncepci\u00f3n hormonal + diafragma.\nd. Anticoncepci\u00f3n hormonal.",
@@ -15852,14 +15863,24 @@
                     "image": "",
                     "discussion": [
                         {
-                            "date": "2024-07-01 00:36:17",
-                            "name": "sandra",
-                            "email": "",
+                            "date": "2024-12-19 11:13:14",
+                            "name": "Ignacio Sabas",
+                            "email": "nachosabas99@gmail.com",
                             "year": 2022,
                             "index": 45,
-                            "explication": "La OMS sugiere que el riesgo te\u00f3rico de isoinmunizaci\u00f3n es muy bajo en embarazos menores a 63 d\u00edas de gestaci\u00f3n (9 semanas). En consecuencia, la determinaci\u00f3n del factor Rh y la administraci\u00f3n de\tprofilaxis anti-Rh\tno se consideran requisitos previos para realizar el procedimiento de ILE en embarazos tempranos. \n\nSi se dispone de inmunoglobulina anti-Rh, debe administrarse antes o durante el procedimiento (OMS, 2012). ",
+                            "explication": "\"La OMS sugiere que el riesgo te\u00f3rico de isoinmunizaci\u00f3n es muy bajo en embarazos menores a 63 d\u00edas de gestaci\u00f3n (9 semanas). En consecuencia, la determinaci\u00f3n del factor Rh y la administraci\u00f3n de\tprofilaxis anti-Rh no se consideran requisitos previos para realizar el procedimiento de ILE en embarazos tempranos. Si se dispone de inmunoglobulina anti-Rh, debe administrarse antes o durante el procedimiento (OMS, 2012). Por su parte, la International Planned Parenthood Federation recomienda que si una mujer Rh-negativa va a  administrarse misoprostol en su hogar, se administre inmunoglobulina anti-Rh el d\u00eda en que comienza el procedimiento. Si el embarazo tiene entre 6 y 12 semanas de gestaci\u00f3n, la dosis recomendada es de 50 mcg por v\u00eda intramuscular, y si el embarazo es mayor, 300 mcg tambi\u00e9n por v\u00eda intramuscular (IPPF, 2012). Si la mujer no ha sido vacunada contra el t\u00e9tanos en los 10 a\u00f1os anteriores a la consulta, se debe aplicar la vacuna antitet\u00e1nica o doble adulto.\"",
                             "bibliography": "Protocolo para la atenci\u00f3n integral de las personas con derecho a la interrupci\u00f3n legal del embarazo",
-                            "id": "5b16ec47-a9c5-441a-8c5c-95931116edd1"
+                            "id": "a8823c1d-24d2-45c5-bf65-f44606b86c32"
+                        },
+                        {
+                            "date": "2024-12-19 11:21:54",
+                            "name": "Ignacio Sabas",
+                            "email": "nachosabas99@gmail.com",
+                            "year": 2022,
+                            "index": 45,
+                            "explication": "\"La OMS solo recomienda la profilaxis con inmunoglobulina anti-D en mujeres u otras PCG no sensibilizadas para prevenir la aloinmunizaci\u00f3n RhD en abortos con medicamentos o\nquir\u00fargicos a partir de las 12 semanas.\nSi se dispone de inmunoglobulina anti-Rh, debe administrarse antes de 72 horas posteriores al procedimiento para mejores resultados (OMS, 2022).\nLa OMS no recomienda la administraci\u00f3n de inmunoglobulina anti-D en abortos de menos de 12 semanas ya que la probabilidad te\u00f3rica de formaci\u00f3n de anticuerpos es\npr\u00e1cticamente cero a esta edad gestacional. En consecuencia, la determinaci\u00f3n del factor Rh y la administraci\u00f3n de profilaxis anti-Rh no se consideran requisitos previos para realizar el procedimiento de IVE/ILE en embarazos tempranos.\nSi la persona no ha sido vacunada contra el t\u00e9tanos en los 10 a\u00f1os anteriores a la consulta, se debe aplicar la vacuna antitet\u00e1nica o doble adulto. En todos los casos, es conveniente\nevaluar el estado de las vacunas de la ni\u00f1a, adolescente, mujer u otra PCG seg\u00fan calendario nacional vigente y sugerir la colocaci\u00f3n de las vacunas faltantes. Esta evaluaci\u00f3n no puede constituirse en un obst\u00e1culo para acceder a la pr\u00e1ctica.",
+                            "bibliography": "Protocolo para la atenci\u00f3n integral de las personas con derecho a la interrupci\u00f3n voluntaria y legal del embarazo (IVE/ILE) actualizaci\u00f3n 2022",
+                            "id": "bd9cf6c2-124d-47bf-a636-44c0543f67fd"
                         }
                     ]
                 },
@@ -28741,7 +28762,18 @@
                     "answer": "b",
                     "index": 53,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2024-12-08 17:10:52",
+                            "name": "Fabrizio ",
+                            "email": "martelottefabrizio@gmail.com",
+                            "year": 2019,
+                            "index": 53,
+                            "explication": "Para aclarar en la respuesta correcta que actualmente el esquema en 2024 de HPV es de 1 dosis unica tanto en hombre como mujeres",
+                            "bibliography": "https://www.argentina.gob.ar/salud/vacunas/vph\nhttps://www.argentina.gob.ar/sites/default/files/2024-02-calendario-nacional-vacunacion.pdf",
+                            "id": "1beb6a4f-97a6-4d02-b5c6-56918257839a"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n81)  Un  lactante  de  12  meses  es  tra\u00eddo  a  control  de  salud.  Su  madre  refiere  que  se  encuentra  en \nseguimiento con pediatra alergista por haber presentado un episodio de anafilaxia asociado a la ingesta \nde huevo. Respecto al esquema de vacunaci\u00f3n que le corresponde recibir, \u00bfCu\u00e1l de las siguientes vacunas \ndebe ser aplicada bajo supervisi\u00f3n m\u00e9dica en un hospital? \n a) Hepatitis A. \n b) Antigripal. \n c) Triple viral. \n d) Antineumoc\u00f3ccica conjugada. ",
