@@ -200,9 +200,11 @@ input[type="checkbox"]:checked + label {
     display: flex;
     flex-direction: column;
     width: 100%;
+    height: 100%;
     gap: .5rem;
     position: relative;
     margin-top: 24px;
+    overflow: hidden;
 }
 
 #search-input {
@@ -213,27 +215,23 @@ input[type="checkbox"]:checked + label {
 
 .error-message {
   display: none;
-  color: white;
+  color: var(--error-color);
   font-size: calc(var(--font-size) * .9);
-  position: absolute;
-  top: -24px;
+  background-color: white;
 }
 
 #matched-search-list {
   display: none;
   width: 100%;
-  min-height: max-content;
-  max-height: 50vh;
+  height: 100%;
   flex-direction: column;
   align-items: start;
   justify-content: left;
   background-color: #333;
   color: #bbb;
-  position: absolute;
-  top: 4.7vh;
   box-shadow: 0 0 2px 2px #333;
   border-radius: 10px;
-  overflow: auto;
+  overflow-y: auto;
   z-index: 200;
 }
 
@@ -246,18 +244,12 @@ input[type="checkbox"]:checked + label {
   padding: .5rem;
   font-weight: 600;
   border-top: 1px solid #222;
-  
 }
 
 #search-ctn ul li p {
   font-size: calc(var(--font-size) * 0.9) !important;
   text-transform: uppercase !important;
 }
-
-/* #search-ctn ul li p span {
-  font-size: calc(var(--font-size) * 0.7);
-  text-transform: uppercase !important;
-} */
 
 #search-ctn ul li:hover, #search-ctn ul li:focus {
   background-color: #555;
@@ -381,6 +373,26 @@ input[type="checkbox"]:checked + label {
   bottom: 10px;
   display: flex;
   align-items: center;
+  width: max-content;
+  height: 3rem;
+  padding: .3rem;
+  border-radius: 10px;
+  background-color: #DF6F93;
+
+  .cafecito_mobile_logo_ctn {
+    display: none;
+    align-items: center;
+    gap: .3rem;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
 }
 
 .search-cafecito-ctn img {
@@ -509,5 +521,8 @@ input:checked + .slider::before {
   .hsmlp-ctn h3 {
     display: none;
   }
+
+  .mobile { display: flex !important; }
+  .not-mobile { display: none !important; }
 
 }
