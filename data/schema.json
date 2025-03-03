@@ -839,7 +839,18 @@
                     "answer": "a",
                     "index": 90,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-02-09 09:19:20",
+                            "name": "Luc\u00eda Romero ",
+                            "email": "luciaenromero@gmail.com",
+                            "year": 2023,
+                            "index": 90,
+                            "explication": "El tratamiento emp\u00edrico v\u00eda oral inicial es con cefalosporinas de primera generaci\u00f3n (cefalexina no estaba entre las opciones). Se reserva TMS para profilaxis o tratamiento dirigido, seg\u00fan la SAP.",
+                            "bibliography": "Gu\u00eda para el diagn\u00f3stico, estudio y tratamiento de la infecci\u00f3n urinaria: actualizaci\u00f3n 2022 (SAP)",
+                            "id": "c0300320-bbcc-4db1-8b43-20adc52ceb51"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "31) Leonel de 6 meses que es tra\u00eddo a la guardia por su madre de 22 a\u00f1os por presentar 2 picos \nde fiebre en las \u00faltimas 12 horas, buen \u00e1nimo salvo cuando le sube la temperatura que se \nencuentra algo deca\u00eddo. Cuando revisa al bebe se encuentra en buen estado general sin foco \ninfeccioso claro, solicita una orina completa con sedimento con t\u00e9cnica est\u00e9ril. Se obtiene \ncomo datos positivos: PH:6, Densidad 1020; Nitritos ++; Esterasa leucocitaria ++ Leucocitos 25 \nx campo. Con estos resultados \u00bfqu\u00e9 decisiones adopta? \n a) Aguardar resultados de urocultivo para comenzar con antibi\u00f3tico terapia \n b) Repetir la muestra ya que la asume como contaminada \n c) Realizar urocultivo y comenzar con antibi\u00f3tico v\u00eda oral \n d) Internar al bebe, realizar urocultivo y comenzar con antibi\u00f3tico endovenoso",
@@ -6305,7 +6316,28 @@
                     "answer": "c",
                     "index": 98,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-02-12 17:04:45",
+                            "name": "Melanie Alvarez",
+                            "email": "melunghi93@gmail.com",
+                            "year": 2021,
+                            "index": 98,
+                            "explication": "Se trata de un exudado seg\u00fan los criterios de Light (cumple con el criterio relaci\u00f3n LDH l\u00edquido/plasma >0,6). As\u00ed que se descartan las opciones de trasudados (ICC y Nefr\u00f3tico).\nSi fuera Quilot\u00f3rax, el aspecto deber\u00eda ser lechoso, por lo general, y el laboratorio seguramente informar\u00eda otros datos, como hallazgo de quilomicrones (patognom\u00f3nico) o TAG >110 mg/dl.\nEl derrame pleural maligno generalmente es masivo, unilateral y serohem\u00e1tico. Caracter\u00edsticas que cumple la paciente del caso. Por eso, todo lleva a orientarnos que la correcta es COMPROMISO NEOPL\u00c1SICO PLEURAL",
+                            "bibliography": "",
+                            "id": "d6fc6df1-541d-423d-bfc9-a25e86cf9975"
+                        },
+                        {
+                            "date": "2025-02-12 17:18:25",
+                            "name": "Andrea Becerra Rojas ",
+                            "email": "afer100496@gmail.com",
+                            "year": 2021,
+                            "index": 98,
+                            "explication": "En las caracter\u00edsticas del l\u00edquido pleural del presente caso, se observa: l\u00edquido sero hem\u00e1tico que sugiere un hemot\u00f3rax o derrame neopl\u00e1sico avanzado. Un predominio de linfocitos lo que sugiere pleuritis tuberculosa, procesos linfoproliferativos, artritis reumatoide y proceso neopl\u00e1sico. Por lo que en el presente caso, se podr\u00eda sospechar de un compromiso neopl\u00e1sico pleural. ",
+                            "bibliography": "Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. \nCap\u00edtulo 88: Enfermedades de la Pleura. P\u00e1ginas 789 \u2013 792. ",
+                            "id": "5e07b942-fcab-495d-869c-04e5e4fb75a0"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n40) \u00bfQu\u00e9 imagen observa en la siguiente radiograf\u00eda de t\u00f3rax? (VER IMAGEN 2) \n a) Consolidaci\u00f3n que muestra broncograma a\u00e9reo, sin signos de derrame pleural. \n b) Consolidaci\u00f3n que muestra broncograma a\u00e9reo, con signos de derrame pleural. \n c) Atelectasia sin signos de derrame pleural. \n d) Atelectasia con signos de derrame pleural. ",
@@ -11876,7 +11908,18 @@
                     "answer": "c",
                     "index": 30,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-02-12 11:39:00",
+                            "name": "Andrea Becerra ",
+                            "email": "afer100496@gmail.com",
+                            "year": 2023,
+                            "index": 30,
+                            "explication": "La demencia con cuerpos de lewy presenta un deterioro cognitivo en el que predominan las alteraciones en la atenci\u00f3n, velocidad psicomotora, funciones ejecutivas y funciones visuoespaciales. La memoria puede estar respetada en fases iniciales. Se puede presentar un s\u00edndrome confusional. Puede aparecer alucinaciones o ilusiones visuales o de otras modalidades. Muchos pacientes desarrollan ideas psic\u00f3ticas y apat\u00eda. Tambi\u00e9n es caracter\u00edstico s\u00edntomas parkinsonianos como rigidez y acinesia que suele ser bilateral. \nLos pacientes con demencia de cuerpos de lewy, presentan hipersensibilidad a neurol\u00e9pticos, fen\u00f3meno que es cl\u00ednicamente relevante, especialmente dado que son pacientes que presentan con frecuencia alucinaciones, ideas psic\u00f3ticas o cuadros confusionales que requieren tratamiento farmacol\u00f3gico habitualmente. ",
+                            "bibliography": "Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. \nCap\u00edtulo 182: Enfermedad de Alzheimer y otras demencias degenerativas. P\u00e1gina 1510. ",
+                            "id": "ba206500-0c85-4f49-a87d-6c12e51a7bd6"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Demencia: Cualquier tipo (Alzheimer, cuerpos de lewy, vascular, frontotemporal, deterioro cognitivo leve",
@@ -11908,7 +11951,18 @@
                     "answer": "c",
                     "index": 30,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-02-12 11:39:00",
+                            "name": "Andrea Becerra ",
+                            "email": "afer100496@gmail.com",
+                            "year": 2023,
+                            "index": 30,
+                            "explication": "La demencia con cuerpos de lewy presenta un deterioro cognitivo en el que predominan las alteraciones en la atenci\u00f3n, velocidad psicomotora, funciones ejecutivas y funciones visuoespaciales. La memoria puede estar respetada en fases iniciales. Se puede presentar un s\u00edndrome confusional. Puede aparecer alucinaciones o ilusiones visuales o de otras modalidades. Muchos pacientes desarrollan ideas psic\u00f3ticas y apat\u00eda. Tambi\u00e9n es caracter\u00edstico s\u00edntomas parkinsonianos como rigidez y acinesia que suele ser bilateral. \nLos pacientes con demencia de cuerpos de lewy, presentan hipersensibilidad a neurol\u00e9pticos, fen\u00f3meno que es cl\u00ednicamente relevante, especialmente dado que son pacientes que presentan con frecuencia alucinaciones, ideas psic\u00f3ticas o cuadros confusionales que requieren tratamiento farmacol\u00f3gico habitualmente. ",
+                            "bibliography": "Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. \nCap\u00edtulo 182: Enfermedad de Alzheimer y otras demencias degenerativas. P\u00e1gina 1510. ",
+                            "id": "ba206500-0c85-4f49-a87d-6c12e51a7bd6"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -11966,7 +12020,18 @@
                     "answer": "c",
                     "index": 30,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-02-12 11:39:00",
+                            "name": "Andrea Becerra ",
+                            "email": "afer100496@gmail.com",
+                            "year": 2023,
+                            "index": 30,
+                            "explication": "La demencia con cuerpos de lewy presenta un deterioro cognitivo en el que predominan las alteraciones en la atenci\u00f3n, velocidad psicomotora, funciones ejecutivas y funciones visuoespaciales. La memoria puede estar respetada en fases iniciales. Se puede presentar un s\u00edndrome confusional. Puede aparecer alucinaciones o ilusiones visuales o de otras modalidades. Muchos pacientes desarrollan ideas psic\u00f3ticas y apat\u00eda. Tambi\u00e9n es caracter\u00edstico s\u00edntomas parkinsonianos como rigidez y acinesia que suele ser bilateral. \nLos pacientes con demencia de cuerpos de lewy, presentan hipersensibilidad a neurol\u00e9pticos, fen\u00f3meno que es cl\u00ednicamente relevante, especialmente dado que son pacientes que presentan con frecuencia alucinaciones, ideas psic\u00f3ticas o cuadros confusionales que requieren tratamiento farmacol\u00f3gico habitualmente. ",
+                            "bibliography": "Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. \nCap\u00edtulo 182: Enfermedad de Alzheimer y otras demencias degenerativas. P\u00e1gina 1510. ",
+                            "id": "ba206500-0c85-4f49-a87d-6c12e51a7bd6"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -17189,7 +17254,18 @@
                     "answer": "b",
                     "index": 25,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-02-25 21:48:49",
+                            "name": "Andrea Fernanda Becerra R ",
+                            "email": "afer100496@gmail.com",
+                            "year": 2020,
+                            "index": 25,
+                            "explication": "El S\u00edndrome neurol\u00e9ptico maligno se encuentra en relaci\u00f3n con el tratamiento de neurol\u00e9pticos, litio y metoclopramida. Se presenta con hipertermia, rigidez muscular, alteraci\u00f3n mental y disfunci\u00f3n auton\u00f3mica (diaforesis, labilidad tensional y arritmias). Suele existir elevaci\u00f3n de la creat\u00edn-cinasa y fracaso renal agudo. \nPor lo que, al tratarse de una paciente que ya tiene antecedente de trastorno bipolar, habr\u00eda que pensar, que posiblemente se encuentre con un tratamiento largo plazo o profil\u00e1ctico de trastorno bipolar, donde el litio est\u00e1 dentro de las primeras opciones. Por lo que con el antecedente y la sintomatolog\u00eda, se puede orientar a un diagn\u00f3stico de s\u00edndrome neurol\u00e9ptico maligno secundario a intoxicaci\u00f3n por Litio. ",
+                            "bibliography": "Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. Cap\u00edtulo 337: Trastornos por el calor y el fr\u00edo. P\u00e1ginas 2701 y 2702. Cap\u00edtulo 193: Trastornos depresivos y bipolares. P\u00e1ginas 1591 \u2013 1593.",
+                            "id": "bb1d8950-2c44-4b0d-a87a-460d9f9c06bd"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n2) \u00bfCu\u00e1l de las siguientes sustancias puede haber consumido un adolescente de 13 a\u00f1os, que ingresa a la \nguardia  por  un  cuadro  de  \"ebriedad\"  acompa\u00f1ado  de  alucinaciones  y  en  el  examen  f\u00edsico  presenta \nfrecuencia  cardiaca  de  180  latidos  por  minuto  y  en  los  ex\u00e1menes  de  laboratorio  presenta  anemia  y \nleucopenia? \n a) LSD. \n b) Pegamentos. \n c) PACO. \n d) \u00c9xtasis. ",
@@ -17304,7 +17380,18 @@
                     "answer": "b",
                     "index": 25,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-02-25 21:48:49",
+                            "name": "Andrea Fernanda Becerra R ",
+                            "email": "afer100496@gmail.com",
+                            "year": 2020,
+                            "index": 25,
+                            "explication": "El S\u00edndrome neurol\u00e9ptico maligno se encuentra en relaci\u00f3n con el tratamiento de neurol\u00e9pticos, litio y metoclopramida. Se presenta con hipertermia, rigidez muscular, alteraci\u00f3n mental y disfunci\u00f3n auton\u00f3mica (diaforesis, labilidad tensional y arritmias). Suele existir elevaci\u00f3n de la creat\u00edn-cinasa y fracaso renal agudo. \nPor lo que, al tratarse de una paciente que ya tiene antecedente de trastorno bipolar, habr\u00eda que pensar, que posiblemente se encuentre con un tratamiento largo plazo o profil\u00e1ctico de trastorno bipolar, donde el litio est\u00e1 dentro de las primeras opciones. Por lo que con el antecedente y la sintomatolog\u00eda, se puede orientar a un diagn\u00f3stico de s\u00edndrome neurol\u00e9ptico maligno secundario a intoxicaci\u00f3n por Litio. ",
+                            "bibliography": "Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. Cap\u00edtulo 337: Trastornos por el calor y el fr\u00edo. P\u00e1ginas 2701 y 2702. Cap\u00edtulo 193: Trastornos depresivos y bipolares. P\u00e1ginas 1591 \u2013 1593.",
+                            "id": "bb1d8950-2c44-4b0d-a87a-460d9f9c06bd"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Cocaina: Entra ademas los 'body packers'",
@@ -17471,7 +17558,18 @@
                     "answer": "b",
                     "index": 25,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-02-25 21:48:49",
+                            "name": "Andrea Fernanda Becerra R ",
+                            "email": "afer100496@gmail.com",
+                            "year": 2020,
+                            "index": 25,
+                            "explication": "El S\u00edndrome neurol\u00e9ptico maligno se encuentra en relaci\u00f3n con el tratamiento de neurol\u00e9pticos, litio y metoclopramida. Se presenta con hipertermia, rigidez muscular, alteraci\u00f3n mental y disfunci\u00f3n auton\u00f3mica (diaforesis, labilidad tensional y arritmias). Suele existir elevaci\u00f3n de la creat\u00edn-cinasa y fracaso renal agudo. \nPor lo que, al tratarse de una paciente que ya tiene antecedente de trastorno bipolar, habr\u00eda que pensar, que posiblemente se encuentre con un tratamiento largo plazo o profil\u00e1ctico de trastorno bipolar, donde el litio est\u00e1 dentro de las primeras opciones. Por lo que con el antecedente y la sintomatolog\u00eda, se puede orientar a un diagn\u00f3stico de s\u00edndrome neurol\u00e9ptico maligno secundario a intoxicaci\u00f3n por Litio. ",
+                            "bibliography": "Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. Cap\u00edtulo 337: Trastornos por el calor y el fr\u00edo. P\u00e1ginas 2701 y 2702. Cap\u00edtulo 193: Trastornos depresivos y bipolares. P\u00e1ginas 1591 \u2013 1593.",
+                            "id": "bb1d8950-2c44-4b0d-a87a-460d9f9c06bd"
+                        }
+                    ]
                 }
             ],
             "aclaracion": ""
@@ -23003,25 +23101,6 @@
                     "discussion": []
                 },
                 {
-                    "question_complete": "\n72) Pregunta:\nEs tra\u00edda a la guardia por una ambulancia Graciela de 28 a\u00f1os, sin antecedentes de relevancia, que \nsufri\u00f3 colisi\u00f3n vehicular (auto-auto). Ingresa con collar cervical y tabla larga. \u00bfCu\u00e1l es la primera acci\u00f3n \nque realiza en la atenci\u00f3n inicial? \nA. evaluar deterioro cognitivo del px \nB. reponer 1 l de ringer como medida preventiva de shock \nC. ventilaci\u00f3n y o2 \nD. verificar que la VA se encuentre permeable, con protecci\u00f3n de columna \nD ",
-                    "question": "Es tra\u00edda a la guardia por una ambulancia Graciela de 28 a\u00f1os, sin antecedentes de relevancia, que sufri\u00f3 colisi\u00f3n vehicular (auto-auto). Ingresa con collar cervical y tabla larga. \u00bfCu\u00e1l es la primera acci\u00f3n que realiza en la atenci\u00f3n inicial? ",
-                    "options": {
-                        "a": "evaluar deterioro cognitivo del px",
-                        "b": "reponer 1 l de ringer como medida preventiva de shock",
-                        "c": "ventilaci\u00f3n y o2",
-                        "d": "verificar que la VA se encuentre permeable, con protecci\u00f3n de columna  "
-                    },
-                    "id": "966cf657-677a-4f83-bc69-38487bec1739",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2021"
-                    },
-                    "answer": "d",
-                    "index": 72,
-                    "image": "",
-                    "discussion": []
-                },
-                {
                     "question_complete": "\n58) \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con un joven de 30 a\u00f1os que consulta por dolor intenso cervical con \nirradiaci\u00f3n a ambos hombros y dificultad para girar la cabeza, y relata que hace dos horas fue embestido de \natr\u00e1s  por  una  bicicleta?  En  el  examen  f\u00edsico  presenta  leve  rigidez  para  mover  la  cabeza,  sin  signos \nneurol\u00f3gicos. \n a) Indicar paracetamol 500 mg cada 8 horas y control ambulatorio con el traumat\u00f3logo. \n b) Indicar ibuprofeno 600 mg cada 8 horas, colocar collar cervical y citar a control por consultorio externo. \n c) Solicitar radiograf\u00eda de columna cervical frente y perfil y evaluar conducta seg\u00fan im\u00e1genes. \n d) Solicitar resonancia nuclear magn\u00e9tica de columna cervical y evaluar conducta seg\u00fan im\u00e1genes. ",
                     "question": "\u00bfCu\u00e1l es la conducta m\u00e1s adecuada con un joven de 30 a\u00f1os que consulta por dolor intenso cervical con irradiaci\u00f3n a ambos hombros y dificultad para girar la cabeza, y relata que hace dos horas fue embestido de atr\u00e1s por una bicicleta? En el examen f\u00edsico presenta leve rigidez para mover la cabeza, sin signos neurol\u00f3gicos. ",
                     "options": {
@@ -23069,27 +23148,7 @@
             ]
         },
         "quemaduras": {
-            "array": [
-                {
-                    "question_complete": "\n79)  \u00bfDurante  un  auxilio  m\u00e9dico  en  una  situaci\u00f3n  de  incendio,  que  conducta  adoptar\u00eda  para  asistir  a  una \npersona que es retirada en llamas del lugar? \n a) Hacerlo rodar por el piso y aplicar mantas h\u00famedas. \n b) Hacerlo rodar por el piso y quitarle la ropa. \n c) Irrigar con agua y aplicar arena. \n d) Aplacar las llamas con un matafuego. ",
-                    "question": "\u00bfDurante un auxilio m\u00e9dico en una situaci\u00f3n de incendio, que conducta adoptar\u00eda para asistir a una persona que es retirada en llamas del lugar? ",
-                    "options": {
-                        "a": "Hacerlo rodar por el piso y aplicar mantas h\u00famedas.",
-                        "b": "Hacerlo rodar por el piso y quitarle la ropa.",
-                        "c": "Irrigar con agua y aplicar arena.",
-                        "d": "Aplacar las llamas con un matafuego."
-                    },
-                    "id": "f1f8a829-7bce-4cae-97d9-ce1e9b852b99",
-                    "origin": {
-                        "course": "examen unico",
-                        "exam": "2016"
-                    },
-                    "answer": "a",
-                    "index": 79,
-                    "image": "",
-                    "discussion": []
-                }
-            ],
+            "array": [],
             "aclaracion": "Quemaduras: De cualquier grado",
             "analogos": [
                 "quemaduras de primer grado",
@@ -28128,6 +28187,25 @@
                     },
                     "answer": "d",
                     "index": 72,
+                    "image": "",
+                    "discussion": []
+                },
+                {
+                    "question_complete": "\n79)  \u00bfDurante  un  auxilio  m\u00e9dico  en  una  situaci\u00f3n  de  incendio,  que  conducta  adoptar\u00eda  para  asistir  a  una \npersona que es retirada en llamas del lugar? \n a) Hacerlo rodar por el piso y aplicar mantas h\u00famedas. \n b) Hacerlo rodar por el piso y quitarle la ropa. \n c) Irrigar con agua y aplicar arena. \n d) Aplacar las llamas con un matafuego. ",
+                    "question": "\u00bfDurante un auxilio m\u00e9dico en una situaci\u00f3n de incendio, que conducta adoptar\u00eda para asistir a una persona que es retirada en llamas del lugar? ",
+                    "options": {
+                        "a": "Hacerlo rodar por el piso y aplicar mantas h\u00famedas.",
+                        "b": "Hacerlo rodar por el piso y quitarle la ropa.",
+                        "c": "Irrigar con agua y aplicar arena.",
+                        "d": "Aplacar las llamas con un matafuego."
+                    },
+                    "id": "f1f8a829-7bce-4cae-97d9-ce1e9b852b99",
+                    "origin": {
+                        "course": "examen unico",
+                        "exam": "2016"
+                    },
+                    "answer": "a",
+                    "index": 79,
                     "image": "",
                     "discussion": []
                 }
