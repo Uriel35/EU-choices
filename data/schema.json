@@ -8052,7 +8052,18 @@
                     "answer": "d",
                     "index": 5,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-18 18:48:37",
+                            "name": "Fernanda Becerra R. ",
+                            "email": "afer100496@gmail.com",
+                            "year": 2024,
+                            "index": 5,
+                            "explication": "En un electrocardiograma de un caso de Fibrilaci\u00f3n auricular, la activaci\u00f3n r\u00e1pida e irregular de las aur\u00edculas se traducen en AUSENCIA DE ONDAS P y en la sustituci\u00f3n de estas por una actividad desorganizada que modifica la l\u00ednea de base, adem\u00e1s, se destaca la irregulares del ritmo ventricular. ",
+                            "bibliography": "Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. \nCap\u00edtulo 53: Arritmias card\u00edacas. P\u00e1ginas 478 \u2013 480. ",
+                            "id": "bdb34227-996d-46a3-a5ee-eee2dac95dd2"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Arritmias: Entra TODOS los tipos de arritmias como FA, bloqueos AV, taquicardia, bradicardia, fibrilacion ventricular, etc...",
@@ -24493,7 +24504,18 @@
                     "answer": "a",
                     "index": 39,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-13 14:55:41",
+                            "name": "Pedro Cerda",
+                            "email": "pcerdaramon@med.unlp.edu.ar",
+                            "year": 2023,
+                            "index": 39,
+                            "explication": "La Ley N\u00b0 26.485 establece en su art\u00edculo 6to las modalidades de violencia de g\u00e9nero: dom\u00e9stica, laboral, institucional, contra la libertad reproductiva y medi\u00e1tica. A los efectos de esta ley se entiende por modalidades las formas (o escenarios, para entenderlo mejor) en que se manifiestan los distintos tipos de violencia contra las mujeres en los diferentes \u00e1mbitos.\nLas otras 3 opciones hacen alusi\u00f3n a tipos de violencia (entendida como conductas que por acci\u00f3n u omisi\u00f3n, de forma directa o indirecta y basada en una relaci\u00f3n desigual de poder,\nafecte su vida, libertad, dignidad, integridad y/o seguridad), que est\u00e1n contemplados en el art\u00edculo 5to: f\u00edsica, psicol\u00f3gica, sexual, econ\u00f3mica, simb\u00f3lica.",
+                            "bibliography": "https://www.argentina.gob.ar/sites/default/files/ley_26485_violencia_familiar.pdf",
+                            "id": "d1170461-88ed-4686-b321-de08cbcd0fdc"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Violencia: De cualquier tipo (infantil, a las mujeres, obstetricas, al profesional)",
