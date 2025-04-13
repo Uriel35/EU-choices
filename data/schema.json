@@ -940,7 +940,18 @@
                     "answer": "b",
                     "index": 29,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-25 23:59:49",
+                            "name": "Delfina Grig\u00fcelo",
+                            "email": "delfigrigue@gmail.com",
+                            "year": 2023,
+                            "index": 29,
+                            "explication": "Asma persistente LEVE -- TTO: GC a dosis bajas \u2192 BUDESONIDE\n- S\u00edntomas diurnos > 2 veces por SEMANA, pero no diarios\n- Despertares nocturnos MENSUALES\n- Limitaci\u00f3n leve de la actividad normal\n",
+                            "bibliography": "",
+                            "id": "57d28c73-a23e-4d87-9375-32a785f06d31"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "93) \u00bfC\u00f3mo realizar\u00eda el diagn\u00f3stico de una exacerbaci\u00f3n aguda de asma en un paciente \npedi\u00e1trico? \n a) Con una radiograf\u00eda de t\u00f3rax \n b) Con una ecograf\u00eda pleural \n c) Con un examen cl\u00ednico \n d) Con una espirometr\u00eda",
@@ -1494,7 +1505,18 @@
                     "answer": "b",
                     "index": 98,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-13 12:28:21",
+                            "name": "Delfina Oneto",
+                            "email": "delfinalaraoneto@gmail.com",
+                            "year": 2018,
+                            "index": 98,
+                            "explication": "Una deshidrataci\u00f3n muy severa puede llevar al shock hipovol\u00e9mico, que se caracteriza por cualquiera de los siguientes signos:\n* Pulsos d\u00e9biles o ausentes\n* Relleno capilar > 5 segundos\n* Oligoanuria\n* Hipotensi\u00f3n arterial\n",
+                            "bibliography": "Pediatr\u00eda Nelson 21 ed. Cap\u00edtulo \"Gastroenteritis Aguda en ni\u00f1os\"",
+                            "id": "fa6029cc-cfdf-4e79-81e1-a76312ce773f"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n47. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada que un lactante de nueve meses de vida que presenta una\ngastroenterocolitis aguda y en el examen f\u00edsico se encuentra afebril, con leve distensi\u00f3n\nabdominal y signos de deshidrataci\u00f3n moderada? No tiene antecedentes de salud significativos.\na. Indicar hidrataci\u00f3n endovenosa en forma inmediata.\nb. Realizar una interconsulta con gastroenter\u00f3logo infantil.\nc. Indicar un plan de rehidrataci\u00f3n oral en la guardia por seis horas.\nd. Recomendar pautas de alarma para la rehidrataci\u00f3n en el hogar.",
@@ -1789,7 +1811,18 @@
                     "answer": "b",
                     "index": 13,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-24 13:14:22",
+                            "name": "Melanie Alvarez",
+                            "email": "melunghi93@gmail.com",
+                            "year": 2024,
+                            "index": 13,
+                            "explication": "Tetralog\u00eda de Fallot (TOF):\n- Causa m\u00e1s com\u00fan de cardiopat\u00eda cong\u00e9nita cian\u00f3tica despu\u00e9s del per\u00edodo neonatal. \n- Cianosis de mucosas, manos y pies: Sugiere hipoxemia que orienta hacia una cardiopat\u00eda cong\u00e9nita cian\u00f3tica.\n- Aumento de la cianosis durante el llanto: En los lactantes con TOF, los \u201cespasmos hipox\u00e9micos\u201d o \u201ccrisis hip\u00f3xicas\u201d se desencadenan por el llanto o el esfuerzo, debido a un mayor cortocircuito de derecha a izquierda a trav\u00e9s del defecto del tabique interventricular (CIV).\n- Soplo sist\u00f3lico eyectivo intenso y \u00e1spero, en borde esternal izquierdo: Es el cl\u00e1sico soplo de la estenosis pulmonar, una de las 4 alteraciones de la TOF.\n\n\u00bfPor qu\u00e9 no son correctas las otras opciones?\n- CIV grande: Suele dar un soplo holosist\u00f3lico, no eyectivo, audible mejor en el foco tricusp\u00eddeo. No provoca cianosis significativa (a menos que haya hipertensi\u00f3n pulmonar avanzada). No se asocia a crisis de hipoxemia durante el llanto.\n- Transposici\u00f3n de los grandes vasos: provoca cianosis severa desde el nacimiento, no aparece a los 4 meses de vida. Suele haber un segundo ruido card\u00edaco \u00fanico y fuerte, no un soplo sist\u00f3lico eyectivo \u00e1spero. Sin una comunicaci\u00f3n interauricular o ductus, suele estar cr\u00edticamente enfermo en las primeras horas de vida.\n - Ductus arterioso persistente (DAP): Un DAP t\u00edpico produce un soplo continuo \u201cen maquinaria\u201d en el foco pulmonar, no un soplo sist\u00f3lico eyectivo. No provoca cianosis.\n",
+                            "bibliography": "",
+                            "id": "54ce26ed-7e0c-49e7-ab68-8a49b7abd3fd"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Cardiologia pediatrica: Aqui van las cardiopatias congenitas, fiebre reumatica, endocarditis infecciosa, insufiencia cardiaca, soplo patologico vs fisiologico",
@@ -2673,7 +2706,18 @@
                     "answer": "c",
                     "index": 95,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-10 16:10:50",
+                            "name": "Abril Gianotti",
+                            "email": "abril.gianotti@hotmail.com",
+                            "year": 2022,
+                            "index": 95,
+                            "explication": "El Sindrome Uremico Hemolitico (SUH) se define como un conjunto de signos y sintomas caracterizado por la aparicion repentina de: anemia hemolitica, plaquetopenia e insuficiencia renal aguda.\nLa principal etiologia es la E. Coli EnteroHemorragica Serotipo O157:H7, productora de verotoxina.\nEl reservorio mas frecuente es el ganado bovino, y la transmision se suele dar por medio del consumo de carne mal cocida, agua o alimentos contaminados con heces.\n\nClinica:\n- Anemia hemolitica microangiopatica (Hb<10, aumento bilirrubina indirecta, esquistocitos) de comienzo agudo. \n- Plaquetopenia: hemorragias, petequias, hematomas, etc.\n- Dolor abdominal, vomitos y diarrea acuosa inicial y posteriormente hemorragica.\n- Leucocitosis\n- Hematuria microscopica (100%) y macroscopica (30%).\n- IRA: disminucion del FG, y aumento de Urea y Cr --> Alt. del medio interno (acidosis metabolica) / HTA.\n- SNC: irritabilidad, somnolencia, temblores, convulsiones.",
+                            "bibliography": "",
+                            "id": "2f6afa16-a8b9-4d3d-a8f1-71f02de8d1fe"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n70) Pregunta: Un ni\u00f1o de 6 a\u00f1os es tra\u00eddo a la consulta por presentar edema palpebral bilateral y \norina de color oscuro. En el examen f\u00edsico tiene tensi\u00f3n arterial de 130/85 mmHg (por arriba del \npercentilo para su edad) y sedimento urinario con proteinuria (+++) \u00bfCu\u00e1l es el diagn\u00f3stico m\u00e1s \nprobable?  \nA) Sindrome ur\u00e9mico hemol\u00edtico. \nB) Sinrome nefr\u00edtico. \nC) Infecci\u00f3n del tracto urinario. \nD) Sindrome nefr\u00f3tico. \n",
@@ -3193,7 +3237,18 @@
                     "answer": "c",
                     "index": 95,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-10 16:10:50",
+                            "name": "Abril Gianotti",
+                            "email": "abril.gianotti@hotmail.com",
+                            "year": 2022,
+                            "index": 95,
+                            "explication": "El Sindrome Uremico Hemolitico (SUH) se define como un conjunto de signos y sintomas caracterizado por la aparicion repentina de: anemia hemolitica, plaquetopenia e insuficiencia renal aguda.\nLa principal etiologia es la E. Coli EnteroHemorragica Serotipo O157:H7, productora de verotoxina.\nEl reservorio mas frecuente es el ganado bovino, y la transmision se suele dar por medio del consumo de carne mal cocida, agua o alimentos contaminados con heces.\n\nClinica:\n- Anemia hemolitica microangiopatica (Hb<10, aumento bilirrubina indirecta, esquistocitos) de comienzo agudo. \n- Plaquetopenia: hemorragias, petequias, hematomas, etc.\n- Dolor abdominal, vomitos y diarrea acuosa inicial y posteriormente hemorragica.\n- Leucocitosis\n- Hematuria microscopica (100%) y macroscopica (30%).\n- IRA: disminucion del FG, y aumento de Urea y Cr --> Alt. del medio interno (acidosis metabolica) / HTA.\n- SNC: irritabilidad, somnolencia, temblores, convulsiones.",
+                            "bibliography": "",
+                            "id": "2f6afa16-a8b9-4d3d-a8f1-71f02de8d1fe"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n62) Pregunta: Una ni\u00f1a de 20 meses de edad presenta diarrea cr\u00f3nica, palidez, mal progreso \nponderal, deposiciones voluminosas y malolientes, sin moco ni sangre, distensi\u00f3n abdominal e \ninapetencia. \u00bfCu\u00e1l es la etiolog\u00eda m\u00e1s probable para la diarrea cr\u00f3nica de esta ni\u00f1a?  \nA) Diarrea cronica inespecifica. \nB) Alergia a la proteina de la leche de vaca. \nC) Enfermedad cel\u00edaca. \nD) Intolerancia a la lactosa. \n",
@@ -3755,7 +3810,18 @@
                     "answer": "c",
                     "index": 96,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-26 10:40:05",
+                            "name": "Juan Carlos Fino Vargas",
+                            "email": "juankfinov@gmail.com",
+                            "year": 2023,
+                            "index": 96,
+                            "explication": "La p\u00farpura trombocitop\u00e9nica inmune (PTI) es un trastorno hemorr\u00e1gico caracterizado por una disminuci\u00f3n anormal de plaquetas en la sangre. Esta disminuci\u00f3n de plaquetas (trombocitopenia), evidenciada en el laboratorio con un recuento de 22.000 /mm3 (valor significativamente bajo), puede provocar la aparici\u00f3n de equimosis, hematomas y petequias.\n\nOtros elementos cl\u00ednicos y de laboratorio que apoyan el diagn\u00f3stico de PTI en este caso son:\n*   La localizaci\u00f3n de las lesiones en miembros inferiores y tronco es compatible con PTI.\n*   La hemoglobina (12,3 g/dl) y el hematocrito (38%) se encuentran dentro de los rangos normales, lo que no es t\u00edpico de leucemias o anemias hemol\u00edticas severas.\n*   El recuento de gl\u00f3bulos blancos (5.500 mm3) es normal, lo que hace menos probable una leucemia linfobl\u00e1stica aguda como presentaci\u00f3n inicial.\n*   La presencia de hemat\u00edes en el sedimento de orina (15-20 por campo) podr\u00eda ser secundaria a la trombocitopenia.\n*   Si bien el ibuprofeno puede tener un efecto leve en la funci\u00f3n plaquetaria, no suele causar una trombocitopenia tan marcada como la observada en este caso.\n\nLa P\u00farpura de Schonlein Henoch (opci\u00f3n d) se caracteriza por p\u00farpura palpable, artralgias, dolor abdominal y afectaci\u00f3n renal, t\u00edpicamente con recuento de plaquetas normal. La disfunci\u00f3n plaquetaria por AINE (opci\u00f3n a) generalmente causa alteraciones plaquetarias menos severas y transitorias. La leucemia linfobl\u00e1stica aguda (opci\u00f3n b) suele presentar alteraciones significativas en el recuento de gl\u00f3bulos blancos.",
+                            "bibliography": "Flavia Ram\u00edrez \u2022 S\u00edndrome ur\u00e9mico hemol \u00ed t ico. PRONAP 2019 \u2022 M\u00f3dulo 2 \u2022 Cap\u00edtulo 1 15-44. (Si bien este cap\u00edtulo se centra en SUH, menciona la plaquetopenia como un hallazgo en microangiopat\u00edas tromb\u00f3ticas, lo que incluye el SUH y ayuda a diferenciarlo de otras causas de p\u00farpura).\nGu\u00eda para el diagn\u00f3stico, estudio y tratamiento de la infecci\u00f3n urinaria: actualizaci\u00f3n 2022. Arch Argent Pediatr 2022;120(5):S69-S87. (Menciona la trombocitopenia en el contexto de sepsis, ayudando a diferenciarla de otras p\u00farpuras).\nRecomendaciones para el manejo de las infecciones respiratorias agudas bajas en menores de 2 a\u00f1os. Actualizaci\u00f3n 2021. Arch Argent Pediatr 2021;119(4):S171-S197. (Menciona la trombocitopenia como un signo en algunos contextos infecciosos).",
+                            "id": "0ddfeb0c-f0f9-4e28-a8fb-c41c465ef502"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "69) Natalia de 7 a\u00f1os de edad, es tra\u00edda a la guardia por presentar lesiones en la piel de \nreciente comienzo. Las mismas son de color rojo viol\u00e1ceo, palpables, de aproximadamente 3 \na 5 mm y se distribuyen en miembros inferiores hasta alcanzar el abdomen. Hace 2 semanas \ntuvo odinofagia que resolvi\u00f3 con analg\u00e9sicos. Usted decide realizar un laboratorio con \ncoagulograma, hemograma y funci\u00f3n renal, cuyos resultados son normales. \u00bfCu\u00e1l es el \ndiagn\u00f3stico presuntivo? \n a) Enfermedad oncohematol\u00f3gica \n b) P\u00farpura de Schoenlein Henoch \n c) P\u00farpura Trombocitop\u00e9nica Idiop\u00e1tica \n d) Edema agudo hemorr\u00e1gico \n14",
@@ -3822,7 +3888,18 @@
                     "answer": "b",
                     "index": 66,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-09 15:29:42",
+                            "name": "Abril gianotti",
+                            "email": "abril.gianotti@hotmail.com",
+                            "year": 2022,
+                            "index": 66,
+                            "explication": "El caput succedaneum o colecci\u00f3n serosanguinea, es un hallazgo normal que se da en partos en presentaci\u00f3n cefalica y labor de parto prolongado. Presenta edema, congestion vascular, equimosis y petequias. Se evidencia al momento de nacer, NO respeta suturas y desaparece en 2-3 dias, suele ser de presentacion parieto-occipital.",
+                            "bibliography": "",
+                            "id": "5eb62ed6-2927-437d-ad04-9a425c7eadf1"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n83)  Los  reci\u00e9n  nacidos  reciben  profilaxis  con  f\u00e1rmacos  oft\u00e1lmicos  t\u00f3picos  como  nitrato  de  plata  y \neritromicina  para  prevenir  la  conjuntivitis.  \u00bfCu\u00e1l  de  las  siguientes  infecciones  oculares  es  m\u00e1s \nprobable que sea prevenida por dicha profilaxis? \n a) Chlamydia Trachomatis \n b) Estreptococo grupo B \n c) Neisseria gonorrhoeae \n d) Staphylococcus aureus \n",
@@ -4430,7 +4507,18 @@
                     "answer": "b",
                     "index": 98,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-13 12:28:21",
+                            "name": "Delfina Oneto",
+                            "email": "delfinalaraoneto@gmail.com",
+                            "year": 2018,
+                            "index": 98,
+                            "explication": "Una deshidrataci\u00f3n muy severa puede llevar al shock hipovol\u00e9mico, que se caracteriza por cualquiera de los siguientes signos:\n* Pulsos d\u00e9biles o ausentes\n* Relleno capilar > 5 segundos\n* Oligoanuria\n* Hipotensi\u00f3n arterial\n",
+                            "bibliography": "Pediatr\u00eda Nelson 21 ed. Cap\u00edtulo \"Gastroenteritis Aguda en ni\u00f1os\"",
+                            "id": "fa6029cc-cfdf-4e79-81e1-a76312ce773f"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Shock: De cualquier tipo (anafilactico, septico, hipovolemico, shock cardiogenico, etc)",
@@ -5952,7 +6040,18 @@
                     "answer": "b",
                     "index": 100,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-09 18:21:39",
+                            "name": "Martina",
+                            "email": "marsolarif@gmail.com",
+                            "year": 2023,
+                            "index": 100,
+                            "explication": "Eleg\u00ed la opci\u00f3n acalasia porque su diagnostico se realiza con SEGD con contraste donde se ve el es\u00f3fago dilatado seguido de su porci\u00f3n mas distal afinada \"imagen en pico de pajaro\" o \"cola de rat\u00f3n\"",
+                            "bibliography": "Michans/apuntes CEAR",
+                            "id": "5fe7ee9d-68a3-473c-b009-a8fc228df279"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Cancer de esofago: Cualquier tipo (escamoso, adenocx...)",
@@ -6000,7 +6099,18 @@
                     "answer": "b",
                     "index": 100,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-09 18:21:39",
+                            "name": "Martina",
+                            "email": "marsolarif@gmail.com",
+                            "year": 2023,
+                            "index": 100,
+                            "explication": "Eleg\u00ed la opci\u00f3n acalasia porque su diagnostico se realiza con SEGD con contraste donde se ve el es\u00f3fago dilatado seguido de su porci\u00f3n mas distal afinada \"imagen en pico de pajaro\" o \"cola de rat\u00f3n\"",
+                            "bibliography": "Michans/apuntes CEAR",
+                            "id": "5fe7ee9d-68a3-473c-b009-a8fc228df279"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Esofago benigno: Entra reflujo gastroesofagico, acalasia, tumores BENIGNOS, diverticulos esofagicos (Zenker)",
@@ -6481,7 +6591,18 @@
                     "answer": "a",
                     "index": 78,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-30 08:55:20",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 78,
+                            "explication": "ADA > 40 U/L: es sugestivo de tuberculosis pleural, especialmente si el derrame es:\n- Exudado linfocitario\n- pH cercano a normal\n- Glucosa normal o levemente baja\n- LDH moderadamente elevado",
+                            "bibliography": "",
+                            "id": "948952df-f021-44bf-b377-62e60dd6c399"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "47) \u00bfQu\u00e9 caracter\u00edstica posee un derrame pleural para definirlo como empiema? \n a) Glucosa 75 mg/dL. \n b) Tinci\u00f3n de Gram positiva. \n c) PH 7.32. \n d) LDH 900 UI/L.",
@@ -6748,7 +6869,18 @@
                     "answer": "d",
                     "index": 70,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-19 20:47:41",
+                            "name": "Delfina Oneto",
+                            "email": "delfinalaraoneto@gmail.com",
+                            "year": 2021,
+                            "index": 70,
+                            "explication": "La hemorroidectom\u00eda por escisi\u00f3n se puede ofrecer a pacientes con hemorroides internas y externas combinadas sintom\u00e1ticas con prolapso (grados III-IV) o pacientes con acrocordones importantes asociados.",
+                            "bibliography": "GIMENEZ, Mariano. \u201cFundamentos para la pr\u00e1ctica cl\u00ednico - quir\u00fargica\u201d. Editorial M\u00e9dico Panamericana 2014.",
+                            "id": "1205920e-da8c-4016-be65-fe3d456d879f"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -6971,7 +7103,18 @@
                     "answer": "c",
                     "index": 31,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-12 21:07:39",
+                            "name": "David Lima",
+                            "email": "davidlima.med001@gmail.com",
+                            "year": 2017,
+                            "index": 31,
+                            "explication": "Criterios diagn\u00f3sticos del s\u00edndrome metab\u00f3lico:\n- Obesidad central (obligatoria en IDF):\n- Per\u00edmetro abdominal:\n- \u2265102 cm en hombres\n- \u226588 cm en mujeres (valores adaptables por etnia)\n- Triglic\u00e9ridos \u2265150 mg/dL o en tratamiento para hipertrigliceridemia\n- HDL bajo:\n--- <40 mg/dL en hombres\n--- <50 mg/dL en mujeres\n- Presi\u00f3n arterial \u2265130/85 mmHg o en tratamiento antihipertensivo\n- Glucemia en ayunas \u2265100 mg/dL o diagn\u00f3stico previo de diabetes tipo 2",
+                            "bibliography": "Asociaci\u00f3n Latinoamericana de Diabetes (ALAD). Epidemiolog\u00eda, diagn\u00f3stico, control, prevenci\u00f3n y tratamiento del s\u00edndrome metab\u00f3lico en adultos. Revista ALAD. 2010;18(1):27-31.",
+                            "id": "c0286ff7-51c4-4bd9-abe8-57853db483be"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n36. Por el gasto energ\u00e9tico que produce, \u00bfcu\u00e1l de las siguientes actividades ser\u00edan m\u00e1s\nrecomendada para un paciente con sobrepeso?\na. Caminar tres veces por semana durante 15 minutos.\nb. Andar en bicicleta de paseo 15 minutos tres veces por semana.\nc. Hacer tareas de jardiner\u00eda dos veces por semana.\nd. Bailar diariamente durante 30 minutos.",
@@ -9330,7 +9473,18 @@
                     "answer": "c",
                     "index": 88,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-07 10:37:27",
+                            "name": "Juan Carlos Fino Vargas",
+                            "email": "juankfinov@gmail.com",
+                            "year": 2018,
+                            "index": 88,
+                            "explication": "\u2705 Respuesta correcta: c) Carcinoma de c\u00e9lulas peque\u00f1as\n\ud83e\udde0 Fundamento cl\u00ednico: El paciente presenta hiponatremia severa sintom\u00e1tica (Na: 115 mEq/L) con s\u00edntomas neurol\u00f3gicos (confusi\u00f3n, convulsi\u00f3n). Este hallazgo, junto con:\nOsmolalidad s\u00e9rica baja (250 mOsm/kg),\nOsmolalidad urinaria alta (500 mOsm/kg),\nMasa pulmonar en la Rx de t\u00f3rax,\n...es caracter\u00edstico del S\u00edndrome de Secreci\u00f3n Inadecuada de Hormona Antidiur\u00e9tica (SIADH), una paraneoplasia com\u00fanmente asociada al carcinoma de c\u00e9lulas peque\u00f1as de pulm\u00f3n.\n\ud83d\udd2c Este subtipo de c\u00e1ncer pulmonar tiene alta capacidad neuroendocrina \u2192 secreta ADH ect\u00f3picamente \u2192 retenci\u00f3n de agua libre \u2192 hiponatremia dilucional.\n\u274c \u00bfPor qu\u00e9 no las otras?\na) C\u00e1ncer cerebral metast\u00e1sico\n\u26d4 Podr\u00eda explicar la convulsi\u00f3n, pero no explica la hiponatremia ni la osmolalidad urinaria elevada.\nb) C\u00e1ncer de pr\u00f3stata\n\u26d4 No suele producir SIADH ni da masas pulmonares.\nd) Tuberculosis\n\u26d4 Puede causar hiponatremia en contexto de insuficiencia suprarrenal, pero aqu\u00ed no hay signos de esa patolog\u00eda y s\u00ed una masa pulmonar sugestiva de neoplasia.\n\ud83e\uddfe Resumen:\n\ud83d\udc74 Paciente a\u00f1oso, fumador probable.\n\ud83d\udca5 Convulsi\u00f3n + hiponatremia severa + osmolalidad urinaria alta + masa pulmonar.\n\ud83e\uddec Diagn\u00f3stico m\u00e1s probable: Carcinoma de c\u00e9lulas peque\u00f1as de pulm\u00f3n con SIADH paraneopl\u00e1sico.",
+                            "bibliography": "",
+                            "id": "378653d1-5b5c-4f05-a365-3db3489ce9fe"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "87) Paciente de 40 a\u00f1os, cursa internaci\u00f3n por un s\u00edndrome de secreci\u00f3n inadecuada de la hormona \nantidiur\u00e9tica.  En el laboratorio de rutina se identifica un Sodio plasm\u00e1tico de 120 mEq/l. \u00bfCu\u00e1l de las \nsiguientes opciones caracteriza a este s\u00edndrome? \n a) Hiponatremia Hipovol\u00e9mica con sodio urinario menor a 20 mEq/l \n b) Hiponatremia Hipervol\u00e9mica con sodio urinario mayor a 20 mEq/l \n c) Hiponatremia Euvol\u00e9mica con un sodio urinario menor a 20 mEq/l \n d) Hiponatremia Euvol\u00e9mica con un sodio urinario mayor a 20 mEq/l \n21",
@@ -10238,7 +10392,18 @@
                     "answer": "d",
                     "index": 11,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-26 13:57:53",
+                            "name": "",
+                            "email": "",
+                            "year": 2022,
+                            "index": 11,
+                            "explication": "Ante alteraciones de la glucemia plasm\u00e1tica en ayunas (GPA), se recomienda una segunda prueba para detecci\u00f3n de casos de DM2: Ante GPA igual o mayor a 126 mg/dl: repetir glucemia para confirmar diagn\u00f3stico, en personas con factores de riesgo. ",
+                            "bibliography": "Gu\u00eda de Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2) . Min. Salud Argentina. Pag 11 ",
+                            "id": "8fed356b-1417-41a5-9e09-3c36c7d53cf2"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n13)  Toda  persona  con  diagn\u00f3stico  de DM2  debe  ser incluida en  estilos  de  vida  saludable. \u00bfQu\u00e9  es lo \nrecomendable en cuanto a la actividad f\u00edsica? \n a) Al menos 150 minutos quincenales de intensidad f\u00edsica moderada \n b) Al menos 60 minutos diarios de actividad f\u00edsica intensa \n c) Al menos 150 minutos semanales de intensidad f\u00edsica moderada \n d) Al menos 60 minutos semanales de actividad f\u00edsica moderada \n",
@@ -10601,6 +10766,16 @@
                             "explication": "Seg\u00fan la gu\u00eda  \"Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2) 2019\", el diagnostico de Dbt se realiza con los siguientes criterios:\n- Glucemia plasm\u00e1tica en ayunas (GPA): dos determinaciones con valores iguales o mayores a 126 mg/dl, realizadas en 2 d\u00edas distintos.\n- Glucemia medida al azar: una determinaci\u00f3n de glucemia plasm\u00e1tica con valor mayor o igual a 200 mg/dl m\u00e1s la presencia de s\u00edntomas cardinales de diabetes (p\u00e9rdida de peso, poliuria, polidipsia, polifagia).\n- Prueba de tolerancia oral a la glucosa (PTOG75): dos determinaciones de glucemia plasm\u00e1tica dos horas despu\u00e9s de una carga oral con 75 grs de glucosa anhidra disueltos en 375 ml de agua, igual o mayor a 200 mg/dl realizadas en dos d\u00edas distintos.\n- Hemoglobina glicosilada A1c (HbA1c) estandarizada: dos determinaciones con valores iguales o mayores a 6,5% realizadas en dos d\u00edas distintos.\n\nPor tanto, si bien nuestro paciente tiene una glucemia al azar > 200 mg/dl, no presenta ninguno de los s\u00edntomas cardinales (o no lo especifica) y debido a eso la respuesta m\u00e1s correcta ser\u00eda pedir una nueva glucemia en ayuno.",
                             "bibliography": "bancos.salud.gob.ar/sites/default/files/2020-09/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_2019.pdf",
                             "id": "c4e8cc05-d117-4e6f-9a4a-cabff1505241"
+                        },
+                        {
+                            "date": "2025-03-26 01:17:11",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 98,
+                            "explication": "Si se le solicito una glucemia al azar por guardia, es porque presentaba sintomas (poliuria, polidipsia, etc.) por ende la respuesta correcta es Dx de DBT ya que no requiere otra determinacion por ser > 200 mg/dl. \n\"El \u00fanico criterio que NO requiere una segunda determinaci\u00f3n para establecer el diagn\u00f3stico es la glucemia plasm\u00e1tica al azar igual o mayor a 200 mg/dl en presencia de s\u00edntomas (poliuria, polidipsia, polifagia, p\u00e9rdida de peso).\"\nVer algoritmo diagnostico de Gu\u00eda de Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2) en la pagina 11.",
+                            "bibliography": "https://www.argentina.gob.ar/sites/default/files/bancos/2021-01/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_version-abreviada.pdf",
+                            "id": "cbec9028-99b8-424e-a162-492c6a190db6"
                         }
                     ]
                 },
@@ -10659,7 +10834,18 @@
                     "answer": "d",
                     "index": 87,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-10 13:14:09",
+                            "name": "Ivo R",
+                            "email": "",
+                            "year": 2024,
+                            "index": 87,
+                            "explication": "Indicaciones de insulina:\n2) Tratamiento inicial: la insulina, en lugar de los f\u00e1rmacos hipoglucemiantes orales, puede estar indicada para el tratamiento inicial de algunos pacientes con diabetes tipo 2, dependiendo de la gravedad de la alteraci\u00f3n metab\u00f3lica inicial. La insulina se debe considerar especialmente para pacientes que presentan un nivel de A1C> 9.5 %, glucosa en plasma en ayunas> 250 mg/dl, glucosa aleatoria consistentemente> 300 mg / dl, cetonuria, o con p\u00e9rdida de peso no planificada en asociaci\u00f3n con hiperglucemia.",
+                            "bibliography": "TRAPS Fasciculo 6 Diabetes mellitus tipo 2, Pagina 23, http://medicamentos.msal.gob.ar/images/2018/Serie%20RCVG%20Fasciculo%206%205_7.pdf",
+                            "id": "8a9884a6-5575-44af-803e-cf84419fcb9b"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "95) \u00bfQu\u00e9 recomendar\u00eda realizar en un paciente que presenta una glucemia plasm\u00e1tica en \nayunas (GPA) de 119 mg/dl? \n a) Una segunda prueba para detecci\u00f3n DM2: nueva glucemia y POTG 75. \n b) Cito en 3 meses para repetir laboratorios. \n c) Solicito Hemoglobina glicosilada . \n d) Inicio tratamiento con Metformina y cambios en el estilo de vida saludable.",
@@ -12726,7 +12912,18 @@
                     "answer": "b",
                     "index": 85,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-28 11:43:20",
+                            "name": "",
+                            "email": "",
+                            "year": 2020,
+                            "index": 85,
+                            "explication": "Metodo anticonceptivo  de alta eficacia anticonceptiva de accion prolongada y reversible que ademas presenta beneficios no contraceptivos del DIU - LNG, como: \n- Disminucion del sangrado menstrual.\n- Disminucion del riesgo de anemia.\n- Disminucion de dolor menstrual, entre otros. ",
+                            "bibliography": "Guia MAC. A\u00f1o 2023. Pag 199. Min Sal Argentina. ",
+                            "id": "4fb1ff82-624e-4998-9c0b-0b6e4a0eff10"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n36)  Se  presenta  al  Centro  de  salud  una  mujer  de  25  a\u00f1os  que  pide  informaci\u00f3n  sobre  m\u00e9todos \nanticonceptivos, actualmente utiliza preservativo. No refiere antecedentes cl\u00ednicos de importancia. Niega \nmedicaci\u00f3n habitual. Fuma un paquete de cigarrillos por d\u00eda y tiene un \u00edndice de masa corporal de 28. De \nacuerdo a los Criterios de elegibilidad de la Organizaci\u00f3n Mundial de la Salud para el inicio y continuaci\u00f3n \ndel uso de m\u00e9todos anticonceptivos,  cu\u00e1l es el m\u00e9todo anticonceptivo que NO se recomienda,  a menos \nque  otros  m\u00e9todos  m\u00e1s  adecuados  no  est\u00e9n  disponibles  o  no  sean  aceptados  o  haya  serias  dificultades \npara la adherencia: \n a) Anticonceptivo oral s\u00f3lo progest\u00e1geno. \n b) Anticonceptivos combinados inyectables en forma mensual. \n c) Acetato de Medroxiprogesterona de dep\u00f3sito inyectable en forma trimestral. \n d) Dispositivo intrauterino de cobre. ",
@@ -13158,7 +13355,18 @@
                     "answer": "d",
                     "index": 7,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-28 10:55:07",
+                            "name": "",
+                            "email": "",
+                            "year": 2019,
+                            "index": 7,
+                            "explication": "Estrategia de seguimiento para adolescentes con ASC-H/HSIL, indica: \nCuando la biopsia es negativa, CIN 1 o CIN 2 en una adolescente: realizar seguimiento cito-colposcopico cada 6 meses durante 2 a\u00f1os. ",
+                            "bibliography": "Min. Salud Argentina. Prevencion del cancer cervicouterino. Actualizaci\u00f3n 2015. Pagina 48. ",
+                            "id": "c3470c4e-e3d8-4554-9ada-46c24d746785"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n77) \u00bfCu\u00e1l es una medida de prevenci\u00f3n primaria para el c\u00e1ncer de  cuello de \u00fatero? \n a) Papanicolaou. \n b) Vacuna HPV. \n c) Colposcop\u00eda. \n d) Ecograf\u00eda transvaginal. ",
@@ -19852,7 +20060,18 @@
                     "answer": "a",
                     "index": 78,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-30 08:55:20",
+                            "name": "",
+                            "email": "",
+                            "year": 2023,
+                            "index": 78,
+                            "explication": "ADA > 40 U/L: es sugestivo de tuberculosis pleural, especialmente si el derrame es:\n- Exudado linfocitario\n- pH cercano a normal\n- Glucosa normal o levemente baja\n- LDH moderadamente elevado",
+                            "bibliography": "",
+                            "id": "948952df-f021-44bf-b377-62e60dd6c399"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Tuberculosis: Cualquier presentacion (pulmonar, meningea, ganglionar, etc), cualquier subtipo (bovis...)",
@@ -21648,7 +21867,18 @@
                     "answer": "c",
                     "index": 88,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-07 10:37:27",
+                            "name": "Juan Carlos Fino Vargas",
+                            "email": "juankfinov@gmail.com",
+                            "year": 2018,
+                            "index": 88,
+                            "explication": "\u2705 Respuesta correcta: c) Carcinoma de c\u00e9lulas peque\u00f1as\n\ud83e\udde0 Fundamento cl\u00ednico: El paciente presenta hiponatremia severa sintom\u00e1tica (Na: 115 mEq/L) con s\u00edntomas neurol\u00f3gicos (confusi\u00f3n, convulsi\u00f3n). Este hallazgo, junto con:\nOsmolalidad s\u00e9rica baja (250 mOsm/kg),\nOsmolalidad urinaria alta (500 mOsm/kg),\nMasa pulmonar en la Rx de t\u00f3rax,\n...es caracter\u00edstico del S\u00edndrome de Secreci\u00f3n Inadecuada de Hormona Antidiur\u00e9tica (SIADH), una paraneoplasia com\u00fanmente asociada al carcinoma de c\u00e9lulas peque\u00f1as de pulm\u00f3n.\n\ud83d\udd2c Este subtipo de c\u00e1ncer pulmonar tiene alta capacidad neuroendocrina \u2192 secreta ADH ect\u00f3picamente \u2192 retenci\u00f3n de agua libre \u2192 hiponatremia dilucional.\n\u274c \u00bfPor qu\u00e9 no las otras?\na) C\u00e1ncer cerebral metast\u00e1sico\n\u26d4 Podr\u00eda explicar la convulsi\u00f3n, pero no explica la hiponatremia ni la osmolalidad urinaria elevada.\nb) C\u00e1ncer de pr\u00f3stata\n\u26d4 No suele producir SIADH ni da masas pulmonares.\nd) Tuberculosis\n\u26d4 Puede causar hiponatremia en contexto de insuficiencia suprarrenal, pero aqu\u00ed no hay signos de esa patolog\u00eda y s\u00ed una masa pulmonar sugestiva de neoplasia.\n\ud83e\uddfe Resumen:\n\ud83d\udc74 Paciente a\u00f1oso, fumador probable.\n\ud83d\udca5 Convulsi\u00f3n + hiponatremia severa + osmolalidad urinaria alta + masa pulmonar.\n\ud83e\uddec Diagn\u00f3stico m\u00e1s probable: Carcinoma de c\u00e9lulas peque\u00f1as de pulm\u00f3n con SIADH paraneopl\u00e1sico.",
+                            "bibliography": "",
+                            "id": "378653d1-5b5c-4f05-a365-3db3489ce9fe"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n91. \u00bfCu\u00e1l ser\u00eda el tratamiento m\u00e1s adecuado para un paciente de 64 a\u00f1os, tabaquista, que presenta\ntos, p\u00e9rdida de peso y hemoptisis y que en una tomograf\u00eda de t\u00f3rax presenta un n\u00f3dulo s\u00f3lido en\nel campo superior derecho de 6 cm, adenomegalias parahiliares e ipsilaterales? Se realiz\u00f3 una\npunci\u00f3n aspirativa y el estudio patol\u00f3gico estableci\u00f3 el diagn\u00f3stico de c\u00e1ncer de pulm\u00f3n en\nc\u00e9lulas no peque\u00f1as.\na. Cirug\u00eda resectiva, con quimioterapia adyuvante.\nb. Radioterapia adjuvante.\nc. Quimioterapia m\u00e1s radioterapia y control entres meses.\nd. Quimioterapia y control en 6 meses.",
@@ -23364,7 +23594,18 @@
                     "answer": "a",
                     "index": 10,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-24 11:49:30",
+                            "name": "Melanie Alvarez",
+                            "email": "melunghi93@gmail.com",
+                            "year": 2024,
+                            "index": 10,
+                            "explication": "El nistagmo horizontal, aparece m\u00e1s en v\u00e9rtigo perif\u00e9rico, pero tambi\u00e9n puede aparecer en v\u00e9rtigo central y, por eso, no ser\u00eda tan espec\u00edficSo de v\u00e9rtigo laber\u00edntico. En cambio, ac\u00fafenos e hipoacusia, son espec\u00edficos de v\u00e9rtigos perif\u00e9ricos",
+                            "bibliography": "No es bibliograf\u00eda oficial, pero en este v\u00eddeo cortito queda bien clarita la diferencia entre los dos tipos de v\u00e9rtigo: https://youtu.be/N6ckb8EzwBo?si=of78omWXYJQC_uXd",
+                            "id": "93eba08e-88a5-4468-a172-011a10f6c25d"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Vestibular: Entran los sindromes vestibulares perifericos, como Meniere, vertigo posicional paroxistico benigno (VPPB), neuronitis vestibular, neurinoma vestibular, ototoxicidad",
@@ -24823,7 +25064,18 @@
                     "answer": "d",
                     "index": 4,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-03-26 13:48:47",
+                            "name": "Anonima ",
+                            "email": "",
+                            "year": 2022,
+                            "index": 4,
+                            "explication": "ACCESO A LA INTERRUPCI\u00d3N VOLUNTARIA DEL EMBARAZO - Ley 27610\nArticulo 5 de los derechos en la atencion de la salid, literal e: Acceso a la informaci\u00f3n, parrafo 3, indica:\nEl personal de salud y las autoridades p\u00fablicas tienen la obligaci\u00f3n de suministrar la informaci\u00f3n disponible sobre los derechos protegidos por la presente ley de forma din\u00e1mica y a lo largo de todo el proceso de atenci\u00f3n, incluso si no hay una solicitud expl\u00edcita.",
+                            "bibliography": "https://www.boletinoficial.gob.ar/detalleAviso/primera/239807/20210115",
+                            "id": "76692dab-28ea-416c-85f3-bae63eda1931"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n88) La Ley n\u00ba 26.061 tiene por objeto: \n a) La protecci\u00f3n integral de los derechos de los Ni\u00f1os, Ni\u00f1as y Adolecentes (NNyA) que se encuentren en el \nterritorio de la Rep\u00fablica Argentina \n b) El acceso a la interrupci\u00f3n voluntaria y legal del embarazo y a la atenci\u00f3n postaborto de todas las personas \ncon capacidad de gestar \n c)  Alcanzar  para  la  poblaci\u00f3n  el  nivel  m\u00e1s  elevado  de  salud  sexual  y  procreaci\u00f3n  responsable  con  el  fin  de \nque pueda adoptar decisiones libres de discriminaci\u00f3n, coacciones o violencia \n d)  Toda  persona  mayor  de  edad  tiene  derecho  a  acceder  a  la  realizaci\u00f3n  de  las  pr\u00e1cticas  denominadas \n\"ligadura de trompas de Falopio\" y \"vasectom\u00eda\" en los servicios del sistema de salud \n",
@@ -26795,7 +27047,18 @@
                     "answer": "c",
                     "index": 31,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-12 21:07:39",
+                            "name": "David Lima",
+                            "email": "davidlima.med001@gmail.com",
+                            "year": 2017,
+                            "index": 31,
+                            "explication": "Criterios diagn\u00f3sticos del s\u00edndrome metab\u00f3lico:\n- Obesidad central (obligatoria en IDF):\n- Per\u00edmetro abdominal:\n- \u2265102 cm en hombres\n- \u226588 cm en mujeres (valores adaptables por etnia)\n- Triglic\u00e9ridos \u2265150 mg/dL o en tratamiento para hipertrigliceridemia\n- HDL bajo:\n--- <40 mg/dL en hombres\n--- <50 mg/dL en mujeres\n- Presi\u00f3n arterial \u2265130/85 mmHg o en tratamiento antihipertensivo\n- Glucemia en ayunas \u2265100 mg/dL o diagn\u00f3stico previo de diabetes tipo 2",
+                            "bibliography": "Asociaci\u00f3n Latinoamericana de Diabetes (ALAD). Epidemiolog\u00eda, diagn\u00f3stico, control, prevenci\u00f3n y tratamiento del s\u00edndrome metab\u00f3lico en adultos. Revista ALAD. 2010;18(1):27-31.",
+                            "id": "c0286ff7-51c4-4bd9-abe8-57853db483be"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Riesgo cardiovascular (Riesgo CV): Todo lo que tenga que ver con su estadificacion, esperanza de vida y tratamiento",
@@ -28146,7 +28409,18 @@
                     "answer": "c",
                     "index": 31,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-12 21:07:39",
+                            "name": "David Lima",
+                            "email": "davidlima.med001@gmail.com",
+                            "year": 2017,
+                            "index": 31,
+                            "explication": "Criterios diagn\u00f3sticos del s\u00edndrome metab\u00f3lico:\n- Obesidad central (obligatoria en IDF):\n- Per\u00edmetro abdominal:\n- \u2265102 cm en hombres\n- \u226588 cm en mujeres (valores adaptables por etnia)\n- Triglic\u00e9ridos \u2265150 mg/dL o en tratamiento para hipertrigliceridemia\n- HDL bajo:\n--- <40 mg/dL en hombres\n--- <50 mg/dL en mujeres\n- Presi\u00f3n arterial \u2265130/85 mmHg o en tratamiento antihipertensivo\n- Glucemia en ayunas \u2265100 mg/dL o diagn\u00f3stico previo de diabetes tipo 2",
+                            "bibliography": "Asociaci\u00f3n Latinoamericana de Diabetes (ALAD). Epidemiolog\u00eda, diagn\u00f3stico, control, prevenci\u00f3n y tratamiento del s\u00edndrome metab\u00f3lico en adultos. Revista ALAD. 2010;18(1):27-31.",
+                            "id": "c0286ff7-51c4-4bd9-abe8-57853db483be"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Obesidad: O sindrome metabolico. Como debe ser su plan dietetico y su ejercicio.",
