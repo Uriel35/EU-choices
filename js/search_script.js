@@ -111,11 +111,19 @@ function displayPage(data){
         const allPathOptions = document.querySelectorAll('.path-option')
         allPathOptions.forEach(pathOption => {
             function submitOption(e) {
+                const liElement = e.target.closest("li"); // busca el li más cercano hacia arriba
+                if (liElement) {
+                    liElement.classList.add("path-selected");
+                }
                 let saveValue = searcher.value
                 searcher.value = pathOption.id
                 submitSearchInput(e) // Creo que seria mejor intentar que se active el 'submit' event de searchForm
                 setAllQuestionCounter()
                 searcher.value = saveValue
+            }
+            // Agregar "path-selected" al li para mostrar que ya esta agregado
+            if (dom_utils.checkIfPathAllreadyAdded(pathOption.id, pathsForm)) {
+                pathOption.classList.add("path-selected")
             }
             pathOption.addEventListener('click', submitOption)
             pathOption.addEventListener('keydown', (e) => { 
@@ -153,7 +161,11 @@ function displayPage(data){
                 dom_utils.addPath(pathExists, pathsForm, setAllQuestionCounter)
                 searcher.classList.remove('error-input')
             } else {
-                dom_utils.invalidateInput(searcher, 'Especialidad y/o tema ya agregado')
+                let allPathsSelected = document.querySelectorAll(".path-selected")
+                let matchedPath = Array.from(allPathsSelected).find(el => el.id === pathExists);
+                let targetDiv = pathsForm.querySelector(`input#${CSS.escape(pathExists)}`)?.closest('div');
+                matchedPath.classList.remove("path-selected")
+                targetDiv.remove()
             }
         }
         setAllQuestionCounter()

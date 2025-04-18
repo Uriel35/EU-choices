@@ -222,7 +222,7 @@ input[type="checkbox"]:checked + label {
   display: none;
   color: var(--error-color);
   font-size: calc(var(--font-size) * .9);
-  background-color: white;
+  font-weight: 800;
 }
 
 #matched-search-list {
@@ -257,13 +257,17 @@ input[type="checkbox"]:checked + label {
 }
 
 #search-ctn ul li:hover, #search-ctn ul li:focus {
-  background-color: #555;
+  background-color: #111;
 }
 
 #search-ctn ul li p {
   font-size: calc(var(--font-size) * 1.2);
   text-transform: lowercase;
   font-weight: 300;
+}
+
+.path-selected {
+  background-color: #555 !important;
 }
 
 .highligth {
