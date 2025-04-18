@@ -28,7 +28,7 @@
     margin: 0;
     outline: none;
     position: relative;
-    word-wrap: break-word; /* Para navegadores antiguos */
+    word-wrap: b2k-word; /* Para navegadores antiguos */
     overflow-wrap: break-word; /* Para navegadores modernos */
 }
 
@@ -122,8 +122,8 @@ i {
   align-items: center;
   justify-content: center;
   height: 100%;
-  /* max-height: max-content; */
-  min-width: 3rem;
+  max-height: max-content;
+  max-width: max-content;
   position: relative;
 }
 
@@ -237,7 +237,7 @@ body.modal-open {
   }
   
   .icon-button {
-    min-width: 2.5rem;
+    /* min-width: 2.5rem; */
   }
 
   .new {
