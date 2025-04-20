@@ -473,7 +473,18 @@
                     "answer": "d",
                     "index": 34,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-17 18:25:35",
+                            "name": "Abril Gianotti",
+                            "email": "abril.gianotti@hotmail.com",
+                            "year": 2024,
+                            "index": 34,
+                            "explication": "La secuencia de crecimiento normal en mujeres consta de:\n1) Bot\u00f3n mamario: telarca (8,3 a 13,3 a\u00f1os, en promedio 10,8) se considera el inicio de la pubertad.\n2) Vello pubiano: pubarca (7,5 a 14,5, en promedio 11 a\u00f1os).\n3) Pico de empuje puberal (9,5 a 14,5, en promedio 12 a\u00f1os, aproximadamente despues del E2 de Tanner).\n4) Menarca (10,1 a 14,9, en promedio 12,5 a\u00f1os, aproximadamente en M4).\n\nEl unico marcador de inicio de la pubertad es la TELARCA, la unica forma de decir si tiene pubertad precoz es si el boton mamario aparece antes de los 8,3 a\u00f1os.",
+                            "bibliography": "Guias de la evaluacion del crecimiento. SAP 2da Edici\u00f3n 2001.",
+                            "id": "ba131933-76fc-4a03-a45d-bf8713ae8e97"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "52) Un adolescente de 15 a\u00f1os es examinado despu\u00e9s de 24hs de dolor abdominal, c\u00f3lico y un \nepisodio de diarrea. No refiere anorexia, v\u00f3mitos ni fiebre. El examen f\u00edsico revela un leve \ndolor abdominal difuso a la palpaci\u00f3n abdominal sin defensa ni rebote, ruidos hidroaereos \nconservados. No se observa hepatoesplenomegalia y presenta un estadio de Tanner 1. Usted \ndiagnostica una gastroenteritis aguda. \u00bfCu\u00e1l de las siguientes es la raz\u00f3n m\u00e1s apropiada para \nreevaluar a este adolescente despu\u00e9s del cuadro agudo? \n a) Revisar su estado nutricional \n b) Realizar serolog\u00eda para hepatitis A \n c) Evaluar su contexto psicosocial y condiciones higi\u00e9nicas en domicilio. \n d) Iniciar evaluaci\u00f3n por ausencia de signos puberales",
@@ -1203,7 +1214,18 @@
                     "answer": "a",
                     "index": 89,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-17 18:42:47",
+                            "name": "Abril Gianotti",
+                            "email": "abril.gianotti@hotmail.com",
+                            "year": 2024,
+                            "index": 89,
+                            "explication": "Se consideran \u201ccontactos de alto riesgo\u201d a los convivientes que compartan al menos 4 horas diarias con el paciente, y aquellos que presentan m\u00e1s riesgo de presentar formas graves (menores de 5 a\u00f1os, inmunocomprometidos, y situaciones especiales como\nDBT1, embarazo), as\u00ed como los que presentan PPD + ( viraje tubercul\u00ednico).\n\nPara la evaluaci\u00f3n de los contactos se realiza:\n- Evaluacion clinica + PPD + RxTx a todos los ni\u00f1os.\n- Evaluacion clinica + RxTx a todos los adultos.\n- Baciloscopia a los pacientes adultos sintomaticos.\n\nEs por ello que la quimioprofilaxis est\u00e1 indicada en:\n\u2022 Contactos de caso \u00edndice bacil\u00edfero menores de 19 a\u00f1os: TODOS\n\u2022 Contactos de caso \u00edndice NO bacil\u00edfero (contactos de alto riesgo)\n\u2022 < 5 a\u00f1os\n\u2022 Inmunocomprometidos\n\u2022 Situaciones especiales: DBT 1, hemodi\u00e1lisis\n\u2022 PPD+\n\nLa profilaxis consiste en la administraci\u00f3n de isoniacida a 10 mg/Kg/d\u00eda (m\u00e1x. 300 mg) en una sola toma diaria durante 6 meses.\nEn el caso del contacto con un caso indice bacil\u00edfero PPD negativo de inicio con persistencia de la negatividad a los 3 meses (PPD y RX t\u00f3rax normal) podr\u00eda suspenderse la quimioprofilaxis a los 3 meses, siempre que el foco inicial este controlado. En menores de 5 a\u00f1os algunos autores recomiendan completar 6 meses en todos los casos independientemente del resultado de la PPD.",
+                            "bibliography": "https://www.garrahan.gov.ar/PDFS/medicamentos/tablas/TB_GUIAS_HPG_2023.pdf",
+                            "id": "d0c30d72-4089-4fe2-9115-c7081d7fd0eb"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "",
@@ -19091,7 +19113,18 @@
                     "answer": "a",
                     "index": 9,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-04-16 23:42:14",
+                            "name": "Fernanda Becerra R",
+                            "email": "afer100496@gmail.com",
+                            "year": 2017,
+                            "index": 9,
+                            "explication": "Respecto a la cl\u00ednica de una Meningitis tuberculosa, \u00e9sta se precede de un pr\u00f3dromo de 2-4 semanas con s\u00edntomas inespec\u00edficos (fatiga, malestar general, artromialgias) seguidos de fiebre, cefalea, v\u00f3mitos, alteraciones del nivel de conciencia y meningismo; mientras que, la cl\u00ednica de una meningitis por lo general suele presentarse como una enfermedad aguda fulminante que avanza con rapidez en pocas horas o subaguda que empeora de forma progresiva a lo largo de varios d\u00edas con la tr\u00edada de fiebre, cefalea y rigidez de nuca. Lo que al compararse con la cl\u00ednica del caso, se puede observar un cuadro de cefalea y fiebre de cuatro semanas de evoluci\u00f3n junto con signos men\u00edngeos, por lo que iniciar\u00eda la sospecha de Meningitis tuberculosa. \nRespecto al estudio del LCR, en una meningitis bacteriana, las alteraciones t\u00edpicas son: a) leucocitosis polimorfonuclear (PMN) (>100 c\u00e9lulas/uL en 90% de los casos), b) decremento de la concentraci\u00f3n de la glucosa (<2.2 mmol/L o <40mg/100mL), una tasa de LCR/Glucosa s\u00e9rica <0.4 o ambos factores, c) aumento de concentraci\u00f3n de prote\u00ednas (>0.45 g/L o >45mg/100mL) y d) aumento de la presi\u00f3n de abertura (> 180mm H20 en 90% de los casos). Lo cual al compararlo con los resultados del estudio del LCR de este caso, Glucosa: 22 mg/dl, prote\u00ednas: 3.4 g/L, leucocitos: 300/mm3 a predominio mononuclear, da a sospechar de Meningitis bacteriana. \nPara descartar la opci\u00f3n Meningo encefalitis por listeria monocytogenes, cuyo agente etiol\u00f3gico tambi\u00e9n es una bacteria; es necesario, saber que en esta infecci\u00f3n, la presentaci\u00f3n puede ser bif\u00e1sica con un pr\u00f3dromo de fiebre y cefalea seguido de declinaci\u00f3n neurol\u00f3gica y hallazgos focales, presenta una evoluci\u00f3n subaguda y anomal\u00edas m\u00ednimas en los datos del estudio del LCR (com\u00fan el aspecto normal). Lo cual descartar\u00eda de que se tratase en este caso, de esta patolog\u00eda. \nComo se sospecha de una meningitis bacteriana por los resultados del estudio del LCR y adem\u00e1s, de una Meningitis tuberculosa por la cl\u00ednica, cabe recalcar que la tinci\u00f3n del LCR para micobacterias es positiva en el 5-25% de las muestras, y el cultivo, en un 60%; adem\u00e1s, se puede realizar TC y RM donde se puede observar hidrocefalia, lesiones vasculares, tuberculomas y captaci\u00f3n de meninges basales; por \u00faltimo se puede sospechar tambi\u00e9n de Meningitis tuberculosa por las lesiones de tuberculosis pulmonar activa o im\u00e1genes de tuberculosis antigua. ",
+                            "bibliography": "- Farreras, Rozman. \u201cMedicina Interna\u201d. Editorial ELSEVIER. Edici\u00f3n XX. A\u00f1o 2024. Cap\u00edtulo 175: Infecciones del Sistema Nervioso Central. P\u00e1gina: 1438. \n- Harrison. \u201cPrincipios de Medicina Interna\u201d. Editorial Mc Graw Hill. 20\u00b0 ed. A\u00f1o 2018. Cap\u00edtulo 133: Meningitis aguda. P\u00e1gina: 998-1001. \n- Harrison. \u201cPrincipios de Medicina Interna\u201d. Editorial Mc Graw Hill. 20\u00b0 ed. A\u00f1o 2018. Cap\u00edtulo 146: Infecciones por Listeria Monocytogenes. P\u00e1gina 1100-1101. ",
+                            "id": "d5dbe049-b99a-4324-8496-e03b37074e91"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "1) Pregunta: \nUn ni\u00f1o de 10 a\u00f1os es llevado por sus padres a la guardia por presentar fiebre de 24 hs de evoluci\u00f3n, \nsomnolencia, decaimiento general y cefalea. En los d\u00edas previos hab\u00eda presentado un leve dolor de \ngarganta y tos productiva. Al examen f\u00edsico presenta 39\u00b0C, rigidez de nuca, petequias en cara y \nextremidades. Estaba hipotenso, con taquicardia y taquipnea leves, saturaci\u00f3n de ox\u00edgeno aire ambiente \n98%, algunas de las m\u00e1culas eritematosas se convierten en petequias otras en p\u00farpuras. Recibe una \nparte del laboratorio con hemoglobina de 15g/dl, gl\u00f3bulos blancos 18000/mm3 (PMN63/L22), plaquetas \n450000/\u03bcl, glucemia 110 mg/dl. Ante la cl\u00ednica y el examen f\u00edsico: \u00bfcu\u00e1l opci\u00f3n es compatible con el \nliquido c\u00e9falo raquideo de nuestro paciente por su sospecha diagn\u00f3stica? \nRespuesta: \nA. 600 leuco, 700 proteinas, 50 glucosa (glucemia 120), ziehl neelsen - \nB. 3000 leucocitos, 100 proteinas, 70 glucosa (glucemia 120), gram - \nC. 100 leucocitos, 200 proteinas, 30 glucosa (glucemia 120), gram - \nD. 10 leucocitos, 20 proteinas, 60 glucosa (glucemia 120), gram- \nC \n",
