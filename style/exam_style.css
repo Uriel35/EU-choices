@@ -279,6 +279,7 @@
 .discussion .discussion-bibliography-ctn ul {
     list-style: inherit;
     padding: 0 1rem;
+    font-style: italic;
 } 
 
 .discussion .discussion-bibliography-ctn ul li {

@@ -9467,7 +9467,18 @@
                     "answer": "c",
                     "index": 41,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-05-02 20:49:33",
+                            "name": "Jesus Nieto",
+                            "email": "jesusfer_2126@hotmail.com",
+                            "year": 2023,
+                            "index": 41,
+                            "explication": "Respuesta correcta: c. Deficit de Vitamina D por falta de exposici\u00f3n solar. \nExplicaci\u00f3n: La Vitamina D es esencial para la absorci\u00f3n de Ca+ en el intestino. Al no absorberse el Ca+ se produce una Hipocalcemia y como respuesta la gl\u00e1ndula paratiroides aumenta la producci\u00f3n de PTH con la intenci\u00f3n de mover Ca+ de los huesos y restaurar los niveles de Ca+ s\u00e9ricos. \nOtras opciones: \na. Hipoparatiroidismo postquir\u00fargico. (Genera disminuci\u00f3n de PTH, no aumento)\nb. Ingesta de bifosfonatos. (Usado en el tratamiento de la Osteoporosis y provocan hipocalcemia, por lo que la PTH suele estar disminuida por la supresi\u00f3n de la actividad osteocl\u00e1stica y la liberaci\u00f3n de Ca+ de los huesos)\n",
+                            "bibliography": "Farreras, Rozman. \u2018\u2019Medicina Interna\u2019\u2019. Editorial ELSEVIER. Cap\u00edtulo 29 - Ictericia y enfermedades biliares. P\u00e1gina 257, 1er p\u00e1rrafo\nFarreras, Rozman. \u2018\u2019Medicina Interna\u2019\u2019. Editorial ELSEVIER. Cap\u00edtulo 87 \u2013 Alteraciones del metabolismo del calcio, del fosforo y del magnesio. P\u00e1gina 803, Disminuci\u00f3n de la resorci\u00f3n \u00f3sea; P\u00e1gina 804, Figura 87-2 Diagn\u00f3stico diferencial de la hipocalcemia",
+                            "id": "c7095693-fdc3-49ef-b225-9f3a6fffca5f"
+                        }
+                    ]
                 }
             ],
             "aclaracion": ""
@@ -13553,7 +13564,18 @@
                     "answer": "c",
                     "index": 93,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-05-02 17:15:04",
+                            "name": "Jesus Nieto Franco",
+                            "email": "jesusfer_2126@hotmail.com",
+                            "year": 2023,
+                            "index": 93,
+                            "explication": "Respuesta correcta: Quimio-radioterapia concurrente\nExplicaci\u00f3n: La descripci\u00f3n del tumor corresponde a un estadio IB-2 (lesi\u00f3n mayor de 4 cm) cuyo tratamiento corresponde a Quimioterapia neoadyuvante seguida de histerectom\u00eda radical (Piver III) o quimiorradioterapia concurrente con cisplatino semanal\n\nLa opcion b.\tColpo-anexo-histerectom\u00eda total ampliada y linfadenectom\u00eda pelviana, corresponde al estadio IB1-IIA hasta 4 cm \n",
+                            "bibliography": "Gago-Ginecolog\u00eda en la atenci\u00f3n primaria. Cap\u00edtulo 17 - patolog\u00edas del cuello uterino. pagina 201. Link https://drive.google.com/file/d/1m8YxFeGDr7NOGtvgrZDPCaAHUzn267mD/view",
+                            "id": "36e77ec3-e705-4ace-a097-1a8c8039ca91"
+                        }
+                    ]
                 },
                 {
                     "question_complete": "\n51) \u00bfQu\u00e9 caracter\u00edsticas tienen el PAP y el test de HPV como m\u00e9todos de tamizaje? \n a) PAP valor predictivo negativo bajo y sensibilidad alta \n b) Test de HPV valor predictivo negativo alto y sensibilidad alta \n c) PAP valor predictivo negativo alto y sensibilidad baja \n d) Test de HPV valor predictivo negativo bajo y sensibilidad alta \n",
