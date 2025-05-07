@@ -15743,7 +15743,18 @@
                     "answer": "c",
                     "index": 6,
                     "image": "",
-                    "discussion": []
+                    "discussion": [
+                        {
+                            "date": "2025-05-07 16:12:48",
+                            "name": "sandra Fuentes",
+                            "email": "sandrafuentes121@gmail.com",
+                            "year": 2024,
+                            "index": 6,
+                            "explication": "Una manera f\u00e1cil de recordar las causas de HPP es utilizando la nemotecnia de las \u201d4T\u201d (2):\n1. Tono (70%): Incluye la aton\u00eda o inercia uterina\n2. Trauma (19%): Incluye trauma uterino (rotura e inversi\u00f3n uterina) y laceraciones de cuello y vagina\n3. Tejidos (10%): Incluye retenci\u00f3n de restos placentarios y co\u00e1gulos y placentaci\u00f3n anormal\n4. Trombina (1%): Incluye coagulopat\u00edas cong\u00e9nitas o adquiridas",
+                            "bibliography": "https://www.elsevier.es/es-revista-revista-medica-clinica-las-condes-202-articulo-hemorragia-del-postparto-principales-etiologias-S0716864014706492",
+                            "id": "c176616c-8f57-4cb0-92ee-84887f15934a"
+                        }
+                    ]
                 }
             ],
             "aclaracion": "Hemorragia postparto: Cualquiera de sus causas (atonia uterina, rotura uterina, inversion uterina, retencion de placenta, etc.)",
