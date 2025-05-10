@@ -122,7 +122,7 @@ i {
   align-items: center;
   justify-content: center;
   height: 100%;
-  max-height: max-content;
+  max-height: 100%;
   max-width: max-content;
   position: relative;
 }
