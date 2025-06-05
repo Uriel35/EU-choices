@@ -57,6 +57,10 @@
     cursor: pointer;
 }
 
+.close-modal-button:hover {
+    box-shadow: 0 0 4px 4px #bbb;
+}
+
 #exam-modal {
     animation: exam-active 1s ease-out;
 }
