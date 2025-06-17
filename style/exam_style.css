@@ -148,7 +148,7 @@
 }
 
 .img-ctn img {
-    max-width: 90%;
+    /* max-width: 90%; */
     min-width: 80%;
     overflow: auto;
 } 

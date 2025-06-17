@@ -37,6 +37,11 @@ defineModal(document.getElementById('report-question-button'), document.getEleme
 //   document.getElementById("quiz-modal").classList.add("flex-active")
 // });
 
+// defineModal(document.getElementById('hsmlp-button'), document.getElementById('hsmlp-modal'), document.getElementById('hsmlp-ctn'), document.getElementById('close-hsmlp-modal'))
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById("hsmlp-modal").classList.add("flex-active")
+});
+
 
 //  *************** DATA ANALYTICS EVENTS *****************
 function addAnaltyticEvent(tgt, name) {
@@ -54,10 +59,12 @@ let eu_stats_link = document.getElementById("eu-stats")
 let applicants_link = document.getElementById("applicants-stats")
 let hsmlpInstagramButton = document.getElementById("hsmlp-instagram-button")
 let openHsmlpModalButton = document.getElementById("hsmlp-button")
+let infectoInstagramButton = document.getElementById("infectohigasm-instagram-button")
 addAnaltyticEvent(eu_stats_link, "EU stats")
 addAnaltyticEvent(applicants_link, "Applicants stats")
-addAnaltyticEvent(hsmlpInstagramButton, "HSMLP Instagram")
 addAnaltyticEvent(openHsmlpModalButton, "HSMLP modal")
+addAnaltyticEvent(infectoInstagramButton, "Infectologia Instagram")
+addAnaltyticEvent(hsmlpInstagramButton, "Clinica Instagram")
 
 // openHsmlpModalButton.addEventListener("click", () => {
 //   gtag('event', 'HSMLP modal', {

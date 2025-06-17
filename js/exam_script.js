@@ -450,6 +450,26 @@ document.addEventListener("keydown", (e) => {
 })
 
 
+let escala = 1;
+imageModal.addEventListener("wheel", function(event) {
+    event.preventDefault(); // Evita el scroll de la página
+
+    let anchoActual = parseFloat(getComputedStyle(questionImage).width);
+
+    const cambio = event.deltaY > 0 ? -20 : 20;
+    let nuevoAncho = anchoActual + cambio;
+    nuevoAncho = Math.max(100, Math.min(nuevoAncho, 5000));
+    questionImage.style.width = `${nuevoAncho}px`;
+
+
+
+    // const delta = event.deltaY > 0 ? -0.1 : 0.1;
+    // escala += delta;
+    // escala = Math.max(0.1, Math.min(escala, 5)); // Limita entre 0.1x y 5x
+
+    // questionImage.style.transform = `scale(${escala})`;
+});
+
 
 export default {
     displayExam

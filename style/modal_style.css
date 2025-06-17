@@ -146,9 +146,40 @@
 }
 
 
-/*  -------------- HSMLP ----------------------  */
+/*  -------------- Speciality Adds ----------------------  */
 
-.hsmlp-pages-ctn {
+#hsmlp-ctn {
+    max-width: 80%;
+    max-height: 80vh;
+
+    .modal-title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: none;
+        gap: 3rem;
+
+        h3 {
+            font-size: calc(var(--font-size) * 2);
+        }
+
+        a {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            border-radius: 10px;
+            color: #fff;
+            font-weight: 600;
+            transition: .5s;
+        }
+
+        a:hover {
+            color: var(--instagram);
+        }
+    }
+}
+
+.speciality-add {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;
@@ -183,9 +214,9 @@
     justify-content: center;
 }
 
-.recomendation h4 {
+.recomendation h1 {
     font-weight: 500;
-    font-size: calc(var(--font-size) * 1);
+    font-size: calc(var(--font-size) * 2);
     color: #fff;
     background-color: var(--button-background);
     padding: 1rem;
@@ -203,14 +234,12 @@
 
 .links a {
     background-color: var(--instagram);
-    padding: 1rem;
     border-radius: 10px;
-    color: #fff;
-    font-weight: 600;
-    transition: .5s;
+    color: white;
+    padding: 10px;
+
     i {
-        color: #fff;
-        transition: .5s;
+        color: white;
     }
 }
 
@@ -218,24 +247,25 @@
     background-color: white;
     color: var(--instagram) !important;
     box-shadow: 0 0 2px 2px var(--instagram);
+    transition: 0.3s;
     i {
         color: var(--instagram);
     }
 }
 
-.page img {
+.speciality-add .img img {
     max-width: 50%;
     max-height: 100%;
 }
-
-.hsmlp-pages-ctn ul {
+.speciality-add ul {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 1rem;
     justify-items: center;
+    width: 80%;
 }
 
-.hsmlp-pages-ctn ul li {
+.speciality-add ul li {
     display: flex;
     gap: .3rem;
     align-items: center;
@@ -243,23 +273,23 @@
     width: 100%;
 }
 
-.hsmlp-pages-ctn ul li i {
+.speciality-add ul li i {
     background-color: var(--correct-color);
     padding: .5rem;
     border-radius: 50%;
     color: #eee;
 }
-.hsmlp-pages-ctn ul li p {
+.speciality-add ul li p {
     width: 90%;
     font-size: calc(var(--font-size) * 1);
     text-align: left;
 }
 
-#hsmlp-link-ctn {
+.links {
     gap: 1rem;
 }
 
-#hsmlp-link-ctn a {
+.links a {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -465,14 +495,14 @@
     }
 
     .modal-ctn {
-        max-width: 90%;
+        max-width: 90% !important;
     }
 
     .hsmlp_logo {
         flex-basis: 100%;
     }
 
-    .hsmlp-pages-ctn {
+    .speciality-add {
         padding: .4rem;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -482,5 +512,12 @@
         "check check"
         "links links"
         "img img";
-}
+
+        ul {
+            width: 100%;
+        }
+        .modal-title {
+            gap: 1rem;
+        }
+    }
 }
