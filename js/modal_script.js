@@ -60,11 +60,13 @@ let applicants_link = document.getElementById("applicants-stats")
 let hsmlpInstagramButton = document.getElementById("hsmlp-instagram-button")
 let openHsmlpModalButton = document.getElementById("hsmlp-button")
 let infectoInstagramButton = document.getElementById("infectohigasm-instagram-button")
+let metodologyStats2024 = document.getElementById("metodology-stats-2024")
 addAnaltyticEvent(eu_stats_link, "EU stats")
 addAnaltyticEvent(applicants_link, "Applicants stats")
 addAnaltyticEvent(openHsmlpModalButton, "HSMLP modal")
 addAnaltyticEvent(infectoInstagramButton, "Infectologia Instagram")
 addAnaltyticEvent(hsmlpInstagramButton, "Clinica Instagram")
+addAnaltyticEvent(metodologyStats2024, "Metodologia stats 2024")
 
 // openHsmlpModalButton.addEventListener("click", () => {
 //   gtag('event', 'HSMLP modal', {
