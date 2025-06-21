@@ -105,7 +105,8 @@
     flex-direction: column;
     width: max-content;
     height: max-content;
-    gap: 2rem;
+    /* gap: 2rem; */
+    overflow-y: auto;
 }
 
 #statistics-ctn p {
@@ -142,6 +143,25 @@
 }
 
 #statistics-ctn a:hover {
+    box-shadow: 0 0 6px 5px #222;
+}
+
+#statistics-ctn .quiz-ctn {
+    max-width: 70%;
+    padding: 1rem;
+    margin: 2rem auto;
+    border-radius: 5px;
+    border: #000 solid 2px;
+    box-shadow: 0 0 4px 1px #333;
+    background-color: var(--instagram);
+    color: #fff;
+    font-weight: 800;
+
+    a:hover {
+        box-shadow:unset;
+    }
+}
+#statistics-ctn .quiz-ctn:hover {
     box-shadow: 0 0 6px 5px #222;
 }
 
