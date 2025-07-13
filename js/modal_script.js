@@ -38,9 +38,10 @@ defineModal(document.getElementById('report-question-button'), document.getEleme
 // });
 
 // defineModal(document.getElementById('hsmlp-button'), document.getElementById('hsmlp-modal'), document.getElementById('hsmlp-ctn'), document.getElementById('close-hsmlp-modal'))
-document.addEventListener('DOMContentLoaded', function() {
-  document.getElementById("hsmlp-modal").classList.add("flex-active")
-});
+// document.addEventListener('DOMContentLoaded', function() {
+  // document.getElementById("hsmlp-modal").classList.add("flex-active")
+  // document.getElementById("good-luck-modal").classList.add("flex-active")
+// });
 
 
 //  *************** DATA ANALYTICS EVENTS *****************

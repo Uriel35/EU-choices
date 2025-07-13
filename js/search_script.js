@@ -24,14 +24,24 @@ document.addEventListener('keydown', (e) => {
 })
 
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('./data/schema.json')
-        .then(response => response.json())
-        .then(data => {
-            displayPage(data);
+    Promise.all([
+    fetch('./data/schema.json').then(response => response.json()),
+    fetch('./data/all_questions.json').then(response => response.json())
+        ])
+        .then(([schemaData, allQuestionsData]) => {
+            displayPage(schemaData, allQuestionsData);
         })
         .catch(error => {
-            console.error('Error al obtener los datos JSON: \n', error);
-        });
+            console.error('Error al obtener los datos JSON:\n', error);
+    });
+    // fetch('./data/schema.json')
+    //     .then(response => response.json())
+    //     .then(data => {
+    //         displayPage(data);
+    //     })
+    //     .catch(error => {
+    //         console.error('Error al obtener los datos JSON: \n', error);
+    //     });
 });
 
 // COPIAR EMAIL
@@ -52,7 +62,11 @@ emailLinks.forEach(element => {
     element.addEventListener('touchstart', copyEmailHandler)
 });
 
-function displayPage(data){
+function displayPage(data, allQuestionsData){
+
+    const SCHEMA = data;
+    const ALLQUESTIONS = allQuestionsData
+
     function setAllQuestionCounter() {
         let years = dom_utils.validateYears(yearsInputs, yearsInputsCtn)
         if (years) {
@@ -64,13 +78,11 @@ function displayPage(data){
                 for (let path of paths) {
                     if (!schema_utils.confirmIfPathExists(path, SCHEMA)) return;
                 }
-                allQuestions = schema_utils.getQuestions(paths, SCHEMA, years)
+                allQuestions = schema_utils.getQuestions(paths, SCHEMA, ALLQUESTIONS, years)
                 allQuestionsCounter.textContent = `${allQuestions.length} preguntas`
-            } else allQuestionsCounter.textContent = '800 preguntas'
+            } 
         }
     }
-
-    const SCHEMA = data;
 
     yearsInputs.forEach(input => {
         input.checked = true
@@ -106,7 +118,7 @@ function displayPage(data){
         if (e.target.classList.contains('error-input')) e.target.classList.remove('error-input')
 
         let years = dom_utils.validateYears(yearsInputs, yearsInputsCtn)
-        let result = schema_utils.searchInputHandler(e.target.value, SCHEMA, years);
+        let result = schema_utils.searchInputHandler(e.target.value, SCHEMA, ALLQUESTIONS, years);
         dom_utils.addItemsToSearchList(result, e.target.value)
         const allPathOptions = document.querySelectorAll('.path-option')
         allPathOptions.forEach(pathOption => {
@@ -188,8 +200,8 @@ function displayPage(data){
             for (let path of paths) {
                 if (!schema_utils.confirmIfPathExists(path, SCHEMA)) return;
             }
-            allQuestions = schema_utils.getQuestions(paths, SCHEMA, years)
-        } else allQuestions = schema_utils.getQuestions([], SCHEMA, years)
+            allQuestions = schema_utils.getQuestions(paths, SCHEMA, ALLQUESTIONS, years)
+        } else allQuestions = schema_utils.getQuestions([], SCHEMA, ALLQUESTIONS, years)
 
         if (allQuestions.length == 0) {
             let errorModal = document.getElementById('error-modal')

@@ -256,10 +256,6 @@ input[type="checkbox"]:checked + label {
   text-transform: uppercase !important;
 }
 
-#search-ctn ul li:hover, #search-ctn ul li:focus {
-  background-color: #111;
-}
-
 #search-ctn ul li p {
   font-size: calc(var(--font-size) * 1.2);
   text-transform: lowercase;
