@@ -250,6 +250,9 @@ input[type="checkbox"]:checked + label {
   font-weight: 600;
   border-top: 1px solid #222;
 }
+#search-ctn ul li:focus {
+  border: 2px solid #aaa
+}
 
 #search-ctn ul li p {
   font-size: calc(var(--font-size) * 0.9) !important;
@@ -263,7 +266,7 @@ input[type="checkbox"]:checked + label {
 }
 
 .path-selected {
-  background-color: #555 !important;
+  background-color: #444 !important;
 }
 
 .highligth {

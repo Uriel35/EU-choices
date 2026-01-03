@@ -57,7 +57,6 @@ function findSpeciality(value, schema, years, ALLQUESTIONS) {
     for (let speciality of Object.keys(schema)) {
         if (speciality.includes(value)){
             let qCounter = getQuestionCounter(speciality, false, schema, years, ALLQUESTIONS)
-            console.log(qCounter)
             result.push({'speciality': speciality, 'counter': qCounter})
         }
     }
