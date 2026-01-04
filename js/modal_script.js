@@ -36,6 +36,11 @@ defineModal(document.getElementById('report-question-button'), document.getEleme
 // document.addEventListener('DOMContentLoaded', function() {
 //   document.getElementById("quiz-modal").classList.add("flex-active")
 // });
+// PARA QUE APAREZCA EL QUIZ MODAL AL INICIO
+defineModal(undefined, document.getElementById('initial-modal'), document.getElementById('initial-modal-ctn'), document.getElementById('close-initial-modal'))
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById("initial-modal").classList.add("flex-active")
+});
 
 // defineModal(document.getElementById('hsmlp-button'), document.getElementById('hsmlp-modal'), document.getElementById('hsmlp-ctn'), document.getElementById('close-hsmlp-modal'))
 // document.addEventListener('DOMContentLoaded', function() {

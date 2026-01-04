@@ -316,6 +316,32 @@
     height: 100%;
 }
 
+/* -------------- INITIAL MODAL -------------------- */
+
+#initial-modal {
+    display: none;
+
+    .modal-ctn {
+        p {
+            margin: auto;
+            font-size: calc(var(--font-size) * 1.2);
+            padding-inline: 1rem;
+
+            a {
+                text-decoration: underline;
+                font-weight: bold;
+                color: var(--button-background);
+            }
+        }
+        img {
+            width: 60%;
+            margin: auto;
+            padding-block: 1rem;
+        }
+
+    }
+}
+
 /* -------------- QUIZ MODAL -------------------- */
 #quiz-modal-ctn {
     display: flex;
