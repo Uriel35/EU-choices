@@ -1,6 +1,7 @@
 import schema_utils from "../utils/schema_utils.js";
 import dom_utils from "../utils/dom_utils.js";
 import exam_script from "./exam_script.js";
+import modal_script from "./modal_script.js";
 
 const searcher = document.getElementById('search-input')
 const matchedSearchList = document.getElementById('matched-search-list')
@@ -13,6 +14,20 @@ const submitAllButton = document.getElementById('submit-form')
 const cleanAllPathsButton = document.getElementById('clean-all-paths-button')
 const shuffleButton = document.getElementById('random-input')
 const allQuestionsCounter = document.getElementById('all-q-counter')
+const yearsControlsHome = document.getElementById('years-controls-home')
+const yearsModalContent = document.getElementById('years-modal-content')
+const searchControlsHome = document.getElementById('search-controls-home')
+const searchModalContent = document.getElementById('search-modal-content')
+const mobileLayoutQuery = window.matchMedia('(max-width: 767px)')
+const yearsContainer = document.querySelector('.years-ctn')
+const openYearsModalButton = document.getElementById('open-years-modal-button')
+const yearsModal = document.getElementById('years-modal')
+const yearsModalCtn = document.getElementById('years-modal-ctn')
+const closeYearsModalButton = document.getElementById('close-years-modal')
+const openSearchModalButton = document.getElementById('open-search-modal-button')
+const searchModal = document.getElementById('search-modal')
+const searchModalCtn = document.getElementById('search-modal-ctn')
+const closeSearchModalButton = document.getElementById('close-search-modal')
 
 document.addEventListener('keydown', (e) => {
     if (e.key == '/') {
@@ -34,21 +49,12 @@ document.addEventListener('DOMContentLoaded', function() {
         .catch(error => {
             console.error('Error al obtener los datos JSON:\n', error);
     });
-    // fetch('./data/schema.json')
-    //     .then(response => response.json())
-    //     .then(data => {
-    //         displayPage(data);
-    //     })
-    //     .catch(error => {
-    //         console.error('Error al obtener los datos JSON: \n', error);
-    //     });
 });
 
-// COPIAR EMAIL
-
 const EMAIL = 'euchoices@gmail.com'
-let emailLinks = document.querySelectorAll('.copy-email-button')
+const emailLinks = document.querySelectorAll('.copy-email-button')
 function copyEmailHandler(e) {
+    e.preventDefault()
     try {
         navigator.clipboard.writeText(EMAIL);
         alert("Copiaste el email: " + EMAIL);
@@ -59,41 +65,87 @@ function copyEmailHandler(e) {
 
 emailLinks.forEach(element => {
     element.addEventListener('click', copyEmailHandler)
-    element.addEventListener('touchstart', copyEmailHandler)
 });
 
 function displayPage(data, allQuestionsData){
 
     const SCHEMA = data;
     const ALLQUESTIONS = allQuestionsData
+    schema_utils.initializeData(SCHEMA, ALLQUESTIONS)
+    modal_script.defineModal(openYearsModalButton, yearsModal, yearsModalCtn, closeYearsModalButton)
+    modal_script.defineModal(openSearchModalButton, searchModal, searchModalCtn, closeSearchModalButton)
+
+    openSearchModalButton.addEventListener('click', () => {
+        setTimeout(() => searcher.focus(), 50)
+    })
+
+    function syncResponsiveLayout() {
+        if (mobileLayoutQuery.matches) {
+            if (yearsControlsHome.parentElement !== yearsModalContent) {
+                yearsModalContent.appendChild(yearsControlsHome)
+            }
+            if (searchControlsHome.parentElement !== searchModalContent) {
+                searchModalContent.appendChild(searchControlsHome)
+            }
+        } else {
+            if (yearsControlsHome.parentElement !== yearsContainer) {
+                yearsContainer.appendChild(yearsControlsHome)
+            }
+            if (searchControlsHome.parentElement !== searchForm) {
+                searchForm.appendChild(searchControlsHome)
+            }
+        }
+    }
+
+    function getSelectedPaths() {
+        return Array.from(document.querySelectorAll('.path-radio')).map(radio =>
+            dom_utils.clean_string_spaces(radio.value)
+        )
+    }
+
+    function getFilteredQuestions() {
+        let years = dom_utils.validateYears(yearsInputs, yearsInputsCtn)
+        let paths = getSelectedPaths()
+
+        for (let path of paths) {
+            if (!schema_utils.confirmIfPathExists(path, SCHEMA)) return []
+        }
+
+        return schema_utils.getQuestions(paths, ALLQUESTIONS, years)
+    }
 
     function setAllQuestionCounter() {
         let years = dom_utils.validateYears(yearsInputs, yearsInputsCtn)
-        if (years) {
-            let allQuestions = []
-            let paths = []
-            let pathRadios = document.querySelectorAll('.path-radio')
-            if (pathRadios) {
-                pathRadios.forEach(radio => paths.push(dom_utils.clean_string_spaces(radio.value)))
-                for (let path of paths) {
-                    if (!schema_utils.confirmIfPathExists(path, SCHEMA)) return;
-                }
-                allQuestions = schema_utils.getQuestions(paths, SCHEMA, ALLQUESTIONS, years)
-                allQuestionsCounter.textContent = `${allQuestions.length} preguntas`
-            } 
+        let paths = getSelectedPaths()
+        let count = schema_utils.countQuestions(paths, years)
+        allQuestionsCounter.textContent = `${count} preguntas`
+    }
+
+    function markAlreadySelectedPaths() {
+        const allPathOptions = matchedSearchList.querySelectorAll('.path-option')
+        allPathOptions.forEach(pathOption => {
+            pathOption.classList.toggle(
+                "path-selected",
+                dom_utils.checkIfPathAllreadyAdded(pathOption.id, pathsForm)
+            )
+        })
+    }
+
+    function submitPathFromOption(pathId, listItem) {
+        if (listItem) {
+            listItem.classList.add("path-selected")
         }
+
+        let saveValue = searcher.value
+        searcher.value = pathId
+        submitSearchInput(new Event('submit'))
+        searcher.value = saveValue
     }
 
     yearsInputs.forEach(input => {
         input.checked = true
         input.addEventListener('change', (e) => {
-            let allChecked = true;
-            yearsInputs.forEach(input => {
-                if (input.checked == false) {
-                    allChecked = false
-                    return;
-                }
-            })
+            let allChecked = Array.from(yearsInputs).every(input => input.checked)
             if (allChecked) selectAllYearsInputs.checked = true
             else selectAllYearsInputs.checked = false
             setAllQuestionCounter()
@@ -107,7 +159,6 @@ function displayPage(data, allQuestionsData){
     })
 
     document.addEventListener('click', (event) => {
-        // Para que cada vez que hacemos focus out del searcher desaparezca la lista
         if (!matchedSearchList.contains(event.target) && event.target !== searcher) {
             matchedSearchList.classList.remove('flex-active')
         }
@@ -118,38 +169,9 @@ function displayPage(data, allQuestionsData){
         if (e.target.classList.contains('error-input')) e.target.classList.remove('error-input')
 
         let years = dom_utils.validateYears(yearsInputs, yearsInputsCtn)
-        let result = schema_utils.searchInputHandler(e.target.value, SCHEMA, ALLQUESTIONS, years);
+        let result = schema_utils.searchInputHandler(e.target.value, SCHEMA, years);
         dom_utils.addItemsToSearchList(result, e.target.value)
-        const allPathOptions = document.querySelectorAll('.path-option')
-        allPathOptions.forEach(pathOption => {
-            function submitOption(e) {
-                const liElement = e.target.closest("li"); // busca el li más cercano hacia arriba
-                if (liElement) {
-                    liElement.classList.add("path-selected");
-                }
-                let saveValue = searcher.value
-                searcher.value = pathOption.id
-                submitSearchInput(e) // Creo que seria mejor intentar que se active el 'submit' event de searchForm
-                setAllQuestionCounter()
-                searcher.value = saveValue
-            }
-            // Agregar "path-selected" al li para mostrar que ya esta agregado
-            if (dom_utils.checkIfPathAllreadyAdded(pathOption.id, pathsForm)) {
-                pathOption.classList.add("path-selected")
-            }
-            pathOption.addEventListener('click', submitOption)
-            pathOption.addEventListener('keydown', (e) => { 
-                e.preventDefault()
-                if (e.key == 'Enter') submitOption(e)
-                else if (e.key == 'ArrowDown') {
-                    if (e.target.nextSibling) e.target.nextSibling.focus()
-                    else e.target.focus()
-                } else if (e.key == 'ArrowUp') {
-                    if (e.target.previousSibling) e.target.previousSibling.focus()
-                    else searcher.focus()
-                }
-            })
-        })
+        markAlreadySelectedPaths()
     }
 
     searcher.addEventListener("keydown", (e) => {
@@ -160,6 +182,31 @@ function displayPage(data, allQuestionsData){
     })
     searcher.addEventListener('focusin', searchHandler)
     searcher.addEventListener('input', searchHandler)
+
+    matchedSearchList.addEventListener('click', (e) => {
+        const pathOption = e.target.closest('.path-option')
+        if (!pathOption) return
+        submitPathFromOption(pathOption.id, pathOption)
+    })
+
+    matchedSearchList.addEventListener('keydown', (e) => {
+        const pathOption = e.target.closest('.path-option')
+        if (!pathOption) return
+
+        if (e.key == 'Enter') {
+            e.preventDefault()
+            submitPathFromOption(pathOption.id, pathOption)
+        }
+        else if (e.key == 'ArrowDown') {
+            e.preventDefault()
+            if (pathOption.nextSibling) pathOption.nextSibling.focus()
+            else pathOption.focus()
+        } else if (e.key == 'ArrowUp') {
+            e.preventDefault()
+            if (pathOption.previousSibling) pathOption.previousSibling.focus()
+            else searcher.focus()
+        }
+    })
 
     function submitSearchInput(e) {
         e.preventDefault()
@@ -176,11 +223,12 @@ function displayPage(data, allQuestionsData){
                 let allPathsSelected = document.querySelectorAll(".path-selected")
                 let matchedPath = Array.from(allPathsSelected).find(el => el.id === pathExists);
                 let targetDiv = pathsForm.querySelector(`input#${CSS.escape(pathExists)}`)?.closest('div');
-                matchedPath.classList.remove("path-selected")
-                targetDiv.remove()
+                if (matchedPath) matchedPath.classList.remove("path-selected")
+                if (targetDiv) targetDiv.remove()
             }
         }
         setAllQuestionCounter()
+        markAlreadySelectedPaths()
     }
 
     searchForm.addEventListener('submit', submitSearchInput)
@@ -188,24 +236,17 @@ function displayPage(data, allQuestionsData){
     cleanAllPathsButton.addEventListener('click', (e) => {
         while (pathsForm.firstChild) pathsForm.removeChild(pathsForm.firstChild);
         setAllQuestionCounter()
+        markAlreadySelectedPaths()
     })
 
     submitAllButton.addEventListener('click', (e) => {
-        let years = dom_utils.validateYears(yearsInputs, yearsInputsCtn)
-        let allQuestions = []
-        let paths = []
-        let pathRadios = document.querySelectorAll('.path-radio')
-        if (pathRadios) {
-            pathRadios.forEach(radio => paths.push(dom_utils.clean_string_spaces(radio.value)))
-            for (let path of paths) {
-                if (!schema_utils.confirmIfPathExists(path, SCHEMA)) return;
-            }
-            allQuestions = schema_utils.getQuestions(paths, SCHEMA, ALLQUESTIONS, years)
-        } else allQuestions = schema_utils.getQuestions([], SCHEMA, ALLQUESTIONS, years)
+        e.preventDefault()
+        let allQuestions = getFilteredQuestions()
 
         if (allQuestions.length == 0) {
             let errorModal = document.getElementById('error-modal')
             errorModal.classList.add('flex-active')
+            document.body.classList.add("modal-open")
             errorModal.querySelector('p').textContent = 'NO hay preguntas sobre esos temas'
             return;
         }
@@ -214,5 +255,7 @@ function displayPage(data, allQuestionsData){
 
         exam_script.displayExam(allQuestions)
     })
+    mobileLayoutQuery.addEventListener('change', syncResponsiveLayout)
+    syncResponsiveLayout()
     setAllQuestionCounter()
 }

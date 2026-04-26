@@ -56,48 +56,57 @@
         <div class="form-ctn">
             <form action="" id="formulario" class="formulario">
                 <div class="years-ctn">
-                    <div id="year-input-ctn">
-                        <h3>Años</h3>
-                        <ul id="year-inputs-ctn">
-                            <input type="checkbox" class="year-input" id="year2016" name="year" value="2016">
-                            <label for="year2016">2016</label>
-                            <input type="checkbox" class="year-input" id="year2017" name="year" value="2017">
-                            <label for="year2017">2017</label>
-                            <input type="checkbox" class="year-input" id="year2018" name="year" value="2018">
-                            <label for="year2018">2018</label>
-                            <input type="checkbox" class="year-input" id="year2019" name="year" value="2019">
-                            <label for="year2019">2019</label>
-                            <input type="checkbox" class="year-input" id="year2020" name="year" value="2020">
-                            <label for="year2020">2020</label>
-                            <input type="checkbox" class="year-input" id="year2021" name="year" value="2021">
-                            <label for="year2021">2021</label>
-                            <input type="checkbox" class="year-input" id="year2022" name="year" value="2022">
-                            <label for="year2022">2022</label>
-                            <input type="checkbox" class="year-input" id="year2023" name="year" value="2023">
-                            <label for="year2023">2023</label>
-                            <input type="checkbox" class="year-input" id="year2024" name="year" value="2024">
-                            <label for="year2024">2024</label>
-                            <input type="checkbox" class="year-input" id="year2025" name="year" value="2025">
-                            <label for="year2025">2025</label>
-                        </ul>
-                    </div>
-                    <div class="select-all-years-ctn">
-                        <label class="switch">
-                            <input type="checkbox" id="select-all-years-input" checked>
-                            <span class="slider"></span>
-                        </label>
-                        <h3>Seleccionar todos</h3>
+                    <button type="button" id="open-years-modal-button" class="years-mobile-button">
+                        <span class="years-mobile-label">Seleccionar años</span>
+                    </button>
+                    <div id="years-controls-home">
+                        <div id="year-input-ctn">
+                            <h3>Años</h3>
+                            <ul id="year-inputs-ctn">
+                                <input type="checkbox" class="year-input" id="year2016" name="year" value="2016">
+                                <label for="year2016">2016</label>
+                                <input type="checkbox" class="year-input" id="year2017" name="year" value="2017">
+                                <label for="year2017">2017</label>
+                                <input type="checkbox" class="year-input" id="year2018" name="year" value="2018">
+                                <label for="year2018">2018</label>
+                                <input type="checkbox" class="year-input" id="year2019" name="year" value="2019">
+                                <label for="year2019">2019</label>
+                                <input type="checkbox" class="year-input" id="year2020" name="year" value="2020">
+                                <label for="year2020">2020</label>
+                                <input type="checkbox" class="year-input" id="year2021" name="year" value="2021">
+                                <label for="year2021">2021</label>
+                                <input type="checkbox" class="year-input" id="year2022" name="year" value="2022">
+                                <label for="year2022">2022</label>
+                                <input type="checkbox" class="year-input" id="year2023" name="year" value="2023">
+                                <label for="year2023">2023</label>
+                                <input type="checkbox" class="year-input" id="year2024" name="year" value="2024">
+                                <label for="year2024">2024</label>
+                                <input type="checkbox" class="year-input" id="year2025" name="year" value="2025">
+                                <label for="year2025">2025</label>
+                            </ul>
+                        </div>
+                        <div class="select-all-years-ctn">
+                            <label class="switch">
+                                <input type="checkbox" id="select-all-years-input" checked>
+                                <span class="slider"></span>
+                            </label>
+                            <h3>Seleccionar todos</h3>
+                        </div>
                     </div>
                 </div>
-    
-                <div class="input-ctn" id="search-ctn">
-                    <input tabindex="2" type="text" id="search-input" class="input-class" placeholder="especialidad / tema" autocomplete='off'>
-                    <p id="search-error-message" class="error-message">Error</p>
-                    <ul id="matched-search-list" class="matched-search-list"> </ul>
+                <button type="button" id="open-search-modal-button" class="search-mobile-button">
+                    <span class="search-mobile-label">Buscar especialidad o tema</span>
+                </button>
+                <div id="search-controls-home">
+                    <div class="input-ctn" id="search-ctn">
+                        <input tabindex="2" type="text" id="search-input" class="input-class" placeholder="especialidad / tema" autocomplete='off'>
+                        <p id="search-error-message" class="error-message">Error</p>
+                        <ul id="matched-search-list" class="matched-search-list"> </ul>
+                    </div>
                 </div>
             </form>
 
-            <div class="rigth-ctn">
+            <div class="right-ctn">
                 <div class="paths-ctn">
                     <form id="paths-form"></form>
                     <div class="clean-all-paths-button-ctn">
@@ -133,7 +142,7 @@
                 <div class="get-back-button-ctn">
                     <button id="get-back-button">
                         <i class="fas fa-caret-left"></i>
-                        Volver
+                        <span class="get-back-button-text">Volver</span>
                     </button>
                     <img src="logo/eu-choice_logo_sin_letra_fondo_blanco.png" alt="">
                 </div>
@@ -321,6 +330,20 @@
                 </div>
             </div>
             <span id="close-readme-modal" class="close-modal-button">&#215;</span>
+        </div>
+        <div id="search-modal" class="modal">
+            <div class="modal-ctn" id="search-modal-ctn">
+                <h2 class="modal-title">Buscar especialidad o tema</h2>
+                <div id="search-modal-content"></div>
+            </div>
+            <span id="close-search-modal" class="close-modal-button">&#215;</span>
+        </div>
+        <div id="years-modal" class="modal">
+            <div class="modal-ctn" id="years-modal-ctn">
+                <h2 class="modal-title">Seleccionar años</h2>
+                <div id="years-modal-content"></div>
+            </div>
+            <span id="close-years-modal" class="close-modal-button">&#215;</span>
         </div>
         <div id="statistics-modal" class="modal">
             <div class="modal-ctn" id="statistics-ctn">

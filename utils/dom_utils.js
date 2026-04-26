@@ -4,11 +4,9 @@ import utils from "./main_utils.js"
 const pathOptionsCtn = document.getElementById('matched-search-list')
 
 function clean_string_spaces(value){
-    // console.log(value)
-    value = value.replace(/^\s+/, '')
-    value = value.replace(/\s+$/, '')
-    value = value.replace(/\s+{2, }/, ' ')
-    value = value.replace(/(\s+)?\/(\s+)?/, '/')
+    value = value.trim()
+    value = value.replace(/\s{2,}/g, ' ')
+    value = value.replace(/\s*\/\s*/g, '/')
     value = value.toLowerCase()
     return value
 }
@@ -189,11 +187,9 @@ function addPath(value, formCtn, resetQuestionCounterFx) {
     })
     trash.addEventListener('keydown', (e) => {
         if (e.key == "Enter") {
-            console.log("Es enter")
             ctn.remove()
             resetQuestionCounterFx()
         }
-        console.log("NO es Enter")
     })
 }
 
@@ -205,12 +201,12 @@ function keyDownSearcher(){
 function elementCreate(type, content="", classes=[], element_id="", childs=[], appendToCtn=false) {
     let element = document.createElement(type)
     if (content != "") element.textContent = content
-    if (classes != []) {
+    if (classes.length > 0) {
         for (let clase of classes) element.classList.add(clase)
     } 
     if (element_id != "") element.id = element_id
 
-    if (childs != []) {
+    if (childs.length > 0) {
         for (let child of childs) element.appendChild(child)
     } 
     if (appendToCtn != false) appendToCtn.appendChild(element)

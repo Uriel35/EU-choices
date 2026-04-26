@@ -1,26 +1,40 @@
 @import './general_style.css';
 
 footer {
-    background: var(--footer-bg);
+    background:
+        linear-gradient(180deg, rgba(8, 15, 28, 0), rgba(8, 15, 28, 0.6) 12%),
+        var(--footer-bg);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 2rem;
+    padding: 2.2rem;
     gap: 2rem;
     color: var(--footer-fg);
+    border-top: 1px solid rgba(255,255,255,0.06);
 }
 
 footer .footer-suggestions-form {
     display: flex;
     flex-direction: column;
     min-width: 40vw;
-    gap: .5rem;
+    gap: .8rem;
+    padding: 1.4rem;
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+}
+
+.footer-suggestions-form h2 {
+    font-size: calc(var(--font-size) * 1.5);
 }
 
 .footer-suggestions-form div input {
     text-transform: none;
-    font-size: calc(var(--font-size) * 1.3);
-    font-family: monospace;
+    font-size: calc(var(--font-size) * 1);
+    font-family: var(--font-family);
 }
 
 .footer-suggestions-form textarea {
@@ -29,7 +43,7 @@ footer .footer-suggestions-form {
 }
 
 .footer-suggestions-form textarea:focus {
-    box-shadow: 0 0 5px 5px black;
+    box-shadow: var(--box-shadow-focus);
 }
 
 footer .footer-contact-ctn {
@@ -37,32 +51,51 @@ footer .footer-contact-ctn {
     justify-content: space-evenly;
     gap: 1rem;
     width: 100%;
-
 }
 
 footer .footer-contact-ctn a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: .55rem;
     cursor: pointer;
+    padding: 1.25rem;
+    border-radius: var(--radius-md);
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.06);
+    transition: transform 0.18s ease, background 0.18s ease;
+}
+
+footer .footer-contact-ctn a:hover {
+    transform: translateY(-2px);
+    background: rgba(255,255,255,0.08);
 }
 
 footer .footer-contact-ctn i {
-    font-size: calc(var(--font-size) * 2);
+    font-size: calc(var(--font-size) * 1.8);
 }
 
-footer .footer-contact-ctn i p {
-    margin-left: .5rem;
-    font-size: calc(var(--font-size) * 1.2);
+footer .footer-contact-ctn p {
+    text-align: center;
+    font-size: calc(var(--font-size) * 0.98);
 }
 
 @media (max-width: 767px) {
     footer {
         flex-direction: column;
-        height: 70vh;
+        padding: 1rem;
     }
 
     .footer-suggestions-form {
+        width: 100%;
+        min-width: 100% !important;
+    }
+
+    footer .footer-contact-ctn {
+        width: 100%;
+    }
+
+    footer .footer-contact-ctn a {
         width: 100%;
     }
 }

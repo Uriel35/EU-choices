@@ -1,27 +1,57 @@
+const REGISTERED_MODALS = new Set()
+
+function openModal(modal) {
+    if (!modal) return
+    modal.classList.add('flex-active')
+    document.body.classList.add("modal-open")
+}
+
+function closeModal(modal) {
+    if (!modal) return
+    modal.classList.remove("flex-active")
+
+    const anyModalOpen = Array.from(REGISTERED_MODALS).some(
+        registeredModal => registeredModal.classList.contains("flex-active")
+    )
+
+    if (!anyModalOpen) {
+        document.body.classList.remove("modal-open")
+    }
+}
+
 function defineModal(openButton=undefined, modal, ctn, closeButton=undefined) {
-    if (openButton) openButton.addEventListener('click', () => {
-        modal.classList.add('flex-active')
-        document.body.classList.add("modal-open"); // Para que no se scrollee la pagina cuando esta abierto un modal.
-    })
+    if (!modal) return
+
+    REGISTERED_MODALS.add(modal)
+
+    if (openButton) {
+        openButton.addEventListener('click', () => {
+            openModal(modal)
+        })
+    }
+
     modal.addEventListener('click', (e) => {
-        if (e.target.contains(modal)) {
-            modal.classList.remove('flex-active')
-            document.body.classList.remove("modal-open");
+        if (e.target === modal) {
+            closeModal(modal)
         }
     })
-    document.addEventListener('keydown', (e) => {
-        if (e.key === "Escape") {
-            modal.classList.remove("flex-active")
-            document.body.classList.remove("modal-open");
-        }
-    })
+
     if(closeButton) {
         closeButton.addEventListener('click', () => {
-            modal.classList.remove('flex-active')
-            document.body.classList.remove("modal-open");
+            closeModal(modal)
         })
     }
 }
+
+document.addEventListener('keydown', (e) => {
+    if (e.key !== "Escape") return
+
+    REGISTERED_MODALS.forEach(modal => {
+        if (modal.classList.contains("flex-active")) {
+            closeModal(modal)
+        }
+    })
+})
 
 defineModal(document.getElementById('hsmlp-button'), document.getElementById('hsmlp-modal'), document.getElementById('hsmlp-ctn'), document.getElementById('close-hsmlp-modal'))
 defineModal(document.getElementById('readme-button'), document.getElementById('readme-modal'), document.getElementById('readme-ctn'), document.getElementById('close-readme-modal'))
@@ -39,7 +69,7 @@ defineModal(document.getElementById('report-question-button'), document.getEleme
 // PARA QUE APAREZCA EL QUIZ MODAL AL INICIO
 defineModal(undefined, document.getElementById('initial-modal'), document.getElementById('initial-modal-ctn'), document.getElementById('close-initial-modal'))
 document.addEventListener('DOMContentLoaded', function() {
-  document.getElementById("initial-modal").classList.add("flex-active")
+  openModal(document.getElementById("initial-modal"))
 });
 
 // defineModal(document.getElementById('hsmlp-button'), document.getElementById('hsmlp-modal'), document.getElementById('hsmlp-ctn'), document.getElementById('close-hsmlp-modal'))
@@ -51,6 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 //  *************** DATA ANALYTICS EVENTS *****************
 function addAnaltyticEvent(tgt, name) {
+  if (!tgt || typeof gtag !== "function") return
   tgt.addEventListener("click", () => {
       if (!sessionStorage.getItem(`${name}_session_storage`)) {
         gtag('event', name, {
@@ -90,6 +121,7 @@ addAnaltyticEvent(metodologyStats2024, "Metodologia stats 2024")
 
 const hsmlpCtn = document.getElementById("hsmlp-button")
 function vibrate(element){
+  if (!element) return
   setTimeout(function() {
     element.classList.add("vibrate");
   }, 100);
@@ -105,4 +137,4 @@ setInterval(function() {
   vibrate(hsmlpCtn);
 }, 120000); // 120 seg (2 minutos)
 
-export default {defineModal}
+export default {defineModal, closeModal, openModal}
