@@ -343,6 +343,37 @@
     display: flex;
     justify-content: flex-end;
     padding-top: .85rem;
+    overflow: visible;
+}
+
+.add-discussion-button-ctn .icon-button {
+    background: rgba(37, 99, 235, 0.14);
+    color: var(--button-background-strong);
+    border-color: rgba(37, 99, 235, 0.18);
+}
+
+.add-discussion-button-ctn .icon-button:hover {
+    background: var(--button-background);
+    color: #fff;
+}
+
+#discussion-button-tooltip {
+    left: auto;
+    right: 0;
+    transform: translateX(0);
+    max-width: 12rem;
+    white-space: normal;
+    text-align: center;
+}
+
+#discussion-button-tooltip::after {
+    left: auto;
+    right: 0.75rem;
+    transform: none;
+}
+
+.add-discussion-button-ctn .icon-button:hover #discussion-button-tooltip {
+    transform: translateY(-2px);
 }
 
 .buttons-ctn {

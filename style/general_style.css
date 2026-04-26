@@ -184,28 +184,46 @@ i {
 }
 
 .tooltip {
-    display: none;
+    display: flex;
     position: absolute;
     left: 50%;
-    bottom: calc(var(--font-size) * -2.2);
+    bottom: calc(100% + 0.55rem);
     margin: auto;
-    background-color: rgba(15, 23, 42, 0.88);
+    background-color: rgba(15, 23, 42, 0.94);
     color: #fff;
     border: 1px solid rgba(255, 255, 255, 0.08);
     width: max-content;
-    min-height: calc(var(--font-size) * 1.8);
-    padding-inline: calc(var(--font-size) * 0.6);
-    border-radius: 999px;
+    min-height: calc(var(--font-size) * 1.7);
+    padding: 0.32rem 0.6rem;
+    border-radius: 12px;
     font-size: calc(var(--font-size) * 0.86);
     transform: translateX(-50%);
     align-items: center;
     z-index: 100;
     font-weight: 700;
     box-shadow: 0 10px 28px rgba(2, 8, 23, 0.35);
+    white-space: nowrap;
+    pointer-events: none;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease;
+}
+
+.tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 6px;
+    border-style: solid;
+    border-color: rgba(15, 23, 42, 0.94) transparent transparent transparent;
 }
 
 .icon-button:hover .tooltip {
-    display: flex;
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(-2px);
 }
 
 ::-webkit-scrollbar {
