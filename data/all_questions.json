@@ -89,7 +89,7 @@
             "course": "examen unico",
             "exam": "2025"
         },
-        "answer": "a",
+        "answer": "c",
         "index": 12,
         "image": "",
         "discussion": []
@@ -1916,7 +1916,18 @@
         "answer": "d",
         "index": 1,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-09 10:47:05",
+                "name": "Maria Sol Villalba",
+                "email": "sool.villalba13@gmail.com",
+                "year": 2024,
+                "index": 1,
+                "explication": "El per\u00edodo durante el cual se produce la ca\u00edda de la fiebre y hasta 48 horas despu\u00e9s, es el momento en el que, con mayor frecuencia, los enfermos pueden presentar complicaciones; ya que la extravasaci\u00f3n de plasma se hace m\u00e1s intensa y es capaz de conducir al shock por dengue.\nDurante o despu\u00e9s del shock es el momento cuando se producen con mayor frecuencia las grandes hemorragias (hematemesis, melena y otras).\nEl empeoramiento es precedido por uno o m\u00e1s signos cl\u00ednicos conocidos como signos de alarma, ya que anuncian la inminencia del shock.\n\nLos signos de alarma son:\n1. Dolor abdominal intenso y sostenido.\n2. V\u00f3mitos persistentes.\n3. Derrame seroso (en peritoneo, pleura o pericardio) detectado por cl\u00ednica, por laboratorio\n(hipoalbuminemia) o por im\u00e1genes (ecograf\u00eda de abdomen o Rx de t\u00f3rax).\n4. Sangrado de mucosas.\n5. Cambio en el estado mental del paciente: somnolencia o irritabilidad.\n6. Hepatomegalia (> 2 cm). (la hepatomegalia brusca se observa sobre todo en ni\u00f1os)\n7. Si est\u00e1 disponible: incremento brusco del hematocrito concomitante con r\u00e1pida disminuci\u00f3n\ndel recuento de plaquetas.\n\nIdentificar los signos de alarma permite:\n\u2022 iniciar precozmente la reposici\u00f3n de l\u00edquidos por v\u00eda intravenosa, y\n\u2022 prevenir el shock, con la consecuente disminuci\u00f3n de la mortalidad.",
+                "bibliography": "Gu\u00eda para el equipo de salud Nro. 2 (4ta. edici\u00f3n) enfermedades infecciosas | dengue.",
+                "id": "81697041-f73b-42e4-b00c-3f86daaa311b"
+            }
+        ]
     },
     {
         "question_complete": "2) Karina, 35 a\u00f1os, se realiz\u00f3 un Papanicolau (PAP). Hoy concurre al Centro de Salud con el \nresultado: Muestra satisfactoria, ASC\u2010US (C\u00e9lulas escamosas at\u00edpicas de significado incierto). \nSeg\u00fan las recomendaciones del Ministerio de Salud de la Naci\u00f3n, \u00bfcu\u00e1l es la conducta \nadecuada? \n a) Repetir citolog\u00eda (PAP) lo antes posible \n b) Derivar para colposcop\u00eda y biopsia, y tratamiento \n c) Repetir citolog\u00eda (PAP) en 6 meses o un a\u00f1o \n d) Derivar al hospital para investigaci\u00f3n y tratamiento",
@@ -1935,7 +1946,18 @@
         "answer": "c",
         "index": 2,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-09 12:47:10",
+                "name": "Maria Sol Villalba",
+                "email": "sool.villalba13@gmail.com",
+                "year": 2024,
+                "index": 2,
+                "explication": "Siguiendo las pautas establecidas por la OMS (2006) se recomienda el siguiente\nprotocolo para el seguimiento de las mujeres con resultado de citolog\u00eda anormal (ASC-US) se debe repetir citolog\u00eda en 6 meses o un a\u00f1o.",
+                "bibliography": "Gu\u00eda Program\u00e1tica Abreviada para el tamizaje de C\u00c1NCER Cervicouterino\nPrograma Nacional de Prevenci\u00f3n de C\u00e1ncer Cervicouterino",
+                "id": "b816d730-acbe-40e9-95dd-a3475d2cf6a1"
+            }
+        ]
     },
     {
         "question_complete": "3) En cuanto a la profilaxis del haemofilus influenzae por un caso de meningitis en una \nguarderia, marque lo correcto: \u00bfQui\u00e9nes deben recibir la profilaxis del haemofilus influenzae \nante un caso de meningitis en un jard\u00edn maternal? \n a) Todos los contactos cercanos menores de 4 a\u00f1os, aunque posean vacunaci\u00f3n completa \n b) Los contactos cercanos menores de 4 a\u00f1os con vacunaci\u00f3n incompleta \n c) Todos contactos cercanos con vacunaci\u00f3n incompleta \n d) Todos los contactos cercanos, aunque posean vacunaci\u00f3n completa",
@@ -6408,7 +6430,18 @@
         "answer": "b",
         "index": 12,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-06 17:43:38",
+                "name": "Abril Gianotti",
+                "email": "abril.gianotti@hotmail.com",
+                "year": 2022,
+                "index": 12,
+                "explication": "El Mieloma Multiple es una neoplasia de c\u00e9lulas plasm\u00e1ticas que se caracteriza por presentar una banda monoclonal, infiltracion de la m\u00e9dula \u00f3sea por c\u00e9lulas plasmaticas clonales >10% y da\u00f1o de \u00f3rgano blanco.\nLas complicaciones que puede tener son:\n- HIPERcalcemia (Ca++ >11mg%).\n- Insuficiencia Renal Aguda (Cl Cr <40ml/min o Cr s\u00e9rica >2mg%).\n- Anemia (Hb <10gr/dl).\n- Lesiones Oseas.",
+                "bibliography": "",
+                "id": "f7df8f48-4ad5-4f94-accc-43fc04f157eb"
+            }
+        ]
     },
     {
         "question_complete": "\n13)  Toda  persona  con  diagn\u00f3stico  de DM2  debe  ser incluida en  estilos  de  vida  saludable. \u00bfQu\u00e9  es lo \nrecomendable en cuanto a la actividad f\u00edsica? \n a) Al menos 150 minutos quincenales de intensidad f\u00edsica moderada \n b) Al menos 60 minutos diarios de actividad f\u00edsica intensa \n c) Al menos 150 minutos semanales de intensidad f\u00edsica moderada \n d) Al menos 60 minutos semanales de actividad f\u00edsica moderada \n",
@@ -7019,7 +7052,18 @@
         "answer": "a",
         "index": 43,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-08 19:47:41",
+                "name": "Floriana",
+                "email": "",
+                "year": 2022,
+                "index": 43,
+                "explication": "En personas con DM2 que no puedan iniciar terapia farmacol\u00f3gica con metformina (por contraindicaci\u00f3n o intolerancia ej: insuficiencia card\u00edaca (aguda-descompensada), insuficiencia hep\u00e1tica, enfermedad renal cr\u00f3nica (IFGe menor de 30 ml/minuto/1,73m2) se recomienda el inicio de tratamiento farmacol\u00f3gico con alguna de las siguientes opciones: \n\u2022 Sulfonilureas (gliclazida, glimepirida, glipizida).\n\u2022 Inhibidores de DPP4 (iDPP4: vildagliptina, sitagliptina y linagliptina).\n\u2022 Meglitinidas (repaglinida).\n\u2022 Tiazolidinedionas (pioglitazona)",
+                "bibliography": "Gu\u00eda de Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2) 2019. P\u00e1g. 38. https://www.argentina.gob.ar/sites/default/files/bancos/2020-09/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_2019.pdf",
+                "id": "bf9d11ec-39e2-4fc1-a464-84eadc0ed980"
+            }
+        ]
     },
     {
         "question_complete": "\n44) Usted recibe en el centro de salud a una persona gestante de 33 semanas, G2 P2, con antecedentes \nHTA  cr\u00f3nica y preclamsia sobre agregada, en tratamiento con labetalol 200mg/12hr. El familiar refiere \nque  previo  al  cuadro  actual  refer\u00eda  cefalea  persistente  y  visi\u00f3n  borrosa,  al  ingreso  presenta \nconvulsiones t\u00f3nico cl\u00f3nicas. Coloca a la mujer en dec\u00fabito lateral izquierdo, mantiene una adecuada \noxigenaci\u00f3n,  solicita  traslado  a  centro  de  mayor  complejidad  y  decide  comenzar  con  tratamiento \nm\u00e9dico. \u00bfQu\u00e9 medicaci\u00f3n debe administrarle si no se logr\u00f3 colocar una v\u00eda intravenosa? \n a) Sulfato de Magnesio intramuscular 20 gramos, 10 gramos en cada regi\u00f3n gl\u00fatea \n b) Sulfato de Magnesio intramuscular 10 gramos, 5 gramos en cada regi\u00f3n gl\u00fatea \n c) Diazepam intramuscular 10 mg \n d) Diazepam intramuscular 20 mg \n ",
@@ -7876,7 +7920,18 @@
         "answer": "c",
         "index": 83,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-09 01:59:18",
+                "name": "Hnery Atiencia",
+                "email": "",
+                "year": 2022,
+                "index": 83,
+                "explication": "Es ambigua la pregunta, incluso podr\u00edan existir dos respuestas, ya que los g\u00e9rmenes involucrados en la conjuntivitis neonatal son la neisseria meningitidis y la clamidia, a quienes se dirige la profilaxis.",
+                "bibliography": "",
+                "id": "1f4b6f23-75dd-4a2f-9dbc-2f199835eb54"
+            }
+        ]
     },
     {
         "question_complete": "\n84) Se presenta a la consulta Federico de 28 a\u00f1os, que desde hace 9 a\u00f1os transita su cambio de g\u00e9nero \ncomo  var\u00f3n trans.  Una  amiga le coment\u00f3 que deb\u00eda realizar  controles ginecol\u00f3gicos  para prevenci\u00f3n \ndel c\u00e1ncer de cuello uterino. Realiza androgenoterapia desde hace 5 a\u00f1os. Nunca tuvo relaciones con \npenetraci\u00f3n  vaginal.  En  este  caso,  \u00bfcu\u00e1l  es  la  recomendaci\u00f3n  m\u00e1s  adecuada  en  relaci\u00f3n  con  esta \npr\u00e1ctica preventiva? \n a) Indicar la realizaci\u00f3n de Papanicolau y colposcopia como m\u00e9todo de rastreo \n b) Explicar que no es necesario realizar rastreo por su condici\u00f3n actual \n c) Recomendar toma de muestra citol\u00f3gica a ciegas (sin colocaci\u00f3n de esp\u00e9culo) \n d) Solicitar ecograf\u00eda transvaginal y control seg\u00fan resultado \n",
@@ -11830,7 +11885,18 @@
         "answer": "a",
         "index": 74,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-06 09:50:38",
+                "name": "Fabrizio Martelotte",
+                "email": "fabriziomartelotte@hotmail.com.ar",
+                "year": 2020,
+                "index": 74,
+                "explication": "El r\u00e9gimen \u00f3ptimo de tratamiento para la corioamnionitis no ha sido bien estudiado, las recomendaciones se basan en grandes consensos cl\u00ednicos. La administraci\u00f3n endovenosa de Ampicilina cada 6 horas y Gentamicina cada 24 horas hasta el nacimiento es el r\u00e9gimen m\u00e1s utilizado. En caso de que sea necesario realizar una ces\u00e1rea, se ampliar\u00e1 la cobertura contra anaerobios indicando Metronidazol o Clindamicina cada 8 horas. La administraci\u00f3n de una dosis adicional previa al nacimiento optimiza el tratamiento (< 5% tasa de fracaso terap\u00e9utico).\nEsquemas de tratamiento\na. Ampicilina: 2 gramos cada 6 horas + Gentamicina 3-5 mg/kg/d\u00eda, una dosis diaria\nb. Ampicilina Sulbactam: 3 g cada 8 horas\nc. Ampicilina Sulbactam: 1,5 g cada 6 horas + Clindamicina 600-900 mg cada 8 horas.",
+                "bibliography": "Biblio Oficial Guia de parto pretermino. https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000710cnt-guia-parto-pretermino.pdf",
+                "id": "8bcb0ba9-fa0b-49c3-910e-69f2e6d114d9"
+            }
+        ]
     },
     {
         "question_complete": "\n75) Pregunta: Una mujer con infecci\u00f3n por VIH en tratamiento antiretroviral, cursa embarazo a \nt\u00e9rmino y presenta contracciones desde hace 2 horas. En el examen f\u00edsico se constatan movimientos \nfetales positivos, frecuencia card\u00edaca fetal de 150 latidos/minuto, tono uterino normal, din\u00e1mica \nuterina de 3 contracciones cada 10 minutos y duraci\u00f3n de 40 segundos. En el tacto vaginal presenta \ncuello borrado en 75%, con 5 cm de dilataci\u00f3n y bolsa integra. Tiene presentaci\u00f3n fetal cef\u00e1lica. La\n\u00faltima carga viral (en la semana 36) fue de menos de 50 copias por ml. \u00bfCu\u00e1l es la conducta m\u00e1s \nadecuada?  \nA) Realizar parto vaginal y zidovudina (AZT) endovenosa intraparto hasta el nacimiento. \nB) Realizar parto vaginal y tratamiento con AZT al lactante luego del nacimiento. \nC) Realizar ces\u00e1rea y AZT endovenosa intraparto hasta el nacimiento. \nD) Realizar ces\u00e1rea y tratamiento con AZT al lactante luego del nacimiento. \n",
@@ -11868,7 +11934,18 @@
         "answer": "c",
         "index": 76,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-09 12:44:16",
+                "name": "Ledesma Melina",
+                "email": "meliaye2010@hotmail.com",
+                "year": 2020,
+                "index": 76,
+                "explication": "Si el urocultivo ya muestra E. coli >10\u2075 UFC/ml en una paciente embarazada y asintom\u00e1tica, ya se cumple el criterio diagn\u00f3stico de bacteriuria asintom\u00e1tica.\nSeg\u00fan todas las gu\u00edas (OMS, CDC, UpToDate, AMR, NICE, ACOG), se debe iniciar tratamiento antibi\u00f3tico sin esperar una segunda muestra. ",
+                "bibliography": "OMS, CDC, UpToDate, AMR, NICE, ACOG",
+                "id": "e3d0c51f-8c73-4f82-bfd9-ed031947111f"
+            }
+        ]
     },
     {
         "question_complete": "\n77) Pregunta: Una mujer de 22 a\u00f1os concurre a la consulta porque est\u00e1 embarazada de 8 semanas. \nRelata que el embarazo es producto de violaciones de su marido y quiere acceder a la interrupci\u00f3n \ndel embarazo. \u00bfCu\u00e1l de las siguientes afirmaciones es correcta, de acuerdo con el art\u00edculo 86 del \nc\u00f3digo penal y el protocolo para la atenci\u00f3n integral de las personas con derecho a la interrupci\u00f3n \nlegal del embarazo?  \nA) Las violaciones que resulten en embarazo se consideran causales de legalidad para el aborto. \nB) Las violaciones a mujeres con discapacidad intelectual no se consideran causales de legalidad para \nel aborto.  \nC) Las violaciones que resulten en embarazo se consideran causales de legalidad del aborto.  \nD) Las violaciones a cualquier persona que denuncie penalmente dicha violacion, se consideran \ncausales de legalidad para el aborto. \n",
@@ -12959,7 +13036,18 @@
         "answer": "b",
         "index": 30,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-06 10:32:01",
+                "name": "Fabrizio M",
+                "email": "fabriziomartelotte@hotmail.com",
+                "year": 2019,
+                "index": 30,
+                "explication": "Tiene criterios ecogr\u00e1ficos de riesgo de PP\nLongitud cervical < 25 mm antes de las 28 semanas.\nLongitud cervical < 20 mm entre las 28 y 31,6 semanas.\nLongitud cervical < 15 mm a las 32 semanas o m\u00e1s\n\nTiene criterios de tratamiento con progesterona pero no cumple con los criterios de cerclaje. Se recomienda la administraci\u00f3n de Progesterona por v\u00eda vaginal a embarazadas asintom\u00e1ticas con cuello acortado detectado por ultrasonograf\u00eda o antecedente (s) de parto(s) pret\u00e9rmino(s) (Nivel de Evidencia Ia, Recomendaci\u00f3n A).\nInicio del tratamiento a partir de las 16-20,6 semanas o al momento del diagn\u00f3stico de un acortamiento del c\u00e9rvix por Ecograf\u00eda TV.\nSe recomienda progesterona micronizada por v\u00eda vaginal, a pacientes con c\u00e9rvix de longitud menor a 25 mm, entre las 16-20,6 y 36,6 semanas de\ngestaci\u00f3n (Nivel de Evidencia Ia, Recomendaci\u00f3n A).\n\nNo es cerclaje por que necesita el antecedente  de 3 o mas partos preterminos",
+                "bibliography": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000710cnt-guia-parto-pretermino.pdf",
+                "id": "2f33a8ec-ad90-4f11-9649-1a9e74fc3875"
+            }
+        ]
     },
     {
         "question_complete": "\n31)  Un  paciente  var\u00f3n  de  25  a\u00f1os  ingresa  al  servicio  de  guardia  de  un  hospital  general  de  agudos \nacompa\u00f1ado por su madre. La mujer pide que su hijo sea internado dado que lo encontr\u00f3 consumiendo \npasta base y no puede cuidarlo pues trabaja todo el d\u00eda. El joven reconoce su problema de consumo pero \nno  acepta  internarse.  Seg\u00fan  Ley  N\u00ba  26.657  de  Salud  Mental,  \u00bfqu\u00e9  deber\u00eda  hacer  el  m\u00e9dico  cl\u00ednico  que \nrecibe la consulta? \n a) Indicarle cu\u00e1l es el hospital especializado en salud mental m\u00e1s cercano al efector \n b) Prescribir la internaci\u00f3n en acuerdo con la familia y otro profesional de guardia \n c) Derivar el caso al servicio social para que realicen la pertinente denuncia \n d) Evaluar riesgo cierto e inminente para definir intervenciones posibles ",
@@ -14347,7 +14435,18 @@
         "answer": "a",
         "index": 99,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-06 09:56:33",
+                "name": "Fabrizio M",
+                "email": "fabriziomartelotte@hotmail.com",
+                "year": 2019,
+                "index": 99,
+                "explication": "Se recomienda la suplementaci\u00f3n con hierro y \u00e1cido f\u00f3lico por v\u00eda oral en esquemas de administraci\u00f3n diaria (60 mg de hierro elemental y 0,4 mg de \u00e1cido f\u00f3lico) en personas gestantes que cursan embarazos de bajo riesgo, con el objetivo de mejorar los resultados maternos y neonatales.\nCerteza de la evidencia: MODERADA.",
+                "bibliography": "Gu\u00eda pr\u00e1citca cl\u00ednica de atenci\u00f3n prenatal de bajo riesgo. https://www.argentina.gob.ar/sites/default/files/bancos/2023-07/GPC%20Atenci%C3%B3n%20Prenatal%20de%20Bajo%20Riesgo%202023.pdf",
+                "id": "0de1fe8e-48e6-440c-a61f-f7fede66fb84"
+            }
+        ]
     },
     {
         "question_complete": "\n100)  Paciente  var\u00f3n  de  67  a\u00f1os  ingresa  por  guardia.  Presenta  un  cuadro  de  tos  h\u00fameda  no  productiva, \nfiebre  de  48hs y  disnea  Clase  Funcional IV. En  el  examen  f\u00edsico se  encuentra parcialmente  orientado  en \ntiempo  y  espacio,  roncus  y  sibilancias  bilaterales  a  predominio  derecho  y  rales  crepitantes  en  base \nderecha,  presi\u00f3n  arterial  100/60  mm  Hg;  frecuencia  card\u00edaca  110  latidos  por  minuto,  frecuencia \nrespiratoria  32  por  minuto,  saturaci\u00f3n  de  oxigeno  90%  respirando  al  aire  ambiente.  Se  realiza  una \nradiograf\u00eda simple de t\u00f3rax que muestra un infiltrado en base derecha compatible con neumon\u00eda aguda de \nla  comunidad.  El  Laboratorio  presenta:  recuento  de  gl\u00f3bulos  blancos  17200  x  mm3,  hematocrito  42  %, \nglucemia 113 mg/Dl, urea 92 mg/Dl, creatinina 1.85 mg/dL. Usted calcula el CURB-65 y obtiene un valor de \n4. \u00bfCu\u00e1l considera que es la conducta correcta en este caso? \n a) Nebulizaciones, antibi\u00f3tico V\u00eda oral, reposo y control en 24hs. \n b) Observaci\u00f3n en guardia y tratamiento antibi\u00f3tico. \n c) Internaci\u00f3n en sala general y tratamiento antibi\u00f3tico endovenoso. \n d) Internaci\u00f3n en Terapia Intensiva por riesgo aumentado de morbimortalidad.\n",
@@ -15300,7 +15399,18 @@
         "answer": "a",
         "index": 48,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-07 20:16:59",
+                "name": "Natalia Aran",
+                "email": "belenfranze6@gmail.com",
+                "year": 2018,
+                "index": 48,
+                "explication": "Eleg\u00ed meningitis bacteriana por las caracter\u00edsticas que muestra el LCR y la tomografia.\nLCR:\n-Leucocitos: 680/mm\u00b3, con predominio de polimorfonucleares (85%) \u27f6 t\u00edpico de bacteriana.\n- Glucosa: 9 mg/dl (muy baja) \u27f6 hipoglucorraquia grave \u2192 altamente sugestiva de meningitis bacteriana.\n- Prote\u00ednas: 77 mg/dl \u27f6 elevadas, compatible con inflamaci\u00f3n men\u00edngea.\n\nTC con lesiones hipodensas parcheadas:\nPuede corresponder a edema vasog\u00e9nico o abscesos cerebrales m\u00faltiples secundarios a diseminaci\u00f3n bacteriana. No tiene que ser necesariamente por TBC.",
+                "bibliography": "",
+                "id": "cc83c0cd-3d15-4025-a453-067e885b1099"
+            }
+        ]
     },
     {
         "question_complete": "\n49) \u00bfEn cu\u00e1l de los siguientes cuadros cl\u00ednicos es posible observar la siguiente alteraci\u00f3n en el ECG?  \n(VER IMAGEN 1) \n a) Infarto agudo de miocardio en etapa aguda. \n b) Infarto agudo de miocardio en etapa cr\u00f3nica. \n c) Isquemia subendoc\u00e1rdica. \n d) Pericarditis. ",
@@ -15835,7 +15945,18 @@
         "answer": "b",
         "index": 75,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-06 18:06:01",
+                "name": "Abril Gianotti",
+                "email": "abril.gianotti@hotmail.com",
+                "year": 2018,
+                "index": 75,
+                "explication": "La Brucelosis se transmite por medio de la leche, sangre, placenta, fetos abortados y orina de los animales reservorio (ganado), asi como los suelos de corrales contaminados.\nCuando ingresan al organismo, penetran al sistema fagocitico-mononuclear y llegan a circulacion sistemica, localizandose intracelularmente formando granulomas, y extracelularmente.\nPuede afectar todos los organos (enfermedad de las mil formas clinicas).\n\nSOSPECHAR cuando hay fiebre de comienzo agudo o insidioso con uno o mas de los siguientes:\n- Sudoracion nocturna, artralgias, cefalea, fatiga, anorexia, mialgia, disminucion de peso, artritis, meningitis o afectacion focal de organos.\n\nY uno o mas de los siguientes antecedentes epidemiologicos:\n- contacto ocupacional con animales de produccion ganadera, contacto con perros sintomaticos, consumo de productos de origen animal presuntamente contaminados, exposicion de laboratorios.",
+                "bibliography": "",
+                "id": "38b2f4f9-3a17-4a6c-a7a2-fa3217f71b58"
+            }
+        ]
     },
     {
         "question_complete": "\n76) \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con una adolescente de 19 a\u00f1os que toma un anticonceptivo oral \ncombinado trif\u00e1sico desde hace un mes y consulta por leve sangrado intermitente (spotting)? \n a) Aconsejar anticoncepci\u00f3n alternativa. \n b) Continuar la medicaci\u00f3n y control en dos meses. \n c) Cambiar a anticonceptivos orales monof\u00e1sicos. \n d) Cambiar a otro anticonceptivo oral con mayor dosis de progesterona. ",
