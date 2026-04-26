@@ -2544,7 +2544,28 @@
         "answer": "a",
         "index": 30,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-03-06 18:50:35",
+                "name": "Paula Funes Groverman",
+                "email": "fgrovermanpaula@gmail.com",
+                "year": 2024,
+                "index": 30,
+                "explication": "Recomendacion fuerte (motherhood statement) \"En personas que al momento de diagn\u00f3stico de DM2 presenten hiperglucemia sintom\u00e1tica (p\u00e9rdida de peso, poliuria, polifagia, polidipsia), se recomienda iniciar tratamiento con insulina al momento de acostarse (bedtime) para evitar descompensaciones agudas (cetoacidosis, s\u00edndrome hiperosmolar hipergluc\u00e9mico). Asociar con metformina (en ausencia de contraindicaci\u00f3n), ya que contribuye a mejorar el control gluc\u00e9mico y aten\u00faa el aumento de peso, sin aumentar el riesgo de hipoglucemias.\"",
+                "bibliography": "Gu\u00eda de Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2) 2019 https://www.argentina.gob.ar/sites/default/files/bancos/2020-09/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_2019.pdf",
+                "id": "12628a22-6be1-44c3-a59b-6de82175cf4f"
+            },
+            {
+                "date": "2026-03-28 02:09:48",
+                "name": "Carolina",
+                "email": "carolina.pmad95@gmail.com",
+                "year": 2024,
+                "index": 30,
+                "explication": "la m\u00e1s correcta ser\u00eda la respuesta C. Seg\u00fan la gu\u00eda de pr\u00e1ctica cl\u00ednica 2019, en un paciente con reciente diagn\u00f3stico e hiperglucemia sintom\u00e1tica, se recomienda iniciar NPH al acostarse  (0,1 U/kg pacientes fr\u00e1giles o ERC y 0,2 U/kg en casos de obesidad o uso de glucocorticoides) asociado a metformina para mejor control gluc\u00e9mico. ",
+                "bibliography": "https://www.argentina.gob.ar/sites/default/files/bancos/2020-09/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_2019.pdf, p\u00e1gina 46 ",
+                "id": "d7600dda-24b1-40d3-a07d-7a444763e59e"
+            }
+        ]
     },
     {
         "question_complete": "31) Leonel de 6 meses que es tra\u00eddo a la guardia por su madre de 22 a\u00f1os por presentar 2 picos \nde fiebre en las \u00faltimas 12 horas, buen \u00e1nimo salvo cuando le sube la temperatura que se \nencuentra algo deca\u00eddo. Cuando revisa al bebe se encuentra en buen estado general sin foco \ninfeccioso claro, solicita una orina completa con sedimento con t\u00e9cnica est\u00e9ril. Se obtiene \ncomo datos positivos: PH:6, Densidad 1020; Nitritos ++; Esterasa leucocitaria ++ Leucocitos 25 \nx campo. Con estos resultados \u00bfqu\u00e9 decisiones adopta? \n a) Aguardar resultados de urocultivo para comenzar con antibi\u00f3tico terapia \n b) Repetir la muestra ya que la asume como contaminada \n c) Realizar urocultivo y comenzar con antibi\u00f3tico v\u00eda oral \n d) Internar al bebe, realizar urocultivo y comenzar con antibi\u00f3tico endovenoso",
@@ -4449,7 +4470,18 @@
         "answer": "b",
         "index": 21,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-04-24 10:57:15",
+                "name": "Agustina Rodriguez",
+                "email": "agusr.98@gmail.com",
+                "year": 2023,
+                "index": 21,
+                "explication": "Eleg\u00ed la opci\u00f3n C entendiendo que el resultado CIN2 ya era el de una biopsia, puesto que una citolog\u00eda PAP unicamente me dar\u00eda informaci\u00f3n diciendo \"HSIL\" sin mas, es esto incorrecto?\nEntonces si yo entendiera por el enunciado que solo se relaiz\u00f3 una CITOLOG\u00cdA hubiera puesto como correcta la respuesta B pidiendo biopsia; pero si considero que la biopsia ya fue analizada el siguiente paso es la C con un tratamiento de conizaci\u00f3n. \nTampoco entiendo bien para qu\u00e9 me dicen que no veo la ZT si despues no es correcta la de pedir legrado para analizarla, pero deduzco que toma prioridad la zona de lesiones ya vista y confirmada sobre la que sigue el caso. ",
+                "bibliography": "Sistema Bethesda (2014/2020): Es el est\u00e1ndar internacional para informar citolog\u00eda cervical. Establece que el PAP informa SIL de Bajo Grado (LSIL) o SIL de Alto Grado (HSIL).\nOMS (Organizaci\u00f3n Mundial de la Salud): En su clasificaci\u00f3n de tumores de tracto genital femenino, reserva el t\u00e9rmino CIN (1, 2 y 3) para el an\u00e1lisis de tejido (biopsia).\nFASGO (Federaci\u00f3n Argentina de Sociedades de Ginecolog\u00eda y Obstetricia): En sus consensos de patolog\u00eda de tracto genital inferior, sigue estrictamente esta divisi\u00f3n: PAP = SIL; Biopsia = CIN.\n",
+                "id": "bf6c5e37-5641-477d-8099-ac2b4770c3b6"
+            }
+        ]
     },
     {
         "question_complete": "22) Paciente de 67 a\u00f1os, HTA y dislip\u00e9mico, es tra\u00eddo a la guardia por presentar dolor tor\u00e1cico opresivo \nde 4 horas de evoluci\u00f3n, con intensa sudoraci\u00f3n asociada. Se realiza un electrocardiograma que \nmuestra elevaci\u00f3n convexa del ST de 4 mm en DII, DIII y aVF, con descenso del ST de 3 mm en V1-V3. \n\u00bfCu\u00e1l es la conducta m\u00e1s adecuada? \n a) tratamiento fibrinol\u00edtico inmediato \n b) angioplastia coronaria percut\u00e1nea \n c) tratamiento m\u00e9dico inicial y cinecoronariograf\u00eda dentro de las 72hs. \n d) cirug\u00eda de revascularizaci\u00f3n mioc\u00e1rdica",
@@ -7062,6 +7094,16 @@
                 "explication": "En personas con DM2 que no puedan iniciar terapia farmacol\u00f3gica con metformina (por contraindicaci\u00f3n o intolerancia ej: insuficiencia card\u00edaca (aguda-descompensada), insuficiencia hep\u00e1tica, enfermedad renal cr\u00f3nica (IFGe menor de 30 ml/minuto/1,73m2) se recomienda el inicio de tratamiento farmacol\u00f3gico con alguna de las siguientes opciones: \n\u2022 Sulfonilureas (gliclazida, glimepirida, glipizida).\n\u2022 Inhibidores de DPP4 (iDPP4: vildagliptina, sitagliptina y linagliptina).\n\u2022 Meglitinidas (repaglinida).\n\u2022 Tiazolidinedionas (pioglitazona)",
                 "bibliography": "Gu\u00eda de Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2) 2019. P\u00e1g. 38. https://www.argentina.gob.ar/sites/default/files/bancos/2020-09/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_2019.pdf",
                 "id": "bf9d11ec-39e2-4fc1-a464-84eadc0ed980"
+            },
+            {
+                "date": "2026-03-25 19:22:47",
+                "name": "an\u00f3nimo",
+                "email": "carolina.pmad95@gmail.com",
+                "year": 2022,
+                "index": 43,
+                "explication": "Si bien la Glipizina, una sulfonilurea de bajo riesgo, es una alternativa razonable y segura ya que tiene metabolismo hep\u00e1tico y se excreta por orina como metabolitos inactivos, el  f\u00e1rmaco recomendado para un paciente con ERC estadio 4 son los agonistas de GLP-1 como Dulaglutida ya que poseen beneficios de protecci\u00f3n cardiovascular y renal documentados. ",
+                "bibliography": "Fuente: https://www.uptodate.com/contents/management-of-hyperglycemia-in-patients-with-type-2-diabetes-and-advanced-chronic-kidney-disease-or-end-stage-kidney-disease?search=diabetes%20y%20enfermedad%20renal%20cronica%20&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1",
+                "id": "6865fca2-590e-43bc-aa7e-8bce2d51cffa"
             }
         ]
     },
@@ -7121,6 +7163,26 @@
                 "explication": "\"La OMS solo recomienda la profilaxis con inmunoglobulina anti-D en mujeres u otras PCG no sensibilizadas para prevenir la aloinmunizaci\u00f3n RhD en abortos con medicamentos o\nquir\u00fargicos a partir de las 12 semanas.\nSi se dispone de inmunoglobulina anti-Rh, debe administrarse antes de 72 horas posteriores al procedimiento para mejores resultados (OMS, 2022).\nLa OMS no recomienda la administraci\u00f3n de inmunoglobulina anti-D en abortos de menos de 12 semanas ya que la probabilidad te\u00f3rica de formaci\u00f3n de anticuerpos es\npr\u00e1cticamente cero a esta edad gestacional. En consecuencia, la determinaci\u00f3n del factor Rh y la administraci\u00f3n de profilaxis anti-Rh no se consideran requisitos previos para realizar el procedimiento de IVE/ILE en embarazos tempranos.\nSi la persona no ha sido vacunada contra el t\u00e9tanos en los 10 a\u00f1os anteriores a la consulta, se debe aplicar la vacuna antitet\u00e1nica o doble adulto. En todos los casos, es conveniente\nevaluar el estado de las vacunas de la ni\u00f1a, adolescente, mujer u otra PCG seg\u00fan calendario nacional vigente y sugerir la colocaci\u00f3n de las vacunas faltantes. Esta evaluaci\u00f3n no puede constituirse en un obst\u00e1culo para acceder a la pr\u00e1ctica.",
                 "bibliography": "Protocolo para la atenci\u00f3n integral de las personas con derecho a la interrupci\u00f3n voluntaria y legal del embarazo (IVE/ILE) actualizaci\u00f3n 2022",
                 "id": "bd9cf6c2-124d-47bf-a636-44c0543f67fd"
+            },
+            {
+                "date": "2024-07-01 00:36:17",
+                "name": "sandra",
+                "email": "",
+                "year": 2022,
+                "index": 45,
+                "explication": "La OMS sugiere que el riesgo te\u00f3rico de isoinmunizaci\u00f3n es muy bajo en embarazos menores a 63 d\u00edas de gestaci\u00f3n (9 semanas). En consecuencia, la determinaci\u00f3n del factor Rh y la administraci\u00f3n de profilaxis anti-Rh\tno se consideran requisitos previos para realizar el procedimiento de ILE en embarazos tempranos. \n\nSi se dispone de inmunoglobulina anti-Rh, debe administrarse antes o durante el procedimiento (OMS, 2012).",
+                "bibliography": "Protocolo para la atenci\u00f3n integral de las personas con derecho a la interrupci\u00f3n legal del embarazo",
+                "id": "5b16ec47-a9c5-441a-8c5c-95931116edd1"
+            },
+            {
+                "date": "2026-02-14 13:28:16",
+                "name": "Maria sol albiero",
+                "email": "solalbiero17@gmail.com",
+                "year": 2022,
+                "index": 45,
+                "explication": "La respuesta correcta seria  la A en base a la actualizaci\u00f3n de diciembre de 2022 que Indica \n\"8.1. VACUNACI\u00d3N E ISOINMUNIZACI\u00d3N RH\nLa OMS solo recomienda la profilaxis con inmunoglobulina anti-D en mujeres u otras PCG no sensibilizadas para prevenir la aloinmunizaci\u00f3n RhD en abortos con medicamentos o quir\u00fargicos a partir de las 12 semanas. Si se dispone de inmunoglobulina anti-Rh, debe administrarse antes de 72 horas posteriores al procedimiento para mejores resultados (OMS, 2022).\nLa OMS no recomienda la administraci\u00f3n de inmunoglobulina anti-D en abortos de menos de 12 semanas ya que la probabilidad te\u00f3rica de formaci\u00f3n de anticuerpos es pr\u00e1cticamente cero a esta edad gestacional. En consecuencia, la determinaci\u00f3n del factor Rh y la administraci\u00f3n de profilaxis anti-Rh no se consideran requisitos previos para realizar el procedimiento de IVE/ILE en embarazos tempranos.\"",
+                "bibliography": "https://bioetica.saludneuquen.gob.ar/wp-content/uploads/2023/01/12-2022-Protocolo-IVE-ILE-2022.pdf",
+                "id": "8e6b55ce-e2fa-4b66-bdac-f8eee99d442e"
             }
         ]
     },
@@ -7228,7 +7290,18 @@
         "answer": "a",
         "index": 50,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-04-06 10:34:05",
+                "name": "Jefferson Padilla ",
+                "email": "jeffersonjdz98@gmail.com",
+                "year": 2022,
+                "index": 50,
+                "explication": "Seg\u00fan Harrison Principios de Medicina Interna y las gu\u00edas del Ministerio de Salud de la Naci\u00f3n Argentina, las pruebas no trepon\u00e9micas como VDRL pueden presentar falsos positivos en t\u00edtulos bajos, por lo que se considera cl\u00ednicamente relevante a partir de 1:4, debiendo confirmarse con pruebas espec\u00edficas.\nAsimismo, el Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases se\u00f1ala que los t\u00edtulos del VDRL tambi\u00e9n permiten evaluar la actividad de la enfermedad y la respuesta al tratamiento, siendo fundamental su seguimiento en el tiempo.",
+                "bibliography": "",
+                "id": "2023472c-d210-4cfa-aad7-255eb61c1368"
+            }
+        ]
     },
     {
         "question_complete": "\n51) \u00bfQu\u00e9 caracter\u00edsticas tienen el PAP y el test de HPV como m\u00e9todos de tamizaje? \n a) PAP valor predictivo negativo bajo y sensibilidad alta \n b) Test de HPV valor predictivo negativo alto y sensibilidad alta \n c) PAP valor predictivo negativo alto y sensibilidad baja \n d) Test de HPV valor predictivo negativo bajo y sensibilidad alta \n",
@@ -7632,7 +7705,18 @@
         "answer": "c",
         "index": 69,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-11 17:31:47",
+                "name": "Abril Gianotti",
+                "email": "abril.gianotti@hotmail.com",
+                "year": 2022,
+                "index": 69,
+                "explication": "Valores del MiniMental Test:\n\n- 27 a 30: normal.\n- 25 a 26: dudoso.\n- 10 a 24: demencia leve.\n- 6 a 9: demencia moderada.\n- 0 a 5: demencia severa.",
+                "bibliography": "",
+                "id": "05c0b8c9-1ecd-4052-9aef-bbf459e999c9"
+            }
+        ]
     },
     {
         "question_complete": "\n70) Paciente presenta un cuadro con natremia menor a 135 meq/l, osmolalidad plasm\u00e1tica menor a 280 \nmOsm/l, osmolalidad urinaria superior a la plasm\u00e1tica, con funci\u00f3n renal y tiroidea normales \u00bfCon qu\u00e9 \nenfermedad es compatible? \n a) Cetoacidosis diab\u00e9tica \n b) S\u00edndrome de secreci\u00f3n inadecuada de ADH \n c) S\u00edndrome de Addison \n d) Diabetes ins\u00edpida \n",
@@ -8411,7 +8495,18 @@
         "answer": "b",
         "index": 6,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-04-18 10:35:17",
+                "name": "victoria panigatti ",
+                "email": "vikipanigatti15@gmail.com",
+                "year": 2021,
+                "index": 6,
+                "explication": "Segun guias del 2015 la conducta en menores de 1 a\u00f1o era hacer CUGM y ecografia renovesical, ahora se hace solo ecografia y segun el resultado se pide CUGM",
+                "bibliography": "guia para diagnostico,estudio y tratamiento de la infeccion urinaria ,sociedad argentina de pediatria 2022",
+                "id": "b8a5b7fd-995d-46a3-941d-eb10b8eebad0"
+            }
+        ]
     },
     {
         "question_complete": "\n7) Pregunta: \nLlega a la guardia una pareja de adolescentes, una chica de 14 a\u00f1os y su novio de 15 a\u00f1os a solicitar la \nanticoncepci\u00f3n hormonal de emergencia (AHE). Explican que tuvieron relaciones sexuales y \u201cel \npreservativo se qued\u00f3 adentro\u201d. Tambi\u00e9n cuentan que les pas\u00f3 alguna otra vez y que ya usaron la AHE. \n\u00bfCu\u00e1l es la respuesta adecuada desde la guardia? \nA. indicar que regresen con persona adulta de referencia, debido a que por su edad no \nse les pueden suministrar ahe directamente \nB. proveer la ahe a la adolescente debido a que tiene autonom\u00eda suficiente para uso \nde esta medicaci\u00f3n, no pone en riesgo grave su salud \nC. explicar que esa medicaci\u00f3n no se provee a menores por guardia, deben solicitar \nturno en consultorio de adolescencia \nD. explicarles que no se le da medicaci\u00f3n ya que fue suministrada a la adolescente en \notros momentos que ocasiona alteraciones graves del ciclo menstrual18  \nB ",
@@ -8959,6 +9054,16 @@
                 "explication": "Respuesta elegida \"D'' : como segue con la lactancia, es un metodo natural de anticonpci\u00f3n por amenorrea, adem\u00e1s se poderia plantear el uso de ACO con progest\u00e1genos, dejando libre elecci\u00f3n entre la pareja. \nRepuesta ''correcta''  C: La colocaci\u00f3n del DIU esta contraindicado entre 48h y cuatro semanas posparto. Hay evidencias de aumento del \u00edndice de expulcion ",
                 "bibliography": "REM MSAL 2020, Pagina 2500; o REM MSAL 2021, Pagina 2812 o pagina 2654",
                 "id": "dbfacb75-8238-4438-b271-836099e03de5"
+            },
+            {
+                "date": "2025-06-10 14:49:59",
+                "name": "Daniel Baez",
+                "email": "Danielbaez3869@gmail.com",
+                "year": 2021,
+                "index": 32,
+                "explication": "La decisi\u00f3n de utilizar MAC es exclusiva de la persona con capacidad de gestar, NO se le recomienda \u201cdecidirlo en pareja\u201d.\nLa respuesta C es la m\u00e1s adecuada:  \u201cEl DIUPP permite a las mujeres o PCG abandonar el establecimiento con un\nm\u00e9todo anticonceptivo seguro y extremadamente efectivo, de acci\u00f3n prolongada y reversible.\u201d",
+                "bibliography": "Gu\u00eda de Anticoncepci\u00f3n inmediata Post Evento Obst\u00e9trico, p\u00e1gina 40 (BIBLIOGRAF\u00cdA OFICIAL) ",
+                "id": "86e6c367-cc8c-4b70-8977-5c5b9bfba520"
             }
         ]
     },
@@ -9525,7 +9630,18 @@
         "answer": "b",
         "index": 60,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-03-26 12:48:23",
+                "name": "Fernando Benitez",
+                "email": "fbenitezvelez@gmail.com",
+                "year": 2021,
+                "index": 60,
+                "explication": "Personas de 65 a\u00f1os y m\u00e1s:\nLa VCN13 y VCN23 han sido reemplazadas en el esquema actual por la VCN20.\nEl esquema de vacunaci\u00f3n es de 1 (una) dosis de VCN20.*\n*Para las personas con antecedentes de vacunaci\u00f3n antineumoc\u00f3cica previa, se debe evaluar la continuidad de esquema, seg\u00fan la dosis y vacuna recibida previamente, como tambi\u00e9n la edad y antecedentes m\u00e9dicos. Ver Tabla 2 de los lineamientos t\u00e9cnicos de VCN20.\n\nLas personas con enfermedades cr\u00f3nicas con riesgo aumentado de enfermedad neumoc\u00f3cica invasiva que se aplicaron VCN13 previamente, pueden recibir como esquema alternativo la vacuna VPN23 (vacuna antineumoc\u00f3cica polisac\u00e1rida 23 valente) si estuviera disponible. Se recomienda idealmente continuar esquema con VCN20 en personas con inmunocompromiso y mayores de 65 a\u00f1os.",
+                "bibliography": "https://www.argentina.gob.ar/salud/vacunas/neumococo",
+                "id": "2a7f6e23-9f8f-466d-a3bf-ef06b4dcddfc"
+            }
+        ]
     },
     {
         "question_complete": "\n61) Pregunta: \nConsulta en guardia, Sebasti\u00e1n de 35 a\u00f1os por lumbalgia de 5 semanas de evoluci\u00f3n. Refiere que \nel dolor es en la zona lumbar baja a predominio derecho sin irradiaci\u00f3n a miembros inferiores. \n\u00bfCu\u00e1l de las siguientes se considera \u201cbandera roja\u201d para tomar una conducta?} \nA. uso cronico de estatinas \nB. uso cronico de cannabinoides \nC. antecedentes de fliares con cancer \nD. trauma reciente \nD ",
@@ -11915,7 +12031,18 @@
         "answer": "a",
         "index": 75,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-04-18 18:17:23",
+                "name": "I\u00f1aki Turri",
+                "email": "akiturri@gmail.com",
+                "year": 2020,
+                "index": 75,
+                "explication": "Hoy en dia segun el algoritmo de diagnostico a\u00f1o 2025 la correcta seria la B. Con menos de 50 copias no es necesario dar AZT intraparto mientras que podria darse post parto. \n ",
+                "bibliography": "Algoritmos de diagn\u00f3stico y tratamiento para el control de las infecciones perinatales por VIH, s\u00edfilis, hepatitis B y Chagas (Edici\u00f3n 2025)",
+                "id": "18af5838-09fa-487a-8b6b-0544d4855c12"
+            }
+        ]
     },
     {
         "question_complete": "\n76) Pregunta: \u00bfCu\u00e1l es la conducta m\u00e1s adecuada con una mujer de 25 a\u00f1os, asintom\u00e1tica, que cursa \nembarazo de 15 semanas y trae urocultivo que informa E. coli mayor a 10\u02c45 UFC/ml?  \nA) Indicar tratamiento ambulatorio con cefalexina 500mg cada 6 hs por via oral durante 7 d\u00edas. \nB) Indicar internacion y tratamiento con ceftriaxona 1g EV cada 24 hs durante 10 d\u00edas. \nC) Indicar la repetici\u00f3n del urocultivo y nuevo control ambulatorio. \nD) Indicar tratamiento ambulatorio con cefalexina 500mg cada 6 hs por via oral durante 7 dias y \nsolicutar urocultivo control. \n",
@@ -12281,7 +12408,18 @@
         "answer": "c",
         "index": 92,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-04-20 14:22:05",
+                "name": "",
+                "email": "",
+                "year": 2020,
+                "index": 92,
+                "explication": "Desde 2025 se incorpora la aplicaci\u00f3n de la vacuna para VSR en embarazadas, recomendando la aplicaci\u00f3n entre  las semanas 32 y 36+6 de embarazo.",
+                "bibliography": "https://www.argentina.gob.ar/sites/default/files/2026-03-10_calendario_nacional_vacunacion_70x50_web.pdf",
+                "id": "11420cf1-5168-47a7-b3f4-2194da4fbd80"
+            }
+        ]
     },
     {
         "question_complete": "\n93) Pregunta: \u00bfCu\u00e1l es la utilidad del m\u00e9todo de investigaci\u00f3n doble ciego?  \nA) Evitar el sesgo del sujeto y el observador. \nB) Evitar errores aleatorios. \nC) Permitir que dos investigadores analicen el mismo fenomeno. \nD) Evitar errores de apreciacion. \n",
@@ -12854,7 +12992,28 @@
         "answer": "a",
         "index": 21,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-01-14 16:49:21",
+                "name": "Sebastian M",
+                "email": "",
+                "year": 2019,
+                "index": 21,
+                "explication": "Los ni\u00f1os nacidos hasta el 30 de junio de 2024, completar\u00e1n esquema con la segunda dosis a los 5 a\u00f1os.\nLos nacidos desde el 1\u00b0 de julio de 2024 completar\u00e1n su esquema segunda dosis a los 18 meses de edad y no recibir\u00e1n la vacuna a los 5 a\u00f1os.",
+                "bibliography": "https://buenosaires.gob.ar/esquema-de-vacunacion-por-patologias/vacuna-contra-el-sarampion",
+                "id": "5bf29ebc-33fb-4a1e-92e7-3a39cb333754"
+            },
+            {
+                "date": "2026-03-18 11:19:39",
+                "name": "",
+                "email": "",
+                "year": 2019,
+                "index": 21,
+                "explication": "No hay respuesta correcta porque a partir de Enero de 2026 el esquema para la vacuna Triple viral es: 1\u00b0 dosis a los 12 meses, 2\u00b0 dosis entre 15-18 meses.",
+                "bibliography": "https://www.argentina.gob.ar/sites/default/files/2025-12-19-calendario_nacional_vacunacion_0.pdf",
+                "id": "2379f5e6-321f-40ca-ab5b-f1083c832a47"
+            }
+        ]
     },
     {
         "question_complete": "\n22)  Paciente  var\u00f3n  de  62  a\u00f1os  sin  antecedentes  personales  ni  familiares  de  importancia  consulta  por \nastenia  progresiva,  que  no  limita  sus  actividades  diarias.  A  la  inspecci\u00f3n  se  observa  p\u00e1lido.  Trae  dos \nex\u00e1menes  de  laboratorio:  el  de  un  a\u00f1o  atr\u00e1s  muestra  un  hemograma  normal;  el  realizado  una  semana \natr\u00e1s  muestra  anemia  microc\u00edtica  hipocr\u00f3mica.  Ante  este  hallazgo  \u00bfCu\u00e1l  considera  usted  es  la  conducta \nm\u00e1s apropiada? \n a) Iniciar reposici\u00f3n oral de hierro y control en un mes con nuevo examen de laboratorio. \n b) Iniciar tratamiento con vitaminas del complejo B y control en un mes con nuevo examen de laboratorio. \n c) Realizar endoscopia digestiva alta y baja. \n d) Realizar tomograf\u00eda axial computada de t\u00f3rax abdomen y pelvis. ",
@@ -13438,7 +13597,18 @@
         "answer": "a",
         "index": 50,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-11 16:40:27",
+                "name": "Abril Gianotti",
+                "email": "abril.gianotti@hotmail.com",
+                "year": 2019,
+                "index": 50,
+                "explication": "El Hantavirus se trata de una zoonosis viral. Se transmite a traves del raton colilargo, mediante la inhalacion de excretas aerolizadas, saliva u orina, el contacto directo con los mismos, o por contacto interhumano. Este habita mayoritariamente la precordillera patagonica.\nLa clinica tiene distintas fases:\n- Fase prodromica:\nFiebre, tos seca, astenia, mialgias, cefalea, TGI, en ni\u00f1os puede simular un abdomen agudo.\nTrombocitopenia, leucocitosis con neutrofilia, inmunoblastos (>10% linfocitos)\nRx Torax normal o inespecifico.\n\n- Fase cardiopulmonar:\nTos no productiva, taquipnea, disnea, Rales crepitantes.\nEntre 4 a 24hs: extravasacion de plasma --> hemoconcentracion, shock hipovolemico, depresion grave miocardica, manifestaciones hemorragicas y neurologicas, muerte.\nRxTx: edema intersticial bilateral, edema pulmonar no cardiogenico, derrame pleural, se normaliza de 4 a 10 dias. Es una neumonia grave de la comunidad con parametros de SDRA (PAFI <200).\n\n-Fase diuretica:\nEstabilizacion hemodinamica y respiratoria, reabsorcion edema pulmonar, eliminacion rapida de liquidos, resolucion de la fiebre y shock.\n\n- Fase de convalescencia: hasta 2 meses. trastornos visuales, hipoacusia, bradipsiquia, astenia, miocarditis.\n",
+                "bibliography": "",
+                "id": "057387d0-dcd7-47bf-96d4-02e379317b7f"
+            }
+        ]
     },
     {
         "question_complete": "\n51) EI porcentaje m\u00e1s alto de apendicetom\u00edas negativas ocurre en mujeres j\u00f3venes, con cifras que oscilan \nentre 32 y 45 %. En este contexto, \u00bfcu\u00e1les son los diagn\u00f3sticos diferenciales m\u00e1s frecuentes? \n a) Enfermedad inflamatoria intestinal, enfermedad inflamatoria pelviana, c\u00e1ncer de ciego. \n b) Embarazo ect\u00f3pico, enfermedad inflamatoria pelviana y patolog\u00eda anexial. \n c) Patolog\u00eda pleuropulmonar, enfermedad inflamatoria pelviana y pielonefritis. \n d) Embarazo ect\u00f3pico, tiflitis y \u00falcera duodenal perforada. ",
@@ -14367,7 +14537,18 @@
         "answer": "a",
         "index": 96,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2025-06-10 21:20:47",
+                "name": "Abril Gianotti",
+                "email": "abril.gianotti@hotmail.com",
+                "year": 2019,
+                "index": 96,
+                "explication": "El rastreo en personas sin alto riesgo (colitis ulcerosa/enf de crohn) y sin antecedentes personales o familiares, se realiza mediante sangre oculta en materia fecal inmunohistoquimico, a hombres y mujeres entre 50 y 75 a\u00f1os, de manera anual.",
+                "bibliography": "",
+                "id": "84c93c81-0297-4cdf-8d1f-5cf6a4245ac8"
+            }
+        ]
     },
     {
         "question_complete": "\n97) Un equipo de salud de una maternidad toma conocimiento de que una mujer tiene serolog\u00eda positiva \npara VIH y que su marido no lo sabe. La pareja de la mujer intercepta a uno de los m\u00e9dicos en el pasillo \ndiciendo que escuch\u00f3 que ella que no puede amamantar al ni\u00f1o. Al escuchar esto, el marido pregunta cu\u00e1l \nes la causa de dicha indicaci\u00f3n. Seg\u00fan la ley N\u00ba 26.529 de \"Derechos del Paciente en su Relaci\u00f3n con los \nProfesionales  e  Instituciones  de  la  Salud\",  \u00bfQu\u00e9  deber\u00eda  hacer  el  equipo  de  salud  ante  la  pregunta  del \nmarido? \n a)  Explicar  en  forma  clara  y  precisa  que  el  VIH  se  transmite  por  fluidos  corporales  a  trav\u00e9s  de  la  leche \nmaterna. \n b) Evadir la pregunta y al encontrar sola a la mujer informarle que debe comunicarle al marido la situaci\u00f3n. \n c) Resguardar la intimidad de la mujer, manifestando que no puede responder a la pregunta del marido. \n d)  Informar  la  serolog\u00eda  de  la  mujer  y  brindarle  pautas  de  cuidado,  bas\u00e1ndose  en  el  imperativo  sanitario \npreventivo.\n",
@@ -15439,6 +15620,16 @@
                 "explication": "Si bien es cierto que la elevaci\u00f3n del ST es t\u00edpica del IAM, tambi\u00e9n puede aparecer en pericarditis. Ese registro aislado del segmento ST, sin contexto cl\u00ednico y sin el resto del ECG para referencia, en mi opini\u00f3n, deja la pregunta susceptible de impugnaci\u00f3n.",
                 "bibliography": "",
                 "id": "d1e59ffc-5e3c-46b0-b496-be5f11304e43"
+            },
+            {
+                "date": "2025-06-12 18:30:28",
+                "name": "Abril Gianotti",
+                "email": "abril.gianotti@hotmail.com",
+                "year": 2018,
+                "index": 49,
+                "explication": "El supraST correspondiente a un IAM es mas convexo, y forma una especie de \"meseta\". En cambio el supraST de la pericarditis es c\u00f3ncavo hacia arriba y suele ir acompa\u00f1ado por una depresi\u00f3n del segmento P-R.",
+                "bibliography": "",
+                "id": "c7a88b30-b28b-4d66-88a5-fa90d19e74b8"
             }
         ]
     },
@@ -15459,7 +15650,18 @@
         "answer": "d",
         "index": 50,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-04-02 20:40:11",
+                "name": "Clementz",
+                "email": "gabyclementz@yahoo.com.ar",
+                "year": 2018,
+                "index": 50,
+                "explication": "No est\u00e1 la vacuna Sabin en calendario",
+                "bibliography": "Ver lineamientos Nacionales 2020",
+                "id": "bb8504c1-9481-46ab-99df-fc11464d9287"
+            }
+        ]
     },
     {
         "question_complete": "\n51)  \u00bfCu\u00e1l  de  los  siguientes  ex\u00e1menes  complementarios  solicita  a  un  paciente  de  30  a\u00f1os  de  edad  que \ncomenz\u00f3 recientemente con registros de tensi\u00f3n arterial de 170/90 y 160/90 mmHg, asociados a cefalea, \npalpitaciones y discreta p\u00e9rdida de peso en los \u00faltimos dos meses? \n a) Cortisol en orina 24 horas. \n b) Tomograf\u00eda abdominal. \n c) Catecolaminas en orina 24horas. \n d) Actividad de la renina plasm\u00e1tica. ",
@@ -16521,7 +16723,18 @@
         "answer": "b",
         "index": 3,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-02-06 18:24:29",
+                "name": "VSG",
+                "email": "victoriasolg98@gmail.com",
+                "year": 2017,
+                "index": 3,
+                "explication": "En aquellas personas gestantes que presenten cifras tensionales de TAS 150-159 mmHg y TAD de 100-109 mmHg, persistiendo luego del reposo (de 2 a 4 horas) y de la reevaluaci\u00f3n de la TA en intervalos constantes (recomendado cada 30 minutos), se sugiere iniciar un tratamiento antihipertensivo por v\u00eda oral (VO). Se sugiere citar para pr\u00f3ximo control en 48-72 hs, en el cual se evaluar\u00e1 la respuesta a la terap\u00e9utica indicada y, de ser necesario, reajustar la medicaci\u00f3n (dosis o intervalos entre las mismas). De eleccion: labetalol\nNo se hace maduracion pulmonar porque no hay riesgo de parto inminente.",
+                "bibliography": "https://www.argentina.gob.ar/sites/default/files/salud-guia-practica-clinica-nacional-hta-2024.pdf",
+                "id": "2bca4277-79ba-4a21-baf2-2b7b271f4841"
+            }
+        ]
     },
     {
         "question_complete": "\n4. \u00bfCu\u00e1l de las siguientes modalidades de tratamiento preventivo con aerosoles con budesonide es\nla m\u00e1s adecuada para un ni\u00f1o de dos a\u00f1os con broncopat\u00eda obstructiva recidivante (BOR) que\nestuvo internado en una oportunidad?\na. Inhalador de polvo seco m\u00e1s aeroc\u00e1mara.\nb. Inhalador de dosis medida (IDM) con aeroc\u00e1mara.\nc. Inhalador de dosis medida (IDM) con espaciador bucal.\nd. Inhalador de polvo seco.",
@@ -18837,6 +19050,16 @@
                 "explication": "Todo depende de donde lo leas, porque ambas gu\u00edas son bibliograf\u00eda oficial\n\nSegun la Gu\u00eda de Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2):\nPara establecer el diagn\u00f3stico de diabetes mellitus (DM) se requieren dos determinaciones con valores iguales o mayores al punto de corte diagn\u00f3stico ya sea de un\nmismo m\u00e9todo, ejemplo: dos GPA iguales o mayores a 126 mg/dl; o de 2 m\u00e9todos diferentes, ejemplo: una GPA igual o mayor a 126 mg/dl + una PTOG75 igual o mayor a 200 mg/dl.\n\nSegun el TRAPS. Se recomienda realizar PTOG en todas las personas que presenten:\n- Glucemia en ayunas entre 110mg/dl y 125mg/dl\n- Un factor de riesgo para desarrollar diabetes y que su glucemia en ayunas sea entre 100mg/dl y 109mg/dl30.",
                 "bibliography": "http://medicamentos.msal.gob.ar/images/2018/Serie%20RCVG%20Fasciculo%206%205_7.pdf\nGu\u00eda de Pr\u00e1ctica Cl\u00ednica Nacional sobre Prevenci\u00f3n, Diagn\u00f3stico y Tratamiento de la Diabetes Mellitus Tipo 2 (DM2)",
                 "id": "e91dce4d-8067-4556-a186-9c0a0711313d"
+            },
+            {
+                "date": "2026-03-27 23:51:15",
+                "name": "Carolina",
+                "email": "carolina.pmad95@gmail.com",
+                "year": 2016,
+                "index": 18,
+                "explication": "Ante una glucemia alterada en ayunas con valores entre 100 a 125 mg/dL se confirma solicitando PTOG75 (de forma preferencial). Si el valor de GAA fuese de 126 mg/dL o m\u00e1s, el diagn\u00f3stico se confirma solicitando otra GPA ",
+                "bibliography": "https://www.argentina.gob.ar/sites/default/files/bancos/2020-09/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_2019.pdf",
+                "id": "ec655780-d80f-48cb-b29d-790ffc49842e"
             }
         ]
     },
