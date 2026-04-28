@@ -6363,6 +6363,16 @@
                 "explication": "Calendario nacional de vacunaci\u00f3n 2023: 65 a\u00f1os o mas, antigripal, neumococo y doble bacteriana",
                 "bibliography": "https://www.argentina.gob.ar/sites/default/files/2024-03-infografia-calendario-vacunas.pdf",
                 "id": "0444e2bc-e786-4b40-9595-f57a679a0764"
+            },
+            {
+                "date": "2026-04-28 16:52:40",
+                "name": "Chini",
+                "email": "",
+                "year": 2022,
+                "index": 8,
+                "explication": "Las personas adultas de 65 a\u00f1os o m\u00e1s deben continuar con los refuerzos de vacunas ya aplicadas, completar esquemas y protegerse contra la gripe y el neumococo, principales causas de complicaciones en esta etapa de la vida.\n\nAntigripal: una dosis anual.\nNeumococo: El esquema de vacunaci\u00f3n es de 1 (una) dosis de VCN20.\nDoble bacteriana: iniciar o completar esquema de 3 dosis, luego continuar con una dosis de refuerzo cada 10 a\u00f1os",
+                "bibliography": "https://www.argentina.gob.ar/salud/vacunas/vacunacion-adultosmayores",
+                "id": "3ef2c571-85ea-44a6-99a4-6b8cfcac1749"
             }
         ]
     },
@@ -12071,6 +12081,16 @@
                 "explication": "Si el urocultivo ya muestra E. coli >10\u2075 UFC/ml en una paciente embarazada y asintom\u00e1tica, ya se cumple el criterio diagn\u00f3stico de bacteriuria asintom\u00e1tica.\nSeg\u00fan todas las gu\u00edas (OMS, CDC, UpToDate, AMR, NICE, ACOG), se debe iniciar tratamiento antibi\u00f3tico sin esperar una segunda muestra. ",
                 "bibliography": "OMS, CDC, UpToDate, AMR, NICE, ACOG",
                 "id": "e3d0c51f-8c73-4f82-bfd9-ed031947111f"
+            },
+            {
+                "date": "2026-04-26 20:08:56",
+                "name": "Carolina",
+                "email": "carolina.pmad95@gmail.com",
+                "year": 2020,
+                "index": 76,
+                "explication": "Respuesta correcta: A. En embarazadas asintom\u00e1ticas, el diagn\u00f3stico de BA se confirma con 2 urocultivos positivos consecutivos que desarrollen m\u00e1s de 10^5 UFC/ml del mismo germen, o una sola muestra tomada por cateterismo vesical que demuestre m\u00e1s de 10^2 UFC/ml de un \u00fanico germen",
+                "bibliography": "Gu\u00eda de control preconcepcional, prenatal y puerperal, Min de Salud 2013, p\u00e1g. 88 ",
+                "id": "ce9e568e-6617-4183-92ca-56488dc23091"
             }
         ]
     },
