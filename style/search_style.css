@@ -70,7 +70,7 @@ header {
 }
 
 .header-container {
-  padding: 0.7rem 1rem;
+  padding: 1rem 2rem;
   border-radius: 999px;
   background: rgba(248, 250, 252, 0.9);
   color: var(--foreground-dark);
@@ -88,7 +88,7 @@ header {
 
 .header-container img {
   max-width: 100%;
-  max-height: 4.5rem;
+  max-height: 5.5rem;
   padding: .2rem .5rem;
 }
 
@@ -600,7 +600,7 @@ input:checked + .slider::before {
   }
 
   .header-container img {
-    max-height: 2.8rem;
+    max-height: 3.8rem;
   }
 
   .hsmlp-ctn {

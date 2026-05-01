@@ -68,8 +68,9 @@ defineModal(document.getElementById('report-question-button'), document.getEleme
 // });
 // PARA QUE APAREZCA EL QUIZ MODAL AL INICIO
 defineModal(undefined, document.getElementById('initial-modal'), document.getElementById('initial-modal-ctn'), document.getElementById('close-initial-modal'))
+defineModal(undefined, document.getElementById('support-modal'), document.getElementById('support-modal-ctn'), document.getElementById('close-support-modal'))
 document.addEventListener('DOMContentLoaded', function() {
-  openModal(document.getElementById("initial-modal"))
+  openModal(document.getElementById("support-modal"))
 });
 
 // defineModal(document.getElementById('hsmlp-button'), document.getElementById('hsmlp-modal'), document.getElementById('hsmlp-ctn'), document.getElementById('close-hsmlp-modal'))
