@@ -4363,7 +4363,18 @@
         "answer": "b",
         "index": 16,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-05-03 01:38:32",
+                "name": "Jose",
+                "email": "jbonetto.09@gmail.com",
+                "year": 2023,
+                "index": 16,
+                "explication": "Pregunta trampa. Se busca un criterio alternativo al usar diur\u00e9ticos. Relaci\u00f3n de colesterol pleura/sangre es m\u00e1s eficaz que los de Light.\n\nColesterol pleural > 45 mg/dL \u2192 exudado\nRelaci\u00f3n colesterol pleural/suero > 0,3 \u2192 exudado\nAlb\u00famina s\u00e9rica \u2013 alb\u00famina pleural > 1,2 g/dL \u2192 transudado",
+                "bibliography": "https://www.archbronconeumol.org/en-colesterol-liquido-pleural-utilidad-diferenciacion-articulo-S0300289615310711",
+                "id": "62f2655a-25bc-4ba5-8be3-da88e262d6cb"
+            }
+        ]
     },
     {
         "question_complete": "17) Concurre una paciente de 54 a\u00f1os a control ginecol\u00f3gico, con el resultado de una mamograf\u00eda de \nBIRADS 3,  que realiz\u00f3 hace un mes.  La anterior, de hace dos a\u00f1os, ten\u00eda un informe de BIRADS 2. No \npresenta antecedentes personales ni familiares de relevancia. Ante este resultado, \u00bfcu\u00e1l es la \nrecomendaci\u00f3n? \n a) Indicar nueva mamograf\u00eda en 6 meses. \n b) Continuar con el cribado en forma habitual. \n c) Indicar nueva mamograf\u00eda en 1 a\u00f1o. \n d) Realizar interconsulta con patolog\u00eda mamaria.",
@@ -9123,7 +9134,18 @@
         "answer": "c",
         "index": 34,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-05-01 16:51:36",
+                "name": "Melanie Gastel\u00fa",
+                "email": "yhelli.gastelu@gmail.com",
+                "year": 2021,
+                "index": 34,
+                "explication": "ARTICULO 11\u00b0: Derecho al libre desarrollo personal. \nCriterios de acceso: \nTodas las personas mayores de dieciocho (18) a\u00f1os de edad podr\u00e1n, a fin de garantizar el goce de su salud integral, acceder a intervenciones quir\u00fargicas totales y parciales y/o tratamientos integrales hormonales para adecuar su cuerpo, incluida su genitalidad, a su identidad de g\u00e9nero autopercibida, sin necesidad de requerir autorizaci\u00f3n judicial o administrativa.\nPara el acceso a los tratamientos integrales hormonales, no ser\u00e1 necesario acreditar la voluntad en la intervenci\u00f3n quir\u00fargica de reasignaci\u00f3n genital total o parcial. En ambos casos se requerir\u00e1, \u00fanicamente, el consentimiento informado de la persona.\nPara las personas menores de 18 a\u00f1os de edad la solicitud deber\u00e1 ser efectuada a trav\u00e9s de sus representantes legales y con expresa conformidad del menor. Asimismo, la persona menor de edad deber\u00e1 contar con la asistencia del abogado del ni\u00f1o. Respecto de la intervenci\u00f3n quir\u00fargica total o parcial se deber\u00e1 contar, adem\u00e1s, con la conformidad de la autoridad judicial competente de cada jurisdicci\u00f3n, quien deber\u00e1 velar por los principios de capacidad progresiva e inter\u00e9s superior del ni\u00f1o o ni\u00f1a.La autoridad judicial deber\u00e1 expedirse en un plazo no mayor de sesenta (60) d\u00edas contados a partir de la solicitud de conformidad.\n",
+                "bibliography": "Ley 26743 - IDENTIDAD DE GENERO. DERECHO DE LAS PERSONAS. Sanci\u00f3n: 09-05-2012\nhttps://www.argentina.gob.ar/normativa/nacional/ley-26743-197860/texto",
+                "id": "ac6f437f-fce8-4ecf-af4d-67d4c6c4c9e1"
+            }
+        ]
     },
     {
         "question_complete": "\n35) Pregunta: \nConsulta a la guardia Sandra de 35 a\u00f1os por presentar fiebre elevada, n\u00e1useas y v\u00f3mitos. Se constata \ndolor abdominal bajo y secreci\u00f3n cervicovaginal purulenta. Tiene antecedente de dismenorrea, \nmenstruaciones irregulares y dispareunia. En el tacto vaginal manifiesta dolor en la exploraci\u00f3n bimanual. \nPor ecograf\u00eda corrobora el diagn\u00f3stico de enfermedad pelviana inflamatoria \u00bfQu\u00e9 tratamiento antibi\u00f3tico \nindica a la paciente? \nA. Ceftriaxona 500mg im \u00fanica + doxiciclina 100mg/12hs 14 d\u00edas + metronidazol 500 \nmg/12 hs durante 14 d\u00edas \nB. pipertazo 3g/8 hs por 7 d\u00edas + azitromicina 1g 3 d\u00edas + metronidazol 500 c/ 12h \ndurante 7 d\u00edas \nC. meropenem 3g 8h, 100 mg iniciales seguidos de 50-100 mg/12h + doxiciclina 100 \nmg/12 hs VO 14 d\u00edas \nD. ertapenem 1h/8 hs, aztreonam 2g/8h, metronidazol, 500mg/12h durante 14 d\u00edas  \nA ",
@@ -12101,6 +12123,16 @@
                 "explication": "Respuesta correcta: A. En embarazadas asintom\u00e1ticas, el diagn\u00f3stico de BA se confirma con 2 urocultivos positivos consecutivos que desarrollen m\u00e1s de 10^5 UFC/ml del mismo germen, o una sola muestra tomada por cateterismo vesical que demuestre m\u00e1s de 10^2 UFC/ml de un \u00fanico germen",
                 "bibliography": "Gu\u00eda de control preconcepcional, prenatal y puerperal, Min de Salud 2013, p\u00e1g. 88 ",
                 "id": "ce9e568e-6617-4183-92ca-56488dc23091"
+            },
+            {
+                "date": "2026-05-05 09:57:13",
+                "name": "Lisandro Lanati",
+                "email": "lislanati111@gmail.com",
+                "year": 2020,
+                "index": 76,
+                "explication": "La respuesta correcta es la opcion \"D\". Ya viene con el urocultivo positivo tenes que tratar y hacer un urocultivo control a la semana de terminar tratamiento por la alta tasa de recidivas.",
+                "bibliography": "https://www.elsevier.es/es-revista-enfermedades-infecciosasmicrobiologia-clinica-28-articulo-infeccion-del-tracto-urinarioembarazada-13091447 ",
+                "id": "a6d6067a-c7f4-4dff-9c2c-1390616acfb2"
             }
         ]
     },
@@ -17965,7 +17997,18 @@
         "answer": "c",
         "index": 61,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-05-01 17:14:49",
+                "name": "Melanie ",
+                "email": "yhelli.gastelu@gmail.com",
+                "year": 2017,
+                "index": 61,
+                "explication": "Internaci\u00f3n involuntaria:\nDebe concebirse como recurso terap\u00e9utico excepcional en caso de que no sean posibles los abordajes ambulatorios\nS\u00f3lo podr\u00e1 realizarse cuando a criterio del equipo de salud mediare situaci\u00f3n de riesgo cierto e inminente para s\u00ed o para terceros.\nEl alta, externaci\u00f3n o permisos de salida son facultad del equipo de salud que no requiere autorizaci\u00f3n del juez. \n",
+                "bibliography": "Ley 26.657: Salud Mental\nARTICULO 14\u00b0 a 29\u00b0: Sobre las Internaciones\n",
+                "id": "014cce04-0276-4dec-b2fc-0e2da17b71c2"
+            }
+        ]
     },
     {
         "question_complete": "\n62. \u00bfCu\u00e1l es la conducta m\u00e1s adecuada, luego de las medidas de estabilizaci\u00f3n iniciales, para una\nni\u00f1a de 7 a\u00f1os que ingresa la guardia luego de un accidente automovil\u00edstico en la ruta y que se\nencuentra irritable con trastornos del sensorio, y ha presentado durante el traslado episodio\ncompulsivo y v\u00f3mitos?\na. Realizar radiograf\u00eda de cr\u00e1neo y dejar en observaci\u00f3n por 12 horas.\nb. Realizar tomograf\u00eda axial computada (TAC) del cerebro y deja de observaci\u00f3n 24 horas.\nc. Realizar radiograf\u00eda de cr\u00e1neo y si es normal dar de alta con cita en una semana.\nd. Realizar TAC de cerebro y referir al neurocirujano infantil.",
@@ -19520,7 +19563,18 @@
         "answer": "b",
         "index": 40,
         "image": "",
-        "discussion": []
+        "discussion": [
+            {
+                "date": "2026-05-01 17:18:46",
+                "name": "Melanie G.",
+                "email": "yhelli.gastelu@gmail.com",
+                "year": 2016,
+                "index": 40,
+                "explication": "Internaci\u00f3n involuntaria:\nPara que proceda la internaci\u00f3n involuntaria, adem\u00e1s de los requisitos comunes a toda internaci\u00f3n, debe hacerse constar:\na) Dictamen profesional del servicio asistencial que realice la internaci\u00f3n. Se debe determinar la situaci\u00f3n de riesgo cierto e inminente a que hace referencia el primer p\u00e1rrafo de este art\u00edculo, con la firma de dos profesionales de diferentes disciplinas, que no tengan relaci\u00f3n de parentesco, amistad o v\u00ednculos econ\u00f3micos con la persona, uno de los cuales deber\u00e1 ser psic\u00f3logo o m\u00e9dico psiquiatra;\nb) Ausencia de otra alternativa eficaz para su tratamiento;\nc) Informe acerca de las instancias previas implementadas si las hubiera.\nLa internaci\u00f3n involuntaria debidamente fundada debe notificarse obligatoriamente en un plazo de DIEZ (10) horas al juez competente y al \u00f3rgano de revisi\u00f3n, debiendo agregarse a las CUARENTA Y OCHO (48) horas como m\u00e1ximo todas las constancias previstas en el art\u00edculo 20. \n",
+                "bibliography": "Ley 26.657: Salud Mental\nARTICULO 14\u00b0 a 29\u00b0: Sobre las Internaciones\n",
+                "id": "baa37735-65b8-4836-8fc4-f82bf077d0bb"
+            }
+        ]
     },
     {
         "question_complete": "\n41) \u00bfCu\u00e1l de las siguientes es la raz\u00f3n por la cual se recomienda consumir pescado al menos dos veces por \nsemana? \n a)  Tiene  alto  contenido  de  \u00e1cidos  omega  3,  lo  cual  favorece  al  aumento  de  colesterol  LDL,  y  disminuye  los \ntriglic\u00e9ridos (TG). \n b)  Tiene  alto  contenido  de  \u00e1cidos  omega  3,  lo  cual  favorece  al  aumento  de  colesterol  HDL,  y  disminuye  los \ntriglic\u00e9ridos(TG). \n c) Tiene alto contenido de prote\u00ednas, grasas saturadas y omega 3 que favorece el aumento de colesterol HDL, y \ndisminuye los triglic\u00e9ridos (TG). \n d) Tiene alto contenido de prote\u00ednas de alto valor biol\u00f3gico y \u00e1cidos omega 3 lo cual favorece al aumento de \ncolesterol LDL, y disminuye los triglic\u00e9ridos (TG).\n",
